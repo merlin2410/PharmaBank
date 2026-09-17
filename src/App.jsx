@@ -11,7 +11,7 @@ function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false); // For mobile toggle
 
   useEffect(() => {
-    fetch('/data/master_question_bank.json')
+    fetch(`${import.meta.env.BASE_URL}data/master_question_bank.json`)
       .then(res => res.json())
       .then(data => {
         setAllQuestions(data);
