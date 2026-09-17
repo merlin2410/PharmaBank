@@ -1,0 +1,756 @@
+{
+  "exam_title": "gpat-question-paper-2001",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Starting material for the synthesis of L-Thyroxine is",
+      "options": {
+        "A": "2-amino-5-chloro-acetophenone",
+        "B": "Phenyl alanine",
+        "C": "2-amino-5-chloro-benzophenone",
+        "D": "L-tyrosine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "L-Thyroxine is biologically synthesized from the amino acid L-tyrosine via iodination and coupling.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 2,
+      "question_text": "One of the following antianxiety agent is an azaspirodecanedione derivative.",
+      "options": {
+        "A": "Lorazepam",
+        "B": "Cycloheptadiene",
+        "C": "Meprobamate",
+        "D": "Buspirone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Buspirone belongs to the azapirone class and contains an azaspirodecanedione ring structure.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Include the following drug under proper classification. NIFEDIPINE",
+      "options": {
+        "A": "Quinoline derivative",
+        "B": "Aryl piperidine",
+        "C": "Isoquinoline derivative",
+        "D": "Pyridine derivative"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nifedipine is a 1,4-dihydropyridine calcium channel blocker containing a pyridine core.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Acetazolamide can be synthesized from on of the following intermediates.",
+      "options": {
+        "A": "5-amino-2-mercapto-1, 3-thiazole",
+        "B": "5-amino-2-mercapto-1, 3, 4-thiadiazole",
+        "C": "5-amino-2-mercapto-1, 2, 3-thiadiazole",
+        "D": "5-amino-2-mercapto-1, 3, 4-tetrazole"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Acetazolamide is synthesized using 2-amino-5-mercapto-1,3,4-thiadiazole as a core intermediate.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Choose the correct trichomes of Digitalis purpurea",
+      "options": {
+        "A": "Numerous covering trichomes and a few glandular trichomes",
+        "B": "Few covering trichomes",
+        "C": "Few glandular trichomes and few covering trichomes",
+        "D": "Few glandular trichomes"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitalis purpurea leaves characteristically possess numerous blunt-pointed covering trichomes and very few glandular ones.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 6,
+      "question_text": "PANAXADIOL is a constituent of",
+      "options": {
+        "A": "Ginger",
+        "B": "Jatamansi",
+        "C": "Ginseng",
+        "D": "Pepper"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Panaxadiol is a characteristic sapogenin found in Ginseng (Panax species).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 7,
+      "question_text": "The plant hormone which shows specific effect on the cell division is",
+      "options": {
+        "A": "Auxins",
+        "B": "Abscisic Acid",
+        "C": "Cytokinins",
+        "D": "Ethylene"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cytokinins are a class of plant hormones that promote cell division (cytokinesis) in plant roots and shoots.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 8,
+      "question_text": "One of the following condition is maintained in programmed temperature gas chromatography",
+      "options": {
+        "A": "Temperature of the whole column is raised during analysis",
+        "B": "Temperature at the sample injection system is raised",
+        "C": "Temperature at the detector is gradually raised",
+        "D": "Temperature at the recorder alone is raised"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In temperature-programmed gas chromatography, the column temperature is increased in a controlled manner during the run.",
+      "category": "General"
+    },
+    {
+      "question_number": 9,
+      "question_text": "A BOLOMETER consist of",
+      "options": {
+        "A": "Two metals welded together",
+        "B": "A thin blackened platinum strip in an evacuated vessel",
+        "C": "Deuterated triglycine sulphate",
+        "D": "Tungsten wire"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A bolometer is a thermal radiation detector typically consisting of a thin blackened metal strip whose resistance changes with temperature.",
+      "category": "General"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Choose the correct excipient for enhancing solubility in tablet manufacture.",
+      "options": {
+        "A": "PEG",
+        "B": "Microcrystalline cellulose",
+        "C": "Talc",
+        "D": "Lactose"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Polyethylene glycols (PEGs) are frequently used as solubilizing and wetting agents to enhance drug dissolution and solubility.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Two or more ions present together can be determined successfully by polarographevents if their half wave potentials overlap or interfere by",
+      "options": {
+        "A": "Titration",
+        "B": "Complexation",
+        "C": "Filtration",
+        "D": "Heating"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Complexing agents can shift half-wave potentials of metal ions in polarography, resolving overlapping waves.",
+      "category": "General"
+    },
+    {
+      "question_number": 12,
+      "question_text": "One of the following is selective SEROTONIN reuptake inhibitor",
+      "options": {
+        "A": "Desipramine",
+        "B": "Fluoxetine",
+        "C": "Buspropion",
+        "D": "Maprotiline"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fluoxetine is a well-known selective serotonin reuptake inhibitor (SSRI) used as an antidepressant.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Plasmodial resistance of CHLOROQUINE is due to",
+      "options": {
+        "A": "Induction of inactivating enzymes",
+        "B": "Change in receptor structure",
+        "C": "Increase in theactivity of DNA repair mechanism",
+        "D": "Decreased carrier-mediated drug transport"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chloroquine resistance in Plasmodium falciparum is primarily caused by mutations in the PfCRT transporter that decrease drug accumulation in the food vacuole.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 14,
+      "question_text": "One of the following actions of opioid analgesic is mediated via kappa receptors",
+      "options": {
+        "A": "Cerebral vascular dilation",
+        "B": "Euphoria",
+        "C": "Spinal analgesia",
+        "D": "Physical dependence"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Kappa opioid receptors are primarily responsible for mediating spinal analgesia and sedation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 15,
+      "question_text": "One of the following drugs has activity against Herpes simplex virus type I and is used topically. Systematic administration of the same results in bone marrow depression, hepatic dysfunction and nephrotoxicity.",
+      "options": {
+        "A": "Acyclovir",
+        "B": "Amantadine",
+        "C": "Vidarabine",
+        "D": "Idoxuridine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Idoxuridine is limited to topical ocular use for herpes simplex keratitis due to severe systemic toxicity including bone marrow suppression.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 16,
+      "question_text": "A woman has to be treated for upper respiratory tract infection. Six years back she was found hypersensitive to penicillin V. The cultures now reveal a strain of Streptococcus pneumonia that is sensitive to all of the following drugs. Which one would be the best choice for the patient",
+      "options": {
+        "A": "Amoxicillin",
+        "B": "Erythromycin",
+        "C": "Cefaclor",
+        "D": "Cyclacillin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Due to a penicillin allergy, beta-lactams like amoxicillin, cefaclor, and cyclacillin should be avoided, making erythromycin a safer macrolide alternative.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 17,
+      "question_text": "The units of measurement for conductance is",
+      "options": {
+        "A": "Ohms",
+        "B": "Amperes",
+        "C": "Mhos",
+        "D": "Milli volts"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Conductance is the reciprocal of resistance and is measured in mhos (Siemens).",
+      "category": "General"
+    },
+    {
+      "question_number": 18,
+      "question_text": "The shells of soft gelatin capsules made elastic or plastic like, by addition of",
+      "options": {
+        "A": "Sorbitol",
+        "B": "Povidone",
+        "C": "PEG",
+        "D": "HPMC"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Plasticizers such as sorbitol and glycerin are added to gelatin to impart flexibility and elasticity to soft gelatin capsule shells.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 19,
+      "question_text": "The rate of drug bioavailability is most rapid when the drug is formulated as a",
+      "options": {
+        "A": "Controlled release product",
+        "B": "Hard gelatin capsule",
+        "C": "Tablet",
+        "D": "Solution"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Solutions bypass the dissolution step entirely, leading to the fastest rate of drug absorption and bioavailability.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 20,
+      "question_text": "The loading dose of a drug is usually based on",
+      "options": {
+        "A": "Total body clearance of the drug",
+        "B": "Percentage of the drug bound to plasma proteins",
+        "C": "Fraction of drug excreted unchanged in urine",
+        "D": "Apparent volume of distribution and desired drug concentration in plasma"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Loading dose is calculated using the apparent volume of distribution ($V_d$) and the target peak plasma concentration.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Browne's tubes are most commonly used chemical indicator for",
+      "options": {
+        "A": "Ethylene oxide sterilization",
+        "B": "Radiation sterilization",
+        "C": "Heat process sterilization",
+        "D": "Filtration sterilization"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Browne's tubes contain a heat-sensitive color-changing chemical to monitor thermal sterilization processes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 22,
+      "question_text": "A specimen obtained from a patient's cerebrospinal fluid, cultured in specializedmedia for about five weeks showed the presence of bent rods and tested positive with Ziehl-Neelsen reagent. Identify the organism",
+      "options": {
+        "A": "Nesseria meningitides",
+        "B": "Mycobacterium tuberculosis",
+        "C": "Bacteroides fragilis",
+        "D": "Leptospira interrogans"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mycobacterium tuberculosis is acid-fast (positive Ziehl-Neelsen stain), slow-growing, and can cause tuberculous meningitis.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Staphylococcus aureus is used for the I.P. assay of",
+      "options": {
+        "A": "Doxycycline",
+        "B": "Bleomycin",
+        "C": "Kanamycin",
+        "D": "Carbenicillin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Staphylococcus aureus is commonly specified in pharmacopeial microbial assays for determining the potency of aminoglycosides like kanamycin.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 24,
+      "question_text": "State pharmacy council should have the following number of elected members",
+      "options": {
+        "A": "Six",
+        "B": "Nine",
+        "C": "Five",
+        "D": "Seven"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Pharmacy Act of India, a State Pharmacy Council consists of six members elected from among themselves by registered pharmacists.",
+      "category": "General"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Drug combination WARFARIN/VITAMIN-K results in a specific interaction. Identify.",
+      "options": {
+        "A": "Antagonistic",
+        "B": "Increased sedation",
+        "C": "No known interaction",
+        "D": "Harmful only in the presence of oxidizing agent"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vitamin K is the specific pharmacological antagonist to the anticoagulant warfarin, reversing its effects on clotting factors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 201,
+      "question_text": "In the glucuronidation reaction of OXAZEPAM-the functional group responsible is",
+      "options": {
+        "A": "OH",
+        "B": "COOH",
+        "C": "SH",
+        "D": "NH_2"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oxazepam undergoes phase II glucuronidation primarily via its aliphatic hydroxyl (-OH) group at the C3 position.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 202,
+      "question_text": "Benzhydryl bromide when treated with 2-dimethyl amino ethanol in presence of K_2CO_3 gives one of the following",
+      "options": {
+        "A": "2-diphenyl ethoxy-N, N-dimethyl ethylamine",
+        "B": "2-diphenyl methoxy-N, N-diethyl ethylamine",
+        "C": "2-diphenyl methoxy-N, N-dimethyl ethylamine",
+        "D": "2-diphenyl methoxy-N, N-diethyl methylamine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reaction of benzhydryl bromide with 2-(dimethylamino)ethanol yields diphenhydramine, which is 2-diphenylmethoxy-N,N-dimethylethylamine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 203,
+      "question_text": "Demeclocycline differs from Chlortetracycline only by",
+      "options": {
+        "A": "Absence of methyl group on C_6",
+        "B": "Absence of OH group on C_6",
+        "C": "Absence of dimethylamino group on C_4",
+        "D": "Absence of OH group on C_3"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Demeclocycline lacks the methyl group at the C6 position that is present in chlortetracycline.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 204,
+      "question_text": "Choose the IUPAC name for Carbamazepine",
+      "options": {
+        "A": "5[3-(dimethylamino)ethyl] 10-11 dihydro-5H dibenz[b, f]azepine",
+        "B": "5H dibenz[b, f] azepine-5-carboxamide",
+        "C": "5H dibenz[b, f] azenpine-5-acid chloride",
+        "D": "5[3-(dimethylamino)propyl]10-11 dihydro-5H dibenz[b,f]azenpine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carbamazepine is chemically 5H-dibenz[b,f]azepine-5-carboxamide.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 205,
+      "question_text": "Reserpine is derived from",
+      "options": {
+        "A": "Squalene",
+        "B": "Homoserine",
+        "C": "Tryptophan and tryptamine",
+        "D": "Asparagine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reserpine is an indole alkaloid derived biosynthetically from tryptophan (or tryptamine) and a secologanin terpene moiety.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 206,
+      "question_text": "An alkaloid from Atropa belladonna having the molecular formula $C_{17}H_{23}O_3N$ having \\alpha-D_22^0 when warmed with ethanolic alkaline solution is converted into",
+      "options": {
+        "A": "(-) Hyoscyamine",
+        "B": "(±) Hyoscyamine",
+        "C": "(+) Hyoscyamine",
+        "D": "(±) Hyoscine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Warming optically active (-) hyoscyamine with alkali easily causes racemization, yielding the racemic mixture (±) hyoscyamine (atropine).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 207,
+      "question_text": "Choose the appropriate description for Ergot",
+      "options": {
+        "A": "Loosely arranged or in small more or less agglutinated angular mass",
+        "B": "A pseudoparenchyma formed by the interwooving closely appressed compact septate hyphae",
+        "C": "The crystocarps have fallen out leaving corresponding oval perforations in the ramuli",
+        "D": "Colourless septate hyphae about one quarter the width of the cotton trichome and they become twisted together"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ergot (Claviceps purpurea) sclerotium is composed of a pseudoparenchymatous network of tightly packed fungal hyphae.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 208,
+      "question_text": "Characteristic bands observed in the IR spectra of alcohol result from",
+      "options": {
+        "A": "OH and CO stretching",
+        "B": "OH stretching",
+        "C": "CO stretching only",
+        "D": "CH bending only"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Alcohols exhibit characteristic infrared absorption bands due to O-H stretching (broad) and C-O stretching.",
+      "category": "General"
+    },
+    {
+      "question_number": 209,
+      "question_text": "Bulking agent used for parenteral preparation is",
+      "options": {
+        "A": "Sodium metabisulphide",
+        "B": "Benzyl alkohol",
+        "C": "Carbolic acid",
+        "D": "Sorbitol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sorbitol, mannitol, and lactose are commonly used as bulking agents (lyoprotectants) in freeze-dried parenteral preparations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 210,
+      "question_text": "Identify the correct non-flammable propellant",
+      "options": {
+        "A": "Trichloromonofluoromethane",
+        "B": "Dichloromonofluoromethane",
+        "C": "Dimethylether",
+        "D": "Difluoromethane"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chlorofluorocarbons like trichloromonofluoromethane (CFC-11) are non-flammable propellants used in aerosols.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 211,
+      "question_text": "Elastomer used in rubber stopper formulation is",
+      "options": {
+        "A": "Polybutadiene",
+        "B": "Butyl stearate",
+        "C": "Titanium dioxide",
+        "D": "Butylated hydroxyl toluene"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Polybutadiene and other synthetic rubbers (elastomers) form the base polymer matrix for pharmaceutical rubber closures.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 212,
+      "question_text": "Schedule D as per D & C Act is concerned with",
+      "options": {
+        "A": "List of drugs exempted from the provision of import of drugs",
+        "B": "Diseases or aliments which a drug may not purport to prevent or cure",
+        "C": "Requirements of factory premises",
+        "D": "List of prescription drugs"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule D of the Drugs and Cosmetics Act lists the classes of drugs that are exempted from certain provisions regarding import.",
+      "category": "General"
+    },
+    {
+      "question_number": 213,
+      "question_text": "Official method for the analysis of Ciprofloxacin is by",
+      "options": {
+        "A": "Potentiometry",
+        "B": "HPLC",
+        "C": "Gas Chromatography",
+        "D": "Non-aq. titration"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ciprofloxacin bulk drug is officially assayed using non-aqueous titration due to its basic amine groups.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 214,
+      "question_text": "The radiofrequency radiation is associated with",
+      "options": {
+        "A": "Light consisting of one colour only",
+        "B": "Nuclear Magnetic Resonance",
+        "C": "Mass Spectrometry",
+        "D": "ESR"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nuclear Magnetic Resonance (NMR) spectroscopy utilizes radiofrequency radiation to induce transitions between nuclear spin states.",
+      "category": "General"
+    },
+    {
+      "question_number": 215,
+      "question_text": "How many grams of drug should be used in preparing 500 ml of a 1:2500 solution",
+      "options": {
+        "A": "0.2",
+        "B": "0.02",
+        "C": "0.4",
+        "D": "1.25"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A 1:2500 solution means 1 g in 2500 mL, so for 500 mL, the amount is (1/2500) * 500 = 0.2 g.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 216,
+      "question_text": "The pyroelectric detector converts electromagnetic radiation into",
+      "options": {
+        "A": "Electrical Signal",
+        "B": "Fluoroscence",
+        "C": "Electrons",
+        "D": "Visible light"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyroelectric detectors absorb thermal infrared radiation and convert the resulting temperature change into an electrical signal.",
+      "category": "General"
+    },
+    {
+      "question_number": 217,
+      "question_text": "The mechanism of Digitalis is",
+      "options": {
+        "A": "Decreases intracellular Na concentration",
+        "B": "Inhibits Na-K ATPase",
+        "C": "Activated adenyl cyclase which produces c-AMP",
+        "D": "Decreased Release of Calcium from Sarcoplasmic reticulum"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitalis glycosides inhibit the Na+/K+-ATPase pump in myocardial cells, leading to increased intracellular calcium and enhanced contractility.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 218,
+      "question_text": "The mechanism of action for Dactinomycin is",
+      "options": {
+        "A": "Inhibits Topoisomerase II",
+        "B": "Cross links DNA",
+        "C": "Inhibits functions of microtubules",
+        "D": "Inhibits DNA Polymerase"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dactinomycin (actinomycin D) inserts itself between adjacent guanine-cytosine base pairs on DNA, inhibiting transcription and causing DNA strand breaks/cross-linking.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 219,
+      "question_text": "One of the drugs when coadministered with Terfenadine may lead to life threatening Cardiac dysrhythmia",
+      "options": {
+        "A": "Lomafloxacine",
+        "B": "Clofazimine",
+        "C": "Itraconazole",
+        "D": "Neomycin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "CYP3A4 inhibitors like itraconazole inhibit the metabolism of terfenadine, leading to toxic accumulation and fatal cardiac arrhythmias (Torsades de Pointes).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 220,
+      "question_text": "Adverse effects of one of the drug include amenorrhea, bone marrow depression gastrointestinal distress and haemorrhagic distress. Identify?",
+      "options": {
+        "A": "Cyclizine",
+        "B": "Piroxicam",
+        "C": "Cyclophosphamide",
+        "D": "Cimetidine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cyclophosphamide is an alkylating antineoplastic agent well-known for causing bone marrow suppression, amenorrhea, GI distress, and hemorrhagic cystitis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 221,
+      "question_text": "Varicella zoster is the causative organism for",
+      "options": {
+        "A": "Small Pox",
+        "B": "Dermatophytosis",
+        "C": "Herpes",
+        "D": "Infectious mononucleosis"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Varicella-zoster virus is the causative agent of chickenpox (varicella) and shingles (herpes zoster).",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 222,
+      "question_text": "One of the following is confirmed by diagnosis test",
+      "options": {
+        "A": "Hyperuricemia",
+        "B": "Cystic fibrosis",
+        "C": "Acute pancreatitis",
+        "D": "Hyperlipidemia"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The sweat chloride test is the standard diagnostic test specifically used to confirm cystic fibrosis.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 223,
+      "question_text": "The conversion of fructose 1,6-biphosphate to Glyceraldehyde-3-phosphate is catalysed by",
+      "options": {
+        "A": "Phosphoglycerate kinase",
+        "B": "Enolase",
+        "C": "Aldolase",
+        "D": "Triose phosphate isomerase"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aldolase catalyzes the cleavage of fructose-1,6-bisphosphate into dihydroxyacetone phosphate and glyceraldehyde-3-phosphate during glycolysis.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 224,
+      "question_text": "Morphine undergoes microsomal oxidation by",
+      "options": {
+        "A": "N-dealkylation",
+        "B": "Aromatic hydroxylation",
+        "C": "Oxidative deamination",
+        "D": "O-dealkylation"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Morphine undergoes hepatic microsomal N-demethylation (N-dealkylation) to form normorphine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 225,
+      "question_text": "SULFASALAZINE is a prodrug that is activated in the intestine by bacterial enzymes. The enzyme responsible is :",
+      "options": {
+        "A": "Azoreductase",
+        "B": "Choline esterase",
+        "C": "Glucuronyl transferase",
+        "D": "Amylase"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Colonic bacterial azoreductases cleave the azo bond of sulfasalazine to release 5-aminosalicylic acid and sulfapyridine.",
+      "category": "Pharmacology"
+    }
+  ]
+}

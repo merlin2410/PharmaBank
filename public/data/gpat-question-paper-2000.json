@@ -1,0 +1,756 @@
+{
+  "exam_title": "gpat-question-paper-2000",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "One of the substances is listed is used as muco adhesive",
+      "options": {
+        "A": "Acacia",
+        "B": "S.C.M.C",
+        "C": "Burnt sugar",
+        "D": "Saccharin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium carboxymethylcellulose (S.C.M.C) is widely used as a mucoadhesive agent in pharmaceutical formulations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 2,
+      "question_text": "In the preparation of multilayer tablets one of the substances listed is used to Hydrophilic matrix coating",
+      "options": {
+        "A": "C.M.C",
+        "B": "Shellac",
+        "C": "Stearyl alcohol",
+        "D": "Bees wax"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carboxymethylcellulose (C.M.C) can be used to form hydrophilic matrices in tablet coatings.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Choose the correct pH of the lachrymal fluid",
+      "options": {
+        "A": "8.0",
+        "B": "6.2",
+        "C": "7.4",
+        "D": "9.0"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Normal lachrymal fluid (tear fluid) has a physiological pH close to that of blood, approximately 7.4.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "The dip tube in an aerosol container is made from one of the following. Choose the correct one",
+      "options": {
+        "A": "Polypropylene",
+        "B": "Glass",
+        "C": "Stainless steel",
+        "D": "Aluminium"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Polypropylene and polyethylene are commonly used materials for aerosol dip tubes due to their chemical inertness and flexibility.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "The diameter of the mesh aperture in the I.P disintegration test apparatus is given below. Choose the correct size.",
+      "options": {
+        "A": "$2.00\\text{ mm}$",
+        "B": "$4.00\\text{ mm}$",
+        "C": "$1.00\\text{ mm}$",
+        "D": "$1.50\\text{ mm}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to the Indian Pharmacopoeia (I.P.), the wire mesh used in the disintegration apparatus typically has apertures of $2.0\\text{ mm}$ size.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Choose the correct source of radiation for N.M.R from the listed ones",
+      "options": {
+        "A": "Klystron oscillator",
+        "B": "Globar source",
+        "C": "Radio frequency oscillator",
+        "D": "Deuterium lamp"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nuclear Magnetic Resonance (NMR) spectroscopy operates in the radio frequency region, utilizing a radio frequency oscillator.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Choose the correct semi-rigid gel used for exculsion chromatography",
+      "options": {
+        "A": "Sephadex",
+        "B": "Gelatin",
+        "C": "Cellulose",
+        "D": "Alumina"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sephadex is a cross-linked dextran gel widely used as a stationary phase in size-exclusion chromatography.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "One of the following is measured in amperometric titration",
+      "options": {
+        "A": "Resistance",
+        "B": "Conductance",
+        "C": "Voltage",
+        "D": "Current"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amperometric titrations involve measuring the electric current resulting from an oxidation or reduction reaction as a function of titrant volume.",
+      "category": "General"
+    },
+    {
+      "question_number": 9,
+      "question_text": "The oil obtained from Cymbopogan flexuousus contains one of the following",
+      "options": {
+        "A": "Citral",
+        "B": "$\\alpha$-terpeniol",
+        "C": "$\\alpha$-pinene",
+        "D": "Neral"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cymbopogon flexuosus (lemongrass oil) is a rich source of citral.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Choose the correct key intermediate for the biosynthesis of $C_6-C_3$ units, which serves as a precursor for the biosynthesis of amino acid",
+      "options": {
+        "A": "Shikimic acid",
+        "B": "Pyruvic acid",
+        "C": "Dehydro quinic acid",
+        "D": "Mevalonic acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Shikimic acid is a crucial pathway intermediate leading to phenylpropanoids ($C_6-C_3$) and aromatic amino acids.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 11,
+      "question_text": "$\\beta$-phenyl-N-alkyl piperidine moiety is largely responsible for activity in one of the following. Choose the correct one",
+      "options": {
+        "A": "Buprenorphine",
+        "B": "Pethidine",
+        "C": "Cycloserine",
+        "D": "Amitryptiline"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pethidine (meperidine) contains a central 4-phenylpiperidine structure characteristic of many synthetic opioid analgesics.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Which one of the following is a Histamine $H^1$ receptor antagonist?",
+      "options": {
+        "A": "4-(5-H di benzo [a, d] cyclohepten-5-Ylidene)-1-methyl pyridine hydrochloride",
+        "B": "4-(5-H di benzo [a, d] cyclohepten-5-Ylidene)-1-methyl pyrimidine hydrochloride",
+        "C": "4-(5-H di benzo [a, d] cyclohepten-5-Ylidene)-1-methyl piperidine hydrochloride",
+        "D": "4-(5-H di benzo [a, d] cyclopentane-5-Ylidene)-1-methyl piperidine hydrochloride"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cyproheptadine contains a dibenzo-suberylidene fused ring system with a 1-methylpiperidine moiety, acting as an $H_1$ antagonist.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Dienoestrol is synthesised from",
+      "options": {
+        "A": "4-Hydroxy propiophenone",
+        "B": "4-amino acetophenone",
+        "C": "4-Chloro butyrophenone",
+        "D": "4-Bromo propiophenone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dienoestrol synthesis typically starts from 4-hydroxypropiophenone.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 14,
+      "question_text": "One of the following diuretics has a similar structure as that of antihypertensive agent diazoxide",
+      "options": {
+        "A": "Acetozlamide",
+        "B": "Chlorothiazide",
+        "C": "Spironolactone",
+        "D": "Furosemide"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chlorothiazide and other thiazide diuretics share a benzothiadiazine core, structurally and pharmacologically related to diazoxide.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Which one of the following is an antifungal polyene macrolide antibiotic with seven conjugated double bond, an internal ester, a free carboxyl group and a glycoside side chain with primary amino group",
+      "options": {
+        "A": "Streptomycin",
+        "B": "Echinocandins",
+        "C": "Rifamycin",
+        "D": "Amphotericin-B"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amphotericin B is a heptaene macrolide containing seven conjugated double bonds, a carboxyl group, and a mycosamine aminosugar moiety.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Choose the correct class IV anti-arrhythmic that is primarily indicated for the treatment of supra ventricular tachyarrhythmias",
+      "options": {
+        "A": "Mexiletine",
+        "B": "Diltiazem",
+        "C": "Nifedipine",
+        "D": "Propranolol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Class IV antiarrhythmics are calcium channel blockers like verapamil and diltiazem, used for supraventricular tachycardias.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 17,
+      "question_text": "One of the following antiviral agents exhibits the greatest selective toxicity for the invading virus",
+      "options": {
+        "A": "Amantadine",
+        "B": "Zidovudine",
+        "C": "Idoxuridine",
+        "D": "Acyclovir"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Acyclovir requires viral thymidine kinase for its initial phosphorylation, conferring high selective toxicity toward infected cells.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Choose the drug that often causes tachycardia when given in regular doses",
+      "options": {
+        "A": "Verapamil",
+        "B": "Guanethidine",
+        "C": "Propranolol",
+        "D": "Isosorbide dinitrate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vasodilators like isosorbide dinitrate lower blood pressure, eliciting a reflex tachycardia response.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Choose one appropriate therapeutic use for Imipramine",
+      "options": {
+        "A": "Insomnia",
+        "B": "Epilepsy",
+        "C": "Bed wetting in children",
+        "D": "Mania"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Imipramine, a tricyclic antidepressant, is clinically used for nocturnal enuresis (bed-wetting) in children.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 20,
+      "question_text": "The following prescription is given to the pharmacist by the physician to dispense: Calciferol solution $0.3$, Water to Q.S. $5.0\\text{ ml}$ send $25\\text{ ml}$. Final dosage from of this prescription will be",
+      "options": {
+        "A": "Solution",
+        "B": "Elixir",
+        "C": "Emulsion",
+        "D": "Suspension"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Calciferol (Vitamin D) is fat-soluble and does not dissolve completely in water without a co-solvent or emulsifying agent, forming a suspension.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Purpose of a combined drug regimen in tuberculosis is to",
+      "options": {
+        "A": "Delay the emergence of drug resistance",
+        "B": "Reduce the duration of active therapy",
+        "C": "Schedule the onset of therapy",
+        "D": "Promote a placebo effect on the patient"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Multi-drug regimens in tuberculosis are specifically designed to prevent or delay the rapid development of mycobacterial drug resistance.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 22,
+      "question_text": "The R-W coefficient test is used to evaluate",
+      "options": {
+        "A": "Antibiotic activity",
+        "B": "Sterility of packaging material",
+        "C": "Nature of organism in bacterial infection",
+        "D": "Bactericidal activity"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Rideal-Walker (R-W) coefficient evaluates the bactericidal efficacy of disinfectants relative to phenol.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Diclofenac tablet coated with cellulose acetate phthalate has been administered to a patient. Where do you except the drug to be released?",
+      "options": {
+        "A": "Stomach",
+        "B": "Oral cavity",
+        "C": "Small intestine",
+        "D": "Liver"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cellulose acetate phthalate is an enteric coating that remains insoluble in acidic gastric fluid and dissolves in the alkaline pH of the small intestine.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 24,
+      "question_text": "A microscopic examination of a culture isolate revealed spherical bodies with a smooth outline growing in long chains. Identify the micro organism",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Streptococcus pyogenes",
+        "C": "Rhizopus stolonifer",
+        "D": "Bacillus subtilis"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Streptococcus pyogenes typically appear as spherical cells (cocci) arranged in chains.",
+      "category": "General"
+    },
+    {
+      "question_number": 25,
+      "question_text": "An original license or renewed license to sell drugs remains valid upto",
+      "options": {
+        "A": "$31^{\\text{st}}$ March next year in which it is granted",
+        "B": "$30^{\\text{th}}$ June of the following year in which it is granted or renewed",
+        "C": "$31^{\\text{st}}$ January of the same year in which it is granted",
+        "D": "$31^{\\text{st}}$ December of the year following the year in which it is granted or renewed"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Drugs and Cosmetics Act, drug licenses generally remain valid until December 31st of the fifth year, but shorter statutory rules or specific renewals typically target December 31st of the following year depending on the exact rule context.",
+      "category": "General"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Taste sensation of some liquid oral formulation are given. Match the compatible flavour used in the formulation: 1. Salt, 2. Sour",
+      "options": {
+        "A": "1-B, 2-C",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Salt taste is typically masked with citrus or butterscotch, whereas sour tastes are masked with fruit flavors like wild cherry.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Excipients used in parenteral products are given. Match them: 1. Chelating agents, 2. Local anaesthetic",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-D, 2-A"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Disodium edetate is a chelating agent, and benzyl alcohol is commonly used as a local anesthetic/preservative in parenterals.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 28,
+      "question_text": "H.L.B values are given. Match them with correct surfactant: 1. $0-3$, 2. $4-6$",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HLB values of 0-3 correspond to antifoaming agents, and 4-6 correspond to W/O emulsifying agents.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Given below are the type of excipients. Match them with the examples: 1. Disintegrant, 2. Glidant",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-D, 2-A"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "P.V.P can act as a binder/disintegrant component, and talc is a well-known glidant.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Listed below are the Schedules to the Drugs and Cosmetics Act. Match them: 1. Schedule 'M', 2. Schedule 'O'",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule M pertains to Good Manufacturing Practices (requirements of factory premises), and Schedule O pertains to standards for disinfectant fluids.",
+      "category": "General"
+    },
+    {
+      "question_number": 31,
+      "question_text": "The following receptor are associated with drug mentioned. Match them: 1. $H_1$ receptor, 2. $5\\text{HT}_3$ receptor",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diphenhydramine is an $H_1$ receptor antagonist, and ondansetron is a $5\\text{HT}_3$ receptor antagonist.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Match the following drug with their receptor sub types: 1. Methadone, 2. Enkephanlins",
+      "options": {
+        "A": "1-A, 2-A",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methadone is an agonist at $\\mu$ receptors, while enkephalins act predominantly as agonists at $\\mu$, $\\delta$, and $\\kappa$ opioid receptors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Match the drug with their mechanism of action: 1. Mebendazole, 2. Ivermectin",
+      "options": {
+        "A": "1-D, 2-C",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mebendazole selectively inhibits microtubule synthesis in nematodes, and ivermectin intensifies GABA-mediated neurotransmission causing immobilization.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Match the following drugs for their mechanism of action: 1. Procainamide, 2. Verapamil",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Procainamide blocks sodium channels (Class IA antiarrhythmic), and verapamil blocks calcium channels (Class IV antiarrhythmic).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 35,
+      "question_text": "The metabolic reactions of drugs mentioned in A to D are given. Match them: 1. Nitro reduction, 2. Deamidation",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chloramphenicol undergoes nitro reduction, and lidocaine/other amides can undergo deamidation or similar hydrolysis steps.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Drugs given below have the characteristics mentioned in A to D. Match them: 1. Ibuprofen, 2. Acetaminophen",
+      "options": {
+        "A": "1-A, 2-C",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ibuprofen is classified as an aryl acetic/propionic acid derivative (here matched to aryl acetic acid), and acetaminophen acts via active metabolites.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 37,
+      "question_text": "The systematic names of the following drugs are given. Match them: 1. Tinidazole, 2. Fluphenazinedecanoate",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tinidazole corresponds chemically to 1-[2-(ethyl sulphonyl) propyl]-2-methyl-5-nitro imidazole, and fluphenazine decanoate corresponds to the phenothiazine derivative.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Match the heterocyclic system with the drug: 1. Aziridine, 2. Pteridine",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiotepa contains aziridine rings, and methotrexate contains a pteridine ring system.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Techniques mentioned in A to D used for the analysis of the following drugs: 1. Sulphamethoxazole I.P, 2. Piroxicam I.P",
+      "options": {
+        "A": "1-D, 2-B",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulphamethoxazole is typically assayed via non-aqueous titration, and piroxicam by HPLC.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Match the correct formula for: 1. Molar absorption coefficient, 2. Frequency",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Molar absorption coefficient can be expressed from Beer's law as $A/cl$, and frequency is given by $c/\\lambda$.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Match the values given with that of 1 and 2: 1. Potential of standard hydrogen electrode taken as, 2. Base peak in mass spectra",
+      "options": {
+        "A": "1-B, 2-A",
+        "B": "1-A, 2-B",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The standard hydrogen electrode potential is defined as Zero, and the base peak in mass spectrometry is assigned a relative abundance of 100.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 42,
+      "question_text": "In different samples of adulterated Atropa belladonna leaves, following unique characters are noted. Match with adulterants: 1. Idioblast observed, 2. Lamina is denser Needle shaped Crystals Anomocyticstomata, Palisade ratio 2-4",
+      "options": {
+        "A": "1-C, 2-B",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phytolacca americana and Solanum nigrum are common adulterants exhibiting distinct microscopic features like idioblasts or unique stomatal indices.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Digitalis cardenolides mentioned below are different hydroxy derivatives. Match them: 1. Gitoxigenin, 2. Digoxigenin",
+      "options": {
+        "A": "1-B, 2-D",
+        "B": "1-C, 2-D",
+        "C": "1-C, 2-A",
+        "D": "1-A, 2-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gitoxigenin and digoxigenin differ in the positioning of hydroxyl groups on the steroid nucleus, corresponding to $16\\beta$-hydroxy and $12\\beta$-hydroxy derivatives respectively.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Match the following Vitamins with their biochemical roles: 1. Riboflavin 2. Pyridoxal",
+      "options": {
+        "A": "Free radical scavenger",
+        "B": "As a coenzyme in redox reactions",
+        "C": "Essential in the synthesis of rhodopsin",
+        "D": "As a coenzyme for amino acid decarboxylases"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Riboflavin acts as a coenzyme in redox reactions (FAD/FMN) and Pyridoxal as a coenzyme for amino acid decarboxylases.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Match the diseases with their clinical tests: 1. Diabetes mellitus 2. Cystic fibrosis",
+      "options": {
+        "A": "Decrease in Haemoglobin levels",
+        "B": "Increase in blood sugar levels",
+        "C": "D.N.A diagnosis",
+        "D": "Decreased levels of TSH"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Diabetes mellitus is diagnosed via increased blood sugar levels, and cystic fibrosis can be diagnosed using DNA tests.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Match the correct pathways of the following: 1. Glyceraldehyde-3-Phosphate 2. Arachidonic acid",
+      "options": {
+        "A": "Cholesterol synthesis pathway",
+        "B": "Citric acid cycle",
+        "C": "Glycolysis",
+        "D": "Prostaglandin synthesis pathway"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Glyceraldehyde-3-Phosphate is an intermediate in glycolysis, while arachidonic acid is a precursor in the prostaglandin synthesis pathway.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Match the following terms with the definitions given: 1. Biological half life 2. Therapeutic index",
+      "options": {
+        "A": "Ratio of the median lethal dose to the median effective dose",
+        "B": "Dosage used in the treatment",
+        "C": "Elimination of the drug to $50\\%$ of its original concentration",
+        "D": "Time taken for a drug to be absorbed"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Biological half-life is the time required for the concentration of a drug to reach $50\\%$ of its original value. Therapeutic index is the ratio of LD50 to ED50.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Given below are two vaccines. Their compositions are mentioned. Match them: 1. B.C.G 2. Whooping cough",
+      "options": {
+        "A": "Living attenuated Mycobacterium tuberculosis",
+        "B": "Experimentally killed and freeze dried polio virus",
+        "C": "Antibodies obtained from the sera of tuberculosis patients",
+        "D": "Killed bordetella pertussis bacteria"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "BCG contains live attenuated Mycobacterium bovis/tuberculosis, and whooping cough vaccine contains killed Bordetella pertussis bacteria.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 49,
+      "question_text": "Match the following diseases with their causative organisms: 1. Helminthiasis 2. Jaundice",
+      "options": {
+        "A": "Plasmodium flaciparus",
+        "B": "Taenia sodium",
+        "C": "Hepatitis-A-Virus",
+        "D": "Toxoplasma gondii"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Helminthiasis is caused by helminthes such as Taenia (spelled Taenia sodium in options) and jaundice can be caused by Hepatitis-A-Virus.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Given below are the Schedules as per D and C act 1940. Match them with information to be given in the label: 1. Schedule H 2. Schedule G",
+      "options": {
+        "A": "For external use only",
+        "B": "For therapeutic use only",
+        "C": "Caution-It is dangerous to take this preparation except under medical supervision",
+        "D": "To be sold by retail on the prescription of a R.M.P. only"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Schedule H drugs are to be sold by prescription only, whereas Schedule G carries the caution statement for use under medical supervision.",
+      "category": "General"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "question_number": 70,
+    "question_text": "Permutit is the commercial name for:",
+    "options": {
+      "A": "Sodium calcium silicate",
+      "B": "Calcium aluminium silicate",
+      "C": "Sodium fluoro silicate",
+      "D": "Sodium aluminium silicate"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Permutit is synthetic hydrated sodium aluminium silicate used for water softening.",
+    "category": "Inorganic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 72,
+    "question_text": "Super oxides contain:",
+    "options": {
+      "A": "$\\text{O}_2^{2-}$ ions",
+      "B": "$\\text{O}_2^-$ ions",
+      "C": "$\\text{O}_2^{2-}$ ions",
+      "D": "$\\text{O}^-$ ions"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Superoxides contain the superoxide ion $\\text{O}_2^-$.",
+    "category": "Inorganic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 87,
+    "question_text": "Temporary hardness of water is due to the presence of:",
+    "options": {
+      "A": "Chlorides of $\\text{Ca}$ and $\\text{Mg}$",
+      "B": "Bicarbonates of $\\text{Ca}$ and $\\text{Mg}$",
+      "C": "Sulphates of $\\text{Ca}$ and $\\text{Mg}$",
+      "D": "Nitrates of $\\text{Ca}$ and $\\text{Mg}$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Temporary hardness is caused by dissolved bicarbonates of calcium and magnesium.",
+    "category": "Inorganic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 88,
+    "question_text": "A sulphide ore of Iron is:",
+    "options": {
+      "A": "Magnetite",
+      "B": "Haematite",
+      "C": "Limonite",
+      "D": "Iron pyrites"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Iron pyrites ($\\text{FeS}_2$) is an important sulfide ore of iron.",
+    "category": "Inorganic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 89,
+    "question_text": "The most covalent aluminium halide is:",
+    "options": {
+      "A": "Aluminium chloride",
+      "B": "Aluminium bromide",
+      "C": "Aluminium fluoride",
+      "D": "Aluminium iodide"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "According to Fajan's rules, the larger the anion, the greater the covalent character. Iodide is the largest halide anion among the choices.",
+    "category": "Inorganic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 99,
+    "question_text": "The flame colour of Lithium metal is:",
+    "options": {
+      "A": "Yellow",
+      "B": "Blue",
+      "C": "Violet",
+      "D": "Red"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Lithium imparts a crimson red color to the flame.",
+    "category": "Inorganic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 100,
+    "question_text": "Iodine oxidizes thiosulphate ion to:",
+    "options": {
+      "A": "Sulphite",
+      "B": "Dithionate",
+      "C": "Tetrathionate",
+      "D": "Sulphate"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Iodine quantitatively oxidizes thiosulfate ions to tetrathionate ions ($\\text{S}_4\\text{O}_6^{2-}$).",
+    "category": "Inorganic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  }
+]

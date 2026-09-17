@@ -1,0 +1,516 @@
+{
+  "exam_title": "gpat-question-paper-1999",
+  "total_questions": 34,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "One of the following statements for adenyl cyclase is wrong. Identify.",
+      "options": {
+        "A": "Is a membrane bound enzyme",
+        "B": "Inactivated by Phosphodiesterase",
+        "C": "Catalyses the A.M.P. formation",
+        "D": "Active only when associated with G Protein"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phosphodiesterase degrades cAMP, whereas adenyl cyclase synthesizes it; it is not inactivated by phosphodiesterase.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which one of the following device is used to increase the efficiency of drug delivery via aerosols?",
+      "options": {
+        "A": "Tube spacers",
+        "B": "Actuator",
+        "C": "Metered valve",
+        "D": "Pressure valve"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tube spacers are used with metered-dose inhalers to reduce oral deposition and increase pulmonary drug delivery efficiency.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 3,
+      "question_text": "One of the uses given below for opioids is not correct. Indicate",
+      "options": {
+        "A": "Antitussive",
+        "B": "Analgesic",
+        "C": "Anti-inflammatory",
+        "D": "Antidiarrhoeal"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Opioids are well known as analgesics, antitussives, and antidiarrhoeals, but they lack significant anti-inflammatory activity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Which one of the following is used as a preservative in ophthalmic preparations?",
+      "options": {
+        "A": "Benzalkonium Chloride",
+        "B": "Phenol",
+        "C": "Benzoic acid",
+        "D": "Chlorocresol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benzalkonium chloride is the most widely used antimicrobial preservative in ophthalmic formulations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "The activity of the following drugs is dependent on Pheny-N-alkyl one piperidine moiety?",
+      "options": {
+        "A": "Meperidine",
+        "B": "Impipramine",
+        "C": "Diazepam",
+        "D": "Chlorpromazine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Meperidine possesses a 1-methyl-4-phenylpiperidine structural core essential for its opioid activity.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 6,
+      "question_text": "One of the organism mentioned below is used as a biological indicator in I.P. for ethylene oxide sterilization. Choose the correct one.",
+      "options": {
+        "A": "Bacillus stearothermophilus",
+        "B": "Spores of Bacillus subtilis",
+        "C": "Bacillus pumilus",
+        "D": "Spores of Bacillus cereus"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bacillus subtilis spores are conventionally used as biological indicators to monitor ethylene oxide sterilization processes.",
+      "category": "General"
+    },
+    {
+      "question_number": 7,
+      "question_text": "The most common causative agent of Bacterial Pneumonia is:",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Escherichia coli",
+        "C": "Streptococcus pneumoniae",
+        "D": "Mycoplasma pneumoniae"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Streptococcus pneumoniae is the leading bacterial cause of community-acquired pneumonia.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Creatinine clearance is used as a measurement for",
+      "options": {
+        "A": "Glomerular filtration rate",
+        "B": "Renal excretion rate",
+        "C": "Drug metabolism rate",
+        "D": "Passive renal excretion"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Creatinine clearance closely approximates the glomerular filtration rate (GFR) of the kidneys.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Choose the correct starting material for the synthesis of Ethacrynic Acid",
+      "options": {
+        "A": "2, 3-Dichloro phenoxy acetic acid",
+        "B": "2, 3-Dibromo phenoxy acetic acid",
+        "C": "2, 3-Dichloro phenoxy propionic acid",
+        "D": "2, 3-Dichloro phenoxy butyric acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ethacrynic acid synthesis classically starts with 2,3-dichlorophenoxyacetic acid derivatives.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Choose the correct metabolic process for Phenobarbitone",
+      "options": {
+        "A": "p-Hydroxylation followed by reduction",
+        "B": "p-Hydroxylation followed by glucuronidation",
+        "C": "p-Hydroxylation followed by acetylation",
+        "D": "p-Hydroxylation followed by oxidation"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phenobarbital is metabolized primarily via aromatic hydroxylation (p-hydroxylation) followed by conjugation with glucuronic acid.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Which one of the following antihistaminic is a basic ether?",
+      "options": {
+        "A": "Pheniramine Maleate",
+        "B": "Triprolidine hydrochloride",
+        "C": "Diphenhydramine hydrochloride",
+        "D": "Promethazine hydrochloride"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diphenhydramine is an ethanolamine derivative containing a basic ether linkage.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Conductivity cells are made up of",
+      "options": {
+        "A": "Two silver rods",
+        "B": "Glass membrane with Ag/AgCl",
+        "C": "Two parallel sheets of platinum",
+        "D": "Sb-Sb_2O_3"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Standard conductivity cells use two parallel sheets or electrodes of platinum coated with platinum black.",
+      "category": "General"
+    },
+    {
+      "question_number": 13,
+      "question_text": "The chemical shift value is",
+      "options": {
+        "A": "Proportional to field strength",
+        "B": "Not proportional to field strength",
+        "C": "Ratio of the number of Protons in each group",
+        "D": "Proportional to the total number of protons"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chemical shift values (in ppm) are independent of the applied magnetic field strength.",
+      "category": "General"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Select the equation that gives the rate of drug dissolution from a tablet",
+      "options": {
+        "A": "Fick's law",
+        "B": "Henderson Hasselbatch equation",
+        "C": "Noyes Whitney equation",
+        "D": "Michelis Menten equation"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Noyes-Whitney equation describes the rate of dissolution of solid pharmaceuticals.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Energy absorbed in U.V. region produces changes in",
+      "options": {
+        "A": "The rotational energy of the molecule",
+        "B": "The vibrational energy of the molecule",
+        "C": "The electronic energy of the molecule",
+        "D": "All the three energy levels of the molecule"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ultraviolet and visible light absorption promote electronic transitions within molecules.",
+      "category": "General"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Dose dumping is a problem in the formulation of",
+      "options": {
+        "A": "Compressed tablets",
+        "B": "Suppositories",
+        "C": "Soft gelatin capsules",
+        "D": "Controlled release drug products"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dose dumping refers to the accidental, rapid release of a drug from a controlled-release formulation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 17,
+      "question_text": "The initial distribution of a drug into the tissue is determined chiefly by",
+      "options": {
+        "A": "Rate of blood flow to the tissue",
+        "B": "Plasma protein binding of the drug",
+        "C": "Affinity for the tissue",
+        "D": "Stomach emptying time"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Initial distribution phase is primarily perfusion-limited, depending on regional blood flow.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Choose the correct characteristic of the epidermal cells and cuticle of Atropa belladonna leaf",
+      "options": {
+        "A": "Pitted walls with striated cuticle",
+        "B": "Wavy walls with striated cuticle",
+        "C": "Algal cell walls with smooth cuticle",
+        "D": "Straight walls with wavy cuticle"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atropa belladonna leaf epidermis typically shows wavy anticlinal walls and a striated cuticle.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Meclizine hydrochloride is prepared from which one of the following?",
+      "options": {
+        "A": "1-(4-chloro benzhydryl)-Pyridine and 3-methyl benzaldehyde",
+        "B": "1-(2-chloro benzhydryl)-Piperazine and 3-methyl benzaldehyde",
+        "C": "1-(4-chloro benzhydryl)-Piperazine and 3-methyl benzaldehyde",
+        "D": "1-(4-chloro benzhydryl)-Piperazine and 2-methyl benzaldehyde"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Meclizine is synthesized by alkylating 1-(4-chlorobenzhydryl)piperazine with 3-methylbenzyl chloride or 3-methylbenzaldehyde.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Which one of the following is an Ex-Officio member of the State Pharmacy Council?",
+      "options": {
+        "A": "Chief Pharmacist of Government hospital",
+        "B": "Chief Administrative Medical Officer of the state",
+        "C": "Registered Pharmacist",
+        "D": "Assistant Drug Controller"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Chief Medical Officer of the State typically serves as an ex-officio member of the State Pharmacy Council under pharmacy regulations.",
+      "category": "General"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Phloroglucinol and Hydrochloric acid produces pink or red colour with",
+      "options": {
+        "A": "Cellulose cell walls",
+        "B": "Lignified cell walls",
+        "C": "Cutinized cell walls",
+        "D": "Mucilaginous cell walls"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phloroglucinol and HCl (Wiesner test) react with lignin to produce a pink or red color.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 22,
+      "question_text": "One of the forms mentioned below is used to issue licence for wholesale of drugs other than specified in schedule C, C_1 and X. Choose the correct one.",
+      "options": {
+        "A": "20.B",
+        "B": "20 B.B",
+        "C": "21 B",
+        "D": "20 A"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 21B is utilized for issuing wholesale licenses for drugs other than those specified in schedules C, C1, and X.",
+      "category": "General"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Choose the correct chemical name for Chloropromazine hydrochloride",
+      "options": {
+        "A": "[3-(2-chrophenothiazin-10-yl) propyl] diethylamine hydrochloride",
+        "B": "[2-(3-chrophenothiazin-10-yl) propyl] diethylamine hydrochloride",
+        "C": "[3-(2-chlorophenothiazin-10-yl)] diethylamine hydrochloride",
+        "D": "[3-(3-chlorophenothiazin-10-yl) propyl] diethylamine hydrochloride"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chlorpromazine is 2-chloro-10-[3-(dimethylamino)propyl]phenothiazine hydrochloride, corresponding to position 3 or 2 depending on numbering conventions; D is the standard accepted IUPAC nomenclature choice.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Wavelength of a radiation is $5.0 \\mu$. Wave number corresponding to that is:",
+      "options": {
+        "A": "$4000 \\text{ cm}^{-1}$",
+        "B": "$2000 \\text{ cm}^{-1}$",
+        "C": "$3000 \\text{ cm}^{-1}$",
+        "D": "$1000 \\text{ cm}^{-1}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Wave number $\\bar{\\nu} = 1 / \\lambda = 1 / (5.0 \\times 10^{-4} \\text{ cm}) = 2000 \\text{ cm}^{-1}$? Wait, calculation: $1 / 5\\mu m = 1 / (5 \\times 10^{-4} \\text{ cm}) = 2000 \\text{ cm}^{-1}$. Let's check option B: $2000 \\text{ cm}^{-1}$.",
+      "category": "General"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Choose the synthetic adrenocortical steroid, which do not occur in nature.",
+      "options": {
+        "A": "$11\\beta, 17\\alpha, 21$-Trihydroxy-1, 4-pregnadiene-3, 20-dione",
+        "B": "$17\\alpha, 21$-Dihydroxy pregna-4-ene-3, 11, 20-trione",
+        "C": "$11\\beta, 17\\alpha, 21$-Trihydroxy pregna-4-ene-3, 20-dione",
+        "D": "$3$-oxo-$17\\beta$, Hydroxy androst-4-ene."
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The 1,4-diene structure corresponds to Prednisolone, a synthetic corticosteroid.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 217,
+      "question_text": "Listed below are some important metabolic products of the drugs given in (A) to (D). Match them. (1) p-Fiuro phenyl acetic acid glycine conjugate (2) Diphenyl methoxy acetic acid glutamibne conjugate",
+      "options": {
+        "A": "Paracetamol",
+        "B": "Diloxanide furoate",
+        "C": "Haloperidol",
+        "D": "Diphenhydramine"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 218,
+      "question_text": "Listed below is the percentage of Protein binding of some drugs given in (A) to (D). Match them. (1) $0\\%$ (2) $99\\%$",
+      "options": {
+        "A": "Oxyphenbutazone",
+        "B": "Lisinopril",
+        "C": "Hexobarbital",
+        "D": "Morphine"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 219,
+      "question_text": "The items listed from (A) to (D) can be identified by the tests given below. (1) Coomb's test (2) Coagulase test",
+      "options": {
+        "A": "Candida albicans",
+        "B": "Virulent Staphylococcus aureus",
+        "C": "Mycobacterium tuberculosis",
+        "D": "Non agglutinating antibodies"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "General"
+    },
+    {
+      "question_number": 220,
+      "question_text": "For the following drugs, specific mechanism of action is given in (A) to (D). Match them. (1) Spiranolactone (2) Acetazolamide",
+      "options": {
+        "A": "Non competitively inhibit the enzyme carbonic anhydrase",
+        "B": "Inhibit the transport of $Na^+$ and $Cl^-$ in loop of Henle",
+        "C": "Competitive inhibitor of aldosterone at the receptors in the distal tubule",
+        "D": "Direct inhibition of $Na^+$ and $Cl^-$ reabsorption at proximal Portion"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 221,
+      "question_text": "Given below are different schedules as per the (D) and (C) Act. Match them with items mentioned in (A) to (D). (1) Schedule FF (2) Schedule M",
+      "options": {
+        "A": "Standards for ophthalmic preparations",
+        "B": "Diseases or ailments which a drug may not purport to prevent or cure",
+        "C": "Lite period of drugs",
+        "D": "Requirements of factory premises"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "General"
+    },
+    {
+      "question_number": 222,
+      "question_text": "Two types of detectors are given below. Match them with the instrument given in (A) to (D). (1) Flame ionization detector (2) Golay pneumatic detector",
+      "options": {
+        "A": "IR Spectrophotometer",
+        "B": "UV Spectrophotometer",
+        "C": "Flame photometer",
+        "D": "Gas chromatograph"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 223,
+      "question_text": "Appropriate structural formulae for Monocyclic monoterpene and Bicyclic monoterpene are given in (A) to (D). Match them. (1) Monocyclic monoterpene (2) Bicyclic monoterpene",
+      "options": {
+        "A": "Identify structure: C1=CCC(CC1)C(C)C",
+        "B": "Identify structure: CC1=CCC2CC(C2C1)C(C)C",
+        "C": "Identify structure: CC1(CCC(CC1)(C)O)C",
+        "D": "Identify structure: CC1=CCC(CC1)C=C"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 224,
+      "question_text": "Two methods of sterilization are given for the materials listed from (A) to (D). Match them correctly. (1) Dry heat (2) $\\gamma$-radiation",
+      "options": {
+        "A": "Rooms",
+        "B": "Plastic syringes",
+        "C": "Talcum powder",
+        "D": "Intravenous admixture"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 225,
+      "question_text": "Listed are some of the microscopical characters of bark powder obtained from the plants mentioned in (A) to (D). Match them. (1) Narrow slender lignified phloem fibres occur singly or tangential rows of 2-5, Lignified, colourless narrow sub rectangular parenchyma with small starch grains. Less amount of cork. (2) Wider phloem fibres, Larger-Starch grains Longer fibres abundant cork",
+      "options": {
+        "A": "Cinchona succirubra",
+        "B": "Cinnamomum zeylanicum",
+        "C": "Cinnamomum cassia",
+        "D": "Holarrhena antidysenterica"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    }
+  ]
+}

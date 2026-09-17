@@ -1,0 +1,771 @@
+{
+  "exam_title": "gpat-question-paper-1989",
+  "total_questions": 51,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Repeated administration of Tyramine results in its decreasing effectiveness:",
+      "options": {
+        "A": "Gets detoxicated easily",
+        "B": "Displaces nor-adrenaline from nerve ending binding site",
+        "C": "Displaces adrenaline from nerve ending binding site",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tyramine causes tachyphylaxis due to the depletion of stored norepinephrine at nerve endings.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Atropine on hydrolysis with Barium hydroxide gives:",
+      "options": {
+        "A": "Tropanol and Tropic acid",
+        "B": "Scopine and Tropic acid",
+        "C": "Ecgonine and Benzoic acid",
+        "D": "Benzyl Ecgonine and Methanol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atropine is an ester that hydrolyzes to yield tropine (tropanol) and tropic acid.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 3,
+      "question_text": "The concentration of sucrose in simple Syrup BP is:",
+      "options": {
+        "A": "$85\\% \\text{ w/w}$",
+        "B": "$60.70\\% \\text{ w/w}$",
+        "C": "$66.70\\% \\text{ w/w}$",
+        "D": "$40.74\\% \\text{ w/w}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Simple syrup BP contains 66.7% w/w of sucrose in water.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Stratified cork and forked are the characteristic diagnostic features of:",
+      "options": {
+        "A": "Apocynaceae",
+        "B": "Scrophulariaceae",
+        "C": "Gentianaceae",
+        "D": "Polygonaceae"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Stratified cork and forked trichomes are diagnostic features of certain crude drugs from Apocynaceae.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Most accepted mechanism for developing bacterial resistance to sulphonamides is:",
+      "options": {
+        "A": "An increasing capacity to inactivate or destroy the drug",
+        "B": "An alternative metabolic pathway for synthesis of an essential metabolite",
+        "C": "An increasing product of drug antagonist",
+        "D": "An alternation in enzyme that utilize PABA"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulphonamide resistance often arises from mutations in dihydropteroate synthase resulting in decreased affinity for the drug and PABA.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 6,
+      "question_text": "C 17 $\\alpha-\\beta$ unsaturated lactone ring is a common feature in:",
+      "options": {
+        "A": "Digitalis and squill glycosides",
+        "B": "Digitalis and strophantus glycosides",
+        "C": "Digitalis and Senna glycosides",
+        "D": "Digitalis and Amygdalin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitalis and Strophanthus both contain cardiac glycosides characterized by a C17 unsaturated lactone ring.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 7,
+      "question_text": "For drying blood plasma the following techinique is used:",
+      "options": {
+        "A": "Spray drying",
+        "B": "Freeze drying",
+        "C": "Vacuum drying",
+        "D": "Fluid bed drying"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Freeze drying (lyophilization) is the standard method used for heat-sensitive biologicals like blood plasma.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "C3 O-glycoside digitoxin is used for:",
+      "options": {
+        "A": "Cardiac action",
+        "B": "Hypotensive action",
+        "C": "Precipitating steroids from solution",
+        "D": "Precipitating Anthraquinone glycosides"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitoxin is a cardiac glycoside primarily used for its positive inotropic effect on the heart.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Chemical name of amoxicillin is:",
+      "options": {
+        "A": "$6$ - [D-$(-)$ $\\alpha$ - amino p-hydroxyacetamido] penicillanic acid",
+        "B": "$4$ - [D-$(-)$ $\\alpha$ - amino p-hydroxyacetamido] penicillanic acid",
+        "C": "$\\beta$ - [Hydroxy analogue of Benzyl penicillin",
+        "D": "$\\alpha$ - Carboxy benzyl penicillin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amoxicillin is structurally 6-[D-(-)-alpha-amino-p-hydroxyphenylacetamido]penicillanic acid.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "The HLB value of sodium lauryl sulphate is:",
+      "options": {
+        "A": "6.5",
+        "B": "13.8",
+        "C": "25.0",
+        "D": "40.0"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium lauryl sulfate is a strong anionic surfactant with a high HLB value around 40.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Claviceps purpurea yields after infecting ovaries of Graminaceous plants:",
+      "options": {
+        "A": "Digitoxin",
+        "B": "Lysergic acid derivatives",
+        "C": "Reserpine",
+        "D": "Polypeptides"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ergot (Claviceps purpurea) infects rye and produces ergot alkaloids, which are lysergic acid derivatives.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 12,
+      "question_text": "In the official bioassay of Erythromycin strain used is:",
+      "options": {
+        "A": "Bacillus subtilis",
+        "B": "Micrococcus luteus",
+        "C": "Salmonella typii",
+        "D": "Escherichia coil"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bacillus subtilis is widely used as the test organism for the microbiological assay of erythromycin.",
+      "category": "General"
+    },
+    {
+      "question_number": 13,
+      "question_text": "The disintegration time for sugar coated tablet is",
+      "options": {
+        "A": "30 minutes",
+        "B": "45 minutes",
+        "C": "60 minutes",
+        "D": "75 minutes"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sugar-coated tablets typically have a pharmacopeial disintegration time limit of 60 minutes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Idioblasts of crystal layer of calcium oxalate is a diagnostic feature of",
+      "options": {
+        "A": "Hyoscyamus Niger leaves",
+        "B": "Deadly nightshade leaves",
+        "C": "Cinchona bark",
+        "D": "Senna leaves"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Senna leaves characteristically exhibit crystal fibers containing calcium oxalate prisms.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Antibiotic which interacts with calcium ion is:",
+      "options": {
+        "A": "Erythromycin",
+        "B": "Streptomycin",
+        "C": "Tetracycline",
+        "D": "Ampicillin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tetracyclines readily chelate with divalent and trivalent cations such as calcium.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Flow rate of granules from the hopper can be improved by adding;",
+      "options": {
+        "A": "Disintegrant",
+        "B": "Glidant",
+        "C": "Binder",
+        "D": "Lubricant"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glidants are added to formulation blends to improve the flow properties of granules.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Silicon carbide rod heated to a high temperature is used as a;",
+      "options": {
+        "A": "Detector in infra red spectroscope",
+        "B": "Source of light in infra re spectroscope",
+        "C": "Source of light fluorimetry",
+        "D": "Detector in gas chromatography"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A Nernst glower or a silicon carbide rod (Globar) serves as an infrared radiation source in IR spectroscopy.",
+      "category": "General"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Anomocytic type stomata are found in the leaves of:",
+      "options": {
+        "A": "Fox glove",
+        "B": "Urginea maritima",
+        "C": "Cassia acutifolia",
+        "D": "Atropa belladonna"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atropa belladonna leaves typically possess anomocytic (ranunculaceous) stomata.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Liver microsomal enzymes are stimulated (enzymic induction) by:",
+      "options": {
+        "A": "Cimetidine",
+        "B": "Phenobarbitone",
+        "C": "Procaine",
+        "D": "Adrenaline"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phenobarbitone is a classic hepatic microsomal enzyme inducer.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Enteric coating is achieved by using:",
+      "options": {
+        "A": "Hydroxy propyl methyl cellulose",
+        "B": "Carboxy methyl cellulose",
+        "C": "Cellulose acetate Phthalate",
+        "D": "Povidone"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cellulose acetate phthalate (CAP) is a well-known enteric polymer used for enteric coating.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Car price reaction is applied for the photometric evaluation of:",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Tocopherol",
+        "C": "Nandrolone Phenyl Propionate",
+        "D": "Benzodiazepine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Carr-Price reaction using antimony trichloride is utilized for the colorimetric assay of Vitamin A.",
+      "category": "General"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Peroxide enzyme present in acacia is identified by:",
+      "options": {
+        "A": "Borntragers test",
+        "B": "Molisch's test",
+        "C": "Oxidation and extraction in Benzene",
+        "D": "Oxidation and treatment with Benzididine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oxidase enzymes in acacia are typically detected using benzidine and hydrogen peroxide.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Prostaglandins are a group of related:",
+      "options": {
+        "A": "Alcohols",
+        "B": "Aldehydes",
+        "C": "Fatty acid",
+        "D": "Alkaloids"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Prostaglandins are derived biosynthetically from 20-carbon essential fatty acids (e.g., arachidonic acid).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Licence to sell drug specified in schedule C and C1 is given from number",
+      "options": {
+        "A": "-19",
+        "B": "-18",
+        "C": "-21",
+        "D": "-24"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 20-B and 21-B are for selling, whereas Form 18 is typically associated with licenses for biologicals under Schedule C and C1.",
+      "category": "General"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Liquide paraffin exhibits:",
+      "options": {
+        "A": "Plastic flow",
+        "B": "Newtonian flow",
+        "C": "Pseudoplastic flow",
+        "D": "Dilatant flow"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Liquid paraffin is a simple liquid that displays Newtonian flow behavior.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Estrogenic and Progestrogenic combination mainly:",
+      "options": {
+        "A": "Inhibits the ovulation",
+        "B": "Inhibits the implantation of the fertilized ovum",
+        "C": "Inhibits the fertilization of ovum",
+        "D": "Inhibits development of endometrium"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Combined oral contraceptives primarily work by suppressing gonadotropins and inhibiting ovulation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 27,
+      "question_text": "More of earthy matter in a Rhizome is determine by:",
+      "options": {
+        "A": "Total ash value",
+        "B": "The earthy material is separated and then weighed",
+        "C": "The Rhizome is washed in water and the in hydrochloric acid finally it is weighed",
+        "D": "Acid insoluble ash value"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Acid-insoluble ash determines the amount of silica or earthy matter present in a crude drug.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Lidocaine is synthesized from:",
+      "options": {
+        "A": "2:6-dimethyl-5-amino methyl benzene",
+        "B": "2:6-dimethyl-5-nitro methyl benzene",
+        "C": "2:6-xylidene",
+        "D": "2-methyl-6-ethyl-5-amino methyl benzene"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lidocaine synthesis involves the acylation of 2,6-xylidine with chloroacetyl chloride followed by reaction with diethylamine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Sterilization temperature for aqueous solution in autoclave (Moist heat) is:",
+      "options": {
+        "A": "$72^{\\circ}\\text{C}$",
+        "B": "$121^{\\circ}\\text{C}$",
+        "C": "$147^{\\circ}\\text{C}$",
+        "D": "$160^{\\circ}\\text{C}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Standard moist heat sterilization in an autoclave is conducted at $121^{\\circ}\\text{C}$ for 15 minutes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Following combination is suggested in the treatment of Leprosy:",
+      "options": {
+        "A": "Dapsone + Ampicinllin + Clofazimine",
+        "B": "Dapsone + Clofazimine + Rifampin",
+        "C": "Dapsone + Erythromycin + Rifampin",
+        "D": "Dapsone + Teracycline + Streptomycin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Multidrug therapy for leprosy typically combines Dapsone, Rifampicin, and Clofazimine.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 31,
+      "question_text": "The gummy nature Astragalus gummifer is depend on:",
+      "options": {
+        "A": "More of Methoxly group of Bassorin",
+        "B": "The carbohydrate content",
+        "C": "More of hydroxyl groups of the sugar moiety",
+        "D": "More of protein contain of the drug"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tragacanth gum contains bassorin, which swells in water due to its methoxy groups.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 32,
+      "question_text": "The vitamin administered with isoniazid to minimize its adverse reaction is",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Pyridoxine",
+        "C": "Biotin",
+        "D": "Pantothenic acid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyridoxine (Vitamin B6) is co-administered with isoniazid to prevent peripheral neuropathy.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 33,
+      "question_text": "For the synthesis of Nitrofurantoin which one of the following combination of chemicals are used:",
+      "options": {
+        "A": "5-Nitro 2-furaldehyde and 2-amino hydantoin",
+        "B": "5-Nitro 2-furakdehyde and hydantoin",
+        "C": "5-amino 2-furaldehyde and 2-amino hydantoin",
+        "D": "5-Nitro 2-furaldehyde and barbituric acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nitrofurantoin is synthesized by the condensation of 5-nitro-2-furaldehyde with 1-aminohydantoin.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 34,
+      "question_text": "To get the optimum optical density of the solution for 1 cm thick layer the concentration should be about:",
+      "options": {
+        "A": "$10^{-4}\\text{ mole/lit}$",
+        "B": "$10^{-7}\\text{ mole/lit}$",
+        "C": "$0.1\\text{ gm/lit}$",
+        "D": "$0.5\\text{ gm/lit}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In UV-visible spectrophotometry, concentrations around $10^{-4}$ to $10^{-5}$ mol/L typically yield optimum absorbance.",
+      "category": "General"
+    },
+    {
+      "question_number": 35,
+      "question_text": "The sugar moiety of Digitails purpurea is:",
+      "options": {
+        "A": "2:6-deoxy allose",
+        "B": "2:6-dedoxy glucose",
+        "C": "2:6-deoxy Rhamnose",
+        "D": "2:6-deoxy galactose"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitoxin and related cardiac glycosides contain specific 2,6-dideoxy sugars such as digitoxose (which is related to 2-deoxy-rhamnose/allose derivatives).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Additional of sodium chloride to sodium Oleate emulsion will:",
+      "options": {
+        "A": "Stabilize emulsion",
+        "B": "Destabilize emulsion",
+        "C": "Decrease the globule size of the emulsion",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Adding an electrolyte like sodium chloride can salt out soap emulsifiers and destabilize oil-in-water emulsions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Anti hypertensive drug inhibits the rennin angiotensin system is:",
+      "options": {
+        "A": "Reserpine",
+        "B": "Captopril",
+        "C": "Methyl dopa",
+        "D": "Propranalol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Captopril is an ACE inhibitor that blocks the renin-angiotensin-aldosterone system.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Acidity of Ascorbic acid is due to the presence of:",
+      "options": {
+        "A": "Free carboxylic acid",
+        "B": "A number of hydroxyl group",
+        "C": "Enolic groups",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ascorbic acid lacks a carboxylic group; its acidity is due to the enolic hydroxyl groups on the lactone ring.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Progesterone injection BP is a sterile solution in:",
+      "options": {
+        "A": "Water",
+        "B": "Ethyl oleate",
+        "C": "Propylene glycol",
+        "D": "Glycerol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Progesterone injection BP is typically formulated as a sterile solution in a suitable vegetable oil or ethyl oleate.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Thiamine on treatment with sodium sulfite solution and sulfur dioxide yields:",
+      "options": {
+        "A": "Pyrimidine and a thiazole derivative",
+        "B": "Pyridine and thiazole derivative",
+        "C": "3: 4-Dihydropyridine and Thiophene derivatives",
+        "D": "Pyrimidine and Thiophene derivatives."
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfitolysis of thiamine cleaves the methylene bridge, yielding a pyrimidine derivative and a thiazole derivative.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 210,
+      "question_text": "Given below are the receptor and their antagonist (A to E). Match them correctly. 1. Histamine $H_2$ Receptor 2. Muscarinic Receptor 3. Adrenaline $\\alpha$ receptor 4. Adrenaline $\\alpha$ receptor",
+      "options": {
+        "A": "(A) Atropine (B) Ranitidine (C) Pentolamine (D) Metaraminol (E) Metoprolol",
+        "B": "(A) 1-B, 2-D, 3-B, 4-A",
+        "C": "(A) 1-B, 2-C, 3-A, 4-D",
+        "D": "(A) 1-C, 2-B, 3-D, 4-A"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Histamine H2 receptors are antagonized by ranitidine, muscarinic receptors by atropine, and alpha-adrenergic receptors by phentolamine or metaraminol depending on classification.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 211,
+      "question_text": "Match the following regions in GIT with the pH levels indicated from A to E. 1. Mouth 2. Stomach 3. Duodenum 4. Large intestine",
+      "options": {
+        "A": "(A) $5.0 - 6.0$",
+        "B": "(A) 1-A, 2-D, 3-B, 4-C",
+        "C": "(A) 1-B, 2-E, 3-D, 4-C",
+        "D": "(A) 1-C, 2-B, 3-D, 4-A"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Mouth pH is around neutral to slightly acidic ($6.8 - 7.0$), stomach pH is highly acidic ($1.5 - 3.0$), duodenum is slightly alkaline ($6.8 - 7.5$), and large intestine is slightly acidic to neutral ($5.0 - 6.0$).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 212,
+      "question_text": "Listed in A to E are some of the analytical constants. Match them correctly with the drugs given below. 1. A leafy drug 2. A Bark 3. Eucalyptus oil 4. A fixed oil having more of unsaturated fatty acid glycerides",
+      "options": {
+        "A": "(A) Total ash value (B) Cineole content (C) Fibre length (D) Iodine value (E) Stomatal index",
+        "B": "(A) 1-D, 2-C, 3-B, 4-A",
+        "C": "(A) 1-E, 2-C, 3-B, 4-D",
+        "D": "(A) 1-C, 2-B, 3-D, 4-A"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Leafy drugs are evaluated using stomatal index, barks by fiber length, eucalyptus oil by cineole content, and unsaturated fatty acid oils by iodine value.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 213,
+      "question_text": "Match the ingredients listed A to E with the purpose for which they are used in the formulations. 1. Film coating 2. Syrups 3. Emulsification 4. Enteric coating",
+      "options": {
+        "A": "(A) Sodium benzoate (B) Ethyl cellulose (C) Eudragit (D) Sucrose (E) Sodium oleate",
+        "B": "(A) 1-B, 2-D, 3-A, 4-C",
+        "C": "(A) 1-B, 2-C, 3-A, 4-D",
+        "D": "(A) 1-C, 2-B, 3-D, 4-A"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Film coating uses ethyl cellulose, syrups use sucrose, emulsification uses sodium oleate, and enteric coating uses Eudragit.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 214,
+      "question_text": "Match the biological listed under A to E for the following compounds: 1. $1:3$-Propanediol, $2$-methyl $2$-propyl Carbamate 2. $2$ Chloro-$10[3$-(dimethylamino) propyl] Phenothiazine 3. $5$ Nitro-$2$-furaldehyde semicarbazone 4. $2$ Methyl-$5$-Nitro Imidazole-$ethanol$",
+      "options": {
+        "A": "(A) Antimalarial (B) Bactericidal to anaerobic and microerophilic organisms (C) Antibacterial (D) Relief of anxiety and tension (E) Tranquilizer",
+        "B": "(A) 1-D, 2-E, 3-B, 4-A",
+        "C": "(A) 1-C, 2-B, 3-A, 4-D",
+        "D": "(A) 1-C, 2-B, 3-D, 4-A"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Meprobamate is for anxiety, chlorpromazine is a tranquilizer, nitrofurazone is antibacterial, and metronidazole is for anaerobes.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 215,
+      "question_text": "Given below are the drug A to E and the ailments for which they are recommended. Match them correctly. 1. Parkinsonism 2. Hypertension 3. Nasal congestion 4. Myasthenia gravis",
+      "options": {
+        "A": "(A) Methyl dopa (B) Levodopa with decarboxylase inhibitor (C) Neostigmine (D) Phenyl Propanolmine (E) Ibuprofen",
+        "B": "(A) 1-B, 2-A, 3-D, 4-C",
+        "C": "(A) 1-B, 2-C, 3-A, 4-D",
+        "D": "(A) 1-C, 2-B, 3-D, 4-A"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Parkinsonism is treated with levodopa with a decarboxylase inhibitor, hypertension with methyldopa, nasal congestion with phenylpropanolamine, and myasthenia gravis with neostigmine.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 216,
+      "question_text": "Given below are some of the drugs and their mode action in A to E. Match them correctly. 1. Hydralazine 2. Phenothiazine 3. Methysergide 4. Tolazmide",
+      "options": {
+        "A": "(A) Vasodilator by direct action (B) Inhibits the Vasoconstrictor and presor effect of $5$ HT (C) Antagonist D2 receptor of Dopamine (D) Stimulate the islet tissue to secrete insulin (E) Inhibiting the enzyme carbonic anhydrase",
+        "B": "(A) 1-D, 2-C, 3-B, 4-A",
+        "C": "(A) 1-B, 2-C, 3-A, 4-D",
+        "D": "(A) 1-A, 2-C, 3-B, 4-D"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Hydralazine acts as a direct vasodilator, phenothiazine as a dopamine D2 antagonist, methysergide as a 5-HT antagonist, and tolazamide stimulates insulin secretion.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 217,
+      "question_text": "Given below in A to E are the names of drugs.. Appropriate tests are given below for drugs. Match them correctly. 1. Alcoholic solution of $\\alpha$-naphthol and sulphuric acid 2. Murexide test 3. Para-dimethylamino Benzakdehyde 4. Ninhydrine",
+      "options": {
+        "A": "(A) Atropine (B) Reserpine (C) Caffeine (D) Gelatin (E) Triticum sativum powder",
+        "B": "(A) 1-D, 2-C, 3-B, 4-A",
+        "C": "(A) 1-E, 2-C, 3-A, 4-D",
+        "D": "(A) 1-C, 2-B, 3-D, 4-A"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Alpha-naphthol tests carbohydrates (Triticum sativum), murexide tests caffeine, p-dimethylaminobenzaldehyde tests alkaloids like reserpine, and ninhydrin tests amino acids/proteins like gelatin.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 218,
+      "question_text": "Given below in A to E are the names of instruments used for the determination of the following. Match them correctly 1. Particle volume 2. Presence of Foreign particle 3. Surface tension 4. Presence of polymorph",
+      "options": {
+        "A": "(A) Clarity apparatus (B) Du Nouy ring (C) Coulter counter (D) Compactor (E) Differential thermal calorimeter",
+        "B": "(A) 1-D, 2-C, 3-B, 4-A",
+        "C": "(A) 1-B, 2-E, 3-A, 4-D",
+        "D": "(A) 1-C, 2-B, 3-D, 4-A"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Particle volume is measured by Coulter counter, foreign particles by clarity apparatus, surface tension by Du Nouy ring, and polymorphs by differential thermal analysis.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 219,
+      "question_text": "Choose the correct starting material listed from A to E for the synthesis of the following drugs. 1. Cortisone 2. Progesterone 3. Testosterone 4. Vitamin A",
+      "options": {
+        "A": "(A) Diosgenin (B) $\\beta$-ionone (C) Spirostanol (D) Sarmentogenin (E) Anthracin",
+        "B": "(A) 1-D, 2-C, 3-B, 4-A",
+        "C": "(A) 1-B, 2-C, 3-A, 4-D",
+        "D": "(A) 1-C, 2-A, 3-B, 4-D"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Steroid synthesis commonly utilizes precursors such as diosgenin, sarmentogenin, and spirostanol, while vitamin A utilizes beta-ionone.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 220,
+      "question_text": "Given below are the types of ointment bases. Match them with the correct ointments in A to E. 1. Absorption base 2. Oleogenous base 3. Emulsion base 4. Water soluble base",
+      "options": {
+        "A": "(A) Emulsifying ointment (B) Hydrophilic ointment (C) Oily cream (D) Kaolin poultice (E) Simple ointment",
+        "B": "(A) 1-D, 2-A, 3-C, 4-B",
+        "C": "(A) 1-B, 2-E, 3-C, 4-A",
+        "D": "(A) 1-C, 2-B, 3-D, 4-A"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Absorption bases, oleogenous bases, emulsion bases, and water-soluble bases correspond respectively to various standard ointment classifications.",
+      "category": "Pharmaceutics"
+    }
+  ]
+}

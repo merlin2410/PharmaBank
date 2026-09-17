@@ -1,0 +1,1506 @@
+{
+  "exam_title": "Pharmacist gr 3 2021",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which of the following statements is not true for dry heat method of sterilisation?",
+      "options": {
+        "A": "Usually sterilisation is done by heating at a temperature of $160^\\circ\\text{C}$ for two hours",
+        "B": "Destruction of microorganism is effected by oxidation of essential cell constituents",
+        "C": "This method is not suitable for powders and oily materials",
+        "D": "This method is not suitable for surgical dressings"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dry heat is actually very suitable for heat-stable powders and oily materials.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Enteric coating is given to tablets in order to",
+      "options": {
+        "A": "Protect the medicament from atmospheric effects",
+        "B": "Ensure highest concentration of drug in the intestine",
+        "C": "Separate chemical or physical incompatible ingredients",
+        "D": "Prolong the duration of action of medicaments"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Enteric coating resists gastric fluid and disintegrates in the intestine, ensuring drug release there.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 3,
+      "question_text": "If a capsule is numbered as 000 which means",
+      "options": {
+        "A": "It is the smallest sized capsule with a capacity of 100 mg",
+        "B": "It is for the inclusion of ophthalmic ointments only",
+        "C": "The shape of the capsule is oval",
+        "D": "It is the largest sized and for veterinary purpose only"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "000 is the largest standard capsule size used mainly for veterinary or bulk filling purposes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Which one of the following is a correct statement regarding soft gelatin capsule?",
+      "options": {
+        "A": "Soft gelatin shells may contain methyl and propyl parabens as preservative",
+        "B": "Not suitable for use as suppositories",
+        "C": "Not suitable for opthalmic ointments",
+        "D": "The manufacturing and filling of medicaments are done in separate operations"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Preservatives like methyl and propyl parabens are commonly added to soft gelatin shell formulations to prevent microbial growth.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "For the evaluation of tablet, a test used to measure the amount of time required for the drug substance in tablet to go into solution under specified condition is known as",
+      "options": {
+        "A": "Dissolution test",
+        "B": "Distintegration test",
+        "C": "Friability test",
+        "D": "Weight variation test"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dissolution test measures the rate and extent of drug substance going into solution.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Unequal distribution of colour on a tablet with light and dark areas standing out in a uniform surface is known as",
+      "options": {
+        "A": "Lamination",
+        "B": "Capping",
+        "C": "Mottling",
+        "D": "Picking"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mottling is the term for unequal color distribution on a tablet surface.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Mechanism of killing microorganisms by gaseous sterilisation is",
+      "options": {
+        "A": "Coagulation of proteins",
+        "B": "Alkylation of proteins",
+        "C": "Oxidation of essential cell components",
+        "D": "Nuclear destruction"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gaseous sterilizing agents like ethylene oxide act via alkylation of cellular proteins and nucleic acids.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Role of Glycerin or sorbitol in the manufacturing of capsule shell as",
+      "options": {
+        "A": "Preservative",
+        "B": "Flavouring agent",
+        "C": "O Pacifying agent",
+        "D": "Plasticizer"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glycerin and sorbitol act as plasticizers to render the gelatin shell flexible and elastic.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Sterilisation by heating with a bactericide",
+      "options": {
+        "A": "Can be used safely for intrathecal injections",
+        "B": "Not suitable for intravenous injection when single dose exceeds 15 ml",
+        "C": "Is performed before the preparation is transferred into the final container",
+        "D": "Not suitable for eye drops"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Heating with a bactericide is restricted for large volume intravenous injections (exceeding 15 ml) due to toxicity risks from the bactericide.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 10,
+      "question_text": "During the formulation of tablet the purpose of adding magnesium stearate as",
+      "options": {
+        "A": "Lubricant",
+        "B": "Binding agent",
+        "C": "Adsorbing agent",
+        "D": "Distintegrating agent"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Magnesium stearate is widely used as a tablet and capsule lubricant to prevent adhesion to compression equipment.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Lugol's solution is",
+      "options": {
+        "A": "Weak iodine solution",
+        "B": "Aqueous iodine solution",
+        "C": "Povidone-iodine",
+        "D": "Iodine tincture"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lugol's solution is an aqueous solution of iodine and potassium iodide.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Which one of the following is a common ingredient in ear drops as dewaxing agent?",
+      "options": {
+        "A": "Potassium permanganate",
+        "B": "Boric acid",
+        "C": "Hydrogen peroxide",
+        "D": "Zinc peroxide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hydrogen peroxide releases oxygen and helps soften and loosen earwax.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Penicillamine is an antidote used in the poisoning of",
+      "options": {
+        "A": "Iron",
+        "B": "Cyanide",
+        "C": "Mercury",
+        "D": "Copper and lead"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Penicillamine is a chelating agent used to treat copper (Wilson's disease) and lead poisoning.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 14,
+      "question_text": "An oxidative antimicrobial agent is",
+      "options": {
+        "A": "Yellow mercuric oxide",
+        "B": "Povidone-Iodine",
+        "C": "Sodium hypochlorite",
+        "D": "Sulphur Dioxide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium hypochlorite exerts its antimicrobial effect primarily through oxidation.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Which of the following is an incorrect statement regarding ammonium chloride?",
+      "options": {
+        "A": "It is an irritating expectorant and used as an ingredient in cough mixtures",
+        "B": "Given to aid easy elimination in lead poisoning",
+        "C": "In the liver it is metabolised into urea",
+        "D": "It is used as a systemic alkaliniser"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ammonium chloride is an acidifying agent, not an alkaliniser, as it dissociates into hydrogen and chloride ions.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 16,
+      "question_text": "which one of the following is used for the treatment of schistosomiasis (Kala-azar) and administered intravenously?",
+      "options": {
+        "A": "Antmony potassium tartrate",
+        "B": "Potassium iodide",
+        "C": "Ammonium carbonate",
+        "D": "Strontium chloride"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Antimony potassium tartrate (tartar emetic) has historically been used for schistosomiasis.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "A sulphur compound which is a common ingredient in shampoos and lotions for the treatment of dandruff and seborrhoeic dermatitis",
+      "options": {
+        "A": "Selenium sulphide",
+        "B": "Sodium bisulphite",
+        "C": "Sodium metabisulphite",
+        "D": "Strontium sulphide"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Selenium sulfide is widely used in anti-dandruff shampoos.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Green vitriol is",
+      "options": {
+        "A": "Ferrous fumarate",
+        "B": "Ferrous sulphate",
+        "C": "Magnesium sulphate",
+        "D": "Zinc sulphate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Green vitriol is the common name for hydrated ferrous sulfate.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Prolonged use of silver preparation may lead to a condition known as",
+      "options": {
+        "A": "Euphoria",
+        "B": "Gangrene",
+        "C": "Hydragyrum",
+        "D": "Argyria"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Argyria is a condition caused by prolonged exposure to silver preparations, characterized by blue-gray skin discoloration.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 20,
+      "question_text": "An organic mercury compound which is commonly used as antiseptic/antifungal agent is",
+      "options": {
+        "A": "Mersalyl acid",
+        "B": "Mercaptomerin",
+        "C": "Thiomersal",
+        "D": "Chlormerodrin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiomersal (thimerosal) is an organomercury compound used as an antiseptic and antifungal agent.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Viscosity builders used in Ophthalmic formulation",
+      "options": {
+        "A": "Carboxy methyl cellulose",
+        "B": "Iso Propyl Palmitate",
+        "C": "Peanut oil",
+        "D": "Chlorobutanol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carboxymethyl cellulose is commonly used as a viscosity-imparting agent in eye drops to increase retention time.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Thickening of a shampoo may be carried by addition of",
+      "options": {
+        "A": "Ethylene diamine tetra acetic acid",
+        "B": "Lanolin",
+        "C": "Carboxy vinyl polymer",
+        "D": "Hydroxy benzoate ester"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carboxy vinyl polymers (carbomers) are widely used thickening agents in cosmetics and shampoos.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Eye Ointment base should melt at",
+      "options": {
+        "A": "Near to body temperature",
+        "B": "Room temperature",
+        "C": "Both A and B",
+        "D": "None of these"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Eye ointment bases must melt or soften at body temperature to ensure proper drug release and avoid irritation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 24,
+      "question_text": "For preparation of emulsions using fixed oil the ratio of oil: water : Gum",
+      "options": {
+        "A": "4:2:1",
+        "B": "2:2:1",
+        "C": "3:2:1",
+        "D": "1:2:1"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The standard primary emulsion ratio for fixed oils using gum acacia is 4:2:1 (Oil:Water:Gum).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Suspensions are biphasic liquid dosage form of medicament in which the finely divided solid particles ranging from",
+      "options": {
+        "A": "0.1-1 micron",
+        "B": "0.5-5.0 micron",
+        "C": "0.2-1 micron",
+        "D": "0.3-2.0 micron"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Suspended solid particles in pharmaceutical suspensions typically range between 0.5 to 5.0 microns.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Example for semi-synthetic thickening agents in suspension",
+      "options": {
+        "A": "Polysorbate",
+        "B": "Tragacath",
+        "C": "Carbowaxes",
+        "D": "Microcrystalline cellulose"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Microcrystalline cellulose is a semi-synthetic cellulose derivative used as a suspending and thickening agent.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Which among the ingredients is used for the preparation of concentrated Haemodialysis fluid B.P.C.?",
+      "options": {
+        "A": "Calcium oxalate",
+        "B": "Sodium acetate",
+        "C": "Tartaric acid",
+        "D": "Calcium chloride"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium acetate is commonly used as a buffer source in haemodialysis fluids.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Examples of liquid Anti perspirants",
+      "options": {
+        "A": "Zinc stearate",
+        "B": "Talc",
+        "C": "Spermaceti",
+        "D": "Aluminium chlorohydrate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aluminium chlorohydrate is widely used as an active antiperspirant ingredient.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Hair remover is otherwise called",
+      "options": {
+        "A": "Epilation",
+        "B": "Electrolysis",
+        "C": "Depilatories",
+        "D": "All of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chemical hair removers are known as depilatories.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Rubber closures are washed with hot solution of",
+      "options": {
+        "A": "0.3% of sodium pyrrophosphate in water",
+        "B": "0.2% of sodium pyrrophosphate in water",
+        "C": "0.1% of sodium pyrrophosphate in water",
+        "D": "0.5% of sodium pyrrophosphate in water"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rubber closures are typically washed with a 0.2% sodium pyrophosphate solution to remove surface impurities.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Vasaka contains _________ % w/w of vasicine calculated on the dried basis",
+      "options": {
+        "A": "0.1",
+        "B": "0.5",
+        "C": "0.4",
+        "D": "0.6"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vasaka (Adhatoda vasica) contains not less than 0.5% vasicine on a dried basis according to pharmacopeial standards.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Tulsi comes under category",
+      "options": {
+        "A": "Antimalarial",
+        "B": "Immunomodulator",
+        "C": "Diuretic",
+        "D": "Antitumour"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ocimum sanctum (Tulsi) is well known for its immunomodulatory properties.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Peppermint oil is obtained by",
+      "options": {
+        "A": "Simple distillation",
+        "B": "Fractional distillation",
+        "C": "Steam distillation",
+        "D": "Destructive distillation"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Volatile oils like peppermint oil are typically extracted using steam distillation.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Powdered ergot when treated with ________ solution develops strong odour of trimethylamine",
+      "options": {
+        "A": "Magnesium hydroxide",
+        "B": "Potassium hydroxide",
+        "C": "Calcium hydroxide",
+        "D": "Sodium hydroxide"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Treatment of ergot with sodium hydroxide releases free trimethylamine, producing a characteristic strong fishy odor.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Terminalia Arjuna is used as",
+      "options": {
+        "A": "Antidiabetic",
+        "B": "Treatment of jaundice",
+        "C": "Bronchitis",
+        "D": "Diuretic in cirrhosis"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Terminalia arjuna bark is traditionally used in indigenous systems of medicine for cardiovascular diseases and liver disorders including jaundice.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Active constituent of Rhubarb",
+      "options": {
+        "A": "Rhein",
+        "B": "Barbaloin",
+        "C": "Ellagic acid",
+        "D": "Ferulic acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rhubarb contains anthraquinone derivatives such as rhein, emodin, and chrysophanol.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Anti-sweetening agent in Gymnema sylvestre",
+      "options": {
+        "A": "Gymnemic acid",
+        "B": "Hentriacontane",
+        "C": "Pentriacontane",
+        "D": "Kinolin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gymnemic acids are the active anti-sweetening principles found in the leaves of Gymnema sylvestre.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Ergotoxine test gives __________ colour",
+      "options": {
+        "A": "deep purple",
+        "B": "deep red",
+        "C": "deep blue",
+        "D": "deep green"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ergot alkaloids give a characteristic deep purple or blue-violet color with p-dimethylaminobenzaldehyde (Van Urk's reagent).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Triphala and chyavanprash contain",
+      "options": {
+        "A": "Amla",
+        "B": "Gokhru",
+        "C": "Ajowan",
+        "D": "Myrrh"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amla (Emblica officinalis) is a primary ingredient in both Triphala and Chyavanprash.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Main triglycerides in castor oil",
+      "options": {
+        "A": "Tricinolein",
+        "B": "Oleic acid",
+        "C": "Ricin",
+        "D": "Stearic acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Castor oil consists mainly of tricinolein, which is the triglyceride of ricinoleic acid.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 41,
+      "question_text": "The antiseptic which is an acridine derivative",
+      "options": {
+        "A": "Cetrimide",
+        "B": "Proflavine",
+        "C": "Chloroxylenol",
+        "D": "Hexachlorophene"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Proflavine is an antiseptic acridine dye derivative.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Co-trimoxazole contains sulphamethoxazole and trimethoprim in the ratio",
+      "options": {
+        "A": "5:1",
+        "B": "1:5",
+        "C": "5:5",
+        "D": "1:10"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Co-trimoxazole formulation standardly combines sulfamethoxazole and trimethoprim in a 5:1 ratio (e.g., 400 mg sulfamethoxazole to 80 mg trimethoprim).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 43,
+      "question_text": "The heterocyclic system present in isoniazid",
+      "options": {
+        "A": "Pyrazole",
+        "B": "Pyrrole",
+        "C": "Pyridine",
+        "D": "Pyrazine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Isoniazid is the hydrazide of isonicotinic acid, containing a pyridine ring.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 44,
+      "question_text": "The Penicillin which has an isoxazole ring in its structure",
+      "options": {
+        "A": "Ampicillin",
+        "B": "Amoxycillin",
+        "C": "Carbenicillin",
+        "D": "Cloxacillin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cloxacillin belongs to the isoxazolyl penicillin group containing an isoxazole ring.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Which among the following is a butyrophenone derivative?",
+      "options": {
+        "A": "Prochlorperazine",
+        "B": "Haloperidol",
+        "C": "Fluphenazine",
+        "D": "Oxypertine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Haloperidol is a classic antipsychotic drug of the butyrophenone chemical class.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 46,
+      "question_text": "A tricyclic antidepressant which belongs to the category of dibenzocycloheptenes",
+      "options": {
+        "A": "Imipramine",
+        "B": "Tranylcypromine",
+        "C": "Phenelzine",
+        "D": "Amitriptyline"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amitriptyline is a dibenzocycloheptene derivative tricyclic antidepressant.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Which of the following drug is a non-catecholamine?",
+      "options": {
+        "A": "Terbutaline",
+        "B": "Phenylephrine",
+        "C": "Ephedrine",
+        "D": "All of these"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Terbutaline, phenylephrine, and ephedrine all lack the 3,4-dihydroxyphenyl structure characteristic of catecholamines.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 48,
+      "question_text": "A synthetic anticholinergic drug which is an ester carrying xanthene heterocycle",
+      "options": {
+        "A": "Homatropine",
+        "B": "Benztropine",
+        "C": "Propantheline",
+        "D": "Biperiden"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Propantheline is a synthetic quaternary ammonium compound containing a xanthene ester moiety.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 49,
+      "question_text": "4-Chloro – N – furfuryl – 5-sulphamoyl anthranilic acid is",
+      "options": {
+        "A": "Amiloride",
+        "B": "Frusemide",
+        "C": "Chlorthalidone",
+        "D": "Bumetanide"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The chemical name 4-chloro-N-furfuryl-5-sulfamoylanthranilic acid corresponds to frusemide (furosemide).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 50,
+      "question_text": "An antineoplastic agent which is a pyrimidine analogue is",
+      "options": {
+        "A": "Methotrexate",
+        "B": "Fluorouracil",
+        "C": "Azathioprine",
+        "D": "Thioguanine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fluorouracil (5-FU) is a pyrimidine analogue antineoplastic drug.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 51,
+      "question_text": "The ratio of Carbidopa–Levodopa combination used in the treatment of parkinsonism is",
+      "options": {
+        "A": "1:5",
+        "B": "1:4",
+        "C": "1:10",
+        "D": "5:5"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carbidopa and Levodopa are commonly combined in fixed ratios such as 1:4 or 1:10, depending on the formulation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Respiratory depression due to morphine overdose can be reversed by",
+      "options": {
+        "A": "Meperidine",
+        "B": "Pyridoxine",
+        "C": "Vitamin E",
+        "D": "Naloxone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Naloxone is an opioid receptor antagonist used to reverse opioid-induced respiratory depression.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Myasthenia gravis, a chronic neuromuscular disease is diagnosed by intravenous injection of",
+      "options": {
+        "A": "Edrophonium",
+        "B": "Ambenonium",
+        "C": "Demecarium",
+        "D": "Pyridostigmine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Edrophonium test (Tensilon test) uses short-acting acetylcholinesterase inhibitor edrophonium to diagnose myasthenia gravis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 54,
+      "question_text": "A prostaglandin derivative used in the treatment of glaucoma is",
+      "options": {
+        "A": "Dipivefrine",
+        "B": "Bimatoprost",
+        "C": "Misoprostol",
+        "D": "Epoprostenol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bimatoprost is a prostamide analog used topically to treat glaucoma and ocular hypertension.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Which of the following drug is a Serotonin-2 (5 HT 2) antagonist?",
+      "options": {
+        "A": "Sumatriptan",
+        "B": "Losartan",
+        "C": "Ondansetron",
+        "D": "Methysergide"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methysergide is an ergot alkaloid derivative that acts as a 5-HT2 receptor antagonist.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 56,
+      "question_text": "An antihypertensive drug which is not an arteriolar vasodialator",
+      "options": {
+        "A": "Hydralalzine",
+        "B": "Methyldopa",
+        "C": "Minoxidil",
+        "D": "Diazoxide"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methyldopa is a centrally acting sympatholytic antihypertensive, whereas hydralazine, minoxidil, and diazoxide are direct arteriolar vasodilators.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Which of the following is an antiretroviral drug?",
+      "options": {
+        "A": "Acyclovir",
+        "B": "Amantadine",
+        "C": "Ribavirin",
+        "D": "Zidovudine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Zidovudine (AZT) is a nucleoside reverse transcriptase inhibitor used as an antiretroviral against HIV.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 58,
+      "question_text": "An oral hypoglycemic agent, which comes under the category of second-generation sulphonyl urea is",
+      "options": {
+        "A": "Tolbutamide",
+        "B": "Chlorpropamide",
+        "C": "Glibenclamide",
+        "D": "Tolazamide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glibenclamide (glyburide) is a second-generation sulfonylurea.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 59,
+      "question_text": "The antibiotic which binds to 30S subunit of the bacterial ribosome and inhibit protein synthesis",
+      "options": {
+        "A": "Doxycycline",
+        "B": "Chloramphenicol",
+        "C": "Amoxycillin",
+        "D": "Cefalexin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Doxycycline is a tetracycline antibiotic that binds to the 30S ribosomal subunit.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 60,
+      "question_text": "A selective Beta I antagonist",
+      "options": {
+        "A": "Propranolol",
+        "B": "Timolol",
+        "C": "Carvedilol",
+        "D": "Atenolol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atenolol is a cardioselective beta-1 adrenergic antagonist.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Which schedule specifies the retailer to keep a copy of the prescription for two years while selling certain class of drugs?",
+      "options": {
+        "A": "Schedule H",
+        "B": "Schedule X",
+        "C": "Schedule F",
+        "D": "Schedule C"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under Indian Pharmacy regulations, Schedule H drugs require prescriptions to be retained for two years.",
+      "category": "General"
+    },
+    {
+      "question_number": 62,
+      "question_text": "The latest amendment of Drugs and Cosmetics Act 1940, and Rules 1945 is upto",
+      "options": {
+        "A": "31st December 2005",
+        "B": "31st December 2017",
+        "C": "31st December 2016",
+        "D": "31st December 2015"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Standard editions frequently reference updates up to December 31, 2017 in recent academic exam compendiums.",
+      "category": "General"
+    },
+    {
+      "question_number": 63,
+      "question_text": "Good laboratory practices and requirements of premises and equipment is specified in",
+      "options": {
+        "A": "Schedule M",
+        "B": "Schedule N",
+        "C": "Schedule L-1",
+        "D": "Schedule M-1"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule L-1 prescribes the Good Laboratory Practices (GLP) and requirements for premises and equipment.",
+      "category": "General"
+    },
+    {
+      "question_number": 64,
+      "question_text": "As per the Drugs and Magic Remedies Act-1954, which of the diseases, disorder or condition cannot be claimed to be cured?",
+      "options": {
+        "A": "Goitre",
+        "B": "Gangrene",
+        "C": "Glaucoma",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "All listed conditions are prohibited from being advertised as cured under the Drugs and Magic Remedies Act.",
+      "category": "General"
+    },
+    {
+      "question_number": 65,
+      "question_text": "The register of pharmacists also known as the Central Register as per the Pharmacy Act-1948 contains",
+      "options": {
+        "A": "Names of all persons for the time being entered in the register for a State",
+        "B": "Public document",
+        "C": "Confidential document",
+        "D": "Both A and B"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Central Register contains names from state registers and is considered a public document under the law.",
+      "category": "General"
+    },
+    {
+      "question_number": 66,
+      "question_text": "Manufacturer of cosmetics to conform to the latest Bureau of Indian Standards requirements is specified in",
+      "options": {
+        "A": "Schedule-A",
+        "B": "Schedule-S",
+        "C": "Schedule-F",
+        "D": "Schedule-T"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule S outlines the standards for cosmetic products and adherence to Bureau of Indian Standards.",
+      "category": "General"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Narcotic Drugs and Psychotropic Substances Act was enacted in the year",
+      "options": {
+        "A": "1895",
+        "B": "1857",
+        "C": "1985",
+        "D": "1980"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The NDPS Act was enacted by the Parliament of India in 1985.",
+      "category": "General"
+    },
+    {
+      "question_number": 68,
+      "question_text": "The number of registered pharmacists nominated by respective state government in a state council is",
+      "options": {
+        "A": "6",
+        "B": "5",
+        "C": "7",
+        "D": "8"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "State pharmacy councils include 5 members nominated by the state government.",
+      "category": "General"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Whoever contravenes any of the provisions of the Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 is punishable up to the maximum imprisonment of",
+      "options": {
+        "A": "One year",
+        "B": "Two years",
+        "C": "Five years",
+        "D": "Three years"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "First-time conviction under the Drugs and Magic Remedies Act carries imprisonment up to 6 months or fine or both, but subsequent offenses carry up to two years.",
+      "category": "General"
+    },
+    {
+      "question_number": 70,
+      "question_text": "Good manufacturing practices for Ayurvedic, Siddha and Unani medicines is specified in",
+      "options": {
+        "A": "Schedule-S",
+        "B": "Schedule-T",
+        "C": "Schedule-B",
+        "D": "Schedule-U"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule T outlines GMP requirements for Ayurvedic, Siddha, and Unani drugs.",
+      "category": "General"
+    },
+    {
+      "question_number": 71,
+      "question_text": "One among the below is not an objective of sales promotion",
+      "options": {
+        "A": "Prize contests",
+        "B": "Introduction of new product",
+        "C": "Popularize brand name",
+        "D": "Assist dealers"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Prize contests are a tool or technique of sales promotion rather than its ultimate fundamental objective.",
+      "category": "General"
+    },
+    {
+      "question_number": 72,
+      "question_text": "The science to examine and check the accuracy of the recorded transactions is called",
+      "options": {
+        "A": "Inventory control",
+        "B": "Book-keeping",
+        "C": "Accountancy",
+        "D": "Banking"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Accountancy encompasses the rules and systematic examination of recorded financial transactions.",
+      "category": "General"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Reference check of the personnel is the process under",
+      "options": {
+        "A": "Compensation",
+        "B": "Training",
+        "C": "Evaluation",
+        "D": "Recruitment"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reference checks are conducted as part of the personnel recruitment and selection process.",
+      "category": "General"
+    },
+    {
+      "question_number": 74,
+      "question_text": "A Co-operative society is required to be registered under the Co-operative Societies Act.",
+      "options": {
+        "A": "1921",
+        "B": "1912",
+        "C": "1919",
+        "D": "1985"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Co-operative societies in India are commonly registered under the Co-operative Societies Act of 1912.",
+      "category": "General"
+    },
+    {
+      "question_number": 75,
+      "question_text": "An industry manufacturing a chemical by a standardized chemical reaction is called",
+      "options": {
+        "A": "Processing industry",
+        "B": "Analytical industry",
+        "C": "Extractive industry",
+        "D": "Synthetic industry"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Synthetic industries manufacture new products by combining materials via chemical reactions.",
+      "category": "General"
+    },
+    {
+      "question_number": 76,
+      "question_text": "If a customer is allowed to draw cheques even if there is no balance in his account is called",
+      "options": {
+        "A": "Cash credit",
+        "B": "Overdraft",
+        "C": "Loan",
+        "D": "Bond"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "An overdraft facility allows account holders to withdraw money exceeding their account balance.",
+      "category": "General"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Which type of cash book is needed to receive or allow cash discount in a business transactions?",
+      "options": {
+        "A": "Simple",
+        "B": "Two columnar",
+        "C": "Three columnar",
+        "D": "Petty"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A three-column cash book includes columns for cash, bank, and discount.",
+      "category": "General"
+    },
+    {
+      "question_number": 78,
+      "question_text": "The sum of money or goods withdrawn by the proprietor from business for his personal use is called",
+      "options": {
+        "A": "Current liability",
+        "B": "Investment",
+        "C": "Assets",
+        "D": "Drawings"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Withdrawals of cash or goods by the owner for personal use are termed drawings.",
+      "category": "General"
+    },
+    {
+      "question_number": 79,
+      "question_text": "The loan sanctioned against the pledge of the property of the company is called",
+      "options": {
+        "A": "Mortgage",
+        "B": "Trade credit",
+        "C": "Customer advance",
+        "D": "Fixed capital"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A mortgage is a loan secured against immovable property assets.",
+      "category": "General"
+    },
+    {
+      "question_number": 80,
+      "question_text": "ABC analysis is used to",
+      "options": {
+        "A": "Find total annual purchase cost",
+        "B": "Reduce inventory carrying cost",
+        "C": "Find total expenses",
+        "D": "Annual usage"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "ABC analysis classifies inventory items based on their consumption value or annual usage.",
+      "category": "General"
+    },
+    {
+      "question_number": 81,
+      "question_text": "Ryles tube is used for",
+      "options": {
+        "A": "Drain off a bladder",
+        "B": "To hold blood vessels",
+        "C": "Nutritional support and aspiration of stomach content",
+        "D": "To hold tissues"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A Ryles tube (nasogastric tube) is passed through the nose into the stomach for feeding or gastric aspiration.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Method for monitoring particulate matter in parenteral products",
+      "options": {
+        "A": "Leakage test",
+        "B": "Visual method",
+        "C": "Spark detector method",
+        "D": "LAL test"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Visual inspection is the standard method used for detecting visible particulate matter in parenteral preparations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Pore size of membrane filter used in test for sterility",
+      "options": {
+        "A": "0.54 micrometer",
+        "B": "Not greater than 0.45 micrometer",
+        "C": "Not greater than 0.25 micrometer",
+        "D": "0.75 micrometer"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pharmacopeial standards specify a nominal pore size of not greater than 0.45 micrometers for membrane filters used in sterility testing.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 84,
+      "question_text": "The guidelines for inclusion or non-inclusion of drugs in the hospital formulary are framed by",
+      "options": {
+        "A": "Pharmacy and therapeutic committee",
+        "B": "Staff committee",
+        "C": "Medical audit committee",
+        "D": "Infection control committee"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Pharmacy and Therapeutics (P&T) committee is responsible for developing, managing, and updating the hospital formulary.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 85,
+      "question_text": "Computer based system of the U.S., National Library of Medicine (NLM) that allows rapid access to store biomedical information",
+      "options": {
+        "A": "BIOSIS",
+        "B": "MEDLAR",
+        "C": "MEDIPHOR",
+        "D": "NONLIN"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "MEDLARS (Medical Literature Analysis and Retrieval System) is the computerized bibliographic retrieval system developed by the U.S. National Library of Medicine.",
+      "category": "General"
+    },
+    {
+      "question_number": 86,
+      "question_text": "New England Journal of Medicine is which type of drug information resource?",
+      "options": {
+        "A": "Primary source",
+        "B": "Secondary source",
+        "C": "Tertiary source",
+        "D": "Formulary"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Peer-reviewed medical journals like the New England Journal of Medicine publish original research and clinical studies, making them primary literature sources.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 87,
+      "question_text": "Thermo labile powders are sterilized by",
+      "options": {
+        "A": "Dry heat",
+        "B": "Autoclaving",
+        "C": "Ethylene oxide gas",
+        "D": "UV radiation"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ethylene oxide gas is a chemical sterilization method suitable for heat-sensitive (thermolabile) powders and medical devices.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 88,
+      "question_text": "Following statements of unit dose system are correct\n(i) Patient receives improved service round the clock and charged for only administered doses\n(ii) Allowing nurses more time for direct patient care\n(iii) Medication errors are decreased\n(iv) Eliminates wastage of drugs and pilferage",
+      "options": {
+        "A": "Only (i), (iii) and (iv)",
+        "B": "Only (i), (ii) and (iii)",
+        "C": "Only (ii) and (iii)",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "All listed statements accurately describe the distinct advantages of a well-implemented unit dose drug distribution system in hospitals.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 89,
+      "question_text": "All of the following statements about parenteral products are true EXCEPT\n(i) The drug product is easier to remove from vials than ampule.\n(ii) Ampules are intended for multiple use\n(iii) Large volume parenterals are infusion solutions.",
+      "options": {
+        "A": "Only (i) and (ii)",
+        "B": "Only (ii) and (iii)",
+        "C": "Only (i) and (iii)",
+        "D": "All of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Statement (ii) is false because ampules are strictly single-use containers; statement (i) is true since vials allow easier withdrawal via syringe compared to breaking ampules.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 90,
+      "question_text": "In A, B, C analysis of inventory control, \"A class\" items are about ____ of the total items in number and nearly ____ of the annual consumption value of the items",
+      "options": {
+        "A": "15% and 80%",
+        "B": "30% and 25%",
+        "C": "50% and 10%",
+        "D": "70% and 3%"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "ABC analysis follows the Pareto principle where 'A' class items constitute about 15-20% of items and account for roughly 70-80% of the inventory value.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 91,
+      "question_text": "Teratogenic drugs, EXCEPT",
+      "options": {
+        "A": "Stilboestrol",
+        "B": "Warfarin",
+        "C": "Phenytoin",
+        "D": "Dicyclomine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dicyclomine is an anticholinergic used for gastrointestinal cramps and is not a recognized teratogen, whereas diethylstilbestrol, warfarin, and phenytoin are established teratogens.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 92,
+      "question_text": "The international drug monitoring centre is at",
+      "options": {
+        "A": "Uppsala, Sweden",
+        "B": "Geneva, Switzerland",
+        "C": "Washington DC, USA",
+        "D": "Mexico city, Mexico"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Uppsala Monitoring Centre (UMC) in Sweden serves as the WHO collaborating centre for international drug monitoring.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 93,
+      "question_text": "Which of the following organisms can cause peptic ulcer disease?",
+      "options": {
+        "A": "Staphylococcus",
+        "B": "Escherichia coli",
+        "C": "Helicobacter pylori",
+        "D": "Giardia lamblia"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Helicobacter pylori is a gram-negative bacterium strongly associated with the pathogenesis of peptic ulcer disease and gastritis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 94,
+      "question_text": "The term coronary artery disease is used to designate all of the following conditions, EXCEPT",
+      "options": {
+        "A": "Angina Pectoris",
+        "B": "Sudden cardiac death",
+        "C": "Congestive Heart Failure (CHF)",
+        "D": "Myocardial Infarction"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Congestive Heart Failure is a clinical syndrome resulting from various cardiac dysfunctions, whereas angina, myocardial infarction, and sudden cardiac death are direct manifestations of coronary artery disease.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 95,
+      "question_text": "Normal safety range of potassium in adult blood is",
+      "options": {
+        "A": "1.5-2 mEq/L",
+        "B": "3.5-5 mEq/L",
+        "C": "6-8 mEq/L",
+        "D": "0.5-1.3 mEq/L"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The normal physiological serum potassium concentration range in healthy adult blood is approximately $3.5 - 5.0\\text{ mEq/L}$.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 96,
+      "question_text": "Burton's line is a clinical sign found in patients with chronic poisoning of",
+      "options": {
+        "A": "Mercury",
+        "B": "Lead",
+        "C": "Bismuth",
+        "D": "Arsenic"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Burton's line (a bluish-purple pigmentation on the gums) is a classic clinical indicator of chronic lead poisoning.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 97,
+      "question_text": "Metabolic acidosis can be compacted by",
+      "options": {
+        "A": "Toluene",
+        "B": "Amphotericin",
+        "C": "Spironolactone",
+        "D": "Trisaminomethane"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Trisaminomethane (THAM) is an alkalinizing agent used to buffer and correct metabolic acidosis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 98,
+      "question_text": "Warfarin-Metronidazole drug interaction is due to",
+      "options": {
+        "A": "Alteration in motility",
+        "B": "Alteration in metabolism",
+        "C": "Displacement from protein binding site",
+        "D": "Alteration in excretion"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Metronidazole inhibits the hepatic metabolism (specifically CYP2C9) of S-warfarin, leading to increased anticoagulant effects and bleeding risk.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 99,
+      "question_text": "Bioavailability may be determined by using\n(i) Plasma drug concentration verses time profile\n(ii) Urinary drug excretion studies\n(iii) Measurement of an acute pharmacological effect\n(iv) Clinical studies or in-vitro studies",
+      "options": {
+        "A": "Only (i) and (ii)",
+        "B": "Only (i) and (iii)",
+        "C": "(i, ii, iii and iv)",
+        "D": "Only (i), (iii) and (iv)"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bioavailability can be assessed using pharmacokinetic methods (plasma and urine data) as well as pharmacodynamic and clinical study approaches.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 100,
+      "question_text": "Following statements concerning drug addition are correct EXCEPT\n(i) An overpowering desire or compulsion to continue taking the drug and to obtain it by any means\n(ii) A tendency to decrease the dose\n(iii) Psychic/physical dependence on the effect of the drugs",
+      "options": {
+        "A": "Only (i) and (ii)",
+        "B": "Only (ii) and (iii)",
+        "C": "Only (i) and (iii)",
+        "D": "All of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Drug addiction typically involves tolerance, leading to a tendency to *increase* the dose, making statement (ii) incorrect.",
+      "category": "Pharmacology"
+    }
+  ]
+}

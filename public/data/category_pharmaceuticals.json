@@ -1,0 +1,18 @@
+[
+  {
+    "question_number": 2,
+    "question_text": "Which among the following preparation is used as a source of iodine in iodine deficiency ?",
+    "options": {
+      "A": "Weak iodine solution",
+      "B": "Strong iodine solution",
+      "C": "Aqueous iodine solution",
+      "D": "Iodine tincture"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Weak iodine solution (USP) contains 2% iodine and is traditionally used for iodine supplementation and antisepsis.",
+    "category": "Pharmaceuticals",
+    "source_exam": "Pharmacist gr 2 health services and medical education 2020"
+  }
+]

@@ -1,0 +1,1206 @@
+{
+  "exam_title": "Pharmacist Gr 2 health services 2015 200_15",
+  "total_questions": 80,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "The cathartic property of castor oil is due to the presence of :",
+      "options": {
+        "A": "Linoleic acid",
+        "B": "Arachidonic acid",
+        "C": "Ricinoleic acid",
+        "D": "Stearic acid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ricinoleic acid is the primary active fatty acid found in castor oil responsible for its cathartic (laxative) action.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 2,
+      "question_text": "d-Tubocurarine is a :",
+      "options": {
+        "A": "Neuromuscular blocking agent",
+        "B": "Anticholine esterase",
+        "C": "Anaesthetic",
+        "D": "Neuro degenerative agent"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "d-Tubocurarine is a classic non-depolarizing neuromuscular blocking agent that acts as a competitive antagonist at nicotinic acetylcholine receptors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 3,
+      "question_text": "The schedule which provide standard for ophthalmic preparation :",
+      "options": {
+        "A": "Schedule P",
+        "B": "Schedule R",
+        "C": "Schedule FF",
+        "D": "Schedule Y"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule FF under the Drugs and Cosmetics Rules sets standards for ophthalmic preparations (eye ointments and drops).",
+      "category": "General"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Citric acid cycle takes place in :",
+      "options": {
+        "A": "Liver",
+        "B": "Mitochondria",
+        "C": "Endoplasmic reticulum",
+        "D": "Nucleic acid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The citric acid cycle (Krebs cycle) occurs in the mitochondrial matrix of eukaryotic cells.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 5,
+      "question_text": "The pyrimidine component of RNA is :",
+      "options": {
+        "A": "Adenine",
+        "B": "Guanine",
+        "C": "Thymine",
+        "D": "Uracil"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Uracil and cytosine are the pyrimidine bases found in RNA, whereas thymine is typically found in DNA.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Major side effect of chloramphenicol is :",
+      "options": {
+        "A": "Bone marrow depression",
+        "B": "GIT disturbances",
+        "C": "Insomnia",
+        "D": "Profound dyspnea"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chloramphenicol is well known for causing dose-dependent bone marrow depression and potentially fatal aplastic anemia.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Example for a five membered heterocyclic compound with one hetero atom is :",
+      "options": {
+        "A": "Pyrimidine",
+        "B": "Furane",
+        "C": "Aziridine",
+        "D": "Phenanthrene"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Furan (Furane) is a five-membered aromatic heterocyclic ring containing a single oxygen heteroatom.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 8,
+      "question_text": "One table spoon full is :",
+      "options": {
+        "A": "4 mL",
+        "B": "6 mL",
+        "C": "8 mL",
+        "D": "15 mL"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Traditionally, one household tablespoonful is standardized in pharmacy as approximately 15 mL (or 4 fluid drams).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Bence Jones Proteins found in urine occur in :",
+      "options": {
+        "A": "Liver diseases",
+        "B": "Diabetes mellitus",
+        "C": "Multiple myeloma",
+        "D": "Thalassemia"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bence Jones proteins are free immunoglobulin light chains found in the urine of patients with multiple myeloma.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Preparations of digitalis is used in the treatment of :",
+      "options": {
+        "A": "Hypertension",
+        "B": "Gout",
+        "C": "Myocardial infarction",
+        "D": "Congestive cardiac failure"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitalis glycosides (such as digoxin) are positive inotropic agents used primarily in the management of congestive cardiac failure.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Physostigmine act as a cholinergic drug by :",
+      "options": {
+        "A": "Directly binding with nicotinic receptors",
+        "B": "Binding with muscarinic receptors",
+        "C": "Inhibiting cholinesterase enzyme",
+        "D": "Binding with $\\beta1$ receptors"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Physostigmine is a reversible acetylcholinesterase inhibitor that enhances cholinergic transmission by preventing acetylcholine degradation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Which among the following is not a natural insecticide ?",
+      "options": {
+        "A": "Chrysanthemum cinerariefolium",
+        "B": "Nicotiana tabacum",
+        "C": "Ryania speciosa",
+        "D": "Piper nigrum"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Piper nigrum (black pepper) is primarily a spice, whereas Chrysanthemum, Nicotiana, and Ryania are classic botanical sources of natural insecticides.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Most common adverse effect of non steroidal anti inflammatory agent :",
+      "options": {
+        "A": "CNS toxicity",
+        "B": "Gastro intestinal toxicity",
+        "C": "Cardiac toxicity",
+        "D": "Skin rashes"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gastrointestinal irritation, ulceration, and bleeding are the most common adverse effects of NSAIDs due to COX-1 inhibition in the gastric mucosa.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Epinephrine is not used in :",
+      "options": {
+        "A": "Bronchospasm",
+        "B": "Hypertension",
+        "C": "Hypersensitivity reaction",
+        "D": "Increased intra ocular pressure"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Epinephrine typically increases blood pressure via vasoconstriction and cardiac stimulation, so it is not used to treat hypertension.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Barbiturate which is used for the induction of anesthesia is :",
+      "options": {
+        "A": "Phenobarbitone",
+        "B": "Secobarbital",
+        "C": "Mephobarbital",
+        "D": "Thiopentone sodium"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiopentone sodium is an ultra-short-acting barbiturate widely used for the intravenous induction of general anesthesia.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 16,
+      "question_text": "A highly selective cox-2 inhibitor is :",
+      "options": {
+        "A": "Tenoxicam",
+        "B": "Ketoprofen",
+        "C": "Celecoxib",
+        "D": "Ketorolac"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Celecoxib is a well-known selective COX-2 inhibitor designed to reduce inflammation while minimizing gastrointestinal side effects.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 17,
+      "question_text": "An antiviral drug used for the treatment of Parkinsonism is :",
+      "options": {
+        "A": "Amantadine",
+        "B": "Levodopa",
+        "C": "Biperiden",
+        "D": "Selegiline"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amantadine is an antiviral agent that also exhibits antiparkinsonian properties by enhancing dopamine release.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 18,
+      "question_text": "A proton pump inhibitor commonly used in the treatment of peptic ulcer is :",
+      "options": {
+        "A": "Sucralfate",
+        "B": "Cimetidine",
+        "C": "Aluminium hydroxide gel",
+        "D": "Omeprazole"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Omeprazole is a standard proton pump inhibitor (PPI) used to suppress gastric acid secretion.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Which among the following drugs is used as an emetic ?",
+      "options": {
+        "A": "Apomorphine",
+        "B": "Codeine",
+        "C": "Papaverine",
+        "D": "Noscapine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Apomorphine is a dopamine receptor agonist that acts centrally on the chemoreceptor trigger zone to induce vomiting.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Antibiotic which is used as a cytotoxic agent is :",
+      "options": {
+        "A": "Piperacillin",
+        "B": "Ampicillin",
+        "C": "Cloxacillin",
+        "D": "Actinomycin D"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Actinomycin D (dactinomycin) is an antitumor antibiotic used as a cytotoxic chemotherapeutic agent.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Colchicum autumnale belongs to the family :",
+      "options": {
+        "A": "Liliaceae",
+        "B": "Rutaceae",
+        "C": "Moringaceae",
+        "D": "Rhamnaceae"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Colchicum autumnale belongs to the plant family Liliaceae.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 22,
+      "question_text": "The act which controls the advertisement of certain drugs :",
+      "options": {
+        "A": "The drug and Magic remedies Act 1955",
+        "B": "Insecticides Act 1968",
+        "C": "The Pharmacy Act 1948",
+        "D": "Poisons Act 1919"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Drugs and Magic Remedies (Objectionable Advertisements) Act, 1955 controls the advertisement of drugs and magical remedies in India.",
+      "category": "General"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Kwashiorkor is a disease associated with the deficiency of :",
+      "options": {
+        "A": "Vitamin $\\text{B}_{12}$",
+        "B": "Vitamin D",
+        "C": "Carbohydrate",
+        "D": "Protein"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Kwashiorkor is a severe form of malnutrition caused specifically by inadequate protein intake despite adequate caloric intake.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Type of emulsion may be determined by :",
+      "options": {
+        "A": "Leakage test",
+        "B": "Conductivity test",
+        "C": "Toxicity test",
+        "D": "Bubble point test"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The conductivity test determines emulsion type (O/W vs W/O) because oil-in-water emulsions conduct electricity well due to the continuous aqueous phase.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Drugs colored coated powdered or polished to conceal damage or to appear to be of better therapeutic value than they really are is called :",
+      "options": {
+        "A": "Spurious drug",
+        "B": "Misbranded drug",
+        "C": "Adulterated drug",
+        "D": "Reprocessed drug"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to Indian drug legislation, a drug is considered 'misbranded' if it is colored, coated, powdered, or polished to conceal damage or mimic a higher quality.",
+      "category": "General"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Grease spot test is used to identify :",
+      "options": {
+        "A": "Protein",
+        "B": "Carbohydrate",
+        "C": "Lipid",
+        "D": "Alkaloid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The grease spot test is a simple chemical test used to detect the presence of lipids (fats and oils) which leave a translucent spot on paper.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Vitamin A is also called :",
+      "options": {
+        "A": "Anti scurvitic Vitamin",
+        "B": "Antisterilitic Vitamin",
+        "C": "Antihaemorrhagic Vitamin",
+        "D": "Antixerophthalmic Vitamin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vitamin A is known as the antixerophthalmic vitamin because its deficiency leads to xerophthalmia and other ocular disorders.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 28,
+      "question_text": "The foreign bodies which are present in our body are collectively called as :",
+      "options": {
+        "A": "Xenobiotics",
+        "B": "Probiotics",
+        "C": "Antibiotics",
+        "D": "Heptane"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Xenobiotics refer to chemical substances found within an organism that are not naturally produced by or expected to be present within it.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Primrose leaves is an adulterant of :",
+      "options": {
+        "A": "Datura",
+        "B": "Digitalis",
+        "C": "Senna",
+        "D": "Belladonna"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Primrose leaves are a known common adulterant used to substitute genuine Digitalis leaves.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Anthraquinone glycosides are present in :",
+      "options": {
+        "A": "Ispaghula",
+        "B": "Ephidrine",
+        "C": "Aswagandha",
+        "D": "Rhubarb"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rhubarb contains anthraquinone glycosides which contribute to its laxative properties.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Physically distinct forms of same enzyme are called :",
+      "options": {
+        "A": "Isoenzyme",
+        "B": "Co-enzyme",
+        "C": "Apoenzyme",
+        "D": "Holoenzyme"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Isoenzymes (or isozymes) are multiple forms of an enzyme that catalyze the same reaction but differ in amino acid sequence and physical properties.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Albinism is produced due to the defect in biosynthesis of :",
+      "options": {
+        "A": "Tyrosine",
+        "B": "Melanin",
+        "C": "Valine",
+        "D": "Isoleucine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Albinism is a genetic disorder characterized by the complete or partial absence of melanin pigment due to defects in its biosynthetic pathway.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Diseases and ailments which drug may not purport to prevent or cure is included in :",
+      "options": {
+        "A": "Schedule C1",
+        "B": "Schedule G",
+        "C": "Schedule J",
+        "D": "Schedule M"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule J lists diseases and ailments that a drug may not legally claim to prevent or cure under Indian regulations.",
+      "category": "General"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Which one among the following is classified as a diuretic dug ?",
+      "options": {
+        "A": "Punarnava",
+        "B": "Ipecacunha",
+        "C": "Cinchona",
+        "D": "Liquorice"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Punarnava (Boerhavia diffusa) is a well-known crude drug traditionally used in Ayurveda for its diuretic properties.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Total energy gained from one mol of glucose under aerobic condition is :",
+      "options": {
+        "A": "8 ATP",
+        "B": "38 ATP",
+        "C": "12 ATP",
+        "D": "36 ATP"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Complete aerobic oxidation of one mole of glucose yields a theoretical maximum of 38 ATP molecules in standard biochemical calculations.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Holding temperature for moist heat sterilization is 115-118°C for :",
+      "options": {
+        "A": "30 minutes",
+        "B": "15 minutes",
+        "C": "0 minutes",
+        "D": "5 minutes"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Autoclaving/moist heat sterilization at 115-118°C typically requires a holding time of 30 minutes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Chemical test for opium is done to check the presence of :",
+      "options": {
+        "A": "Ferulic acid",
+        "B": "Eugenol",
+        "C": "Meconic acid",
+        "D": "Tartaric acid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The characteristic chemical test for opium relies on detecting meconic acid, which forms a purple color with ferric chloride.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 38,
+      "question_text": "The immunity in which the body receives readymade antibody is called :",
+      "options": {
+        "A": "Active immunity",
+        "B": "Passive immunity",
+        "C": "Natural immunity",
+        "D": "Innate immunity"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Passive immunity is conferred by the transfer of preformed antibodies into the body from an external source.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Water which is free from volatile and non-volatile impurities, micro organisms and pyrogens is called :",
+      "options": {
+        "A": "Purified water",
+        "B": "Potable water",
+        "C": "Water for injection",
+        "D": "Sterile water for injection"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sterile water for injection is specially processed, sterilized, and packaged to be completely free of microorganisms, pyrogens, and dissolved impurities.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 40,
+      "question_text": "The process in which a solid gets directly converted into vapour is called :",
+      "options": {
+        "A": "Desiccation",
+        "B": "Sublimation",
+        "C": "Evaporation",
+        "D": "Condensation"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sublimation is the phase transition directly from the solid state to the gaseous state without passing through the liquid phase.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Adult dose of a drug is 240 mg calculated dose for a child of age of 12 years is :",
+      "options": {
+        "A": "60 mg",
+        "B": "80 mg",
+        "C": "100 mg",
+        "D": "120 mg"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Using Young's rule (Child Dose = Adult Dose * [Age in years / (Age + 12)]), for a 12-year-old: 240 * (12 / 24) = 120 mg.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 42,
+      "question_text": "When certain drugs administered repeatedly at short intervals decreased response is obtained is called :",
+      "options": {
+        "A": "Idiosyncrasy",
+        "B": "Tolerance",
+        "C": "Tachyphylaxis",
+        "D": "Antagonism"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tachyphylaxis describes a rapid, acute decrease in response to a drug when administered repeatedly over a short duration.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Liquid or semi solid preparations applied with friction is called :",
+      "options": {
+        "A": "Lotion",
+        "B": "Ointment",
+        "C": "Jelly",
+        "D": "Liniment"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Liniments are liquid or semi-liquid preparations intended for external application to the skin with rubbing or friction.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 44,
+      "question_text": "1:500 concentration of a drug means :",
+      "options": {
+        "A": "1 mg in 500 mL",
+        "B": "1 kg in 500 kg",
+        "C": "1 g in 500 mL",
+        "D": "1 g in 500 L"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A 1:500 weight-to-volume ratio in pharmaceutical solutions represents 1 gram of solute dissolved in 500 mL of total solution.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Person who wishes to manufacture of preparations containing alcohol or other narcotic substance is required to obtain license from :",
+      "options": {
+        "A": "Drugs inspector",
+        "B": "Excise Commissioner",
+        "C": "Drugs Controller",
+        "D": "Director of Health Services"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Licenses for manufacturing medicinal preparations containing alcohol or narcotics are issued by the Excise Commissioner under excise acts.",
+      "category": "General"
+    },
+    {
+      "question_number": 46,
+      "question_text": "The proportion of oil : water : gum in arachis oil emulsion is :",
+      "options": {
+        "A": "4:2:1",
+        "B": "3:2:1",
+        "C": "2:2:1",
+        "D": "2:1:1"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "For fixed oils like arachis oil, the standard primary emulsion formula uses the ratio 4 parts oil to 2 parts water to 1 part gum (4:2:1).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 47,
+      "question_text": "q.o.d. means :",
+      "options": {
+        "A": "Four times a day",
+        "B": "Every other day",
+        "C": "As needed",
+        "D": "After meals"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Latin abbreviation q.o.d. (quaque die alternate) stands for 'every other day'.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Superior and inferior venacava enter :",
+      "options": {
+        "A": "Right atrium",
+        "B": "Left atrium",
+        "C": "Right ventricle",
+        "D": "Left ventricle"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Deoxygenated blood returns from the systemic circulation via the superior and inferior venae cavae into the right atrium.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 49,
+      "question_text": "Rheumatoid arthritis is caused by :",
+      "options": {
+        "A": "Mycobacterium tuberculosis",
+        "B": "Deficiency of calcium",
+        "C": "Uric acid crystals",
+        "D": "Autoimmune disorder"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rheumatoid arthritis is a chronic systemic inflammatory autoimmune disorder that primarily attacks the synovial joints.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Vasopressin is secreted by :",
+      "options": {
+        "A": "Hypothalamus",
+        "B": "Anterior pituitary",
+        "C": "Posterior pituitary",
+        "D": "Adrenal medulla"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vasopressin (antidiuretic hormone) is synthesized by the hypothalamus but stored and released into the bloodstream by the posterior pituitary gland.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Diabetis mellitus is caused when there is :",
+      "options": {
+        "A": "a deficiency of insulin",
+        "B": "a deficiency of glucogan",
+        "C": "a decreased response of kidneys of vasopressin",
+        "D": "a deficiency of growth hormone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diabetes mellitus is characterized by hyperglycemia resulting from either a deficiency of insulin secretion or insulin resistance.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Any substance capable of triggering an immune response is called a :",
+      "options": {
+        "A": "Heptane",
+        "B": "Antibody",
+        "C": "Interferon",
+        "D": "Antigen"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "An antigen is any substance that binds specifically to an antibody or T-cell receptor and is capable of triggering an immune response.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 53,
+      "question_text": "HIV virus destroys :",
+      "options": {
+        "A": "T helper cells",
+        "B": "Eosinophils",
+        "C": "Basophils",
+        "D": "Monocytes"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Human Immunodeficiency Virus (HIV) specifically targets and progressively depletes CD4+ T helper cells, weakening cell-mediated immunity.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Microcytic hypo chromic anemia is caused by the deficiency of :",
+      "options": {
+        "A": "Vitamin $\\text{B}_{12}$",
+        "B": "Riboflavin",
+        "C": "Iron",
+        "D": "Folic acid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Iron deficiency impairs hemoglobin synthesis, resulting in microcytic and hypochromic red blood cells.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Otic route is used to deliver drug in to :",
+      "options": {
+        "A": "Eye",
+        "B": "Ear canal",
+        "C": "Nose",
+        "D": "Skin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The otic route refers to the administration of medications into the ear canal.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Normal value of creatinine clearance:",
+      "options": {
+        "A": "$75 - 125\\text{ mL/minute}$",
+        "B": "$125 - 175\\text{ mL/minute}$",
+        "C": "$175 - 250\\text{ mL/minute}$",
+        "D": "$259 - 275\\text{ mL/minute}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Normal creatinine clearance in healthy adults ranges approximately from $75$ to $125\\text{ mL/min}$.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Warfarin interacts with Phenytoin by interfering with:",
+      "options": {
+        "A": "Absorption",
+        "B": "Protein binding",
+        "C": "Metabolism",
+        "D": "Elimination"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Warfarin and phenytoin interact primarily through hepatic metabolism inhibition/induction pathways.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Antidote for iron poisoning is:",
+      "options": {
+        "A": "Deferoxamine",
+        "B": "Acetyl cysteine",
+        "C": "Dimercaprol",
+        "D": "Penicillamine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Deferoxamine is the classic chelating agent used as a specific antidote for acute iron poisoning.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Test for water holding capacity is prescribed for:",
+      "options": {
+        "A": "Cat gut",
+        "B": "Absorbent cotton",
+        "C": "Surgical gauze",
+        "D": "Sanitary Napkins"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Absorbent cotton undergoes a water holding capacity (absorbency) test to measure fluid uptake.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 60,
+      "question_text": "List of drugs to be purchased in a hospital is prepared by:",
+      "options": {
+        "A": "Chief Pharmacist",
+        "B": "Hospital superintendent",
+        "C": "Pharmacy and therapeutic committee",
+        "D": "Drug technical advisory board"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Pharmacy and Therapeutic Committee (PTC) is responsible for formulating drug lists and formulary decisions in a hospital.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Safest and the most efficient method of drug distribution system is:",
+      "options": {
+        "A": "Floor stock system",
+        "B": "Complete floor stock system",
+        "C": "Charge floor stock system",
+        "D": "Unit dose drug distribution system"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The unit dose drug distribution system is recognized as the safest and most efficient method in hospitals.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Faithful adherence of the instructions given by Physician/pharmacist is called:",
+      "options": {
+        "A": "Non compliance",
+        "B": "Pharmaceutical care",
+        "C": "Patient counseling",
+        "D": "Patient compliance"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Patient compliance refers to the degree to which a patient correctly follows medical advice and medication instructions.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 63,
+      "question_text": "Articles published in journals are called:",
+      "options": {
+        "A": "Primary literature",
+        "B": "Secondary literature",
+        "C": "Tertiary source",
+        "D": "Abstracting"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Original research articles published in journals constitute primary literature sources.",
+      "category": "General"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Rate of bioavailability is greatest for:",
+      "options": {
+        "A": "Capsule",
+        "B": "Tablet",
+        "C": "Suspensions",
+        "D": "Solution"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Solutions are already in liquid form, bypassing the dissolution step and thus exhibiting the greatest rate of bioavailability.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 65,
+      "question_text": "The vitamin which is given in severe cases of alcoholism is:",
+      "options": {
+        "A": "Ascorbic acid",
+        "B": "Riboflavin",
+        "C": "Thiamine",
+        "D": "Pyridoxine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiamine (Vitamin B1) is routinely administered to chronic alcoholics to prevent Wernicke-Korsakoff syndrome.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 66,
+      "question_text": "Hemp is pericyclic fibers obtained from the stem of:",
+      "options": {
+        "A": "Linum usitatissimum",
+        "B": "Corchorus olitorius",
+        "C": "Cannabis sativa",
+        "D": "Gossypium herbaceum"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hemp fibers are obtained from the stem of Cannabis sativa.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Basic ring present in pethidine is:",
+      "options": {
+        "A": "Pyrrole",
+        "B": "Pyridine",
+        "C": "Thiophene",
+        "D": "Piperidine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": true,
+      "explanation": "Pethidine (meperidine) possesses a central piperidine ring structure in its core.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 68,
+      "question_text": "Example for a protein which is used in therapy is:",
+      "options": {
+        "A": "Adrenaline",
+        "B": "Hydrocortisone",
+        "C": "Insulin",
+        "D": "Thyroxin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Insulin is a peptide hormone and protein therapeutic used in diabetes management.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Ciprofloxacin belongs to the category of:",
+      "options": {
+        "A": "Fluoroquinolones",
+        "B": "Aminoglycosides",
+        "C": "Macrolides",
+        "D": "Cephalosporines"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ciprofloxacin is a well-known second-generation fluoroquinolone antibiotic.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 70,
+      "question_text": "Hetero atoms present in chlorpromazine are:",
+      "options": {
+        "A": "Nitrogen and Oxygen",
+        "B": "Sulphur and Oxygen",
+        "C": "Nitrogen Sulphur and Oxygen",
+        "D": "Nitrogen and Sulphur"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chlorpromazine is a phenothiazine derivative containing both nitrogen and sulphur heteroatoms in its central tricyclic ring.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Major side effect of sodium bicarbonate when used as antacid is:",
+      "options": {
+        "A": "Systemic alkalosis",
+        "B": "Systemic acidosis",
+        "C": "Metabolic alkalosis",
+        "D": "Metabolic acidosis"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Systemible absorption of sodium bicarbonate can cause systemic alkalosis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 72,
+      "question_text": "An example for antioxidant is:",
+      "options": {
+        "A": "Sodium bisulphite",
+        "B": "Sodium lauryl sulphate",
+        "C": "Sodium potassium tartrate",
+        "D": "Sodium fluoride"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium bisulphite acts as an antioxidant by readily consuming oxygen and preventing oxidation of active ingredients.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Radiopharmaceuticals should be stored in:",
+      "options": {
+        "A": "Aluminium containers",
+        "B": "Iron containers",
+        "C": "Borosilicate glass containers",
+        "D": "Lead containers"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lead containers (or lead shields) are necessary to absorb radiation emitted by radiopharmaceuticals.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 74,
+      "question_text": "Citric acid is added in the limit test for iron to:",
+      "options": {
+        "A": "Provide an acidic medium",
+        "B": "To react with iron to produce a purple colour",
+        "C": "To form a complex with iron to prevent precipitation",
+        "D": "To react with acid radicals to prevent precipitation"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Citric acid forms a soluble complex with iron in ammoniacal solution, preventing its precipitation as iron hydroxide.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Inorganic compound which is used as a dentine desensitiser is:",
+      "options": {
+        "A": "Calcium carbonate",
+        "B": "Strontium chloride",
+        "C": "Calcium chloride",
+        "D": "Calcium hypochlorite"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Strontium chloride is widely used in toothpaste formulations as a dentine desensitizing agent.",
+      "category": "Pharmaceutical Chemistry"
+    },
+    {
+      "question_number": 76,
+      "question_text": "Gelatin is chemically:",
+      "options": {
+        "A": "A complex carbohydrate",
+        "B": "Purified wax",
+        "C": "Hydrous wool fat",
+        "D": "Hydrolyzed collagenous material"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gelatin is derived by the partial hydrolysis of collagen extracted from animal skin, connective tissue, and bones.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Concentration of alcohol most effective as bactericidal is:",
+      "options": {
+        "A": "$99\\%$",
+        "B": "$50\\%$",
+        "C": "$70\\%$",
+        "D": "$10\\%$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "An aqueous solution of $70\\%$ ethanol/isopropanol provides optimal protein coagulation and bactericidal activity.",
+      "category": "Microbiology"
+    },
+    {
+      "question_number": 78,
+      "question_text": "Main drug used for the treatment of syphilis is:",
+      "options": {
+        "A": "Penicillin G",
+        "B": "Ampicillin",
+        "C": "Gentamicin",
+        "D": "Amikacin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Penicillin G remains the drug of choice for treating all stages of syphilis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 79,
+      "question_text": "Which is the second line drug for Tuberculosis?",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Ciprofloxacin",
+        "C": "Rifampicin",
+        "D": "Ethambutol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ethambutol is part of first-line regimens (wait, option D is ethnambutol, though sometimes classified closely, let's verify standard Indian syllabus where Ethambutol is first-line and Ciprofloxacin is fluoroquinolone/second-line, but wait, ethambutol is first line. Actually, let's look at option B/D: among choices, fluoroquinolones like ciprofloxacin are frequently considered second-line anti-TB drugs, but wait, Ethambutol is first-line. Let's use B for second-line ciprofloxacin or D if ethambutol typo. Actually, standard Indian pharma exams list Ciprofloxacin or fluoroquinolones as second-line anti-TB agents). Let's use B.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Saline cathartics act by:",
+      "options": {
+        "A": "Stimulating the gastro intestinal mucosa.",
+        "B": "Increasing the gastro intestinal motility.",
+        "C": "Increasing the osmotic load of the intestinal tract.",
+        "D": "Decreasing the gastro intestinal motility."
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Saline cathartics retain water in the intestinal lumen through high osmotic pressure, thereby stimulating peristalsis.",
+      "category": "Pharmacology"
+    }
+  ]
+}

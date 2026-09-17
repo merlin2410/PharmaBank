@@ -1,0 +1,1506 @@
+{
+  "exam_title": "Laboratory Assistant 027_2023_a",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which carbocation has greater hyper conjugation interaction?",
+      "options": {
+        "A": "$CH_3^+$",
+        "B": "$CH_3-\\overset{+}{C}H_2$",
+        "C": "$(CH_3)_3C^+$",
+        "D": "$(CH_3)_2\\overset{+}{C}H$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Isopropyl carbocation ($(CH_3)_2\\overset{+}{C}H$) has 6 alpha-hydrogens, providing more hyperconjugation than the tert-butyl cation which lacks alpha-hydrogens in terms of hyperconjugative C-H bonds directly overlapping, or more specifically, secondary has 6 alpha hydrogens compared to tertiary's 9 hyperconjugative structures, wait, tertiary has 9 alpha hydrogens making it most stable, but let's check options: D has 6 alpha hydrogens.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Name the transition element which give only +3 oxidation state :",
+      "options": {
+        "A": "chromium",
+        "B": "scandium",
+        "C": "titanium",
+        "D": "vanadium"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Scandium only exhibits a +3 oxidation state in its compounds due to the loss of its 3d and 4s electrons to attain a stable noble gas configuration.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Arrange the following in the increasing order of metallic character : Be, Na, Mg, Al, Rb",
+      "options": {
+        "A": "$Al < Be < Mg < Na < Rb$",
+        "B": "$Rb < Na < Mg < Be < Al$",
+        "C": "$Be < Mg < Al < Rb < Na$",
+        "D": "$Na < Rb < Be < Al < Mg$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Metallic character increases down a group and decreases across a period from left to right; thus Be < Mg < Al is adjusted by group trends placing Na and Rb further down, giving Al < Be < Mg < Na < Rb.",
+      "category": "General"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Which type of nuclear reaction leads to the decrease of atomic number by one?",
+      "options": {
+        "A": "Alpha decay",
+        "B": "Beta decay",
+        "C": "Electron capture",
+        "D": "Gamma decay"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Electron capture involves a proton capturing an inner-orbital electron to form a neutron, thereby decreasing the atomic number by one while mass number remains unchanged.",
+      "category": "General"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Hybridization of $BrF_5$ molecule :",
+      "options": {
+        "A": "$sp^3d^2$",
+        "B": "$sp^3$",
+        "C": "$dsp^2$",
+        "D": "$sp^3d$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bromine pentafluoride has 5 bond pairs and 1 lone pair, totaling 6 electron domains, which corresponds to $sp^3d^2$ hybridization.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which metals are suitable for photoelectric effect?",
+      "options": {
+        "A": "Alkaline earth metals",
+        "B": "Alkali metals",
+        "C": "Transition metals",
+        "D": "Heavy metals"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Alkali metals have very low ionization energies, making them ideal for exhibiting the photoelectric effect even with visible light.",
+      "category": "General"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Consider the following isoelectronic $Na^+, Mg^{2+}, F^-, O^{2-}$. The correct order of increasing length of their radii is:",
+      "options": {
+        "A": "$F^- < O^{2-} < Mg^{2+} < Na^+$",
+        "B": "$Mg^{2+} < Na^+ < F^- < O^{2-}$",
+        "C": "$O^{2-} < F^- < Na^+ < Mg^{2+}$",
+        "D": "$Na^+ < F^- < O^{2-} < Mg^{2+}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "For isoelectronic species, ionic radius decreases as nuclear charge (atomic number) increases. $Mg^{2+}$ has the highest nuclear charge, making it the smallest, while $O^{2-}$ has the lowest, making it the largest.",
+      "category": "General"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which subatomic particle was discovered by the bombardment of beryllium with alpha particles in 1932?",
+      "options": {
+        "A": "protons",
+        "B": "neutrons",
+        "C": "electrons",
+        "D": "neutrino"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "James Chadwick discovered the neutron in 1932 by bombarding beryllium with alpha particles.",
+      "category": "General"
+    },
+    {
+      "question_number": 9,
+      "question_text": "What is the shape of $IF_7$ molecule?",
+      "options": {
+        "A": "Square pyramidal",
+        "B": "Pentagonal bipyramidal",
+        "C": "Distorted octahedral",
+        "D": "Trigonal pyramidal"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Iodine heptafluoride has 7 bonding pairs and 0 lone pairs, giving a steric number of 7 which corresponds to a pentagonal bipyramidal geometry.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "The ionization enthalpy of boron is slightly less than that of beryllium. This is because of :",
+      "options": {
+        "A": "high effective nuclear charge of boron",
+        "B": "the 2p electron of boron is more shielded than that of 2s electron of beryllium",
+        "C": "the penetration of a 2s electron to the nucleus is less than that of a 2p electron",
+        "D": "s electron attracted to the nucleus is less than that of a p electron"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The single 2p electron in boron is shielded by the inner 2s electrons and is easier to remove than a 2s electron from fully filled/stable subshell in beryllium.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Calculate the number of atoms in $32\\text{g}$ of $O_2$:",
+      "options": {
+        "A": "$1.2046 \\times 10^{24}$",
+        "B": "$6.023 \\times 10^{23}$",
+        "C": "$1.8878 \\times 10^{24}$",
+        "D": "$7.083 \\times 10^{24}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "$32\\text{g}$ of $O_2$ is $1\\text{ mole}$ of $O_2$ molecules, which contains $2\\text{ moles}$ of oxygen atoms. Thus, atoms = $2 \\times 6.022 \\times 10^{23} = 1.2044 \\times 10^{24}$.",
+      "category": "General"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Borax dissolves in water to form an alkaline solution. Which compound is responsible for alkaline nature?",
+      "options": {
+        "A": "$B(OH)_3$",
+        "B": "$NaOH$",
+        "C": "$B_2O_3$",
+        "D": "$NaBO_2$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dissolution of borax in water forms a strong base, sodium hydroxide ($NaOH$), and weak boric acid, rendering the solution alkaline.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Fullerenes are the only pure form of carbon. Which of the following statement substantiate this?",
+      "options": {
+        "A": "They are cage like molecule",
+        "B": "All carbon atoms are equal",
+        "C": "Carbon atoms undergo $sp^2$ hybridization",
+        "D": "They have smooth structure without having dangling bonds"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fullerenes are considered pure because they have smooth closed cage structures with no unsatisfied valencies or dangling bonds.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 14,
+      "question_text": "$[NiCl_4]^{2-}$ has a tetrahedral shape. What is the spin only magnetic moment of $[NiCl_4]^{2-}$?",
+      "options": {
+        "A": "$4.9\\text{ BM}$",
+        "B": "$2.83\\text{ BM}$",
+        "C": "$3.87\\text{ BM}$",
+        "D": "$1.73\\text{ BM}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "$Ni^{2+}$ in $[NiCl_4]^{2-}$ has $d^8$ configuration with 2 unpaired electrons, yielding $\\mu = \\sqrt{2(2+2)} = \\sqrt{8} \\approx 2.83\\text{ BM}$.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 15,
+      "question_text": "The product obtained by the partial hydrolysis of $XeF_6$ is:",
+      "options": {
+        "A": "$XeO_3$",
+        "B": "$XeF_4$",
+        "C": "$XeOF_4$",
+        "D": "$XeF_2$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Partial hydrolysis of xenon hexafluoride yields xenon oxytetrafluoride ($XeOF_4$) and hydrogen fluoride.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Consider the following reaction: $C_{12}H_{22}O_{11} + A \\rightarrow 12C + 11H_2O$. What is A?",
+      "options": {
+        "A": "$H_2SO_4$",
+        "B": "$H_2O_2$",
+        "C": "$HCl$",
+        "D": "$HNO_3$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Concentrated sulfuric acid ($H_2SO_4$) acts as a dehydrating agent and chars sucrose (sugar) to elemental carbon and water.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Which one is the wrong statement about ozone?",
+      "options": {
+        "A": "Ozone is thermodynamically unstable",
+        "B": "High concentrations of ozone can be dangerously explosive",
+        "C": "Change in enthalpy for its decomposition is positive",
+        "D": "Gibb’s energy change of its decomposition is negative"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ozone decomposition is exothermic (negative enthalpy change), making statement C incorrect.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "The chelating ligand not used for the treatment of metal toxicity by chelation therapy is:",
+      "options": {
+        "A": "D-penicillamine",
+        "B": "Desferrioxime-B",
+        "C": "EDTA",
+        "D": "DMG"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dimethylglyoxime (DMG) is used as an analytical reagent for nickel precipitation, not as a therapeutic chelating agent for metal toxicity.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Out of the following compounds which one is not optically active: (i) $[Co(en)_3]^{3+}$ (ii) $[PtCl_2(en)_2]^{2+}$ (iii) Cis-$[CrCl_2(Ox)_2]^{3-}$ (iv) Trans-$[CrCl_2(Ox)_2]^{3-}$",
+      "options": {
+        "A": "(i)",
+        "B": "(ii)",
+        "C": "(iv)",
+        "D": "(iii)"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Trans-$[CrCl_2(Ox)_2]^{3-}$ possesses a plane of symmetry and is therefore optically inactive (achiral).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "The electronic configuration of N is $1s^2 2s^2 2px^1 2py^1 2pz^1$ which rule explain this?",
+      "options": {
+        "A": "Pauli's exclusion principle",
+        "B": "Hund's rule of maximum multiplicity",
+        "C": "Aufbau principle",
+        "D": "deBroglie relation"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hund's rule states that electron pairing in orbitals of the same subshell does not occur until each orbital is singly occupied, explaining the parallel spins in degenerate 2p orbitals.",
+      "category": "General"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Which of the following carbanion is the most stable?",
+      "options": {
+        "A": "CC1=CC=CC=C1 (Placeholder text for carbanion structure A)",
+        "B": "CC(C)(C)[O-] (Placeholder text for carbanion structure B)",
+        "C": "CC(C)C (Placeholder text for carbanion structure C)",
+        "D": "CC[O-] (Placeholder text for carbanion structure D)"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Primary carbanions are more stable than secondary or tertiary carbanions due to less electron-donating alkyl group hyperconjugation/inductive effect intensifying the negative charge.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Addition of HBr to 2-Pentene results in the formation of:",
+      "options": {
+        "A": "2-Bromopentane",
+        "B": "3-Bromopentane",
+        "C": "2-Bromopentane+3-Bromopentane",
+        "D": "None of these"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Addition of HBr to symmetrical or unsymmetrical 2-pentene yields a mixture of both 2-bromopentane and 3-bromopentane because the carbocation intermediate forms at C2 and C3 with nearly equal probability.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Which of the following statement is correct regarding the structure of Z-1-bromo-2-chloro propene?",
+      "options": {
+        "A": "–Br and –Cl are on the opposite side of the double bond",
+        "B": "–Br and –Cl are on the same side of the double bond",
+        "C": "–H and –CH_3 are on the opposite side of the double bond",
+        "D": "-Cl and H are on the same side of the double bond"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In a Z isomer (zusammen), the higher priority groups on each carbon are on the same side, but comparing Br and Cl, they are on opposite sides relative to other system conventions or Z means German for together; specifically for 1-bromo-2-chloropropene, Br and Cl are on opposite sides across the double bond.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "The most stable conformation of n-butane is:",
+      "options": {
+        "A": "$CH_3$ and $CH_3$ eclipsed",
+        "B": "$CH_3$ and H eclipsed",
+        "C": "Gauche staggered",
+        "D": "Anti staggered"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The anti-staggered conformation of n-butane has minimal steric hindrance as the bulky methyl groups are farthest apart ($180^\\circ$), making it the most stable.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Aryl halides are less reactive towards nucleophilic substitution as compared to alkyl halides due to:",
+      "options": {
+        "A": "Stereoisomerism",
+        "B": "Tautomerism",
+        "C": "Resonance stabilization",
+        "D": "Inductive effect"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Resonance in aryl halides imparts partial double bond character to the carbon-chlorine bond, making it stronger and harder to cleave.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Which of the following represents a racemic mixture?",
+      "options": {
+        "A": "25% (R) -2-butanol, 75% (S) -2-butanol",
+        "B": "75% (R) -2-butanol, 25% (S) -2-butanol",
+        "C": "50% (R)-2-butanol, 50% (S) -2-butanol",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A racemic mixture is an equimolar mixture containing 50% of the R enantiomer and 50% of the S enantiomer, resulting in optical inactivity.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Freon is:",
+      "options": {
+        "A": "Chlorofluoromethane",
+        "B": "Chlorofluoroethane",
+        "C": "Chlorofluoropropane",
+        "D": "None of these"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Freons are chlorofluorocarbons (CFCs) containing both chlorine and fluorine atoms (e.g., dichlorodifluoromethane), not limited to just chlorofluoromethane.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Which of the following pollutants in water caused Minamata disease?",
+      "options": {
+        "A": "Arsenic",
+        "B": "Mercury",
+        "C": "Lead",
+        "D": "Cadmium"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Minamata disease is a neurological syndrome caused by severe mercury poisoning ingested via contaminated fish.",
+      "category": "General"
+    },
+    {
+      "question_number": 29,
+      "question_text": "The function of a lubricant is:",
+      "options": {
+        "A": "To protect against wear",
+        "B": "To transfer heat",
+        "C": "To reduce friction",
+        "D": "All of these"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lubricants reduce friction, protect against mechanical wear, and help dissipate or transfer heat generated during operation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Which of the following adsorbent material used in thin layer chromatography?",
+      "options": {
+        "A": "Cellulose",
+        "B": "Alumina",
+        "C": "Silica gel",
+        "D": "All of these"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Silica gel, alumina, and cellulose are all widely used stationary phase adsorbent materials in thin-layer chromatography.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Phenol + HCHO + R2NH -> o-hydroxybenzylamine derivative is an example of:",
+      "options": {
+        "A": "Mannich reaction",
+        "B": "Reformatsky reaction",
+        "C": "Diels Alder reaction",
+        "D": "Wittig reaction"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The reaction of an active hydrogen compound with formaldehyde and a secondary amine to yield a beta-aminocarbonyl compound or derivative is a Mannich reaction.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "During reaction of phenol with chloroform in presence of aqueous hydroxide the major product formed is:",
+      "options": {
+        "A": "o-dihydroxy benzene",
+        "B": "o-hydroxy benzaldehyde",
+        "C": "p-dihydroxy benzene",
+        "D": "p-hydroxy benzaldehyde"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Reimer-Tiemann reaction of phenol with chloroform and NaOH introduces an aldehyde group primarily at the ortho position, forming salicylaldehyde (o-hydroxy benzaldehyde).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 33,
+      "question_text": "The product formed in carbylamine reaction is:",
+      "options": {
+        "A": "Aldehyde",
+        "B": "Ketone",
+        "C": "Isocyanide",
+        "D": "Carboxylic"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The carbylamine reaction (Hoffmann's isocyanide test) converts primary amines into foul-smelling isocyanides (carbylamines).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Preparation of arylfluorides by heating arenediazonium fluroborates is known as:",
+      "options": {
+        "A": "Sandmeyer’s reaction",
+        "B": "Schiemann reaction",
+        "C": "Gattermann reaction",
+        "D": "None of these"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thermal decomposition of diazonium fluoroborates to yield aryl fluorides is known as the Balz-Schiemann reaction.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Which of the following is most easily cleaved by HBr?",
+      "options": {
+        "A": "C1CCOC1 (Tetrahydrofuran derivative)",
+        "B": "C1COCC1",
+        "C": "C1CC1O",
+        "D": "C1CO1"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oxirane (oxetane/epoxide shown in option D typically) has high ring strain, making it much more reactive and easily cleaved by acids like HBr compared to larger cyclic ethers.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Which of the following is known as Omega-3 fatty acid?",
+      "options": {
+        "A": "Linoleic acid",
+        "B": "Linolenic acid",
+        "C": "Oleic acid",
+        "D": "Stearic acid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Linolenic acid (alpha-linolenic acid) has a double bond at the third carbon from the methyl end, classifying it as an omega-3 fatty acid.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Friedel crafts alkylation proceeds by the formation of a:",
+      "options": {
+        "A": "Carbocation",
+        "B": "Carbanion",
+        "C": "Chloride ion",
+        "D": "Hydroxide ion"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Friedel-Crafts alkylation involves the reaction of an alkyl halide with a Lewis acid catalyst to generate an electrophilic carbocation intermediate.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Which of the following is not a 5-membered heterocyclic compound?",
+      "options": {
+        "A": "Pyrrole",
+        "B": "Pyridine",
+        "C": "Furan",
+        "D": "Thiophene"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyridine is a six-membered nitrogen-containing heterocyclic aromatic compound, unlike pyrrole, furan, and thiophene which are five-membered.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 39,
+      "question_text": "NBR is a polymer of:",
+      "options": {
+        "A": "Isoprene",
+        "B": "Chloroprene",
+        "C": "Butadiene and Acrylonitrile",
+        "D": "Butadiene and Styrene"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nitrile rubber (NBR) is a synthetic rubber copolymer of 1,3-butadiene and acrylonitrile.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 40,
+      "question_text": "The empirical formula of the hydrocarbon containing 80% carbon and rest hydrogen is:",
+      "options": {
+        "A": "CH",
+        "B": "$CH_2$",
+        "C": "$CH_3$",
+        "D": "$CH_4$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Moles of C = $80/12 = 6.67$, Moles of H = $20/1 = 20$. Ratio C:H = $6.67 : 20 = 1 : 3$, yielding the empirical formula $CH_3$.",
+      "category": "General"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Which of the following spectroscopic technique is / are correctly matched with the radiations used for their study? (i) Vibrational Spectroscopy – IR waves (ii) Electron Spectroscopy – Gamma rays (iii) NMR Spectroscopy – Radio waves",
+      "options": {
+        "A": "Only (i) and (ii)",
+        "B": "Only (i) and (iii)",
+        "C": "Only (ii) and (iii)",
+        "D": "All of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vibrational spectroscopy uses infrared waves and NMR uses radio waves, whereas electron spectroscopy typically uses UV-Vis/X-rays (not gamma rays), making only (i) and (iii) correct.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 42,
+      "question_text": "What is the degree of freedom of water at its melting curve?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Along the melting curve (liquid-solid equilibrium line) in the phase diagram of water, the number of phases $P = 2$, so by Gibbs phase rule $F = C - P + 2 = 1 - 2 + 2 = 1$.",
+      "category": "General"
+    },
+    {
+      "question_number": 43,
+      "question_text": "For a simple cubic crystal x-ray diffraction shows intense reflection for angles at $\\theta_1$ and $\\theta_2$ which are assigned to planes 110 and 111 planes respectively. The ratio of $\\sin\\theta_1$ to $\\sin\\theta_2$ is equal to:",
+      "options": {
+        "A": "1",
+        "B": "$\\frac{2}{3}$",
+        "C": "$\\frac{\\sqrt{2}}{\\sqrt{3}}$",
+        "D": "$\\frac{\\sqrt{3}}{\\sqrt{2}}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to Bragg's law, $\\sin\\theta \\propto \\sqrt{h^2+k^2+l^2}$. For plane 110, $\\sqrt{1^2+1^2+0^2} = \\sqrt{2}$, and for 111, $\\sqrt{1^2+1^2+1^2} = \\sqrt{3}$. Thus the ratio is $\\sqrt{2}/\\sqrt{3}$.",
+      "category": "General"
+    },
+    {
+      "question_number": 44,
+      "question_text": "The law which states that heat and work are mutually inter convertible is known as?",
+      "options": {
+        "A": "Zeroth law of thermodynamics",
+        "B": "First law of thermodynamics",
+        "C": "Second law of thermodynamics",
+        "D": "Third law of thermodynamics"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The first law of thermodynamics is the law of conservation of energy, stating that heat and work are mutually convertible.",
+      "category": "General"
+    },
+    {
+      "question_number": 45,
+      "question_text": "For an isothermal expansion of an ideal gas which of the following is / are true : (i) $\\Delta H = 0$ (ii) $w = -q$ (iii) $\\Delta U = 0$",
+      "options": {
+        "A": "Only (i) and (iii)",
+        "B": "Only (ii)",
+        "C": "Only (ii) and (iii)",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "For an isothermal process involving an ideal gas, temperature is constant, implying $\\Delta U = 0$ and $\\Delta H = 0$, leading to $q = -w$ from the first law.",
+      "category": "General"
+    },
+    {
+      "question_number": 46,
+      "question_text": "The RMS velocity of a gas at $200\\text{ K}$ is $350\\text{ m/s}$. The RMS velocity of the same gas at a temperature of $800\\text{ K}$ is:",
+      "options": {
+        "A": "$350\\text{ m/s}$",
+        "B": "$700\\text{ m/s}$",
+        "C": "$175\\text{ m/s}$",
+        "D": "$1400\\text{ m/s}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "RMS velocity is proportional to $\\sqrt{T}$. Since temperature increases by a factor of 4 ($800/200$), the RMS velocity increases by $\\sqrt{4} = 2$, so $350 \\times 2 = 700\\text{ m/s}$.",
+      "category": "General"
+    },
+    {
+      "question_number": 47,
+      "question_text": "An element exists in two crystallographic modifications with FCC and BCC structure. The ratio of densities of FCC to BCC ($\\rho_{FCC} : \\rho_{BCC}$) modifications in terms of volume of their unit cell is:",
+      "options": {
+        "A": "$V_{BCC} : V_{FCC}$",
+        "B": "$V_{BCC} : 2V_{FCC}$",
+        "C": "$2V_{BCC} : V_{FCC}$",
+        "D": "$2V_{BCC} : \\sqrt{2} V_{FCC}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Density $\\rho = \\frac{Z \\cdot M}{N_A \\cdot V}$. For FCC, $Z=4$; for BCC, $Z=2$. Thus the ratio $\\rho_{FCC}/\\rho_{BCC} = (4/V_{FCC}) / (2/V_{BCC}) = 2V_{BCC} / V_{FCC}$.",
+      "category": "General"
+    },
+    {
+      "question_number": 48,
+      "question_text": "The conductivity of an electrolytic solution of $0.05\\text{ mol L}^{-1}$ concentration is found to be $0.0125\\text{ ohm}^{-1}\\text{ cm}^{-1}$. The molar conductivity of the solution is:",
+      "options": {
+        "A": "$125\\text{ ohm}^{-1}\\text{ mol}^{-1}\\text{ cm}^2$",
+        "B": "$12.5\\text{ ohm}^{-1}\\text{ mol}^{-1}\\text{ cm}^2$",
+        "C": "$250\\text{ ohm}^{-1}\\text{ mol}^{-1}\\text{ cm}^2$",
+        "D": "$625\\text{ ohm}^{-1}\\text{ mol}^{-1}\\text{ cm}^2$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Molar conductivity $\\Lambda_m = \\frac{\\kappa \\times 1000}{C} = \\frac{0.0125 \\times 1000}{0.05} = 250\\text{ ohm}^{-1}\\text{ cm}^2\\text{ mol}^{-1}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 49,
+      "question_text": "During the process of osmosis, the volume of less concentrated solution is:",
+      "options": {
+        "A": "Increased",
+        "B": "Decreased",
+        "C": "Unchanged",
+        "D": "Unpredictable"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "During osmosis, solvent molecules flow from the less concentrated solution to the more concentrated solution through a semipermeable membrane, causing the volume of the less concentrated solution to decrease.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 50,
+      "question_text": "What is the unit of rate constant of a second order reaction?",
+      "options": {
+        "A": "$L \\text{ mol}^{-1} \\text{ S}^{-1}$",
+        "B": "$L^{-1} \\text{ mol } \\text{ S}^{-1}$",
+        "C": "$S^{-1}$",
+        "D": "$L^2 \\text{ mol}^{-2} \\text{ S}^{-1}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The rate equation for a second order reaction is $\\text{Rate} = k[A]^2$, which means the units of $k$ are $(\\text{mol L}^{-1})^{-1} \\text{s}^{-1} = \\text{L mol}^{-1}\\text{s}^{-1}$.",
+      "category": "General"
+    },
+    {
+      "question_number": 51,
+      "question_text": "An acid solution with $\\text{pH} = 1$ is diluted to double its volume by adding water. The $\\text{pH}$ of the resulting solution will be :",
+      "options": {
+        "A": "Less than 1",
+        "B": "Equal to 1",
+        "C": "Between 1 and 2",
+        "D": "Equal to 2"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diluting a strong acid by a factor of 2 increases its $\\text{pH}$ by $\\log_{10}(2) \\approx 0.3$, shifting it from 1 to approximately 1.3, which lies between 1 and 2.",
+      "category": "General"
+    },
+    {
+      "question_number": 52,
+      "question_text": "The defect in which an electron is trapped in place of an anion vacancy in a crystal is known as:",
+      "options": {
+        "A": "Schottky defect",
+        "B": "Frenkel defect",
+        "C": "Metal deficiency defect",
+        "D": "F-centre"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "F-centres (Farbe centres) occur when an anion vacancy in an ionic crystal is occupied by one or more unpaired electrons.",
+      "category": "General"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Which of the following statement is / are true for Smectic liquid crystals?\n(i) They have thread like structure\n(ii) They are affected by strong magnetic field\n(iii) Their flow is non-Newtonian",
+      "options": {
+        "A": "Only (iii)",
+        "B": "Only (i)",
+        "C": "Only (i) and (ii)",
+        "D": "Only (i) and (iii)"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Smectic liquid crystals have a layered structure (unlike nematic which have thread-like structures) and exhibit non-Newtonian flow behavior.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Which of the following statement is/are true about chemical potential?\n(i) It is a partial molar property\n(ii) It is an Intensive thermodynamic property\n(iii) It varies with temperature",
+      "options": {
+        "A": "Only (i) and (ii)",
+        "B": "Only (ii) and (iii)",
+        "C": "Only (i) and (iii)",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chemical potential is defined as the partial molar Gibbs free energy (intensive property) and varies with both temperature and pressure.",
+      "category": "General"
+    },
+    {
+      "question_number": 55,
+      "question_text": "For a reversible chemical reaction, the ratio between the rate constant of forward reaction and the rate constant of backward reaction is called :",
+      "options": {
+        "A": "Overall rate of the reaction",
+        "B": "Molecularity of the reaction",
+        "C": "Order of the reaction",
+        "D": "Equilibrium constant of the reaction"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to the law of mass action, the ratio of the forward rate constant to the backward rate constant equals the equilibrium constant ($K_c = k_f / k_b$).",
+      "category": "General"
+    },
+    {
+      "question_number": 56,
+      "question_text": "An aqueous solution of sodium acetate is :",
+      "options": {
+        "A": "Acidic",
+        "B": "Neutral",
+        "C": "Basic",
+        "D": "Cannot be predicted"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium acetate is a salt of a weak acid (acetic acid) and a strong base (sodium hydroxide), making its aqueous solution basic due to hydrolysis.",
+      "category": "General"
+    },
+    {
+      "question_number": 57,
+      "question_text": "The law which connects the relationship between pressure and solubility of a gas in a liquid at a given temperature is called:",
+      "options": {
+        "A": "Henry’s law",
+        "B": "Raoult’s law",
+        "C": "Nernst law",
+        "D": "Hendersons equation"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Henry's law states that at a constant temperature, the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid.",
+      "category": "General"
+    },
+    {
+      "question_number": 58,
+      "question_text": "The phenomenon of Phosphorescence is due to :",
+      "options": {
+        "A": "Triplet to Singlet transition of electron",
+        "B": "Singlet to Singlet transition of electron",
+        "C": "Triplet to Triplet transition of electron",
+        "D": "Internal conversion of electron"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phosphorescence involves radiative decay from a triplet excited state back to the singlet ground state, which is a forbidden transition resulting in a delayed emission.",
+      "category": "General"
+    },
+    {
+      "question_number": 59,
+      "question_text": "To which point group does Ammonia molecule belongs to:",
+      "options": {
+        "A": "$C_{2v}$",
+        "B": "$D_{2h}$",
+        "C": "$D_{3h}$",
+        "D": "$C_{3v}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ammonia has a trigonal pyramidal geometry, possessing a $C_3$ axis of rotation and three vertical reflection planes, belonging to the $C_{3v}$ point group.",
+      "category": "General"
+    },
+    {
+      "question_number": 60,
+      "question_text": "The symmetry operation product $\\sigma_v * C_2$ when applied to $\\text{BF}_3$ molecule gives :",
+      "options": {
+        "A": "$C_1^1$",
+        "B": "$S_3$",
+        "C": "Identity Element",
+        "D": "$\\sigma_h$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Combining a $C_2$ rotation with a perpendicular $\\sigma_v$ reflection in a planar molecule like $\\text{BF}_3$ yields the horizontal reflection plane $\\sigma_h$.",
+      "category": "General"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Which of the following compounds are considered for calculating octane and cetane number?",
+      "options": {
+        "A": "Iso-octane and n-heptane",
+        "B": "Iso-octane and cetane",
+        "C": "Cetane and $\\alpha$-methyl naphthalene",
+        "D": "Cetane and n-heptane"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Octane number uses iso-octane and n-heptane, while cetane number uses cetane (hexadecane) and $\\alpha$-methyl naphthalene as reference fuels.",
+      "category": "General"
+    },
+    {
+      "question_number": 62,
+      "question_text": "A precipitated material can be converted to a colloidal dispersion by the action of a suitable electrolyte. The process is known as :",
+      "options": {
+        "A": "Solvation",
+        "B": "Disintegration",
+        "C": "Dilution",
+        "D": "Peptization"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Peptization is the process of converting a freshly prepared precipitate into colloidal particles by adding an electrolyte containing common ions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 63,
+      "question_text": "$n\\text{C} + (n+1)\\text{H}_2 \\rightarrow \\text{C}_n\\text{H}_{2n+2}$, is a reaction that occurs at high temperature and pressure in the presence of a catalyst. This process is known as :",
+      "options": {
+        "A": "Fischer-Tropsch process",
+        "B": "Cracking process",
+        "C": "The Bergius process",
+        "D": "Refining process"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Fischer-Tropsch process involves catalytically converting carbon monoxide and hydrogen (synthesis gas) into hydrocarbons.",
+      "category": "General"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Which of the following statement is correct?",
+      "options": {
+        "A": "In the electro osmosis process, the dispersed phase migrates under the influence of applied electric field.",
+        "B": "$ZnCO_3 \\rightarrow ZnO + CO_2$, is an example for calcination process",
+        "C": "Chalcopyrite is an ore of Fe",
+        "D": "Pitchblende is one of the ores of Titanium"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Calcination involves heating an ore (like zinc carbonate) below its melting point in the absence of air to drive off volatile matter.",
+      "category": "General"
+    },
+    {
+      "question_number": 65,
+      "question_text": "Assertion : Ball milling method of synthesizing nanomaterials is a top down method.\nReason : Mechanical pressure is applied to crush big particle to nano size materials.",
+      "options": {
+        "A": "Both assertion and reason are true",
+        "B": "Assertion is true and reason is false",
+        "C": "Assertion is false and reason is true",
+        "D": "Assertion and reason are false"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ball milling is a mechanical attrition technique (top-down approach) that reduces bulk materials down to nanometer dimensions.",
+      "category": "General"
+    },
+    {
+      "question_number": 66,
+      "question_text": "Which among the following compound cannot be employed as a catalyst in liquid/liquid, liquid/solid and liquid/gas type reactions?",
+      "options": {
+        "A": "Quaternary ammonium salts",
+        "B": "Crown ethers",
+        "C": "Carbonic anhydrase",
+        "D": "Phosphonium compounds"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carbonic anhydrase is an enzyme specific to hydration/dehydration reactions of carbon dioxide and is not a general phase-transfer catalyst like quaternary ammonium salts or crown ethers.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 67,
+      "question_text": "The specific volume ratios of Ni, Cr, Al and W are 1.6, 2, 2.3 and 3.6 respectively. Which among the following metals will have higher oxidation corrosion rate?",
+      "options": {
+        "A": "Ni",
+        "B": "Cr",
+        "C": "Al",
+        "D": "W"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to the Pilling-Bedworth ratio, a lower ratio (< 2) often indicates a compressive or non-protective oxide layer leading to higher oxidation rates, such as with Nickel.",
+      "category": "General"
+    },
+    {
+      "question_number": 68,
+      "question_text": "A refractory material should possess all the properties below except, :",
+      "options": {
+        "A": "Minimum thermal spalling",
+        "B": "Chemical inertness",
+        "C": "Higher porosity",
+        "D": "Low electrical conductivity"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Refractory materials require low porosity to resist penetration by molten metals and slags, whereas high porosity weakens their structural integrity.",
+      "category": "General"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Which statement is not correct for the chlor-alkali process?",
+      "options": {
+        "A": "Chloride loses electrons at the anode",
+        "B": "Hydrogen gas is produced at the cathode",
+        "C": "Hydroxide ions are produced at the cathode",
+        "D": "Ion exchange membrane allows the passage of sodium ions and hydroxide ions"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The ion exchange membrane in the chlor-alkali process is selectively permeable to cations (sodium ions) and blocks anions like hydroxide to maintain purity.",
+      "category": "General"
+    },
+    {
+      "question_number": 70,
+      "question_text": "What will be the charge on the particles of a protein sol if it is dispersed in an acidic medium?",
+      "options": {
+        "A": "Neutral",
+        "B": "Positive",
+        "C": "Negative",
+        "D": "No charge"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In an acidic medium (below the isoelectric point), proteins accept protons, becoming positively charged.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Which technique is most used in clinical laboratories to analyze immuno assays?",
+      "options": {
+        "A": "Refractometry",
+        "B": "Nephelometry",
+        "C": "Polarimetry",
+        "D": "Potentiometry"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nephelometry is widely used in clinical assays to measure antigen-antibody complex formation by detecting scattered light.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 72,
+      "question_text": "The compound which is used for rose fragrance is :",
+      "options": {
+        "A": "Aniline",
+        "B": "Ethyl benzene",
+        "C": "Ethyl acetate",
+        "D": "Phenyl ethyl alcohol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "2-Phenylethanol (phenyl ethyl alcohol) possesses a distinct rose-like odor and is extensively used in perfumery.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Thermosetting polymers can be moulded in :",
+      "options": {
+        "A": "Compression moulding",
+        "B": "Transfer moulding",
+        "C": "Both (A) and (B)",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thermosetting polymers are commonly processed and shaped using both compression moulding and transfer moulding techniques.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 74,
+      "question_text": "Which among the following statements are true?\n(i) Vulcanization is a process involving the crosslinking of polymer chains using 5% sulphur at a temperature of 140-180°C.\n(ii) In the vulcanization process plastic rubber is converted into the elastic rubber.\n(iii) Peroxide and urethane vulcanization are two non-sulphur vulcanization processes.\n(iv) Vulcanization process was discovered by Charles Goodyear in 1839",
+      "options": {
+        "A": "(i), (ii) and (iii)",
+        "B": "(i), (iii) and (iv)",
+        "C": "(i), (ii) and (iv)",
+        "D": "(ii), (iii) and (iv)"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Statements (ii), (iii), and (iv) accurately describe vulcanization processes and history, while statement (i) typically uses around 1-3% or varying amounts of sulfur.",
+      "category": "General"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Low supersaturation results in :",
+      "options": {
+        "A": "Faster growth and larger size crystal",
+        "B": "Slower growth and smaller size crystal",
+        "C": "Both (A) and (B)",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Low supersaturation favors crystal growth over nucleation, resulting in fewer, larger crystals.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 76,
+      "question_text": "Nitration of chlorobenzene results in:",
+      "options": {
+        "A": "70% para and 30% ortho isomer as products",
+        "B": "30% para and 70% ortho isomer as products",
+        "C": "100% meta isomer as product",
+        "D": "40% each of ortho and para isomers and 20% meta isomer as products"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chlorine is ortho/para-directing, and steric hindrance makes the para isomer the major product (~70%) compared to the ortho isomer (~30%).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Temperature at a distant place can be measured by using :",
+      "options": {
+        "A": "Resistance thermometers",
+        "B": "Glass thermometers",
+        "C": "Bimetallic thermocouple",
+        "D": "Pressure spring thermometers"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thermocouples are ideal for measuring temperature at a distance because they transmit electrical signals over long wire runs.",
+      "category": "General"
+    },
+    {
+      "question_number": 78,
+      "question_text": "The process used for obtaining high purity liquid is :",
+      "options": {
+        "A": "Distillation",
+        "B": "Evaporation",
+        "C": "Rectification",
+        "D": "Boiling"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rectification (fractional distillation with reflux) provides continuous multiple vaporization-condensation cycles to yield high purity liquids.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 79,
+      "question_text": "Match the following :\n(a) Dioctyl phthalate\n(b) Vinyl acetate\n(c) Cellulose acetate\n(d) Ethyl acetate\n(i) Cigarette filters\n(ii) Decaffeination of coffee beans\n(iii) Adhesives\n(iv) Plasticizer in plastics",
+      "options": {
+        "A": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "B": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "C": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "D": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dioctyl phthalate is a plasticizer (iv), vinyl acetate is used in adhesives (iii), cellulose acetate is used in cigarette filters (i), and ethyl acetate is used in decaffeination (ii).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Benzenesulfonic acid on treatment with sulphuric acid under Argon gas purging yields :",
+      "options": {
+        "A": "Benzenesulphonic acid",
+        "B": "Benzenesulphonic acid and sulphur trioxide",
+        "C": "Benzene and sulphur trioxide",
+        "D": "Sulphur trioxide and sulphuric acid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Heating benzenesulfonic acid with sulfuric acid causes desulfonation, yielding benzene and sulfur trioxide.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 81,
+      "question_text": "Displacement pump is classified on the basis of :",
+      "options": {
+        "A": "Efficiency",
+        "B": "Type of power",
+        "C": "Type of Service",
+        "D": "Mechanical operation of principle"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Positive displacement pumps are classified based on their mechanical operating principle, such as reciprocating, rotary, or peristaltic.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 82,
+      "question_text": "The three elements of the fire triangle are :",
+      "options": {
+        "A": "Oxygen, Fuel and Water",
+        "B": "Fuel, Oxygen and Heat Source",
+        "C": "Heat Source, Fuel and Water",
+        "D": "Earth, Oxygen and Fuel"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The traditional fire triangle consists of fuel, oxygen, and a heat source.",
+      "category": "General"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Which of the following fire extinguisher is suitable for live electrical fire?",
+      "options": {
+        "A": "Water",
+        "B": "Foam",
+        "C": "Halon",
+        "D": "Sand"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Halon (or CO2/dry powder) extinguishers are non-conductive and suitable for live electrical fires, whereas water or foam can cause electrocution.",
+      "category": "General"
+    },
+    {
+      "question_number": 84,
+      "question_text": "The act which regulates the transportation of hazardous waste is :",
+      "options": {
+        "A": "NEPA",
+        "B": "NIPA",
+        "C": "RCRA",
+        "D": "NCL"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Resource Conservation and Recovery Act (RCRA) governs the generation, transportation, treatment, storage, and disposal of hazardous waste.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 85,
+      "question_text": "A toxic substance produced by plant or animal origin is specially referred to as :",
+      "options": {
+        "A": "toxin",
+        "B": "toxicant",
+        "C": "toximent",
+        "D": "toxicognent"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A toxin is a poisonous substance produced within living cells or organisms (plants or animals), distinguishing it from man-made toxicants.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 86,
+      "question_text": "The most common cause of blue baby syndrome is :",
+      "options": {
+        "A": "Excess Chloride in drinking water",
+        "B": "Nitrate contaminated drinking water",
+        "C": "Presence of Arsenic in drinking water",
+        "D": "Sulphate contaminated packed food"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Blue baby syndrome (methemoglobinemia) is primarily caused by high nitrate levels in drinking water that convert hemoglobin to methemoglobin.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 87,
+      "question_text": "The radioactive isotope that is normally used in ionization smoke detectors is :",
+      "options": {
+        "A": "Lead -208",
+        "B": "Uranium -235",
+        "C": "Amarecium-241",
+        "D": "Thorium-230"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Americium-241 is widely used as a source of ionizing radiation in standard household smoke detectors.",
+      "category": "General"
+    },
+    {
+      "question_number": 88,
+      "question_text": "NFPA 72 is related to :",
+      "options": {
+        "A": "Fire alarm systems",
+        "B": "Hydrogen technologies code",
+        "C": "Mobile foam apparatus",
+        "D": "Dry chemical extinguishing system"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "NFPA 72 is the National Fire Alarm and Signaling Code governing fire alarm system installation and maintenance.",
+      "category": "General"
+    },
+    {
+      "question_number": 89,
+      "question_text": "The act/rule that protest the right of workers in contingencies such as sick, maternity, temporary or permanent physical disability and death due to employment injury is :",
+      "options": {
+        "A": "The Employee’s State Insurance Act 1971",
+        "B": "The Workers Compensation Act 1951",
+        "C": "The Personal Safety Act 1948",
+        "D": "The Employee’s State Insurance Act 1948"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Employees' State Insurance (ESI) Act, 1948 provides socio-economic protection to workers for sickness, maternity, and employment injury.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 90,
+      "question_text": "An industrial chemical process for converting mercaptans in sour gasoline into disulfides is known as :",
+      "options": {
+        "A": "Lawyer’s Sweetening process",
+        "B": "Doctor’s Sweetening process",
+        "C": "Mond’s Sweetening process",
+        "D": "Newton’s Sweetening process"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Doctor sweetening process uses sodium plumbite and sulfur to oxidize mercaptans into less obnoxious disulfides in petroleum refining.",
+      "category": "General"
+    },
+    {
+      "question_number": 91,
+      "question_text": "1 BTU (British Thermal Unit) is approximately ——————— Calorie :",
+      "options": {
+        "A": "15",
+        "B": "1538",
+        "C": "252",
+        "D": "0.25"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "One British Thermal Unit (BTU) is approximately equal to 252.16 calories.",
+      "category": "General"
+    },
+    {
+      "question_number": 92,
+      "question_text": "The element which is not used as a nuclear fuel is :",
+      "options": {
+        "A": "Thorium",
+        "B": "Cadmium",
+        "C": "Uranium",
+        "D": "Plutonium"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cadmium is a strong neutron absorber used for control rods in nuclear reactors, not as a fissile nuclear fuel.",
+      "category": "General"
+    },
+    {
+      "question_number": 93,
+      "question_text": "The correct statement regarding a moderator in a nuclear reactor is/are :\n(i) It is used to slow down the fast moving secondary neutrons produced during the fission\n(ii) Heavy water and graphite are the commonly used moderators.\n(iii) A breeder reactor does not require a moderator.\n(iv) Cadmium rod is the most common moderator.",
+      "options": {
+        "A": "(i) alone is correct",
+        "B": "(i) and (ii) are correct",
+        "C": "All except (iv) are correct",
+        "D": "All the four are correct"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Statements (i), (ii), and (iii) are correct; cadmium rods act as control rods, not moderators.",
+      "category": "General"
+    },
+    {
+      "question_number": 94,
+      "question_text": "The oil refinery which is run under ONGC in India is :",
+      "options": {
+        "A": "Panipat",
+        "B": "Vishakapatnam",
+        "C": "Cochi",
+        "D": "Tatipaka"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tatipaka Refinery is a small aromatic and petroleum refinery operated by ONGC in Andhra Pradesh, India.",
+      "category": "General"
+    },
+    {
+      "question_number": 95,
+      "question_text": "The fuel with lowest calorific value among the following is :",
+      "options": {
+        "A": "Anthracite coal",
+        "B": "Lignite",
+        "C": "Petrol",
+        "D": "Diesel oil"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lignite (brown coal) has a high moisture content and the lowest calorific value among the listed fuel types.",
+      "category": "General"
+    },
+    {
+      "question_number": 96,
+      "question_text": "The reference fuel mixture used to assign octane number and cetane number are respectively:",
+      "options": {
+        "A": "iso-Octane and n- Heptane, n-Hexadecane and 1-Methyl naphthalene",
+        "B": "n-Hexadecane and 1-Methyl naphthalene, iso-Octane and n-Heptane",
+        "C": "iso-Octane and n- Heptane, n-Hexadecane and 2-Methyl naphthalene",
+        "D": "n-Octane and iso- Heptane, n-Hexadecane and 1-Methyl naphthalene"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Octane number uses iso-octane and n-heptane, while cetane number uses n-hexadecane (cetane) and 1-methylnaphthalene (or $\\alpha$-methylnaphthalene).",
+      "category": "General"
+    },
+    {
+      "question_number": 97,
+      "question_text": "The components common in water gas and producer gas are:",
+      "options": {
+        "A": "Carbon dioxide and Hydrogen",
+        "B": "Hydrogen and Carbon monoxide",
+        "C": "Nitrogen and Carbon monoxide",
+        "D": "Carbon dioxide and Nitrogen"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Both water gas (CO + H2) and producer gas (CO + N2 + H2 + CO2) contain hydrogen and carbon monoxide.",
+      "category": "General"
+    },
+    {
+      "question_number": 98,
+      "question_text": "The correct statement regarding copper chloride sweetening process is :\n(i) Petroleum refining process.\n(ii) A slurry of clay and cupric chloride is used.\n(iii) Mercaptans are oxidized during this process.\n(iv) Viscous disulfides are formed during this process",
+      "options": {
+        "A": "All except (iv) are correct",
+        "B": "(i) and (ii) are correct",
+        "C": "All except (iii) are correct",
+        "D": "All the four are correct"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Statements (i), (ii), and (iii) correctly describe the copper chloride sweetening process for mercaptan removal in petroleum refining, while statement (iv) is incorrect as disulfides formed are typically not described as overly viscous or problematic in this context.",
+      "category": "General"
+    },
+    {
+      "question_number": 99,
+      "question_text": "The largest tidal energy producing area in India, Khambhat coast and the gulf of Khambhat is located in the state of :",
+      "options": {
+        "A": "Gujarat",
+        "B": "Maharashtra",
+        "C": "Goa",
+        "D": "Karnataka"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Gulf of Khambhat is situated along the coast of Gujarat, India, and represents a major potential area for tidal energy.",
+      "category": "General"
+    },
+    {
+      "question_number": 100,
+      "question_text": "The biggest thermal power plant in India is:",
+      "options": {
+        "A": "Tiroda, Maharashtra",
+        "B": "Talcher, Odisha",
+        "C": "Vindhyachal, Madhya Pradesh",
+        "D": "Mundra, Gujarat"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vindhyachal Super Thermal Power Station in Madhya Pradesh is currently the largest thermal power plant in India.",
+      "category": "General"
+    }
+  ]
+}

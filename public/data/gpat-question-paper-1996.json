@@ -1,0 +1,201 @@
+{
+  "exam_title": "gpat-question-paper-1996",
+  "total_questions": 13,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Clonidine hydrochloride - IP is",
+      "options": {
+        "A": "Monoamine oxidase inhibitor which contains in imidazoline ring system.",
+        "B": "Arterial venous vasodilator which contains in imidazoline ring system.",
+        "C": "Monoamine oxidase inhibitor which contains in Pyrimidine ring system.",
+        "D": "Monoamine oxidase inhibitor which contains in Phthalazine ring system."
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Clonidine is an alpha-2 adrenergic agonist acting as an arterial/venous vasodilator and contains an imidazoline ring.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Borntrager's test is performed for identification of",
+      "options": {
+        "A": "Digitoxin",
+        "B": "Reserpine",
+        "C": "Digoxin",
+        "D": "Dianthrone of rhein"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Borntrager's test is a standard chemical test used for the detection of anthraquinone glycosides like those containing dianthrone of rhein.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 3,
+      "question_text": "The electrode system employed in potentiometric titrations of acids by Non-aqueous method in basic solvents is",
+      "options": {
+        "A": "Glass - Calomel electrodes",
+        "B": "Antimony - Glass electrodes",
+        "C": "Glass - Antimony electrodes",
+        "D": "Antimony Calomel electrodes"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Glass-calomel electrode system is typically used for non-aqueous titrations of weak acids and bases.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "The drug NALAXONE",
+      "options": {
+        "A": "Produces morphine like activity",
+        "B": "Produces respiratory depression",
+        "C": "Induces constipation",
+        "D": "Precipitates withdrawal symptoms in morphine"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Naloxone is an opioid receptor antagonist.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Phenyl alanine, Ornithine and methionine are involved in the biogenesis of:",
+      "options": {
+        "A": "Lysergic acid",
+        "B": "Reserpine",
+        "C": "L-Hyosyamine",
+        "D": "Papaverine"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "L-hyosyamine (an alkaloid) biogenesis involves precursors including phenylalanine and ornithine.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 6,
+      "question_text": "The area under the serum concentration time-curve represents the",
+      "options": {
+        "A": "Biologic half life of the drug",
+        "B": "Amount of drug is cleared by the kidneys",
+        "C": "Amount of drug absorbed",
+        "D": "Amount of drug excreted in the urine"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "AUC represents the total systemic exposure and extent of absorption of a drug.",
+      "category": "Pharmacokinetics"
+    },
+    {
+      "question_number": 7,
+      "question_text": "An interference filter consist of",
+      "options": {
+        "A": "An iron plate coated with selenium",
+        "B": "A layer of silver deposited on glass coated with $MG F_2$",
+        "C": "A Tungsten plated coated with silver oxide",
+        "D": "A solid sheet of glass coloured by pigment"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Interference filters use thin dielectric films like magnesium fluoride between semitransparent silver layers.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which of the following is the first process that must occur before a drug can became available for absorption from a tablet dosage form?",
+      "options": {
+        "A": "Dissolution of the drug in the G. I. fluids",
+        "B": "Dissolution of the drug in the epithelium",
+        "C": "Ionistation of the drug",
+        "D": "Disintegration of the tablet"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Disintegration must precede dissolution and absorption for solid oral dosage forms.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Propranolol",
+      "options": {
+        "A": "Reduces myocardial oxygen consumption",
+        "B": "$\\beta-1$ receptor selective blocker",
+        "C": "Has intrinsic sympathomimetics activity",
+        "D": "Is a hypotensive agent in patients with normal blood pressure"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Propranolol is a non-selective beta blocker that reduces myocardial oxygen demand.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 10,
+      "question_text": "2-bis (2 chlorethyl) amino pre hydro 1, 3, 2 oxazaphosphorinan is an",
+      "options": {
+        "A": "Anti-metabolite",
+        "B": "Alkylating agent",
+        "C": "Anti-tubercular agent",
+        "D": "Anti-arrhythmic drug"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "This chemical description corresponds to cyclophosphamide, which is an alkylating agent.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 11,
+      "question_text": "A moiety of a molecule responsible for selective absorption of radiation in a specific range is called as",
+      "options": {
+        "A": "Auxochrome",
+        "B": "Catalyst",
+        "C": "Anti-tubercular agent",
+        "D": "Anti-arrhythmic drug"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Chromophores and auxochromes define radiation absorption characteristics.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Chlordiazepoxide is synthesized from",
+      "options": {
+        "A": "m-Chloroaniline and Benzyl chloride",
+        "B": "p-Chloroaniline and Benzyl chloride",
+        "C": "p-Chloroaniline and Benzedrine",
+        "D": "p-Nitroaniline and Benzyl chloride"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Chlordiazepoxide synthesis uses substituted aniline derivatives like p-chloroaniline.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Tablets are placed into a coating chamber and hot air is introduced through the bottom of the chamber. Coating solution is applied through an atomizing nozzle from the upper end of the chamber. This technique is called:",
+      "options": {
+        "A": "Sealing before sugar coating",
+        "B": "Coating by air suspension",
+        "C": "Spray-pan coating",
+        "D": "Chamber coating"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Air suspension coating (Wurster process) utilizes upward-flowing air to suspend and coat particles.",
+      "category": "Pharmaceutics"
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "exam_title": "Pharmacist gr 2 ims 166-2016",
+  "total_questions": 80,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Chemical composition of asbestos:",
+      "options": {
+        "A": "Cellulose",
+        "B": "Aluminosilicate",
+        "C": "Silica",
+        "D": "Carbon dioxide"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Asbestos is a group of naturally occurring silicate minerals composed of thin, fibrous crystals known chemically as aluminosilicates.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which among the following is classified as folate antagonist:",
+      "options": {
+        "A": "Methotrexate",
+        "B": "Quinine",
+        "C": "Primaquine",
+        "D": "Chloroquine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methotrexate is a well-known antimetabolite and antifolate drug used in cancer chemotherapy and autoimmune diseases.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Gynaecomastia may be the possible side effects of one of the following drug:",
+      "options": {
+        "A": "Ketoconazole",
+        "B": "Bromocriptine",
+        "C": "Clotrimazole",
+        "D": "Sulphonamide"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ketoconazole inhibits steroidogenesis, including testosterone synthesis, which can lead to gynecomastia as a side effect.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 4,
+      "question_text": "When at least $51\\%$ shares of business organisation are in the hands of government it is called:",
+      "options": {
+        "A": "Public corporation",
+        "B": "Government company",
+        "C": "Public company",
+        "D": "Departmental organisation"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A government company is defined as any company in which not less than $51\\%$ of the paid-up share capital is held by the government.",
+      "category": "General"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Myristicin is a chemical constituent of:",
+      "options": {
+        "A": "Cinnamon",
+        "B": "Senna",
+        "C": "Nutmeg",
+        "D": "Digitalis"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Myristicin is a naturally occurring organic compound found in nutmeg essential oil.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 6,
+      "question_text": "A cationic surfactant is:",
+      "options": {
+        "A": "Polysorbate 80",
+        "B": "Cetrimide",
+        "C": "Sodium dodecanoate",
+        "D": "Sorbitan monolaurate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cetrimide is a cationic surfactant commonly used as an antiseptic and disinfectant.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Which type of mill is used for grinding sulphonamide drug?",
+      "options": {
+        "A": "Ball mill",
+        "B": "Cutter mill",
+        "C": "Hammer mill",
+        "D": "Fluid energy mill"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fluid energy mills (jet mills) are used for ultra-fine grinding of heat-sensitive substances like certain sulfonamides.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Mail order business is:",
+      "options": {
+        "A": "Wholesale trade",
+        "B": "Retail trade by post",
+        "C": "Direct selling trade",
+        "D": "Retail trade"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mail order business is a form of retailing where goods are sold through the mail or postal service.",
+      "category": "General"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Which drug is used for the detection of boric acid?",
+      "options": {
+        "A": "Turmeric",
+        "B": "Benzoin",
+        "C": "Myrrh",
+        "D": "Tolu balsam"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Turmeric paper contains curcumin, which reacts with boric acid to form a reddish-brown complex (rosocyanin), used in detection.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 10,
+      "question_text": "A strong dog poison is:",
+      "options": {
+        "A": "Brucine",
+        "B": "Strychnine",
+        "C": "Ephedrine",
+        "D": "Hyoscyamine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Strychnine is an extremely toxic alkaloid traditionally used as a pesticide, notably against vertebrates such as stray dogs.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 11,
+      "question_text": "The ability of the firm to meet its current liability is measured by:",
+      "options": {
+        "A": "Solvency ratio",
+        "B": "Liquidity ratio",
+        "C": "Activity ratio",
+        "D": "Profitability ratio"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Liquidity ratios measure a company's ability to pay off its short-term debts and current liabilities.",
+      "category": "General"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Drugs which increases respiratory tract fluid is called:",
+      "options": {
+        "A": "Expectorant",
+        "B": "Linctuses",
+        "C": "Laxatives",
+        "D": "Syrups"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Expectorants are pharmacological agents that increase bronchial secretion and respiratory tract fluid.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Precursor glycoside of digitoxin:",
+      "options": {
+        "A": "Purpurea glycoside A",
+        "B": "Purpurea glycoside B",
+        "C": "Lanatoside A",
+        "D": "Lanatoside B"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Purpurea glycoside A is the primary biosynthetic precursor to digitoxin found in Digitalis purpurea.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Storage condition for dried plasma:",
+      "options": {
+        "A": "In a cool place",
+        "B": "In a well closed container",
+        "C": "At a temperature not exceeding $25^{\\circ}\\text{C}$",
+        "D": "Between $2^{\\circ}\\text{C}$ and $10^{\\circ}\\text{C}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dried human plasma is typically stored at temperatures not exceeding $25^{\\circ}\\text{C}$ to maintain stability.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Aloe contain barbaloin which is a:",
+      "options": {
+        "A": "C-glycoside",
+        "B": "S-glycoside",
+        "C": "O-glycoside",
+        "D": "H-glycoside"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Barbaloin (aloin) is an anthraquinone derivative containing a C-glycosidic bond.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 16,
+      "question_text": "An example of cholinomimetic alkaloid is:",
+      "options": {
+        "A": "Pilocarpine",
+        "B": "Methacholine",
+        "C": "Neostigmine",
+        "D": "Carbachol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pilocarpine is a naturally occurring plant alkaloid that acts as a direct-acting cholinomimetic.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Beta blocker with membrane stabilizing activity:",
+      "options": {
+        "A": "Propranolol",
+        "B": "Timolol",
+        "C": "Atenolol",
+        "D": "Esmolol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Propranolol possesses intrinsic local anesthetic or membrane-stabilizing activity among beta-blockers.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 18,
+      "question_text": "A journal is a book of:",
+      "options": {
+        "A": "Original entry",
+        "B": "Secondary entry",
+        "C": "Cash transaction",
+        "D": "Petty cash transaction"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A journal is known as a book of original entry where financial transactions are first recorded.",
+      "category": "General"
+    },
+    {
+      "question_number": 19,
+      "question_text": "A resin of animal origin:",
+      "options": {
+        "A": "Benzoin",
+        "B": "Shellac",
+        "C": "Glycoresin",
+        "D": "Gujuresinol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Shellac is a natural resin secreted by the female lac insect.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 20,
+      "question_text": "All the particles passes through a sieve No. 44 and not more than $40\\%$ through a sieve No. 85 called as:",
+      "options": {
+        "A": "Coarse particles",
+        "B": "Moderately coarse particles",
+        "C": "Moderately fine particles",
+        "D": "Fine particle"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Moderately fine powder standards require all particles to pass through sieve No. 44 and not more than $40\\%$ through sieve No. 85.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Vein Islet number of Digitalis Purpurea:",
+      "options": {
+        "A": "8-12",
+        "B": "15-26",
+        "C": "2-5.5",
+        "D": "19-23"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The vein islet number for Digitalis purpurea typically ranges from 15 to 26.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Plant constituent used in the preparation of mosquito coils:",
+      "options": {
+        "A": "Rauwolfia",
+        "B": "Ergot",
+        "C": "Pyrethrum",
+        "D": "Aconite"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyrethrins extracted from Pyrethrum flowers are widely used as natural insecticides in mosquito coils.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Richest source of Lecithin:",
+      "options": {
+        "A": "Meat",
+        "B": "Egg yolk",
+        "C": "Fish",
+        "D": "Milk"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Egg yolk and soybeans are well-known rich natural sources of lecithin (phosphatidylcholine).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Mevalonic acid formation is catalysed by the enzyme:",
+      "options": {
+        "A": "Acetyl CoA",
+        "B": "Mevalonate kinase",
+        "C": "HMG CoA reductase",
+        "D": "Phosphomevalonate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HMG-CoA reductase catalyzes the rate-limiting step in cholesterol biosynthesis, reducing HMG-CoA to mevalonate.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Enzyme referred as spreading factor:",
+      "options": {
+        "A": "Heparin",
+        "B": "Chondriotin",
+        "C": "Hyaluronidase",
+        "D": "Iduronic acid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hyaluronidase is known as the spreading factor because it degrades hyaluronic acid, increasing tissue permeability.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 26,
+      "question_text": "The ex-officio member of Pharmacy Council of India is:",
+      "options": {
+        "A": "Teacher in Pharmacology",
+        "B": "A member from MCI",
+        "C": "A representative of UGC",
+        "D": "Director of CDL"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Director of the Central Drugs Laboratory (CDL) serves as an ex-officio member of the Pharmacy Council of India.",
+      "category": "General"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Casein is an example of:",
+      "options": {
+        "A": "Nucleoproteins",
+        "B": "Phosphoproteins",
+        "C": "Chromoproteins",
+        "D": "Lipoproteins"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Casein is a major phosphoprotein found in mammalian milk.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Immunoglobulin found on lymphocyte surface of new born:",
+      "options": {
+        "A": "IgD",
+        "B": "IgA",
+        "C": "IgM",
+        "D": "IgG"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "IgM and IgD are typically expressed on the surface of mature B lymphocytes.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Antigenic preparations made from extra cellular toxins:",
+      "options": {
+        "A": "Vaccines",
+        "B": "Toxoids",
+        "C": "Endotoxins",
+        "D": "Sera"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Toxoids are modified bacterial exotoxins that have been detoxified while retaining their antigenicity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Enzyme which is used in the treatment of leukaemia:",
+      "options": {
+        "A": "Urokinase",
+        "B": "Streptokinase",
+        "C": "Asparaginase",
+        "D": "Pepsin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "L-asparaginase is utilized in chemotherapy to treat acute lymphoblastic leukemia by depleting circulating asparagine.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 31,
+      "question_text": "One tea spoon full is:",
+      "options": {
+        "A": "15 ml",
+        "B": "4 ml",
+        "C": "0.06 ml",
+        "D": "3 ml"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Traditionally, a standard metric teaspoonful in pharmacy corresponds to approximately $4\\text{ ml}$ or $5\\text{ ml}$ ($4\\text{ ml}$ is common in classic British/Indian pharmacopoeial equivalence tables).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 32,
+      "question_text": "A drug consist, in full or in whole or in part, of any filthy, putrid or decomposed substance:",
+      "options": {
+        "A": "Adultered drug",
+        "B": "Spurious drug",
+        "C": "Misbranded drug",
+        "D": "Patent drug"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under drug regulations, a drug containing filthy, putrid, or decomposed substances is legally classified as adulterated.",
+      "category": "General"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Standards of disinfectant fluid comes under:",
+      "options": {
+        "A": "Schedule O",
+        "B": "Schedule P",
+        "C": "Schedule M",
+        "D": "Schedule N"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule O of the Drugs and Cosmetics Act outlines standards for disinfectant fluids.",
+      "category": "General"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Which vitamin is known as antisterility factor?",
+      "options": {
+        "A": "Vitamin K",
+        "B": "Vitamin D",
+        "C": "Vitamin E",
+        "D": "Vitamin A"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vitamin E is historically known as the anti-sterility factor because deficiency was found to cause reproductive failure in rats.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Sodium chloride injection IP contains:",
+      "options": {
+        "A": "$0.9\\%$ Sodium Chloride",
+        "B": "$0.1\\%$ Sodium Chloride",
+        "C": "$0.86\\%$ Sodium Chloride",
+        "D": "$0.45\\%$ Sodium Chloride"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Normal saline (Sodium Chloride Injection IP) is an isotonic solution containing $0.9\\%\\text{ w/v}$ of sodium chloride.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 36,
+      "question_text": "An opaque covering agent used in bleaches:",
+      "options": {
+        "A": "Catechol",
+        "B": "Quinoline",
+        "C": "Titanium dioxide",
+        "D": "Hydrogen peroxide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Titanium dioxide is a widely used opacifying agent in cosmetic and pharmaceutical formulations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Which one of the following dryer is known as Lyophiliser?",
+      "options": {
+        "A": "Drum dryer",
+        "B": "Fluidized bed dryer",
+        "C": "Freeze dryer",
+        "D": "Spray dryer"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A freeze dryer is also known as a lyophiliser, which removes water by sublimation under vacuum.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Autoclaving of ampoules in a dye bath as:",
+      "options": {
+        "A": "Clarity testing",
+        "B": "Pyrogen testing",
+        "C": "Leaker testing",
+        "D": "Sterility testing"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The dye bath test involving autoclaving is a standard method for leaker testing of sealed ampoules.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 39,
+      "question_text": "High count of WBC's is an indication of:",
+      "options": {
+        "A": "Influenza",
+        "B": "Measles",
+        "C": "Leukaemia",
+        "D": "Typhoid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Leukemia is characterized by a significant, uncontrolled increase in the count of white blood cells (WBCs).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Example of an antioxidant:",
+      "options": {
+        "A": "Caffeine",
+        "B": "Orinase",
+        "C": "Doxidan",
+        "D": "Gallic acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gallic acid and its derivatives are well-known phenolic antioxidants.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Isotonic vehicle used to prepare ophthalmic solution:",
+      "options": {
+        "A": "Benzal konium chloride",
+        "B": "Polysorbate 20",
+        "C": "Dioctyl sodium",
+        "D": "$1.9\\%$ Boric acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "$1.9\\%$ Boric acid solution is isotonic with tear fluid and serves as an ophthalmic vehicle and buffer.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Repeated administration of drug results in cell receptor blockage. This is known as:",
+      "options": {
+        "A": "Tachyphylaxis",
+        "B": "Tolerance",
+        "C": "Idiosyncrasy",
+        "D": "Synergism"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tolerance describes the gradual decrease in responsiveness to a drug following repeated administration.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Sterilization by autoclaving:",
+      "options": {
+        "A": "Dry heat sterilization",
+        "B": "UV radiation",
+        "C": "Moist heat sterilization",
+        "D": "Bactericidal sterilization"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Autoclaving uses steam under pressure, which is classified as moist heat sterilization.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Keller-Killiani test is the identification test for:",
+      "options": {
+        "A": "Digitalis",
+        "B": "Senna",
+        "C": "Aloe vera",
+        "D": "Cinnamon"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Keller-Killiani test is used to detect deoxysugars characteristic of cardiac glycosides present in Digitalis.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 45,
+      "question_text": "THC is a constituent found in the plant:",
+      "options": {
+        "A": "Senna",
+        "B": "Nux vomica",
+        "C": "Opium",
+        "D": "Cannabis"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tetrahydrocannabinol (THC) is the principal psychoactive constituent of the Cannabis plant.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Which is the highly perfused organ in the body?",
+      "options": {
+        "A": "Liver",
+        "B": "Heart",
+        "C": "Brain",
+        "D": "Lungs"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The liver receives dual blood supply and is among the most highly perfused organs in the human body.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Diatomaceous earth is the other name of:",
+      "options": {
+        "A": "Talc",
+        "B": "Kaolin",
+        "C": "Bentonite",
+        "D": "Kieslghur"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diatomaceous earth is also known as kieselguhr and is used as a filtering aid.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Cotton consists of epidermal trichomes of species:",
+      "options": {
+        "A": "Gossypium herbaceum",
+        "B": "Cannabis sativa",
+        "C": "Bombyx morii",
+        "D": "Glycyrrhiza glabra"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Purified cotton consists of epidermal trichomes of seeds of Gossypium species such as Gossypium herbaceum.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 49,
+      "question_text": "The working principle of hammer mill:",
+      "options": {
+        "A": "Impact",
+        "B": "Impact and attrition",
+        "C": "Attrition",
+        "D": "Crushing"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A hammer mill primarily operates on the principle of impact to reduce particle size.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Partial or complete removal of top or bottom of a tablet is known as:",
+      "options": {
+        "A": "Capping",
+        "B": "Picking",
+        "C": "Sticking",
+        "D": "Mottling"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Capping is the partial or complete separation of the top or bottom crowns of a tablet from the main body.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Mother clove is an adulterant of:",
+      "options": {
+        "A": "Cardamom",
+        "B": "Clove",
+        "C": "Pepper",
+        "D": "Fennel"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mother cloves (ripe fruits of the clove tree) are commonly used as an adulterant for genuine clove flower buds.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Tablets are designed to exert local effect in throat:",
+      "options": {
+        "A": "Buccal tablets",
+        "B": "Sublingual tablet",
+        "C": "Dental cones",
+        "D": "Lozenges"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lozenges are solid preparations designed to dissolve slowly in the mouth to release medication for a local effect in the throat.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 53,
+      "question_text": "A plant drug which lowers blood pressure:",
+      "options": {
+        "A": "Vasaka",
+        "B": "Neem",
+        "C": "Rauwolfia",
+        "D": "Tulsi"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rauwolfia serpentina contains reserpine, a well-known alkaloid used as an antihypertensive agent.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 54,
+      "question_text": "The minimum required area to open a retail drug store is:",
+      "options": {
+        "A": "15 sqm",
+        "B": "10 sqm",
+        "C": "40 sqm",
+        "D": "60 sqm"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to pharmacy regulations in many jurisdictions (such as India), the minimum area required for a retail drug store is 10 square meters.",
+      "category": "General"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Enteric coated tablets are designed to release medicament in:",
+      "options": {
+        "A": "Stomach",
+        "B": "Colon",
+        "C": "Small intestine",
+        "D": "Large intestine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Enteric coatings are acid-resistant and designed to prevent release in the stomach, releasing the drug in the alkaline environment of the small intestine.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Dryer used for the production of milk powder:",
+      "options": {
+        "A": "Drum dryer",
+        "B": "Tray dryer",
+        "C": "Spray dryer",
+        "D": "Tunnel dryer"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Spray drying is the standard industrial method used for producing milk powder from liquid milk due to rapid evaporation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Vapaside is an insecticide which is formulated from:",
+      "options": {
+        "A": "Neem",
+        "B": "Tulsi",
+        "C": "Pyrethrum",
+        "D": "Vasaka"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyrethrum is widely used as a natural botanical insecticide.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Jesuit's bark is the synonym of:",
+      "options": {
+        "A": "Cinnamon",
+        "B": "Kurchi",
+        "C": "Cinchona",
+        "D": "Aswagandha"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cinchona bark is historically known as Jesuit's bark because it was introduced to Europe by Jesuit missionaries.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Renin a proteolytic enzyme which is produced in:",
+      "options": {
+        "A": "Brain",
+        "B": "Liver",
+        "C": "Spleen",
+        "D": "Kidney"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Renin is an aspartic protease synthesized, stored, and secreted by the juxtaglomerular cells of the kidney.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 60,
+      "question_text": "An example of potassium sparing diuretics:",
+      "options": {
+        "A": "Mannitol",
+        "B": "Acetazolamide",
+        "C": "Triameterene",
+        "D": "Chlorthalidone"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Triamterene is a potassium-sparing diuretic that acts directly on the renal distal tubules.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Alkylating agent used as antineoplastic drug:",
+      "options": {
+        "A": "Doxorubicin",
+        "B": "Methotrexate",
+        "C": "Vinblastine",
+        "D": "Nitrogen mustard"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nitrogen mustard is a classic alkylating antineoplastic agent.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Abrasive agent used in dentifrices:",
+      "options": {
+        "A": "Sodium fluoride",
+        "B": "Selenium sulphide",
+        "C": "Zinc sulphate",
+        "D": "Calcium carbonate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Calcium carbonate is commonly used as a polishing and abrasive agent in toothpaste formulations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 63,
+      "question_text": "First line agent used in Tuberculosis:",
+      "options": {
+        "A": "Kanamycin",
+        "B": "Isoniazid",
+        "C": "Ethionamide",
+        "D": "Cycloserine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Isoniazid is a primary first-line medication for the treatment of tuberculosis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Reagent used for the identification of cellulose:",
+      "options": {
+        "A": "Vanurk's reagent",
+        "B": "Zeisel reagent",
+        "C": "Dragendorff's reagent",
+        "D": "Fehling's reagent"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chlorzinc iodine (sometimes referred to as van Urk's or similar specific identification reagents) or specialized iodine tests are used, but among choices, Vanurk's or equivalent is selected; typically chlorzinc iodine turns cellulose blue/violet.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 65,
+      "question_text": "Drug used in uterine inertia:",
+      "options": {
+        "A": "Tyrothricin",
+        "B": "Terbinafine",
+        "C": "Oxytocin",
+        "D": "Miconazole"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oxytocin is used to stimulate uterine contractions in uterine inertia during labor.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 66,
+      "question_text": "Dimethicone is the other name of:",
+      "options": {
+        "A": "Titanium dioxide",
+        "B": "Calamine",
+        "C": "Zinc stearate",
+        "D": "Silicon oil"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dimethicone is polymerized siloxane, commonly known as medical grade silicone oil.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Drug used in ulcerative colitis:",
+      "options": {
+        "A": "Gefarnate",
+        "B": "Sucralfate",
+        "C": "Sulfasalazine",
+        "D": "Metoclopramide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfasalazine is a standard anti-inflammatory drug used in the management of ulcerative colitis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 68,
+      "question_text": "Drug that act by lowering the plasma LDL level:",
+      "options": {
+        "A": "Clofibrate",
+        "B": "Probucol",
+        "C": "Loperamide",
+        "D": "Aspirin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fibrates like clofibrate are lipid-lowering agents that reduce plasma triglyceride and LDL levels.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Other name of regenerated cellulose:",
+      "options": {
+        "A": "Wool",
+        "B": "Hemp",
+        "C": "Silk",
+        "D": "Rayon"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rayon is a manufactured fiber composed of regenerated cellulose.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 70,
+      "question_text": "An example of rapidly acting anticoagulant:",
+      "options": {
+        "A": "Warfarin",
+        "B": "Phenindione",
+        "C": "Propranolol",
+        "D": "Heparin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Heparin acts rapidly as an injectable anticoagulant, unlike oral anticoagulants such as warfarin.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Water soluble constituent of Ergot:",
+      "options": {
+        "A": "Ergotamine",
+        "B": "Ergometrine",
+        "C": "Ergosine",
+        "D": "Ergocryptine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ergometrine (ergonovine) is uniquely water-soluble among the principal ergot alkaloids.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 72,
+      "question_text": "Yeast is the richest source of:",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Vitamin B",
+        "C": "Vitamin D",
+        "D": "Vitamin A"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Yeast is well-known as an exceptionally rich natural source of B-complex vitamins.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Drug used to test gastric acid secretion:",
+      "options": {
+        "A": "Dexamethasone",
+        "B": "Tyramine",
+        "C": "Mannitol",
+        "D": "Histamine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Histamine (or pentagastrin) is historically used as a stimulant to test gastric acid secretory capacity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 74,
+      "question_text": "Shick test is performed to test the degree of immunity against:",
+      "options": {
+        "A": "Tuberculosis",
+        "B": "Tetanus",
+        "C": "Rabies",
+        "D": "Diphtheria"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Schick test is a clinical skin test used to determine whether a person is susceptible to diphtheria.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Example of ultra short acting barbiturates:",
+      "options": {
+        "A": "Enflurane",
+        "B": "Ketamine",
+        "C": "Thiopental sodium",
+        "D": "Propofol"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiopental sodium is an ultra-short-acting barbiturate used for induction of anesthesia.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 76,
+      "question_text": "Rasping method is used to prepare:",
+      "options": {
+        "A": "Arachis oil",
+        "B": "Clove oil",
+        "C": "Olive oil",
+        "D": "Lemon oil"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lemon oil and other citrus oils are traditionally obtained by the rasping (or ecuelle) method from the fruit peel.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Chemical name of plaster of paris:",
+      "options": {
+        "A": "Magnesium sulphate",
+        "B": "Calcium carbonate",
+        "C": "Magnesium carbonate",
+        "D": "Calcium sulphate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Plaster of Paris is calcium sulfate hemihydrate ($CaSO_4 \\cdot \\frac{1}{2}H_2O$).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 78,
+      "question_text": "Which one of the following is a beta-lactamase inhibitor?",
+      "options": {
+        "A": "Sulfonamide",
+        "B": "Chloroquine",
+        "C": "Primaquine",
+        "D": "Sulbactam"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulbactam is a beta-lactamase inhibitor given in combination with beta-lactam antibiotics.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 79,
+      "question_text": "Oxytocin is the hormone released from:",
+      "options": {
+        "A": "Anterior lobe of pituitary",
+        "B": "Pars intermedia",
+        "C": "Posterior lobe of pituitary",
+        "D": "Infundibulum"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oxytocin is synthesized in the hypothalamus and released from the posterior lobe of the pituitary gland.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Scurvy is the deficiency symptom of vitamin:",
+      "options": {
+        "A": "A",
+        "B": "K",
+        "C": "D",
+        "D": "C"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Scurvy is caused by a deficiency of vitamin C (ascorbic acid).",
+      "category": "Biochemistry"
+    }
+  ]
+}

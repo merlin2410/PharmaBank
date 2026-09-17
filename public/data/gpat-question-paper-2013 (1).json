@@ -1,0 +1,1823 @@
+{
+  "exam_title": "gpat-question-paper-2013 (1)",
+  "total_questions": 125,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Heckel's plot represents ...............",
+      "options": {
+        "A": "Extent of plastic and elastic deformation of material during compaction",
+        "B": "Force-time of force-displacement relationship",
+        "C": "Pressure-porosity (volume) relationship",
+        "D": "Stress relaxation measurements"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Heckel's plot is used in compaction studies to relate powder porosity to the applied pressure.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which of the following would cause increase in the binding strength at the dry granulation process in significant degree",
+      "options": {
+        "A": "Carboxymethylamylopectiglycolate",
+        "B": "Macrogol 4000",
+        "C": "Magnesium Stearate",
+        "D": "Lactose"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Macrogol 4000 (polyethylene glycol) acts as an effective dry binder to increase mechanical strength in dry granulation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 3,
+      "question_text": "The correct statements concerning concertation microencapsulation (1) Concertation always leads to monophasic microcapsule (2) When the gelatin is used for microcapsule's wall material, the concertation is bound to happen (3) Only gelatin can be used for microcapsule's wall (4) Simple or compound concertation can be distinguished according to the number of macromolecular colloids taking part in the process (5) The pH conditions of the system and the solubility of the auxiliary materials do not have any effect on the preparation of the microcapsule",
+      "options": {
+        "A": "Only 1 and 4 are correct",
+        "B": "Only 2 and 3 are correct",
+        "C": "Only 1 and 5 are correct",
+        "D": "Only 2 and 4 are correct"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Coacervation (referred to as concertation in scan typo) can be classified into simple or complex based on the number of macromolecular colloids, and gelatin is a classic wall material often associated with it.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Cyclohexanone exhibits only ............... peaks in $^{13}CNMR$ spectrum due to symmetry",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cyclohexanone has plane symmetry reducing its unique carbons to 4 ($C1=O$, $C2$, $C3$, $C4$, wait $C2,6$ and $C3,5$ are equivalent, giving 4 distinct signals).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 5,
+      "question_text": "If an organic compound does not absorb UV visible radiation it means compound does not contain ...............",
+      "options": {
+        "A": "Single bond",
+        "B": "Sigma bond",
+        "C": "Conjugated double bond",
+        "D": "Dative bond"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "UV-Vis absorption typically requires conjugated systems, chromophores, or heteroatoms with n-electrons; lack of conjugation shifts absorption out of the UV-Vis range.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 6,
+      "question_text": "The positively polarized carbon atom of a carbonyl group acts as...........",
+      "options": {
+        "A": "An electrophile and a lewis base",
+        "B": "A nucleophile and a lewis acid",
+        "C": "A nucleophile and a lewis base",
+        "D": "An electrophile and a lewis acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The carbonyl carbon is electron-deficient (positively polarized), making it an electrophile and an electron-pair acceptor (Lewis acid).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 7,
+      "question_text": "The Pinene hydrochloride rearranged into bornylterpenoid is called as...........",
+      "options": {
+        "A": "Wagner-Meerwein rearrangement",
+        "B": "A nucleophile and a lewis acid",
+        "C": "Fries rearrangements",
+        "D": "Backmann rearrangement"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The conversion of pinene hydrochloride to bornyl chloride is a classic Wagner-Meerwein carbonium ion rearrangement.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 8,
+      "question_text": "The mouse model for type I diabetes mellitus is...........",
+      "options": {
+        "A": "NZB mouse",
+        "B": "SCID mouse",
+        "C": "Nude mouse",
+        "D": "NOD mouse"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Non-Obese Diabetic (NOD) mouse is the standard animal model for autoimmune Type 1 diabetes.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Cholesterol contributors to ............... Of the biological membrane",
+      "options": {
+        "A": "Rigidity",
+        "B": "Fluidity",
+        "C": "Permeability",
+        "D": "Osmolality"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cholesterol buffers membrane fluidity, preventing extremes of too much fluidity or rigidity across temperatures.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Active site for all serine proteases consists of which triad",
+      "options": {
+        "A": "Ser-Glu-Asp",
+        "B": "Ser-Glu-Met",
+        "C": "Ser-His-Asp",
+        "D": "Ala-Glu-Met"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The catalytic triad of serine proteases classically consists of Serine, Histidine, and Aspartate.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 11,
+      "question_text": "..........., Anthelmintics having Immunosuppressant activity.",
+      "options": {
+        "A": "Piperazine",
+        "B": "Levamisole",
+        "C": "Ivermectin",
+        "D": "Niclosamide"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Levamisole is an anthelmintic agent that also possesses immunomodulatory/immunosuppressant properties.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Which of the following is selective $\\alpha_2$ selective antagonist",
+      "options": {
+        "A": "Clonidine",
+        "B": "Prozocin",
+        "C": "Phentalamine",
+        "D": "Yohimbine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Yohimbine is a well-known competitive $\\alpha_2$-adrenergic receptor antagonist.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Which one of the following is NOT a protoplast fusion agent",
+      "options": {
+        "A": "Inacinitivated Sendai Virus",
+        "B": "$Ca^{++}$ at alkaline pH",
+        "C": "Polythelen glycol",
+        "D": "Coltchicine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Colchicine is a mitotic inhibitor (microtubule polymerization blocker), not a fusogen for protoplast fusion.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Clinically used Labetolol is ...............",
+      "options": {
+        "A": "S, S",
+        "B": "R, R",
+        "C": "R, S",
+        "D": "S, R"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Labetalol has two chiral centers and the clinically used active isomer combination is (1R, 1'S)-Labetalol (R, S).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 15,
+      "question_text": "For intramuscular injection, angle of administration is ............... Degree",
+      "options": {
+        "A": "30",
+        "B": "45",
+        "C": "60",
+        "D": "90"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Intramuscular injections are administered at a 90-degree angle to reach deep muscle tissue.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Aromatase is an enzyme complex that is the target for several anticancer drugs. Which of the following anticancer drugs targets aromatase",
+      "options": {
+        "A": "Cyptoteraone acetate",
+        "B": "Reloxifene",
+        "C": "Aminoglutethimide",
+        "D": "Testosterone propionate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aminoglutethimide is an aromatase inhibitor used in breast cancer treatment.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Vinca alkaloids that are used in combination therapy to treat a variety of tumors. How to cancer cells normally gain resistance to these agents",
+      "options": {
+        "A": "Mutation of the target structure",
+        "B": "Overexpression of the carrier protein called P- glycoprotein",
+        "C": "Increased metabolism of the drug",
+        "D": "Decreased ability of the drug to enter target cells"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tumors typically develop multi-drug resistance against vinca alkaloids via overexpression of P-glycoprotein efflux pumps.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 18,
+      "question_text": "A set of closely related genes of generic markers that are inherited as a single unit is",
+      "options": {
+        "A": "Cistron",
+        "B": "Gene families",
+        "C": "Haplotype",
+        "D": "Haploid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A haplotype is a combination of alleles or gene markers on a single chromosome that are inherited together.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Ginseng saponins belong to the series of ...............",
+      "options": {
+        "A": "Lupane",
+        "B": "Brsane",
+        "C": "Oleanane",
+        "D": "Dammrane"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ginsenosides (ginseng saponins) are primarily triterpene saponins of the dammarane series.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Stokes Einstein equation to the series of ...............",
+      "options": {
+        "A": "Enegy changes in Sedimentaition suspension setting",
+        "B": "Sedimetation of suspention",
+        "C": "Diffusion coefficient",
+        "D": "Coefficient of energy consumption"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Stokes-Einstein equation relates the diffusion coefficient of spherical particles to particle radius and solvent viscosity.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 21,
+      "question_text": "The source of radiation for FAR IR spectrometer is ...............",
+      "options": {
+        "A": "Golay cell",
+        "B": "Nernst glower and globar",
+        "C": "Mercury lamp",
+        "D": "Highly heated tungsten filament"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A high-pressure mercury arc lamp is commonly used as a radiation source in the far-infrared region.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Which of the following alkaloids derived from lysine",
+      "options": {
+        "A": "Emtin",
+        "B": "Cinchonidin",
+        "C": "Brucin",
+        "D": "Lobelin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lobeline is a piperidine alkaloid derived biosynthetically from lysine.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 23,
+      "question_text": "The agent that can only be given intravenously for heart failure is ...............",
+      "options": {
+        "A": "Digoxin",
+        "B": "Amiodarone",
+        "C": "Quinidine",
+        "D": "Dobutamine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dobutamine is a catecholamine with a very short half-life requiring continuous intravenous infusion.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 24,
+      "question_text": "A prescription order for an antibiotic preparation includes the directions 'ii gtt AU q.i.d' what auxiliary label should be affixed to the prescription order container",
+      "options": {
+        "A": "Take with meals",
+        "B": "For the eye",
+        "C": "For rectal use",
+        "D": "For the ear"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "AU stands for 'aurque utraque' which means both ears, so the auxiliary label should specify 'For the ear'.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Which one of the following amino acid residues is specifically recognized by chymotrypsin during peptide bond cleavage",
+      "options": {
+        "A": "Phe",
+        "B": "Leu",
+        "C": "Val",
+        "D": "Asp"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chymotrypsin preferentially cleaves peptide bonds at the C-terminal side of large hydrophobic amino acid residues like Phenylalanine (Phe), Tryptophan, and Tyrosine.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Which of the following criteria should be considered when reviewing a medication for addition to the hospital formulary",
+      "options": {
+        "A": "The amount of samples provided to hospital physicians",
+        "B": "Research funds donated to the hospital by the pharmaceutical company",
+        "C": "National adverse drug reaction reports",
+        "D": "Whether is a gluten-free oral formulation"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Safety profile and national adverse drug reaction reports are critical clinical criteria when evaluating drugs for a hospital formulary.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Identify the GABA reuptake inhibitor",
+      "options": {
+        "A": "Progabide",
+        "B": "Tigabine",
+        "C": "Bicuculline",
+        "D": "Baclofen"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tiagabine (often spelled Tigabine in exams) is a selective GABA reuptake inhibitor (GAT-1).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 28,
+      "question_text": "What in the reason of complicated penetration of some drugs through brain-blood barrier",
+      "options": {
+        "A": "High lipid solubility of a drug",
+        "B": "High endocytosis degree in a brain capillary",
+        "C": "Absence of pores in the brain capillary endothelium",
+        "D": "Meningitis"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The blood-brain barrier features tight junctions and the absence of fenestrations (pores) in endothelial cells, restricting paracellular drug penetration.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Reynold's number is given by ...............",
+      "options": {
+        "A": "Re = \\mu/\\rho VD",
+        "B": "Re = \\rho v/\\mu D",
+        "C": "Re = \\rho VD/\\mu",
+        "D": "Re = VD/\\rho \\mu"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reynolds number (Re) is defined as inertial forces divided by viscous forces: $Re = \\rho VD/\\mu$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 30,
+      "question_text": "The increase in concentration of second messengers (cAMP, cGMP, Ca^{2+} etc.) leads to:",
+      "options": {
+        "A": "Inhibition of intracellular protein kinases and protein phosphorylation",
+        "B": "Protein kinases activation and protein phosphorylation",
+        "C": "blocking of interaction between a receptor and an effector",
+        "D": "Antagonism with endogenous legands"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Secondary messengers like cAMP activate protein kinases (e.g., PKA) leading to downstream protein phosphorylation cascades.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Which of the following cholinomimetics activates both muscarinic and nicotinic receptors",
+      "options": {
+        "A": "Lobeline",
+        "B": "Pilocarpine",
+        "C": "Carbachol",
+        "D": "Bethanechol"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carbachol possesses both potent muscarinic and nicotinic receptor agonist activity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Deoxy position of deoxyribose in DNA is at ...............",
+      "options": {
+        "A": "$1^{st}$ carbon",
+        "B": "$2^{nd}$ carbon",
+        "C": "$3^{rd}$ carbon",
+        "D": "$5^{th}$ carbon"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Deoxyribose lacks an oxygen atom at the C-2' position compared to ribose.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 33,
+      "question_text": "All are potent 3A4 inhibitors EXCEPT ...............",
+      "options": {
+        "A": "Antifungals (-azoles)",
+        "B": "Protease inhibitors (-avir)",
+        "C": "Macrolides (-mycin)",
+        "D": "Barbiturates"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Barbiturates are classic inducers of CYP3A4, not inhibitors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 34,
+      "question_text": "'Probability of nonsterility' is given by ...............",
+      "options": {
+        "A": "F value",
+        "B": "Z value",
+        "C": "D value",
+        "D": "None of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sterility Assurance Level (SAL) or probability of non-sterility is typically calculated using kinetic parameters but not directly represented by F, Z, or D values alone which describe thermal destruction time.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Which of the following is a selective medium for the growth of vibreocholerae",
+      "options": {
+        "A": "Thayer martin medium",
+        "B": "Cefoxitin cycloserine fructose agar",
+        "C": "Skirrow's medium",
+        "D": "Thiosulfate citrat bile surcrose agar"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "TCBS (Thiosulfate-citrate-bile salts-sucrose) agar is the selective and differential medium used for the isolation of Vibrio cholerae.",
+      "category": "General"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Specific conductance unit is ...............",
+      "options": {
+        "A": "$Ohm\\ cm^{-1}$",
+        "B": "$Mho\\ cm^{-1}$",
+        "C": "$Ohm\\ cm$",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Specific conductance (conductivity) is expressed in Siemens per cm or $Mho\\ cm^{-1}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Karplus curve is associated with which spectroscopy",
+      "options": {
+        "A": "UV",
+        "B": "Mass",
+        "C": "FTIR",
+        "D": "NMR"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Karplus equation relates ${}^3J$ coupling constants to dihedral angles in 1H NMR spectroscopy.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Which of the following pair of volumetric method of argentometric titration and indicator used is matched correctly (1) Fajan's Method: Chromate (2) Mohr's method: Fluroescein (3) Vohlard's method: Ferric salt. The method and indicator matches correctly in ...............",
+      "options": {
+        "A": "1 and 2 only",
+        "B": "2 and 3 only",
+        "C": "3 only",
+        "D": "2 only"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Volhard's method uses ferric alum (ferric salt) as an indicator. Mohr's uses chromate, Fajan's uses fluorescein (the pairs in 1 and 2 are swapped).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 39,
+      "question_text": "The reaction of the citric acid cycle that is most similar to the pyruvate dehydrogenase complex catalyzed conversion of pyruvate to acetyl-CoA is the conversion of",
+      "options": {
+        "A": "Citrate to isocitrate",
+        "B": "Fumarate to malate",
+        "C": "Malate to oxaloacetate",
+        "D": "$a$-ketoglutarate to succinyl-CoA"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The alpha-ketoglutarate dehydrogenase complex mechanism and coenzymes are virtually identical to the pyruvate dehydrogenase complex.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Which one of the following pairs of lipids & related compounds exhibist opposite biological activities",
+      "options": {
+        "A": "5-HPETE & leukotriene D4",
+        "B": "Cholic acid & Lithocholic acid",
+        "C": "Neuraminidase Inhibitors",
+        "D": "Acetone & $\\beta$-hydroxybutyprate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "5-HPETE is a precursor/intermediate, whereas Leukotriene D4 is a potent bronchoconstrictor/inflammatory mediator acting downstream or via different pathways compared to general precursors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 41,
+      "question_text": "HIV may NOT respond to ...............",
+      "options": {
+        "A": "Nucleoside analogues",
+        "B": "Protease inhibitors",
+        "C": "Neuraminidase inhibitors",
+        "D": "Reverse transcriptase inhibitors"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Neuraminidase inhibitors (e.g., oseltamivir) are used for influenza virus, not HIV.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Palmitic, oleic or stearic acid ester of cholesterol used manufacture of cosmetic creams is ...............",
+      "options": {
+        "A": "Oleo oil",
+        "B": "Lanoline",
+        "C": "Spermaceri",
+        "D": "Chaulmoogra oil"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lanolin consists predominantly of sterol esters (cholesterol esters) of fatty acids like palmitic, oleic, and stearic acids.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 43,
+      "question_text": "..........., Is needed for suspensions, lotions, emulsions, creams and ointments to keeps a high container consistency and yet pour and spread easily when needed. It also is satisfactory for IM slow release yet easy to inject",
+      "options": {
+        "A": "Thinxotropy",
+        "B": "Rheopecty",
+        "C": "Rheology",
+        "D": "Newtonian flow"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thixotropy is the property where gels or fluids thin out upon shearing (shaking/pouring) and recover at rest, ideal for suspensions and creams.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 44,
+      "question_text": "The enzyme superoxide dismutase (SOD) converts",
+      "options": {
+        "A": "$O_2$-to hydrogen peroxide ($H_2O_2$)",
+        "B": "Hydrogen peroxide ($H_2O_2$) to $H_2O$",
+        "C": "$H_2O$ to hydroxyl (OH) redicals",
+        "D": "$O_2$- to $O_2$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Superoxide dismutase catalyzes the dismutation of superoxide radicals into molecular oxygen and hydrogen peroxide.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 45,
+      "question_text": "For first order reactions the rate constant, k, has the units as ...............",
+      "options": {
+        "A": "$Ms^{-1}$",
+        "B": "$M^{-1}s^{-1}$",
+        "C": "$M^{-2}s^{-1}$",
+        "D": "$s^{-1}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "First-order reaction rate constants have units of inverse time ($s^{-1}$ or $time^{-1}$).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Which of the following may be used to assess the relative bioavailability of two chemically equivalent drug product in a crossover study",
+      "options": {
+        "A": "Dissolution test",
+        "B": "Peak concentration",
+        "C": "Time-to-peak concentration",
+        "D": "Area under the plasma level time curve"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Area Under the Curve (AUC) is the primary pharmacokinetic parameter used to assess relative bioavailability.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 47,
+      "question_text": "A 25.0 mL sample of a solution of a monoprotic acid is titrated with a $0.115\\ M\\ NaOH$ solution the titration curve shows equivalence point at 7.05. which of the following indicators would be best for this titration",
+      "options": {
+        "A": "Methyl red",
+        "B": "Bromthymol blue",
+        "C": "Thymol blue",
+        "D": "Phenoplthalein"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "An equivalence point near 7.05 represents a neutral titration endpoint best matched by bromothymol blue (pH range ~6.0-7.6).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Which of the following in termed as mass filter",
+      "options": {
+        "A": "Time of flight",
+        "B": "Farady cup",
+        "C": "Quadupole",
+        "D": "Ion trap"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A quadrupole mass spectrometer acts as a mass filter by allowing only ions of a specific m/z to pass through.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 49,
+      "question_text": "Which of the following is produced in phenyl propanoid pathway",
+      "options": {
+        "A": "Phenolics",
+        "B": "Catotenes",
+        "C": "Alkaloids",
+        "D": "Terpenes"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The phenylpropanoid pathway produces various phenolic compounds, flavonoids, and lignin starting from phenylalanine.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 50,
+      "question_text": "A diode array detector coupled with UV detection is advantageous because it",
+      "options": {
+        "A": "Covers a range of wavelengths",
+        "B": "Allow lower concentrations of analyte to be detected",
+        "C": "Speeds up the detection at a single wavelength",
+        "D": "Allows a single wavelength of detection to be moreprecisely chosen"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diode array detectors (DAD) capture a wide spectrum of wavelengths simultaneously.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 51,
+      "question_text": "The LOD of an analysis is at the femtogram level. This corresponds to detection at the",
+      "options": {
+        "A": "1 in $10^{-18}$ level",
+        "B": "1 in $10^{-15}$ level",
+        "C": "1 in $10^{-12}$ level",
+        "D": "1 in $10^{-9}$ level"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Femtogram ($10^{-15}$ g) detection level corresponds to parts-per-quadrillion or $10^{-15}$ scale.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Which are those therapeutic systems, which liberate the active ingredient through a special hole, prepared by laser",
+      "options": {
+        "A": "TTS patches",
+        "B": "IUD systems",
+        "C": "OCUSERT systems",
+        "D": "OROS systems"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "OROS (Oral Osmotic) systems utilize laser-drilled delivery orifices to release drug osmotically.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Which of following chromatographic technique is most suitable for small, nonvolatile water-insoluble solutes",
+      "options": {
+        "A": "GC",
+        "B": "Reverse phase LC",
+        "C": "Normal phase LC",
+        "D": "SEC"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reverse-phase liquid chromatography is standard for small, non-volatile, water-insoluble or hydrophobic molecules.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Which of the following antiviral agent in not a nucleoside analog",
+      "options": {
+        "A": "Moroxidin",
+        "B": "Vidarabine",
+        "C": "Cytarabine",
+        "D": "Idoxuridine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Moroxydine is a biguanide derivative antiviral, not a nucleoside analog.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Regarding two compartment pharmcokenitics all are true EXCEPT",
+      "options": {
+        "A": "A drug is always removed from the peripheral compartment",
+        "B": "A drug with a high volume of distribution is likely to be lipophilic",
+        "C": "A drug can have a short duration of action while being eliminated very slowly",
+        "D": "Most anesthetic drugs are modelled well with a two-compartment model"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Drugs are eliminated from the central compartment, not the peripheral compartment.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Phenothiazine is obtained by ............... with sulfur",
+      "options": {
+        "A": "Cyclization of dibenzyl",
+        "B": "Cyclization of diphenyl amine",
+        "C": "Reduction of diphenyl amine",
+        "D": "Reduction of dibenzyl amine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phenothiazine is synthesized by the reaction of diphenylamine with sulfur in the presence of a catalyst.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Vitamin K is constituted of ............... ring",
+      "options": {
+        "A": "Hdroquinone",
+        "B": "Nathphaquinone",
+        "C": "Lonone",
+        "D": "Denzimidazole"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vitamin K derivatives contain a 2-methyl-1,4-naphthoquinone ring structure.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 58,
+      "question_text": "To balace intellectual property protection, competition and access to affordable prescription drug, the act made by US government is",
+      "options": {
+        "A": "Drug Price Competition act",
+        "B": "Patent term Restroration act",
+        "C": "Hatch-Waxman act",
+        "D": "Orphan Drug Act"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Drug Price Competition and Patent Term Restoration Act of 1984 is widely known as the Hatch-Waxman Act.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Gridnard test is used for the detection of ...............",
+      "options": {
+        "A": "Flavonoids",
+        "B": "S- gyycosides",
+        "C": "Cyanogenetic glycosides",
+        "D": "O-glycosides"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Grignard test (or Guignard test) using picrate paper is used to detect cyanogenetic glycosides via liberated HCN.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Which hormone works antagonistically to parathormone ...............",
+      "options": {
+        "A": "Triiodothyronine",
+        "B": "Insulin",
+        "C": "Estrogen",
+        "D": "Cakitronin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Calcitonin (spelled Cakitronin in scan typo) lowers blood calcium levels, acting antagonistically to parathyroid hormone (parathormone).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Drugs that have been found to be useful in one or more types of heart failure include all of the following EXCEPT ...............",
+      "options": {
+        "A": "$Na^+/K^+$ ATPase inhibitors",
+        "B": "$\\alpha$ adrenoreceptor agonist",
+        "C": "$\\beta$ Adrenopeptor agonists and antagonists",
+        "D": "ACE inhibitors"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Alpha-adrenoreceptor agonists cause vasoconstriction and increase afterload, worsening heart failure.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Which one of the following is used in the Ames test",
+      "options": {
+        "A": "E. coli",
+        "B": "Streptococcus aureus",
+        "C": "Pseudomonas aerogenosa",
+        "D": "Salmonielia typhimurium"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Ames test uses histidine-auxotrophic strains of Salmonella typhimurium to assess mutagenicity.",
+      "category": "General"
+    },
+    {
+      "question_number": 63,
+      "question_text": "Which of the ultrashort acting adrenergic blocker",
+      "options": {
+        "A": "Carvedilol",
+        "B": "Atenolol",
+        "C": "Esmolol",
+        "D": "Acetutolol"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Esmolol is an ultra-short-acting cardioselective beta blocker with an esterase-dependent very short half-life.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Match the following biochemical transformations with coenzymes involved (i) $\\alpha$-Ketoglutarate to glutamic acid (ii) Uridine to thymidine (iii) Pyruvic acid to acetyl coenzyme A",
+      "options": {
+        "A": "i-d, ii-a, iii-c",
+        "B": "i-a, ii-b, iii-d",
+        "C": "i-b, ii-a, iii-c",
+        "D": "i-d, ii-b, iii-c"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiamine pyrophosphate is involved in pyruvate decarboxylation (iii-c), tetrahydrofolate in nucleotide methylation like uridine to thymidine (ii-a), and transamination/dehydrogenation pathways involve other cofactors.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 65,
+      "question_text": "Drugs that show nonlinear pharmacokinetics have which of the following property",
+      "options": {
+        "A": "A constant ratio of drug metabolites is formed as the administered dose increase.",
+        "B": "The elimination half - life increasing as the administered dose increase",
+        "C": "The area under the plasma drug concentration versus time curve increasing in direct proportion to an increase in the administered dose.",
+        "D": "Both low and high doses follow first order elimination kinetics"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In saturable (nonlinear) pharmacokinetics, half-life changes and typically increases as the dose increases due to enzyme saturation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 66,
+      "question_text": "Appropriate reasons for the deviation form the beer's law among the following are (P) Mnsonchromaticity of light (Q) Very high concentration of analyte (R) Association of analyte (S) Dissociation of analyte",
+      "options": {
+        "A": "P, Q AND R",
+        "B": "Q, R, and S",
+        "C": "P, R and S",
+        "D": "P, Q and S"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "High concentration effects, association, and dissociation of molecules alter absorptivity causing deviations from Beer-Lambert law.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 67,
+      "question_text": "An alternaive to glycolysis pathway is ...............",
+      "options": {
+        "A": "Glyoxylate pathway",
+        "B": "Pentose phosphate pathway",
+        "C": "Citric acid cycle",
+        "D": "Gluconeogenesis"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The pentose phosphate pathway (hexose monophosphate shunt) serves as an alternative metabolic pathway for glucose oxidation.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 68,
+      "question_text": "LeChatelier's principle states that increasing temperature favors a reaction that...........",
+      "options": {
+        "A": "Release energy as heat",
+        "B": "Requires energy as heat",
+        "C": "Involves a chemical catalyst",
+        "D": "Gluconeogenesis"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 69,
+      "question_text": "In absorption spectrometry, high values of absorbance values (grater than 1 or 2) tend to give poorer precision because",
+      "options": {
+        "A": "Too much light saturates the detector",
+        "B": "Little light reaches the detector",
+        "C": "Beer's law deviations are worse",
+        "D": "Monochromators work poorly under intense light"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 70,
+      "question_text": "When the angle of repose exceeds............, the powder flow is rarely acceptable for pharmaceutical manufacturing purpose",
+      "options": {
+        "A": "25",
+        "B": "30",
+        "C": "50",
+        "D": "60"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 71,
+      "question_text": "The chelate, $EDTA^{4-}$ can described as what type of chelating ligand",
+      "options": {
+        "A": "Bidentate",
+        "B": "Tetradentate",
+        "C": "Hexadentate",
+        "D": "Tridentate"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 72,
+      "question_text": "Living cells are negatively charged inside primarily because of..............",
+      "options": {
+        "A": "ATP, organic acids, and other negative molecules that cannot escape",
+        "B": "Removal of sodium ions, which are positively charged, by the Na+/K pump",
+        "C": "Extrusion of Ca2+ ion, which is much more concentrated outside a cell than inside",
+        "D": "Cell membranes that are more permeable to potassium than sodium"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Which of the following drugs requires administration on an empty stomach",
+      "options": {
+        "A": "Naproxen",
+        "B": "Levothyroxine",
+        "C": "Prednisone",
+        "D": "Nitrofurantoin"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 74,
+      "question_text": "Which of the following is a non- aqueous binder",
+      "options": {
+        "A": "Ethyl cellulose",
+        "B": "Starch",
+        "C": "Veegum",
+        "D": "Bentonite"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Which of the following drugs requires administration on an empty stomach",
+      "options": {
+        "A": "Cannbichromene",
+        "B": "Cannabinol",
+        "C": "Cannabidiol",
+        "D": "Tetrahydrocannabinol"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 76,
+      "question_text": "What is the osmolality of a solution if one mmole of glucose and two mmoles of NaCl are dissolved in 1 kg of the water",
+      "options": {
+        "A": "3 mOsm",
+        "B": "4 mOsm",
+        "C": "5 mOsm",
+        "D": "6 mOsm"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 77,
+      "question_text": "How much can be the working revolution per minute (RPM) of the ball mill",
+      "options": {
+        "A": "$23-28 \\; D$ where D means the diameter of jar",
+        "B": "Two times more than the critical revolution per minute",
+        "C": "$42.3 \\; / \\sqrt{D}$ ($D=\\text{diameter of the jar}$)",
+        "D": "The average of critical RPM and the optional RPM"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 78,
+      "question_text": "A compound with an -OH group and -OR group bonded to the same carbon atom is...........",
+      "options": {
+        "A": "An actal",
+        "B": "A hemicacetal",
+        "C": "A simple ether",
+        "D": "An aldol"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 79,
+      "question_text": "The reaction of Grignard reagent with aldehydes and ketones gives alcohols. This is known as .............",
+      "options": {
+        "A": "Nucleophilic addition reaction",
+        "B": "Nucleophilic substitution reaction",
+        "C": "Electrophilic substitution reaction",
+        "D": "Electrophilic addition reaction"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Osazone is formed by reaction of .......... moles of phenylthdrazine with monosaccharide",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 81,
+      "question_text": "If a sugar contains.............. fuction, it is a reducing sugar",
+      "options": {
+        "A": "Hemiacetal",
+        "B": "Acetal",
+        "C": "Aldehyde",
+        "D": "Ketal"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Adverse effect of cerivastatin is ...............",
+      "options": {
+        "A": "Higher risk of rhabdomyolysis",
+        "B": "Anaphylaxis",
+        "C": "Hepatic disorder",
+        "D": "Hemolytic anemia"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Following emigration from blood vesels, leucocyte migration to the site of infection or injury in mediated by",
+      "options": {
+        "A": "Bradykinin",
+        "B": "Chemokines and Complements C5a",
+        "C": "Histamine",
+        "D": "Prostaglandins"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 84,
+      "question_text": "In adults, drugs are an important cause of Fanconi's syndrome. Drugs that cause Fanconi's Syndrome include which group below. Select One",
+      "options": {
+        "A": "Antiretroviral agents, aminoglycosides, glucocorticoids",
+        "B": "Tenofovir, outdated tetracycline, cisplatin",
+        "C": "Cidofovir, galactose supplements, NSAIDs",
+        "D": "Cyclosporin, Tenofovir, lamivudine"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 85,
+      "question_text": "Which of the following is a type of phytoestrogen",
+      "options": {
+        "A": "F",
+        "B": "W",
+        "C": "G",
+        "D": "Y"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 86,
+      "question_text": "Which aerosol particles will be deposited in alveoli",
+      "options": {
+        "A": ">20 \\mu m",
+        "B": "<0.6 \\mu m",
+        "C": "2 and 6 \\mu m",
+        "D": "1-2 \\mu m"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 87,
+      "question_text": "According to lipinskl's rule of 5, which of the following properties of drug molecules are likely to cause poor oral absorption",
+      "options": {
+        "A": "A molecular weight lesser than 500",
+        "B": "A log P less than 5",
+        "C": "Less than 5 hydrogen bond donors",
+        "D": "More than 10 hydrogen bond accpters"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 88,
+      "question_text": "Polarographic method of analysis to obtain indivisual amonuts of $Cu^{2+}$ and $Cd^{2+}$ in a given mixture of the ions ($Cu^{2+}$ and $Cd^{2+}$) is achieved by measuring their...........",
+      "options": {
+        "A": "Half way potentials",
+        "B": "Migration currents",
+        "C": "Decomposition potentials",
+        "D": "Diffusion currents"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "General"
+    },
+    {
+      "question_number": 89,
+      "question_text": "The most widely used agent for the treatment of acute gout arthritis is...........",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Allopurinol",
+        "C": "Colchicine",
+        "D": "Probenecid"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 90,
+      "question_text": "Which of the following actions of norepinephrine would be antagonized by prazosin but not by propranolol.",
+      "options": {
+        "A": "Increased heart rate",
+        "B": "Mydriasis",
+        "C": "Relases of rennin",
+        "D": "Glycogenolysis"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 91,
+      "question_text": "Arginine serves as a precursor for which of the vasodilatory product",
+      "options": {
+        "A": "Bradykinin",
+        "B": "Atrial natriuretic peptide",
+        "C": "Nitrous oxide",
+        "D": "L-Citrulline"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 92,
+      "question_text": "Which of the following is a test of digitoxose",
+      "options": {
+        "A": "Keller Kiliani's",
+        "B": "Kedde's reagent",
+        "C": "Raymond's reagent",
+        "D": "Baljet's reagent"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 93,
+      "question_text": "The Vd for phenytoin is 70 L and half life is 1.5 hours. What is the total clearance of phenytoin",
+      "options": {
+        "A": "34.32 L/h",
+        "B": "32.34 L/h",
+        "C": "151.5 L/h",
+        "D": "51.51 L/h"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 94,
+      "question_text": "Which of the following phytohormone usually acts as bud inhibitor",
+      "options": {
+        "A": "Gibberlin",
+        "B": "Ctyokinin",
+        "C": "Zeatin",
+        "D": "Indole Acetic acid"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 95,
+      "question_text": "What is the main different between HPLC and UPLC",
+      "options": {
+        "A": "HPLC is reverse-phase whereas UPLC in normal-phase",
+        "B": "UPLC employs smaller stationary-phase particle size",
+        "C": "HPLC and UPLC employ different mobile phase",
+        "D": "HPLC and UPLC employ different detection methods"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 96,
+      "question_text": "Which drug is associated with hepatic/ renal toxic metabolite, N-acetyl-pbenzoquione",
+      "options": {
+        "A": "Diclofenac",
+        "B": "Meclofenamate",
+        "C": "Indomethacin",
+        "D": "Acetaminophen"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 97,
+      "question_text": "What is the percentage of chlorpromazine (pKa = 9.3) exiting in ionized form in a solution of chlorpromazine hydrochloride at pH 7.4",
+      "options": {
+        "A": "98.76",
+        "B": "1.24",
+        "C": "0.32",
+        "D": "99.68"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 98,
+      "question_text": "Which of the following is a GLP-1 agonist",
+      "options": {
+        "A": "Sitagliptin",
+        "B": "Pramlintide",
+        "C": "Exenatide",
+        "D": "Eparlrestat"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 99,
+      "question_text": "What is mechanism of aprotinin",
+      "options": {
+        "A": "Inhibits Corboxypeptidase",
+        "B": "Inhibits Plasminogen",
+        "C": "Inhibits plasmin",
+        "D": "Inhibits plasminogen activator"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 100,
+      "question_text": "Absolute akohol is prepared from spirit by..............",
+      "options": {
+        "A": "Distillation",
+        "B": "Azeotropic distillation",
+        "C": "Fractional distillation",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 101,
+      "question_text": "Which of the following is interleukin agonist",
+      "options": {
+        "A": "Aldesleukin",
+        "B": "Rituximab",
+        "C": "Anakinra",
+        "D": "Etarecept"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 102,
+      "question_text": "An extension of the normal pharmacological effects of a drug or its metabolite is termed as ............",
+      "options": {
+        "A": "Type A ADR",
+        "B": "Type B ADR",
+        "C": "Type C ADR",
+        "D": "Type D ADR"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 103,
+      "question_text": "Which of the following parameters is/are important in determining bioequivalence",
+      "options": {
+        "A": "T_{max}",
+        "B": "C_{max}",
+        "C": "AUC and C_{max}",
+        "D": "None of these"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 104,
+      "question_text": "What are known as balsams",
+      "options": {
+        "A": "Resins dissolved in volatile oil",
+        "B": "A mixture of volatile oils with sesquiterpenes",
+        "C": "Solidified resin devoid of volatile terpenes",
+        "D": "Polysaccharide mixed with volatile oil"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 105,
+      "question_text": "Sesquiterpenes are formed from ............ In the plants",
+      "options": {
+        "A": "Farnesyl-pyrophosphate",
+        "B": "Geranyl farnesyl pyrophosphate",
+        "C": "Coloring material",
+        "D": "Degraded products of trierpenes"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 106,
+      "question_text": "Which of the following is a type of phytoestrogen",
+      "options": {
+        "A": "Lutein",
+        "B": "Indoles",
+        "C": "Isothicotynates",
+        "D": "Genistein"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 107,
+      "question_text": "Attachment of polyethylene glycol (PEG) to proteins/ drugs do all of the following EXCEPT",
+      "options": {
+        "A": "Protect them form rapid hydrolysis or degradation",
+        "B": "Improves micromole solubility",
+        "C": "Increases absorption form the gut",
+        "D": "Minimizing the uptake by the cells of the reticuloendothelial systems"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 108,
+      "question_text": "Identify the harmful drug-drug interaction",
+      "options": {
+        "A": "Imipenem - Cilastatin",
+        "B": "L-Dopa-Entacapone",
+        "C": "Meperidine - Pargyline",
+        "D": "Methotrexate - leucovorin"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 109,
+      "question_text": "Synthesis of thyroid hormone in inhibited by all EXCEPT.............",
+      "options": {
+        "A": "Propyl thiouracil",
+        "B": "Methimazole",
+        "C": "Perchlorate",
+        "D": "Diatrazoate"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 110,
+      "question_text": "Choose correct statement for PEGylation:",
+      "options": {
+        "A": "Used to enhance In-vivo half-life of smaller Peptides and proteins",
+        "B": "Avoidance of Reticulo-endothelial (RES) clearance",
+        "C": "Reduce clearance rate through kidney",
+        "D": "All"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 111,
+      "question_text": "Which of the following is a common herbal remedy for insomnia",
+      "options": {
+        "A": "Milk thistle",
+        "B": "Echinacea",
+        "C": "Eucalyptus",
+        "D": "Valerian"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 112,
+      "question_text": "In which category of in vitro in vivo correlation the mean in vitro dissolution time is compared either to the mean residence time of to the mean residence time or to the mean in vivo dissolution time",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 113,
+      "question_text": "What does the Hammett substituent constant (\\sigma) measure",
+      "options": {
+        "A": "The steric effect of a substituent",
+        "B": "The electronic effect of a substituent",
+        "C": "The hydrophobic effect of a substituent",
+        "D": "The effect on pH of a substituent"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 114,
+      "question_text": "Property exploited by electroanalytical technique of caulemetry is..............",
+      "options": {
+        "A": "Electric potential",
+        "B": "Electrical charge",
+        "C": "Ekectrical current",
+        "D": "Electrical resistance"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "General"
+    },
+    {
+      "question_number": 115,
+      "question_text": "All are true EXCEPT..............",
+      "options": {
+        "A": "Soft soaps give emulsions with a pH in the basic range",
+        "B": "Hard soaps form water-in-oil emulsions",
+        "C": "Water-soluble polymers favor the formation of water-in-oil (w/o) emulsions",
+        "D": "On the HLB system, lower numbers are assigned to lipophilic compounds while higher numbers are assigned to hydrophilic compounds"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 116,
+      "question_text": "In callus culture, roots can be induced by the supply of..............",
+      "options": {
+        "A": "Auxin and no cytokinin",
+        "B": "Higher concentration of auxin and lower concertation of cytokinin",
+        "C": "Higher concentration of cytokinin and lower concentration of auxin",
+        "D": "Auxin and cytokinin in equal proportions"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 117,
+      "question_text": "Prostaglandin used in the treatment of postpartum hemorrhage is..............",
+      "options": {
+        "A": "Carboprost",
+        "B": "Latanoprost",
+        "C": "Bimatoprost",
+        "D": "Travoprost"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 118,
+      "question_text": "Identity 5HT3 receptor antagonist which is 5HT4 agonist also",
+      "options": {
+        "A": "Metoclopramide",
+        "B": "Cispride",
+        "C": "Cilassetron",
+        "D": "Graniseton"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 119,
+      "question_text": "Which of the following AT-II receptor antagonists (SARTANs) does not possess tetrazole moiety in its structure",
+      "options": {
+        "A": "Losartan",
+        "B": "Irbesartan",
+        "C": "Telmisartan",
+        "D": "Valsartan"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 120,
+      "question_text": "What useful information can be found from a Van Deemter plot",
+      "options": {
+        "A": "Optimum selectivity factor",
+        "B": "Optimum mobile phase flow rate",
+        "C": "Optimum column temperature",
+        "D": "The capacity factor"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 121,
+      "question_text": "Brockman activity Scale' is used in the characterization of ..........",
+      "options": {
+        "A": "Stationary phase",
+        "B": "Mobile Phase",
+        "C": "Buffer System used",
+        "D": "Column specification"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 122,
+      "question_text": "The FDA allows a maximum of ............ salicylic acid in commercial aspirin tablets",
+      "options": {
+        "A": "0.05 %",
+        "B": "0.1 %",
+        "C": "0.15 %",
+        "D": "0.25 %"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 123,
+      "question_text": "A phenolic acid compound isolated from the ripe fruits of myrobalan (karitaki)............",
+      "options": {
+        "A": "Chebulic acid",
+        "B": "Ferulic acid",
+        "C": "Emblicanin",
+        "D": "Pivalic acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 124,
+      "question_text": "Asafoetida _ Nitric acid gives..............",
+      "options": {
+        "A": "Reddish-brown colour",
+        "B": "Green colour",
+        "C": "Yellowish-orange colour",
+        "D": "Blue fluorescence"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 125,
+      "question_text": "Endocrine effects of antipsychotic like chlorpromazine include all of the following EXCERT",
+      "options": {
+        "A": "Decrease in adrenocorticotrophins, Decrease in gonadotrophins",
+        "B": "Decrease in release of pituitary growth hormone",
+        "C": "Increase in prolactin secretion",
+        "D": "Decrease in thyroid hormone production"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    }
+  ]
+}

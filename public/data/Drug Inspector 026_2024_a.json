@@ -1,0 +1,1506 @@
+{
+  "exam_title": "Drug Inspector 026_2024_a",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "The total amount of water present in body cavities in a 70 kg adult male is –––––––––– L.",
+      "options": {
+        "A": "1 L",
+        "B": "14 L",
+        "C": "42 L",
+        "D": "60 L"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Transcellular fluid (water in body cavities) accounts for approximately 1 L in a 70 kg adult.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Among the following, choose the FALSE statement about G protein :",
+      "options": {
+        "A": "Can act as a receptor",
+        "B": "Can activate second messengers",
+        "C": "Dissociates reversibly into two on activation",
+        "D": "GTP binds to alpha subunit"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "G proteins couple to transmembrane receptors but do not themselves act as the primary receptors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Which is TRUE about gastrin?",
+      "options": {
+        "A": "Stimulates growth of gastric mucosa",
+        "B": "Secretion is blocked by atropine",
+        "C": "Acid in stomach increases gastrin secretion",
+        "D": "Inhibits insulin & glucagon secretion"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gastrin is known to have a trophic effect, stimulating the growth of the gastric mucosa.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Amount of oxygen carried by one gram of heamoglobin when fully saturated is :",
+      "options": {
+        "A": "3.46 ml",
+        "B": "2.35 ml",
+        "C": "1.34 ml",
+        "D": "0.96 ml"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Each gram of hemoglobin can bind approximately $1.34\\text{ ml}$ of oxygen when fully saturated.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Among the following which is not an action of GH?",
+      "options": {
+        "A": "$\\uparrow$ Gluconeogenesis",
+        "B": "$\\uparrow$ Glycolysis",
+        "C": "$\\uparrow$ Lipolysis",
+        "D": "$\\uparrow$ Glycogenolysis"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Growth hormone (GH) is diabetogenic and acts to increase gluconeogenesis, lipolysis, and glycogenolysis while generally opposing insulin action.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 6,
+      "question_text": "First heart sound is heard at :",
+      "options": {
+        "A": "At the beginning of IVC phase",
+        "B": "At the end of IVC phase",
+        "C": "At the beginning of IVR phase",
+        "D": "At the end of IVR phase"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The first heart sound coincides with the closure of the atrioventricular valves at the beginning of isovolemic contraction (IVC).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Which among the following is not a Peptide hormone?",
+      "options": {
+        "A": "Insulin",
+        "B": "Calcitonin",
+        "C": "Oestrogen",
+        "D": "Growth Hormone"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oestrogen is a steroid hormone, whereas insulin, calcitonin, and growth hormone are peptide/protein hormones.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 8,
+      "question_text": "False statement about sertoli cells is :",
+      "options": {
+        "A": "Seen in the walls of seminiferous tubules",
+        "B": "Secretes inhibin which inhibits FSH",
+        "C": "Secretes androgen binding proteins",
+        "D": "Secretes androgens for spermatogenesis"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Androgens (testosterone) are primarily secreted by Leydig cells, not Sertoli cells.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Examples of accelerants used in topically applied drugs include :",
+      "options": {
+        "A": "DMF",
+        "B": "DMA",
+        "C": "DMSO",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dimethylformamide (DMF), dimethylacetamide (DMA), and dimethyl sulfoxide (DMSO) are all well-known penetration enhancers.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 10,
+      "question_text": "For a satisfactory plain tablet the minimum hardness should be :",
+      "options": {
+        "A": "5 Kg",
+        "B": "2 Kg",
+        "C": "4 Kg",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A standard acceptable minimum hardness for a plain compressed tablet is generally considered to be around $2\\text{ kg}$ (or $2\\text{ kp}$).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "The invitro dissolution testing of tablet is to :",
+      "options": {
+        "A": "Correlate with invivo bioavailability",
+        "B": "Relates drug solubility and permeability",
+        "C": "To predict IVIVC correlation",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In vitro dissolution helps establish IVIVC, correlates with in vivo bioavailability, and reflects physicochemical properties.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Promulgens are composed of :",
+      "options": {
+        "A": "Mixture of fatty acid and their ethoxylates",
+        "B": "Lactic acid with fatty acids",
+        "C": "Non ionic emulsifiers",
+        "D": "(A) and (C)"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Promulgens are self-emulsifying waxes consisting of mixtures of nonionic emulsifiers such as fatty alcohols and their ethoxylates.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Phase inversion temperature is also called as :",
+      "options": {
+        "A": "Transition temperature",
+        "B": "Coalescence temperature",
+        "C": "HLB temperature",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phase inversion temperature (PIT) is also known as the HLB temperature for polyoxyethylated surfactants.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Weathering of glass containers can be avoided by which of the following?",
+      "options": {
+        "A": "Sulphur treatment",
+        "B": "Dealkalizing process",
+        "C": "(A) and (B)",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Both sulfur treatment and dealkalizing (acid washing) neutralize surface alkali to prevent glass weathering.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "LAL test is how many times more sensitive than rabbit pyrogen test :",
+      "options": {
+        "A": "2-3 times",
+        "B": "5-10 times",
+        "C": "15-30 times",
+        "D": "None of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Limulus Amebocyte Lysate (LAL) test is typically hundreds to thousands of times more sensitive than the traditional rabbit pyrogen test.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Sunscreen products include which of the following :",
+      "options": {
+        "A": "Titanium Dioxide",
+        "B": "Avobenzone",
+        "C": "Zinc Oxide",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Titanium dioxide, zinc oxide (physical blockers), and avobenzone (chemical blocker) are all standard sunscreen ingredients.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Equipment used for mixing sticky solids :",
+      "options": {
+        "A": "Double cone mixer",
+        "B": "Planetary mixer",
+        "C": "Ribbon blender",
+        "D": "V cone blender"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Planetary mixers are well-suited for mixing sticky or viscous pharmaceutical masses and semisolids.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 18,
+      "question_text": "In fluids at critical velocity the flow changes from Viscous to :",
+      "options": {
+        "A": "Turbulent",
+        "B": "Psedoplastic",
+        "C": "Laminar",
+        "D": "Dilatant"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "When fluid velocity exceeds the critical velocity, flow transitions from viscous (laminar) to turbulent.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Retrovirus mediated gene transfer is",
+      "options": {
+        "A": "In vivo method",
+        "B": "Ex vivo method",
+        "C": "Both (A) and (B)",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Retroviral vectors can be utilized for both in vivo and ex vivo gene transfer strategies.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Type I-hypersensitivity reactions are mediated predominantly by :",
+      "options": {
+        "A": "Ig M antibodies",
+        "B": "Ig G antibodies",
+        "C": "Ig E antibodies",
+        "D": "T lymphocytes"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Type I hypersensitivity is an immediate allergic reaction mediated primarily by IgE antibodies.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Therapeutic index is :",
+      "options": {
+        "A": "Maximum non toxic dose/Maximum effective dose",
+        "B": "Maximum toxic dose/Minimum effective dose",
+        "C": "Maximum effective/Minimum non toxic dose",
+        "D": "Maximum effective dose/Maximum non toxic dose"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Therapeutic index is typically expressed as the ratio of toxic dose to effective dose (e.g., $\\text{LD}_{50}/\\text{ED}_{50}$).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Myocardial contractility mainly depends on :",
+      "options": {
+        "A": "Intracellular Calcium",
+        "B": "Extracellular Calcium",
+        "C": "Both (A) and (B)",
+        "D": "Independent of Calcium"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cardiac muscle contraction is triggered by entry of extracellular calcium via L-type channels, which then induces calcium release from the sarcoplasmic reticulum (intracellular calcium).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Terbutaline is a :",
+      "options": {
+        "A": "$\\alpha 2$ selective adrenergic agonist",
+        "B": "$\\beta 2$ selective adrenergic agonist",
+        "C": "$\\alpha 1$ selective adrenergic agonist",
+        "D": "$\\beta 1$ selective adrenergic agonist"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Terbutaline is a well-known short-acting $\\beta_2$ adrenergic agonist used as a bronchodilator.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 24,
+      "question_text": "An example for ultra short acting barbiturates :",
+      "options": {
+        "A": "Secobarbitone",
+        "B": "Phenobarbitone",
+        "C": "Pentobarbitone",
+        "D": "Thiopentone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiopentone is an ultra-short-acting barbiturate commonly used for IV induction of anesthesia.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Abrupt onset of unpaired consciousness associated with staring and cessation of ongoing activities typically lasting 30 seconds :",
+      "options": {
+        "A": "Myoclonic seizure",
+        "B": "Tonic clonic seizure",
+        "C": "Absence seizure",
+        "D": "Simple partial seizure"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Absence seizures (petit mal) present with brief lapses of consciousness and staring spells.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Reye ‘s syndrome in children seen with administration of :",
+      "options": {
+        "A": "Paracetamol",
+        "B": "Aspirin",
+        "C": "Ibuprofen",
+        "D": "Indomethacin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aspirin administration in children with viral infections is strongly linked to the development of Reye's syndrome.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 27,
+      "question_text": "All are carbonic anhydrase inhibitors except :",
+      "options": {
+        "A": "Acetazolamide",
+        "B": "Methazolamide",
+        "C": "Dichlorphenamide",
+        "D": "Furosemide"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Furosemide is a loop diuretic (inhibitor of $\\text{Na}^+/\\text{K}^+/2\\text{Cl}^-$ cotransporter), not a carbonic anhydrase inhibitor.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 28,
+      "question_text": "A vitamin that work in reducing bad cholesterol :",
+      "options": {
+        "A": "Vitamin B6",
+        "B": "Vitamin B3",
+        "C": "Vitamin B12",
+        "D": "Vitamin B2"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vitamin B3 (niacin) is well known for its lipid-lowering properties, specifically reducing LDL and triglycerides while raising HDL.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 29,
+      "question_text": "A mitotic spindle poison is :",
+      "options": {
+        "A": "Paclitaxel",
+        "B": "Flurouracil",
+        "C": "Mitomycin",
+        "D": "Methotrexate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Paclitaxel stabilizes microtubules and acts as a mitotic spindle poison.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 30,
+      "question_text": "A 3rd generation Cepholorosporin used as antimicrobial agent is :",
+      "options": {
+        "A": "Ceforamide",
+        "B": "Cefotaxime",
+        "C": "Cephalothin",
+        "D": "Cefoxitin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cefotaxime is classified as a third-generation cephalosporin.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 31,
+      "question_text": "The species source for long acting insulins :",
+      "options": {
+        "A": "Humans",
+        "B": "Monkeys",
+        "C": "Rats",
+        "D": "All of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Recombinant human insulin analogues are standard sources for modern short and long-acting insulin preparations.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 32,
+      "question_text": "An example for anti retroviral agent :",
+      "options": {
+        "A": "Acyclovir",
+        "B": "Zidovudine",
+        "C": "Ribavirin",
+        "D": "Trifluridine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Zidovudine (AZT) is a nucleoside reverse transcriptase inhibitor used as an antiretroviral agent.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Ototoxicity is caused due to :",
+      "options": {
+        "A": "Phenytoin",
+        "B": "Doxorubicin",
+        "C": "Chloroquine",
+        "D": "Rifamicin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chloroquine (as well as aminoglycosides, loop diuretics, etc.) is known to cause ototoxicity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 34,
+      "question_text": "The orphan drug used for orphan disease paracetamol overdose toxicity :",
+      "options": {
+        "A": "Erythropoietin",
+        "B": "Fomepizole",
+        "C": "Atovaquone",
+        "D": "Acetyl cysteine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "N-acetylcysteine is the standard specific antidote used to treat paracetamol (acetaminophen) overdose.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 35,
+      "question_text": "The amino acid that does not undergoes transamination :",
+      "options": {
+        "A": "Alanine",
+        "B": "Leucine",
+        "C": "Lysine",
+        "D": "Methionine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lysine (along with threonine) does not participate in transamination; instead, they are degraded via other pathways.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Which of the following is a Selective $\\beta_1$ blocker?",
+      "options": {
+        "A": "Nadolol",
+        "B": "Pindolol",
+        "C": "Metoprolol",
+        "D": "Timolol"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Metoprolol is a cardioselective $\\beta_1$ adrenergic receptor blocker.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 37,
+      "question_text": "The following is the structure of : (See printed diagram with COOH, NH-CH2, Cl, and NH2SO2 groups)",
+      "options": {
+        "A": "Mefenemic acid",
+        "B": "Meclofenamic acid",
+        "C": "Tolfenamic acid",
+        "D": "Furosemide"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The chemical structure shown contains the characteristic anthranilic acid derivative core with a sulfamoyl group ($\\text{NH}_2\\text{SO}_2$), chloride, and a furfurylamino group, representing furosemide.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 38,
+      "question_text": "All of the following are substrates for gluconeogenesis except :",
+      "options": {
+        "A": "Palmitic acid",
+        "B": "Lactic acid",
+        "C": "Aspartic acid",
+        "D": "Glutamic acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Even-chain fatty acids like palmitic acid yield acetyl-CoA, which cannot be net converted to glucose in humans, making them non-gluconeogenic substrates.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Globar used as a radiation source in IR spectroscopy is composed of :",
+      "options": {
+        "A": "Polystrene",
+        "B": "Polysiloxane",
+        "C": "Silicon carbide",
+        "D": "Silicon dioxide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A Globar source consists of a sintered rod of silicon carbide used for infrared radiation emission.",
+      "category": "General"
+    },
+    {
+      "question_number": 40,
+      "question_text": "The most widely used HPLC detector suitable for gradient elution is :",
+      "options": {
+        "A": "Refractive index detector",
+        "B": "Ultraviolet detectors",
+        "C": "Electrochemical detectors",
+        "D": "Fluorescence detectors"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "UV detectors are relatively insensitive to mobile phase composition changes, making them ideal for gradient elution HPLC.",
+      "category": "General"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Mc Ardle’s syndrome is due to deficiency of :",
+      "options": {
+        "A": "Glucose-6-phosphatase",
+        "B": "Branching enzyme",
+        "C": "Debranching enzyme",
+        "D": "Muscle glycogen phosphorylase"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "McArdle's disease (Glycogen storage disease type V) is caused by a deficiency in muscle glycogen phosphorylase.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 42,
+      "question_text": "The heterocyclic ring present in the structure of Fentanyl is :",
+      "options": {
+        "A": "Piperidine",
+        "B": "Imidazole",
+        "C": "Indole",
+        "D": "Pyrrole"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fentanyl contains a 4-aminopiperidine core heterocyclic ring structure.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 43,
+      "question_text": "An unsuitable carrier gas in gas chromatography is :",
+      "options": {
+        "A": "Helium",
+        "B": "Oxygen",
+        "C": "Hydrogen",
+        "D": "Nitrogen"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oxygen is reactive and can cause column degradation or explosions with hydrogen detectors, making it completely unsuitable as a carrier gas.",
+      "category": "General"
+    },
+    {
+      "question_number": 44,
+      "question_text": "The component of electron transport chain that possess isoprenoid units :",
+      "options": {
+        "A": "Cytochrome oxidase",
+        "B": "Coenzyme Q",
+        "C": "Cytochrome b",
+        "D": "Iron sulphur protein"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Coenzyme Q (ubiquinone) possesses a quinone ring attached to a long isoprenoid tail.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 45,
+      "question_text": "The National Malaria Control Programme (NMCP) became a part of National vector Borne disease control programme in :",
+      "options": {
+        "A": "1953",
+        "B": "1958",
+        "C": "2002",
+        "D": "2005"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The National Vector Borne Disease Control Programme (NVBDCP) was restructured around 2002 by integrating various disease control programs.",
+      "category": "General"
+    },
+    {
+      "question_number": 46,
+      "question_text": "The number of pharmacists required for a 100-bed hospital :",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "8"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to standard hospital pharmacy guidelines (like the Health Ministry recommendations in India), a 100-bed hospital typically requires around 8 pharmacists.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 47,
+      "question_text": "The Secretary of Pharmacy and therapeutics Committee is the :",
+      "options": {
+        "A": "Physician",
+        "B": "Chief Pharmacist",
+        "C": "Nursing Head",
+        "D": "Hospital Administrator"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The chief pharmacist usually serves as the secretary of the Pharmacy and Therapeutics (P&T) Committee.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 48,
+      "question_text": "The ISO 9000 standards were first published in :",
+      "options": {
+        "A": "1975",
+        "B": "1978",
+        "C": "1985",
+        "D": "1987"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The ISO 9000 quality management standards were first officially published by the International Organization for Standardization in 1987.",
+      "category": "General"
+    },
+    {
+      "question_number": 49,
+      "question_text": "The ‘Father of Quality circles’ who introduced the seven tools of quality control :",
+      "options": {
+        "A": "Kaoru Ishikawa",
+        "B": "Genichi Taguchi",
+        "C": "Frederick W Taylor",
+        "D": "Armand V Feigenbaum"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Kaoru Ishikawa pioneered quality circles and introduced the seven basic tools of quality control.",
+      "category": "General"
+    },
+    {
+      "question_number": 50,
+      "question_text": "The rVSV-ZEBOV vaccine is approved to prevent :",
+      "options": {
+        "A": "SARS",
+        "B": "Ebola",
+        "C": "Influenza",
+        "D": "Covid-19"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "rVSV-ZEBOV is a recombinant live-attenuated vaccine used for the prevention of Zaire ebolavirus (Ebola).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Coconut oil has a very low iodine value and a high saponification value. This is due to the presence of the :",
+      "options": {
+        "A": "Triglyceride of mainly lauric acid",
+        "B": "Triglyceride of mainly myristic acid",
+        "C": "Triglycerides of smaller quantities of caproic, caprylic, oleic, palmitic and stearic acids",
+        "D": "All of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Coconut oil is rich in medium-chain fatty acids, predominantly lauric acid, giving it a low iodine value and high saponification value.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Agar is used :",
+      "options": {
+        "A": "In the preparation of culture media",
+        "B": "As an emulsifying agent",
+        "C": "In the treatment of chronic constipation",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Agar finds applications as a solidifying agent in microbiology media, a suspending/emulsifying agent, and a bulk laxative for constipation.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Fenugreek contains the alkaloid, trigonelline, which is a :",
+      "options": {
+        "A": "Pyridine type",
+        "B": "Isoquinoline type",
+        "C": "Indole type",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Trigonelline is an alkaloid derived from N-methylnicotinic acid, classifying it under pyridine type alkaloids.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Starch granules undergo gelatinization when treated with :",
+      "options": {
+        "A": "caustic potash",
+        "B": "concentrated solutions of calcium or zinc chlorides",
+        "C": "concentrated solution of chloral hydrate",
+        "D": "all of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Starch gelatinization can be induced by strong alkalis and concentrated solutions of certain salts or hydrating agents.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 55,
+      "question_text": "“Like are cured by likes” is the basic principle involved in :",
+      "options": {
+        "A": "Ayurveda",
+        "B": "Siddha",
+        "C": "Homeopathy",
+        "D": "Unani"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The law of similars ('like cures like') is the foundational principle of Homeopathy.",
+      "category": "General"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Which of the following is the application of plant tissue culture?",
+      "options": {
+        "A": "Biochemical conversions",
+        "B": "Clonal propagation",
+        "C": "Production of useful phytoconstituents",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Plant tissue culture is widely used for micropropagation (clonal propagation), secondary metabolite production, and biotransformations.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 57,
+      "question_text": "All are optically active alkaloids except :",
+      "options": {
+        "A": "Coniine",
+        "B": "Papaverine",
+        "C": "Quinine",
+        "D": "Ephedrine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Papaverine is an achiral benzylisoquinoline alkaloid and is optically inactive.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Leaf constants are determined by using :",
+      "options": {
+        "A": "Stomatal index",
+        "B": "Vein-islet number",
+        "C": "Palisade ratio",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Stomatal index, vein-islet number, and palisade ratio are all standardized quantitative leaf microscopy constants.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Shikimic acid pathway is employed by :",
+      "options": {
+        "A": "Microorganisms only",
+        "B": "Plants only",
+        "C": "Both microorganisms and plants",
+        "D": "Animals"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The shikimic acid pathway operates in higher plants, fungi, and bacteria to synthesize aromatic amino acids.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Ginseng contains :",
+      "options": {
+        "A": "Cardiac glycosides",
+        "B": "Saponin glycosides",
+        "C": "Anthraquinone glycosides",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ginseng contains active triterpenoid saponin glycosides known as ginsenosides.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Both the corm and the seeds of colchicum are used for treating :",
+      "options": {
+        "A": "Arthritis",
+        "B": "Rheumatism",
+        "C": "Gout",
+        "D": "All of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Colchicum corm and seeds contain colchicine, which is primarily used in the treatment of acute gout.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Urokinase is non antigenic because it is :",
+      "options": {
+        "A": "Obtained from plants",
+        "B": "An endogenous enzyme",
+        "C": "Obtained from microorganisms",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Urokinase is a human endogenous enzyme (thrombolytic) and thus exhibits low antigenicity compared to foreign proteins.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 63,
+      "question_text": "A marine anticancer agent :",
+      "options": {
+        "A": "Manoalide",
+        "B": "Anthopleurin - A",
+        "C": "Bryostatin - 1",
+        "D": "α - Conotoxin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bryostatin-1 is a marine-derived macrocyclic lactone with prominent antineoplastic properties.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Turmeric contains :",
+      "options": {
+        "A": "Turmerone",
+        "B": "α , β - Atlantone",
+        "C": "Zingiberene",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Turmeric volatile oil contains turmerone, atlantone, and zingiberene among its active sesquiterpenes.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 65,
+      "question_text": "Chlorinated lime is regarded as consisting of :",
+      "options": {
+        "A": "Calcium chloride",
+        "B": "Calcium hypochlorite",
+        "C": "Calcium chloro-hypochlorite",
+        "D": "Calcium chlorate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bleaching powder (chlorinated lime) is chemically complex, often formulated as a mixture containing calcium chloro-hypochlorite.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 66,
+      "question_text": "The reaction by which Indole is converted into 3-dimethylamino-methylindole (Gramine) by :",
+      "options": {
+        "A": "Reissert synthesis",
+        "B": "Mannich reaction",
+        "C": "Reimer-Tiemann reaction",
+        "D": "Friedlander’s synthesis"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The conversion of indole with formaldehyde and dimethylamine to form gramine proceeds via the Mannich reaction.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 67,
+      "question_text": "DDT is chemically :",
+      "options": {
+        "A": "Dichloro Diphenyl Trichlorohexane",
+        "B": "Dichloro Dimethyl Trichloroethane",
+        "C": "Dichloro Diethyl Trichloropropane",
+        "D": "Dichloro Diphenyl Trichloroethane"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "DDT stands for dichlorodiphenyltrichloroethane.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 68,
+      "question_text": "In which heterocyclic ring, the numbering of ring atoms does not start on the hetero atom :",
+      "options": {
+        "A": "Indole",
+        "B": "Acridine",
+        "C": "Quinoline",
+        "D": "Thiophene"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In acridine, numbering begins at a position adjacent to the central nitrogen heteroatom rather than the nitrogen itself.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Naphthalene undergoes electrophilic substitution reactions primarily at :",
+      "options": {
+        "A": "C-1",
+        "B": "C-5",
+        "C": "C-4",
+        "D": "C-3"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Electrophilic aromatic substitution in naphthalene preferentially takes place at the alpha-position (C-1).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 70,
+      "question_text": "Dying oils undergo, which among the following reaction to form a thin water proof film :",
+      "options": {
+        "A": "Halogenation",
+        "B": "Hydrolysis-Oxidation",
+        "C": "Oxidation-Polymerization",
+        "D": "Hydrogenation"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Drying oils harden upon exposure to air through an oxidation-polymerization process of their unsaturated fatty acid chains.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Meso compounds are achiral due to the presence of :",
+      "options": {
+        "A": "Plane of symmetry",
+        "B": "Centre of symmetry",
+        "C": "Alternative axis of symmetry",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Meso compounds contain chiral centers but are overall achiral due to an internal plane or center of symmetry, most commonly a plane of symmetry.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 72,
+      "question_text": "Which of the following reaction employs amalgamated zinc and concentrated hydrochloric acid as the reducing agent?",
+      "options": {
+        "A": "Wolff-Kishner reduction",
+        "B": "Clemmensen reduction",
+        "C": "Brich reduction",
+        "D": "Dakin reaction"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clemmensen reduction uses zinc amalgam and hydrochloric acid to reduce carbonyl groups to methylene groups.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Imidazole is isomeric with :",
+      "options": {
+        "A": "Oxazole",
+        "B": "Thiazole",
+        "C": "Pyrazole",
+        "D": "Pyrrole"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Imidazole and pyrazole are both five-membered aromatic rings containing two nitrogens, making them isomers with formula $C_3H_4N_2$.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 74,
+      "question_text": "Phenolphthalein is colourless in :",
+      "options": {
+        "A": "Acid solution only",
+        "B": "Neutral solution only",
+        "C": "Both acid and neutral solutions",
+        "D": "Slightly alkaline solution"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phenolphthalein is colourless in both acidic and neutral media, turning pink only in alkaline conditions.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Role of concentrated sulphuric acid in the nitration of benzene :",
+      "options": {
+        "A": "To increase the acidity of con. nitric acid",
+        "B": "To avoid the formation of di and trinitrobenzene",
+        "C": "To generate the electrophile-nitronium ion",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfuric acid acts as a strong acid catalyst that protonates nitric acid to generate the reactive nitronium ion electrophile.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 76,
+      "question_text": "Assay of calcium gluconate is done by :",
+      "options": {
+        "A": "Gravimetry",
+        "B": "Alkalimetry",
+        "C": "Fajans method",
+        "D": "Complexometry"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Calcium gluconate is quantitatively assayed using complexometric titration with disodium EDTA.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Coca derivatives means any mixture of coca containing more than the following amount of cocaine?",
+      "options": {
+        "A": "0.2%",
+        "B": "0.5%",
+        "C": "0.02%",
+        "D": "0.10%"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the NDPS Act, coca derivatives include preparations containing more than 0.2% of cocaine.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 78,
+      "question_text": "The import of drugs for personal use contains average dose in mg up to?",
+      "options": {
+        "A": "10",
+        "B": "100",
+        "C": "50",
+        "D": "500"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Import of drugs for personal use is permitted up to 100 average doses under specific customs and drug rules.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 79,
+      "question_text": "All finished alcoholic preparations in a bonded laboratory should be stored in jars or bottles, each containing not less than?",
+      "options": {
+        "A": "1 Litre",
+        "B": "1.5 Litre",
+        "C": "2.25 Litre",
+        "D": "5 Litre"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Medicinal and Toilet Preparations Rules specify a minimum packaging size of 2.25 litres for certain bottled alcoholic preparations in bonded labs.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Manufacturer of cosmetics to conform to the latest Bureau of Indian Standards requirements is specified in :",
+      "options": {
+        "A": "Schedule-A",
+        "B": "Schedule-S",
+        "C": "Schedule-F",
+        "D": "Schedule-T"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule S of the Drugs and Cosmetics Rules specifies standards for cosmetics manufacturing and quality compliance.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 81,
+      "question_text": "The application to import drugs as part of bonafide laggage is made to the licensing authority in :",
+      "options": {
+        "A": "Form 12A",
+        "B": "Form 12",
+        "C": "Form 12B",
+        "D": "Form 26"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 12A is used for applying to import small quantities of drugs for personal use / bonafide baggage.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 82,
+      "question_text": "The following points should be considered by a pharmacist while dealing with his profession except?",
+      "options": {
+        "A": "Professional vigilance",
+        "B": "Limitation of professional activity",
+        "C": "Relationship with professional organisation",
+        "D": "Law abiding citizens"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "While being a law-abiding citizen is a general civic duty, specific pharmacy ethics codes emphasize vigilance, limitations of practice, and organizational ties.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Narcotic drugs and psychotropic substances act was enacted in the year :",
+      "options": {
+        "A": "1895",
+        "B": "1857",
+        "C": "1985",
+        "D": "1980"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Narcotic Drugs and Psychotropic Substances (NDPS) Act was enacted in India in 1985.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 84,
+      "question_text": "The number of registered pharmacists nominated by respective state government in a state council is :",
+      "options": {
+        "A": "6",
+        "B": "5",
+        "C": "7",
+        "D": "8"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Pharmacy Act, the State Pharmacy Council includes 5 members nominated by the State Government.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 85,
+      "question_text": "Whoever contravenes any of the provisions of the Drugs and Magic Remedies (objectionable advertisements) Act, 1954 is punishable up to the maximum imprisonment of :",
+      "options": {
+        "A": "One year",
+        "B": "Two years",
+        "C": "Five years",
+        "D": "Three years"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "First-time conviction under the Drugs and Magic Remedies Act carries imprisonment up to 6 months or 1 year depending on the offense clause (typically up to 1 year for first conviction).",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 86,
+      "question_text": "Good manufacturing practices for ayurvedic, siddha and unani medicines is specified in :",
+      "options": {
+        "A": "Schedule-S",
+        "B": "Schedule-T",
+        "C": "Schedule-B",
+        "D": "Schedule-U"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule T outlines the GMP requirements for Ayurvedic, Siddha, and Unani drugs.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 87,
+      "question_text": "As per the Drugs and Magic Remedies act-1954, which of the disease, disorder or condition cannot be claimed to be cured?",
+      "options": {
+        "A": "Goitre",
+        "B": "Gangrene",
+        "C": "Glaucoma",
+        "D": "All the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Goitre, gangrene, and glaucoma are all listed under diseases and conditions that cannot be advertised as curable under the Act.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 88,
+      "question_text": "Good laboratory practices and requirements of premises and equipments is specified in :",
+      "options": {
+        "A": "Schedule M",
+        "B": "Schedule N",
+        "C": "Schedule L-1",
+        "D": "Schedule M-1"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule L-1 specifies good laboratory practices and requirements for premises and equipment for analytical testing labs.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 89,
+      "question_text": "The principle fungus for commercial citric acid production by fermentation is :",
+      "options": {
+        "A": "Aspergillus aculeatus",
+        "B": "Aspergillus foetidus",
+        "C": "Aspergillus niger",
+        "D": "Aspergillus wentii"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aspergillus niger is the primary fungal strain utilized industrially for citric acid fermentation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 90,
+      "question_text": "The certificate of pharmaceutical product is issued in the format recommended by :",
+      "options": {
+        "A": "USFDA",
+        "B": "WHO",
+        "C": "CDSCO",
+        "D": "MHRA"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Certificate of a Pharmaceutical Product (COPP) follows the format established and recommended by the World Health Organization (WHO).",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 91,
+      "question_text": "The rule for permission to import new drug under schedule Y is :",
+      "options": {
+        "A": "Rule 122A",
+        "B": "Rule 122B",
+        "C": "Rule 122DA",
+        "D": "Rule 122E"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rule 122A governs the permission to import new drugs into the country.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 92,
+      "question_text": "Which among the following is a non-erodible ophthalmic insert?",
+      "options": {
+        "A": "Lacrisert",
+        "B": "Ocusert",
+        "C": "Soluble Ocular Drug Insert",
+        "D": "Minidisc"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ocusert is a classic example of a membrane-controlled, non-erodible ocular insert system.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 93,
+      "question_text": "The headquarters of Small Industrial Development Bank of India (SIDBI) is located at :",
+      "options": {
+        "A": "New Delhi",
+        "B": "Indore",
+        "C": "Mumbai",
+        "D": "Lucknow"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The head office of SIDBI is located in Lucknow, Uttar Pradesh.",
+      "category": "General"
+    },
+    {
+      "question_number": 94,
+      "question_text": "The parameters for quality Risk management is mentioned in :",
+      "options": {
+        "A": "ICH guideline Q7",
+        "B": "ICH guideline Q8",
+        "C": "ICH guideline Q9",
+        "D": "ICH guideline Q10"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "ICH Q9 guideline specifically focuses on Quality Risk Management principles and tools.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 95,
+      "question_text": "Dose-dependant kinetics is observed in :",
+      "options": {
+        "A": "Zero order kinetics",
+        "B": "First order kinetics",
+        "C": "Second order kinetics",
+        "D": "Mixed order kinetics"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dose-dependent or non-linear pharmacokinetics (capacity-limited metabolism) is typically described by mixed-order (Michaelis-Menten) kinetics.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 96,
+      "question_text": "The type of drug administration shown by the following compartment model? $\\xrightarrow{k_{10}} 1$",
+      "options": {
+        "A": "Oral administration",
+        "B": "Intrathecal administration",
+        "C": "Intravenous administration",
+        "D": "Sublingual administration"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A single compartment model with elimination rate constant $k_{10}$ directly from the central compartment represents intravenous bolus administration.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 97,
+      "question_text": "The most frequently occurring value in a data set is called the :",
+      "options": {
+        "A": "Mean",
+        "B": "Mode",
+        "C": "Median",
+        "D": "Average"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The mode is defined as the value that appears most frequently in a given data set.",
+      "category": "General"
+    },
+    {
+      "question_number": 98,
+      "question_text": "Coefficient of variation was developed by :",
+      "options": {
+        "A": "Karl Pearson",
+        "B": "Fanas Gatton",
+        "C": "Horace Secrists",
+        "D": "Charles Edward"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The coefficient of variation (CV) is a statistical measure of relative dispersion introduced by Karl Pearson.",
+      "category": "General"
+    },
+    {
+      "question_number": 99,
+      "question_text": "Fractional sterilization is also known as :",
+      "options": {
+        "A": "Pasteurization",
+        "B": "Tyndallization",
+        "C": "Lyophilization",
+        "D": "Ionization"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fractional sterilization designed to destroy bacterial spores through intermittent heating is also called tyndallization.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 100,
+      "question_text": "The biological indicator for radiation sterilization are the spores of :",
+      "options": {
+        "A": "Bacillus stearothermophilus",
+        "B": "Bacillus subtilis",
+        "C": "Bacillus nigrificans",
+        "D": "Bacillus pumilus"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bacillus pumilus spores are standard biological indicators used to validate radiation (gamma) sterilization processes.",
+      "category": "Pharmaceutics"
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "exam_title": "gpat-question-paper-2002",
+  "total_questions": 51,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Volatile oil from Lemon peels contains d-limonene which is",
+      "options": {
+        "A": "Phenyl propane derivative",
+        "B": "Bicyclic Monoterpene derivative",
+        "C": "Monocyclic Monoterpene derivative",
+        "D": "Acyclic Sesquiterpene derivative"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "d-Limonene is a well-known monocyclic terpene containing a six-membered ring with one double bond and an isopropenyl group.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 2,
+      "question_text": "In case of Digitalis purpurea, the cardiac activity is maximum with",
+      "options": {
+        "A": "Odoroside-H",
+        "B": "Digoxin",
+        "C": "Digitoxin",
+        "D": "Purpurea glycoside-A"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Purpurea glycoside A is the primary genuine glycoside found in Digitalis purpurea containing glucose attached to digitoxin.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Dragendorff's reagent does not give positive test with",
+      "options": {
+        "A": "Emetine",
+        "B": "Morphine",
+        "C": "Caffeine",
+        "D": "Codeine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Caffeine is a purine alkaloid (xanthine derivative) that lacks basic properties typical of true alkaloids and typically fails to precipitate with Dragendorff's reagent.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 4,
+      "question_text": "The instrument used to measure particle volume is",
+      "options": {
+        "A": "Coulter Counter",
+        "B": "Microscope",
+        "C": "Hempel Burette",
+        "D": "Helium Densitometer"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Coulter Counter measures the volume of particles based on the electrical resistance change as particles pass through an aperture.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "The purpose of seal coating in sugar coating process for tablets is",
+      "options": {
+        "A": "To prevent moisture penetration into the tablet core",
+        "B": "To round the edges and build up the tablet weight",
+        "C": "To impart the desired color to the tablet",
+        "D": "To give lusture to the tablet"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Seal coating forms a water-impermeable barrier around the tablet core to protect it from moisture during subsequent aqueous coating steps.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 6,
+      "question_text": "The phenomenon of increasing the solubility of weak electrolytes and non polar molecules by the addition of water miscible solvent in which the drug has good solubility is called",
+      "options": {
+        "A": "Complexation",
+        "B": "Cosolvency",
+        "C": "Solubilization",
+        "D": "Hydrotrophy"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cosolvency refers to the addition of a water-miscible solvent in which a poorly soluble drug is more soluble, thereby enhancing its total solubility.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 7,
+      "question_text": "HLB system is used to classify",
+      "options": {
+        "A": "Surfactants",
+        "B": "Preservatives",
+        "C": "Antioxidants",
+        "D": "Sequestering agents"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Hydrophilic-Lipophilic Balance (HLB) scale is used to characterize the relative polarity of surfactants.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "The statement \"Store in a cool place\" as per IP, means",
+      "options": {
+        "A": "Store at room temperature",
+        "B": "Store between $2^{\\circ}$ to $8^{\\circ}$ C",
+        "C": "Store at any temperature between $8^{\\circ}$ to $25^{\\circ}$ C",
+        "D": "Store at $0^{\\circ}$ C"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to the Indian Pharmacopoeia, a cool place denotes a temperature between $8^{\\circ}$ and $25^{\\circ}$ C.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Durability of a tablet to combined effects of shock and abrasion is evaluated by using",
+      "options": {
+        "A": "Hardness tester",
+        "B": "Disintegration test apparatus",
+        "C": "Friabilator",
+        "D": "Screw Gauge"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A friabilator determines the resistance of tablets to mechanical shock and abrasion during manufacturing, packing, and shipping.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Ion exchange capacity of a resin is dependent on",
+      "options": {
+        "A": "The total molecular weight of the resin",
+        "B": "The total number of ion active groups",
+        "C": "Length of ion exchange resin",
+        "D": "Solubility of the ion exchange resins"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The exchange capacity is directly proportional to the number of functional ion-active groups available per unit weight or volume.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "In mass spectra, the most intense peak is the",
+      "options": {
+        "A": "Base peak",
+        "B": "Metastable ion peak",
+        "C": "Fragment ion peak",
+        "D": "Rearrangement ion peak"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The base peak corresponds to the most abundant ion formed in the mass spectrum, assigned a relative intensity of 100%.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Chemical shift is expressed in one of the following units",
+      "options": {
+        "A": "$\\text{cm}^{-1}$",
+        "B": "Amperes",
+        "C": "Parts per million",
+        "D": "$\\text{mm/ml}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chemical shift in NMR spectroscopy is standardly expressed in parts per million (ppm).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Xenon arc lamp is the source of light in",
+      "options": {
+        "A": "Spectroflurimeter",
+        "B": "IR Spectrophotometer",
+        "C": "Flame photometer",
+        "D": "Calorimeter"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Xenon arc lamps provide high-intensity continuous radiation in the UV-visible range and are commonly used in spectrofluorimeters.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Which of the following pairs has an interaction beneficial for routine clinical use",
+      "options": {
+        "A": "Pseudoephedrine & Aluminium hydroxide gel",
+        "B": "Tetracyclines and Milk of magnesia",
+        "C": "MAO inhibitors and Tyramine",
+        "D": "Choramphenicol and Tolbutamide"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Antacids like aluminum hydroxide can increase the rate of absorption of pseudoephedrine due to alkalinization of the stomach.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Measurement of which of the following two of the constituents of human plasma is of great value in the differential diagnosis of rheumatoid diseases",
+      "options": {
+        "A": "Rheumatoid factor and immunoglobulin G",
+        "B": "Rheumatoid factor and C-reactive Protein",
+        "C": "HL-A antigen and C-reactive protein",
+        "D": "Immunoglobulin and bradykinin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rheumatoid factor and C-reactive protein (CRP) are classic clinical markers assessed together for the diagnosis and monitoring of rheumatoid diseases.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Which of the following is valid comparison of live attenuated vaccines versus killed inactivated vaccines",
+      "options": {
+        "A": "Hypersensitivity reactions are uncommon among inactivated vaccines",
+        "B": "Live attenuated vaccines are more effective in children",
+        "C": "Live attenuated vaccines are not suitable for pediatrics use",
+        "D": "Replication of the organisms in a live attenuated vaccine increases the stimulation of the immune system there by requiring a lower dose"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Live attenuated vaccines replicate in the host, providing prolonged antigenic exposure and strong immunity, typically requiring smaller doses than inactivated ones.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 17,
+      "question_text": "An antineoplastic agent acting by folate antagonism and having a pteridine ring is",
+      "options": {
+        "A": "Trimethoprim",
+        "B": "Mercaptopurine",
+        "C": "Methotrexate",
+        "D": "Folic acid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methotrexate is a well-known antifolate antineoplastic agent containing a pteridine ring structure.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "One of the following drugs has 1,4-dihydropyridine structure, tertiary amino group in the side chain and $Ca^{++}$ channel antagonist action",
+      "options": {
+        "A": "Nitrodipine",
+        "B": "Nicardipine",
+        "C": "Verapamil",
+        "D": "Captopril"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nicardipine is a 1,4-dihydropyridine calcium channel blocker that possesses a basic tertiary amino group in its ester side chain.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 19,
+      "question_text": "IUPAC name for one of the steroidal anti-inflammatory agent is 9-$\\alpha$-Fluoro-$11\\beta$, $16\\alpha$, $17\\alpha$, 21-tetrahydroxy-1,4-Pregnadiene-3,20-dione",
+      "options": {
+        "A": "Predenisolone",
+        "B": "Betamethasone",
+        "C": "Triamcinolone",
+        "D": "Dexamethasone"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "This specific stereochemical IUPAC nomenclature corresponds to triamcinolone.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "CLOFAZIMINE belongs to a class of",
+      "options": {
+        "A": "Rriminophenazines",
+        "B": "Aryl piperazines",
+        "C": "Phenothiazones",
+        "D": "Benzyl piperazines"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clofazimine is an anti-leprosy drug belonging structurally to the class of riminophenazines.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 21,
+      "question_text": "One of the drug is odd one in terms of its biological action",
+      "options": {
+        "A": "Diethyl Stilbesterol",
+        "B": "Tamoxifen",
+        "C": "Ethynyl Estradiol",
+        "D": "Mestranol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tamoxifen is an estrogen receptor antagonist (SERM), whereas diethylstilbestrol, ethynyl estradiol, and mestranol are estrogen receptor agonists.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 22,
+      "question_text": "The key intermediates for the synthesis of TIMOLOL are",
+      "options": {
+        "A": "3,4-dichloro-1,2,5-thiadiazole and morpholine",
+        "B": "3,4-dichloro-1,2,5-thiadiazole and piperazine",
+        "C": "3,4-dibromo-1,2,5-thiadiazole and piperazine",
+        "D": "3-chloro-1,2,5-thiadiazole and morpholine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Timolol synthesis utilizes 3,4-dichloro-1,2,5-thiadiazole reacted with morpholine derivatives.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 23,
+      "question_text": "One of the following drug interrupts the synthesis of thyroid hormones bypreventing iodine incorporation into the tyrosyl residue of thyroglobulin",
+      "options": {
+        "A": "Levothyroxine",
+        "B": "Liothyronine",
+        "C": "Propyl thiouracil",
+        "D": "Triodo thyronine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Propylthiouracil inhibits thyroid peroxidase, preventing the iodination of tyrosyl residues on thyroglobulin.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Macrolide antibiotics exert their action by",
+      "options": {
+        "A": "Inhibiting transcription",
+        "B": "Altering the genetic code",
+        "C": "Terminating protein synthesis prematurey",
+        "D": "Post-translational modification"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Macrolides bind to the 50S ribosomal subunit, inhibiting translocation and leading to premature peptide chain dissociation/termination.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 25,
+      "question_text": "One of the following is selective $\\beta_2$-stimulant",
+      "options": {
+        "A": "Caffeine",
+        "B": "Salbutamol",
+        "C": "Propranolol",
+        "D": "Betahistine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Salbutamol is a well-known short-acting selective $\\beta_2$ adrenergic receptor agonist used as a bronchodilator.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 1,
+      "question_text": "Cascaroside A is an example of",
+      "options": {
+        "A": "O-Glycoside",
+        "B": "C-Glycoside",
+        "C": "N-and-S-Glycoside",
+        "D": "O-and-C-Glycoside"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cascarosides are unique anthraquinone glycosides that contain both O-glycosidic and C-glycosidic linkages.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Precursor of the biosynthesis of Tropane group of alkaloids is",
+      "options": {
+        "A": "Leucine",
+        "B": "Lysine",
+        "C": "Ornithine",
+        "D": "Tyrosine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tropane alkaloids are biosynthetically derived from the amino acid ornithine (via putrescine and N-methylpyrrolinium cation).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 3,
+      "question_text": "The extraction of steroidal saponins on commercial scale is from",
+      "options": {
+        "A": "Dioscorea",
+        "B": "Digitails",
+        "C": "Datura",
+        "D": "Trigonella"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dioscorea species are the primary commercial source for diosgenin, a crucial starting material for steroidal saponins and hormones.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Rauwalfia sepentina Benth., can be distinguished from other adulterants/ substitutes of Rauwolfia spp. by",
+      "options": {
+        "A": "Presence of starch grains",
+        "B": "Presence of calcium oxalate crystals",
+        "C": "Presence of trichomes",
+        "D": "Presence of sclereids"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The characteristic presence of stone cells (sclereids) helps differentiate authentic Rauwolfia serpentina from certain adulterants.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Schedule FF contains the list of the following",
+      "options": {
+        "A": "Drug which can be marketed under generic names only",
+        "B": "Drug which are habit forming",
+        "C": "Standards for ophthalmic preparation",
+        "D": "Drug which are exempt from certain provisions applicable to manufacturing"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule FF under the Drugs and Cosmetics Act prescribes standards for ophthalmic preparations.",
+      "category": "General"
+    },
+    {
+      "question_number": 6,
+      "question_text": "One of the following equations is used to predict the stability of a drug product at room temperature from experiments at accelerated temperature",
+      "options": {
+        "A": "Stokes equation",
+        "B": "Arrhenius equation",
+        "C": "Yong equation",
+        "D": "Michaelis-Menten equation"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Arrhenius equation describes the temperature dependence of reaction rates, allowing shelf-life prediction at room temperature from accelerated testing.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 7,
+      "question_text": "One of the following apparatus is used to determine the particle size by the gravity sedimentation method",
+      "options": {
+        "A": "Pkynometer",
+        "B": "Ostwald viscometer",
+        "C": "Andreasen apparatus",
+        "D": "Friabilator"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Andreasen pipette apparatus is a classic device used to measure particle size distribution via gravitational sedimentation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "One of the following mills works on both the principles of attrition and impact",
+      "options": {
+        "A": "Cutter mill",
+        "B": "Hammer mill",
+        "C": "Roller mill",
+        "D": "Fluid energy mill"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hammer mills operate primarily through impact, but attrition also contributes to particle size reduction as material brushes against the screen and hammers.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "A commonly used antioxidant for oil system is",
+      "options": {
+        "A": "Butylated hydroxyl toluene",
+        "B": "Ascorbic acid",
+        "C": "Sodium metabisulfite",
+        "D": "Thioglycol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Butylated hydroxytoluene (BHT) is a lipophilic phenolic antioxidant widely used to protect oils and fats from auto-oxidation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 10,
+      "question_text": "In Digitalis glycoside $C_{17}$ position of the steroidal ring is substituted by",
+      "options": {
+        "A": "$\\alpha$-$\\beta$ unsaturated five membered lactone ring",
+        "B": "$\\alpha$-$\\beta$ unsaturated six membered lactone ring",
+        "C": "$\\alpha$-$\\beta$ unsaturated six membered ring",
+        "D": "$\\alpha$-$\\beta$ unsaturated five membered lactam ring"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cardiotonic steroids (cardenolides) feature an unsaturated five-membered lactone ring (butenolide) attached at the $C_{17}$ position.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Metoprolol is sometimes preferred to Propranolol because",
+      "options": {
+        "A": "It has both $\\alpha$ and $\\beta$ adrenergic blockade",
+        "B": "It has both vasodilator properties and betaadrenergic blocker",
+        "C": "It is a $\\beta_1$ selective antagonist and it does not enter the brain",
+        "D": "It is a $\\beta_2$ selective antagonist"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Metoprolol is a cardioselective $\\beta_1$ receptor blocker, making it less likely to cause bronchoconstriction compared to non-selective blockers like propranolol.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 12,
+      "question_text": "The major product formed by the condensation of 2-trifluorl methyl phenothiazine with sodamide and 1-(3chlororopyl-1-4-methyl piperazine)",
+      "options": {
+        "A": "Trifluoperidol",
+        "B": "Trifluoperazine",
+        "C": "Trifluopromazine",
+        "D": "Trifluophenothiazine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "This specific synthetic pathway yields trifluoperazine, a phenothiazine antipsychotic with a trifluoromethyl group and a methylpiperazine side chain.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 13,
+      "question_text": "One of the following statements is characteristic for natural estrogens",
+      "options": {
+        "A": "Aromatic ring with phenolic group and an estrange nucleus",
+        "B": "Aromatic ring with an alcoholic group and a pregnant nucleus",
+        "C": "Reduced ring system belonging to the class estrange",
+        "D": "Reduced ring system belonging to the class pregnane"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Natural estrogens possess an aromatic ring A with a phenolic hydroxyl group at C3 and belong to the estrane (18-carbon) steroid skeleton.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 14,
+      "question_text": "One of the following opioid peptides is released from pro-opio melanocortin (POMC)",
+      "options": {
+        "A": "Somatostatin",
+        "B": "Beta-endorphin",
+        "C": "Leu-enkephalin",
+        "D": "Dynorphin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Beta-endorphin is an endogenous opioid peptide derived from the pro-opiomelanocortin (POMC) precursor molecule in the pituitary gland.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 15,
+      "question_text": "The ultra short-acting barbiturates have brief duration of action due to",
+      "options": {
+        "A": "High degree of binding to plasma protein",
+        "B": "Low lipid solubility resulting in a minimal concentration in the brain",
+        "C": "Metabolism is slow in the liver",
+        "D": "Rapid rate of redistribution from the brain due to its high liposubility"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ultra short-acting barbiturates like thiopental are highly lipophilic, causing them to rapidly cross the blood-brain barrier and subsequently redistribute quickly into muscle and fat tissues.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Derivasation is done in GC",
+      "options": {
+        "A": "To convert a less polar compound to a more polar compound",
+        "B": "To make the compound non-volatile",
+        "C": "To convert a polar compound to a more polar compound",
+        "D": "To liquefy a solid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Derivatization in gas chromatography is typically performed to enhance volatility and thermal stability, though sometimes polar/functional groups are modified for better separation.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Qualitative analysis by polarography is based on",
+      "options": {
+        "A": "Electrode potential",
+        "B": "Half wave potential",
+        "C": "Migration current",
+        "D": "Limiting current"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In polarography, the half-wave potential ($E_{1/2}$) is characteristic of a specific electroactive species, making it useful for qualitative identification.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "The stationary phase used in gel permeation chromatography is",
+      "options": {
+        "A": "Alumina",
+        "B": "Charcoal",
+        "C": "Squalene",
+        "D": "Styrene divinyl benzyl co-polymer"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Styrene-divinylbenzene copolymers are commonly employed as porous gel beads for size exclusion (gel permeation) chromatography.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 19,
+      "question_text": "A conductivity cell consists of",
+      "options": {
+        "A": "Two platinised-platinum electrode system",
+        "B": "A platinum-calomel electrode system",
+        "C": "A platinum-tungsten electrode system",
+        "D": "A glass-calomel electrode system"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A standard conductivity cell uses two platinized platinum electrodes to measure the electrical conductance of electrolyte solutions accurately.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "A typical example of exotoxin is",
+      "options": {
+        "A": "Lipid-A",
+        "B": "Cytokine",
+        "C": "Tetanospasmin",
+        "D": "Tuberculin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tetanospasmin is a potent neurotoxin produced by Clostridium tetani, representing a classic bacterial exotoxin.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 21,
+      "question_text": "A specimen isolated form a patient suffering from septicemia was found to be a strict aerobe. Its culture vial had a characteristic grape like odour and it was susceptible to carbenicillin. Identify the organism",
+      "options": {
+        "A": "Pseudomonas fluorescens",
+        "B": "Salmonella typhi",
+        "C": "Staphylococcus",
+        "D": "Pseudomonas aeruginosa"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pseudomonas aeruginosa is characterized by a distinctive grapaelike or corn tortilla-like odor, is a strict aerobe, and is typically susceptible to antipseudomonal penicillins like carbenicillin.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 22,
+      "question_text": "The pKa of lidocaine is 7.9. if the pH of the infected is 8.9, the fraction of the drug in the ionized form will be",
+      "options": {
+        "A": "1%",
+        "B": "10%",
+        "C": "90%",
+        "D": "99%"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Using the Henderson-Hasselbalch equation for a weak base: $\\text{pH} = \\text{p}K_a + \\log([\\text{Unionized}]/[\\text{Ionized}])$. With $\\text{pH} - \\text{p}K_a = 1.0$, the ratio of unprotonated to protonated is 10:1, meaning 10% is ionized.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 23,
+      "question_text": "The drug regimen useful in the treatment of both intestinal and extra-intestinal symptoms of amoebiasis orally is",
+      "options": {
+        "A": "Diloxanide and lodoquinol",
+        "B": "Paramomycin",
+        "C": "Metronidazole and Diloxanide",
+        "D": "Chloroquine alone"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Metronidazole treats both intestinal and extra-intestinal (hepatic) amoebiasis, while a luminal amoebicide like diloxanide furoate is given concurrently to clear luminal infection.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 24,
+      "question_text": "The drug NIFEDIPINE can be synthesized from",
+      "options": {
+        "A": "O-nitro benzaldehyde methyl acetoacetate and ammonia",
+        "B": "P-nitro benzaldehyde methyl acetoacetate and ammonia",
+        "C": "O-nitro benzaldehyde ethyl acetoacetate and methylamine",
+        "D": "P-nitro benzaldehyde methyl acetoacetate and methylamine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nifedipine is synthesized via a Hantzsch dihydropyridine condensation reaction using o-nitrobenzaldehyde, methyl acetoacetate, and ammonia.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Methyl malonyl CoA mutase which catalyzes the conversion of propionyl CoA to succinyl utilizes the prosthetic group derived from",
+      "options": {
+        "A": "Cynocobalamine",
+        "B": "Pyridoxine",
+        "C": "Thiamine",
+        "D": "Nicotinamide"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methylmalonyl-CoA mutase requires coenzyme B12, which is a derivative of cyanocobalamin (Vitamin B12).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Assign the bands in the IR spectrum for appropriate groups given below: $>C=O$, Aromatic compound, $-OH$, $>C=<$, $-C \triangledown C-$. (a) $3700-3500 \\text{ cm}^{-1}$ (b) $1740-1720 \\text{ cm}^{-1}$ (c) $1667-1640 \\text{ cm}^{-1}$ (d) $2260-2100 \\text{ cm}^{-1}$ (e) $900-675 \\text{ cm}^{-1}$",
+      "options": {
+        "A": "$3700-3500 \\text{ cm}^{-1}$ for $-OH$",
+        "B": "$1740-1720 \\text{ cm}^{-1}$ for $>C=O$",
+        "C": "$1667-1640 \\text{ cm}^{-1}$ for $>C=<$",
+        "D": "$2260-2100 \\text{ cm}^{-1}$ for $-C \triangledown C-$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": true,
+      "explanation": "Stretching frequency $3700-3500 \\text{ cm}^{-1}$ corresponds to the hydroxyl ($-OH$) group in IR spectroscopy.",
+      "category": "Medicinal Chemistry"
+    }
+  ]
+}

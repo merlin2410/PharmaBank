@@ -1,0 +1,386 @@
+[
+  {
+    "question_number": 51,
+    "question_text": "For a gaseous reaction $X_{(g)} + Y_{(g)} \\rightarrow 4Z_{(g)}$, $\\Delta E$ at $300^{\\circ}\\text{ K}$ is $20\\text{ kcal}$. $\\Delta H$ for the reaction will be:",
+    "options": {
+      "A": "$21.2\\text{ kcal}$",
+      "B": "$18.8\\text{ kcal}$",
+      "C": "$19.4\\text{ kcal}$",
+      "D": "$20\\text{ kcal}$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Using $\\Delta H = \\Delta E + \\Delta n_g RT$. Here $\\Delta n_g = 4 - 2 = 2$, $R = 2\\text{ cal/K mol}$, $T = 300\\text{ K}$, so $\\Delta H = 20000 + (2)(2)(300) = 21200\\text{ cal}$ or $21.2\\text{ kcal}$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 52,
+    "question_text": "Which of the following conditions will always lead to a spontaneous change?",
+    "options": {
+      "A": "$\\Delta H = +\\text{ve}$ and $\\Delta S = +\\text{ve}$",
+      "B": "$\\Delta H = -\\text{ve}$ and $\\Delta S = +\\text{ve}$",
+      "C": "$\\Delta H = +\\text{ve}$ and $\\Delta S = -\\text{ve}$",
+      "D": "$\\Delta H = -\\text{ve}$ and $\\Delta S = -\\text{ve}$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "According to Gibbs free energy equation $\\Delta G = \\Delta H - T\\Delta S$, when $\\Delta H$ is negative and $\\Delta S$ is positive, $\\Delta G$ is always negative at all temperatures.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 53,
+    "question_text": "During $\\alpha$-decay $N/P$ ratio:",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "May increase or decrease"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "An alpha particle consists of 2 protons and 2 neutrons. Losing 4 nucleons with a greater loss of protons than neutrons generally increases the neutron-to-proton ratio.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 54,
+    "question_text": "A sample of rock contains equal number of Uranium and Lead ($t_{1/2}$ for $\\text{U} = 4.5 \\times 10^9$ years). Then the age of the rock would be:",
+    "options": {
+      "A": "$4.5 \\times 10^9\\text{ years}$",
+      "B": "$2.25 \\times 10^9\\text{ years}$",
+      "C": "$9 \\times 10^9\\text{ years}$",
+      "D": "$13.5 \\times 10^9\\text{ years}$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Equal amounts of parent and daughter nuclei imply that exactly one half-life has elapsed, which is $4.5 \\times 10^9$ years.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 56,
+    "question_text": "According to Bragg's equation, to get maximum intensity for first order reflection the distance between the planes must be:",
+    "options": {
+      "A": "$\\lambda$",
+      "B": "$\\lambda/2$",
+      "C": "$2\\lambda$",
+      "D": "$\\lambda/4$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "For first order reflection ($n=1$), Bragg's law is $2d \\sin\\theta = \\lambda$. For maximum intensity where $\\sin\\theta = 1$, $d = \\lambda/2$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 57,
+    "question_text": "Which of the following nucleus has magic number of protons and neutrons?",
+    "options": {
+      "A": "$_2\\text{He}^4$",
+      "B": "$_{20}\\text{Ca}^{41}$",
+      "C": "$_{50}\\text{Sb}^{186}$",
+      "D": "$_{82}\\text{Pb}^{208}$"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Lead-208 has 82 protons and 126 neutrons, both of which are magic numbers.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 58,
+    "question_text": "The number of particles emitted when $_{90}\\text{Th}^{232}$ changes to $_{82}\\text{Pb}^{208}$ is:",
+    "options": {
+      "A": "$4\\alpha, 6\\beta$",
+      "B": "$6\\alpha, 4\\beta$",
+      "C": "$6\\alpha, 2\\beta$",
+      "D": "$8\\alpha, 6\\beta$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Mass number change = $232 - 208 = 24$, so number of $\\alpha$ particles = $24/4 = 6$. Atomic number change = $90 - 82 = 8$. From 6 alpha particles, the charge decreases by $6 \\times 2 = 12$, so 6 beta particles are needed to make the net atomic number 82.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 59,
+    "question_text": "$87.5\\%$ of a decay process was completed in 36 minutes. When was $50\\%$ of the decay completed?",
+    "options": {
+      "A": "24 Minutes",
+      "B": "18 Minutes",
+      "C": "9 Minutes",
+      "D": "12 Minutes"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "$87.5\\%$ completion corresponds to 3 half-lives ($1 - (1/2)^3 = 7/8 = 87.5\\%$). Thus, 3 half-lives = 36 minutes, meaning 1 half-life ($50\\%$) = 12 minutes.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 62,
+    "question_text": "The ratio of $(K_p/K_c)$ for the hypothetical reaction, $2\\text{AB}_{3(g)} \\rightleftharpoons \\text{A}_{2(g)} + 3\\text{B}_{2(g)}$ is:",
+    "options": {
+      "A": "$\\text{RT}$",
+      "B": "$(\\text{RT})^2$",
+      "C": "$1/\\text{RT}$",
+      "D": "$(\\text{RT})^{1/2}$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Using $K_p = K_c (RT)^{\\Delta n}$. Here $\\Delta n = (1 + 3) - 2 = 2$, so $K_p/K_c = (RT)^2$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 63,
+    "question_text": "5 ampere current passed for 20 seconds deposit $0.0658\\text{ g}$ of an ion whose atomic weight is 189. The valency of the ion is:",
+    "options": {
+      "A": "$3$",
+      "B": "$2$",
+      "C": "$1$",
+      "D": "$4$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Using Faraday's law: $W = \\frac{E \\cdot I \\cdot t}{96500} \\Rightarrow 0.0658 = \\frac{(189/n) \\times 5 \\times 20}{96500}$, solving for $n$ gives $3$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 64,
+    "question_text": "The Calomel electrode is:",
+    "options": {
+      "A": "$\\text{Pt} - \\text{Hg}/\\text{Hg}^{2+}$",
+      "B": "$\\text{Ag}/\\text{Ag}^+$",
+      "C": "$\\text{Pt} - \\text{Hg}/\\text{Hg}_2\\text{Cl}_2 - \\text{Cl}^-$",
+      "D": "$\\text{Ag}/\\text{AgCl}_{(s)} - \\text{Cl}^-$"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The standard calomel electrode is represented as $\\text{Pt}, \\text{Hg} | \\text{Hg}_2\\text{Cl}_2 (s) | \\text{Cl}^-$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 65,
+    "question_text": "For a cell reaction, $\\text{Zn}_{(s)} + \\text{Mg}^{2+}(C = 0.10) \\rightleftharpoons \\text{Zn}^{2+}(C = 1) + \\text{Mg}_{(s)}$, the e.m.f has been found to be $0.2312\\text{ volts}$. Then the standard e.m.f of the cell is:",
+    "options": {
+      "A": "$0.2903\\text{ volts}$",
+      "B": "$-0.2312\\text{ volts}$",
+      "C": "$0.2607\\text{ volts}$",
+      "D": "$0.02312$"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Using Nernst equation $E = E^0 - \\frac{0.0591}{n} \\log\\left(\\frac{[\\text{Zn}^{2+}]}{[\\text{Mg}^{2+}]}\\right)$, $0.2312 = E^0 - \\frac{0.0591}{2}\\log(1/0.10)$, which yields $E^0 = 0.2607\\text{ V}$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 67,
+    "question_text": "Which of the following solution has osmotic pressure nearest to that of an equimolar solution of $\\text{K}_4[\\text{Fe}(\\text{CN})_6]$?",
+    "options": {
+      "A": "$\\text{C}_{12}\\text{H}_{22}\\text{O}_{11}$",
+      "B": "$\\text{Al}_2(\\text{SO}_4)_3$",
+      "C": "$\\text{Na}_2\\text{SO}_4$",
+      "D": "$\\text{BaCl}_2$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "$\\text{K}_4[\\text{Fe}(\\text{CN})_6]$ dissociates into $5$ ions. $\\text{Al}_2(\\text{SO}_4)_3$ dissociates into $5$ ions ($2\\text{Al}^{3+} + 3\\text{SO}_4^{2-}$), matching its van't Hoff factor closely.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 68,
+    "question_text": "The first order rate constant '$k$' is related to temperature as $\\log k = 15 - 10^6/T$. Which of the following pair of values is correct:",
+    "options": {
+      "A": "$A = 10^{15}$ and $E = 1.9 \\times 10^4\\text{ kJ}$",
+      "B": "$A = 10^{15}$ and $E = 40\\text{ kJ}$",
+      "C": "$A = 10^{-15}$ and $E = 40\\text{ kJ}$",
+      "D": "$A = 10^{-15}$ and $E = 1.9 \\times 10^4\\text{ kJ}$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Comparing with Arrhenius equation in log form: $\\log k = \\log A - \\frac{E_a}{2.303 R T}$, $\\log A = 15 \\Rightarrow A = 10^{15}$, and $\\frac{E_a}{2.303 R} = 10^6 \\Rightarrow E_a \\approx 1.9 \\times 10^4\\text{ kJ}$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 76,
+    "question_text": "The number of degrees of freedom ($F$) for the system in which ammonium chloride is in equilibrium with ammonia and hydrogen chloride would be:",
+    "options": {
+      "A": "Zero",
+      "B": "One",
+      "C": "Two",
+      "D": "Three"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Using phase rule $F = C - P + 2$. Components = 1 ($\\text{NH}_4\\text{Cl}$), Phases = 2 (solid $\\text{NH}_4\\text{Cl}$ and gas mixture), so $F = 1 - 2 + 2 = 1$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 77,
+    "question_text": "The temperature at which two crystalline forms are in equilibrium is called:",
+    "options": {
+      "A": "Transition point",
+      "B": "Melting point",
+      "C": "Eutectic point",
+      "D": "Triple point"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The transition point is the temperature at which one crystalline polymorphic form transforms into another in equilibrium.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 78,
+    "question_text": "Which of the following pair forms an ideal solution?",
+    "options": {
+      "A": "Pyridine - Water",
+      "B": "Ethyl alcohol - Water",
+      "C": "Benzene - Acetic acid",
+      "D": "Benzene - Toluene"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Benzene and toluene form a nearly ideal solution because they have similar structures and intermolecular forces.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 79,
+    "question_text": "An example for a partially miscible liquid system with lower Critical Solution Temperature (CST) is:",
+    "options": {
+      "A": "Phenol-Water",
+      "B": "Aniline-Water",
+      "C": "Aniline-Hexane",
+      "D": "Diethyl amine-Water"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Diethyl amine-water system exhibits a lower critical solution temperature due to hydrogen bonding at lower temperatures.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 90,
+    "question_text": "The crystal system defined by $a = b = c$ and $\\alpha = \\beta = \\gamma \\neq 90^{\\circ}$ is called:",
+    "options": {
+      "A": "Rhombohedral",
+      "B": "Triclinic",
+      "C": "Orthorhombic",
+      "D": "Tetragonal"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rhombohedral (or trigonal) crystal system has $a = b = c$ and $\\alpha = \\beta = \\gamma \\neq 90^{\\circ}$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 91,
+    "question_text": "For the reaction $A \\rightarrow \\text{Product(s)}$ when the concentration of $A$ is doubled, the rate becomes 8 times. The order of the reaction is:",
+    "options": {
+      "A": "$4$",
+      "B": "$1$",
+      "C": "$3$",
+      "D": "$2$"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Since $\\text{Rate} = k[A]^n$, if doubling $[A]$ makes rate $2^n = 8$, then $n = 3$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 92,
+    "question_text": "The $\\text{pH}$ of a $1 \\times 10^{-5}\\text{ M}$ solution of $\\text{NaOH}$ is:",
+    "options": {
+      "A": "$5$",
+      "B": "$9$",
+      "C": "$7$",
+      "D": "$12$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "$[\\text{OH}^-] = 10^{-5}\\text{ M}$, so $\\text{pOH} = 5$ and $\\text{pH} = 14 - 5 = 9$.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 93,
+    "question_text": "Which of the following molecules has the largest RMS velocity?",
+    "options": {
+      "A": "$\\text{H}_2\\text{S}$",
+      "B": "$\\text{NH}_3$",
+      "C": "$\\text{CO}_2$",
+      "D": "$\\text{SO}_2$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "RMS velocity is inversely proportional to the square root of molar mass ($v_{\\text{rms}} = \\sqrt{3RT/M}$). $\\text{NH}_3$ has the lowest molar mass ($17\\text{ g/mol}$), hence the largest RMS velocity.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 94,
+    "question_text": "Adsorption isobar is a plot of amount adsorbed against:",
+    "options": {
+      "A": "Temperature",
+      "B": "1/Temperature",
+      "C": "Pressure",
+      "D": "Volume"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "An adsorption isobar shows the variation of the amount of gas adsorbed with temperature at a constant pressure.",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 95,
+    "question_text": "Smoke is a dispersion of:",
+    "options": {
+      "A": "Solid in Gas",
+      "B": "Liquid in Gas",
+      "C": "Gas in Gas",
+      "D": "Gas in Solid"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Smoke consists of solid carbon/dust particles dispersed in a gas (air).",
+    "category": "Physical Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  }
+]

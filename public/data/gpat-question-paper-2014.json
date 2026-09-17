@@ -1,0 +1,1881 @@
+{
+  "exam_title": "gpat-question-paper-2014",
+  "total_questions": 125,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "__________ system does not have orifice to release the drug.",
+      "options": {
+        "A": "Elementary Osmotic Pump",
+        "B": "L-OROS",
+        "C": "Sandwich Osmotic Pump Tablet",
+        "D": "Controlled Porosity Osmotic Pump Tablet"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Controlled porosity osmotic pump tablets release the drug through in-situ formed pores rather than a pre-drilled orifice.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 2,
+      "question_text": "In which rearrangement reaction, Isocyanate is formed?",
+      "options": {
+        "A": "Curtious",
+        "B": "Lossen",
+        "C": "Both A & B",
+        "D": "None"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Both Curtius and Lossen rearrangements proceed via an isocyanate intermediate.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Chitin gets converted in to Chitosan upon:",
+      "options": {
+        "A": "Acetylation",
+        "B": "Deacetylation",
+        "C": "Oxidation",
+        "D": "Reduction"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chitosan is produced commercially by the deacetylation of chitin.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 4,
+      "question_text": "All of the following are leaf constants EXCEPT",
+      "options": {
+        "A": "Vein-islet number",
+        "B": "Vein- termination number",
+        "C": "Stomatal number",
+        "D": "Leaf fiber"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Leaf fiber is not considered a quantitative leaf constant used for microscopic identification.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Zink chloride is added to mouth wash because it acts as",
+      "options": {
+        "A": "Fragrance",
+        "B": "Astringent",
+        "C": "Cooling agent",
+        "D": "Antibacterial"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Zinc chloride is commonly utilized in mouthwashes for its astringent and mild antiseptic properties.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 6,
+      "question_text": "The choice of route of administration plays an important role in action of directly acting cholinomimetic. Adverse effect of choline esters that may be avoided by selection of an appropriate route of administration is",
+      "options": {
+        "A": "Bradycardia",
+        "B": "Hypotension",
+        "C": "Delirium",
+        "D": "Sweating"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Topical administration (e.g., eye drops for pilocarpine) avoids systemic adverse effects like severe bradycardia and hypotension.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Sieve size 80 has opening of",
+      "options": {
+        "A": "$0.100\\text{ mm}$",
+        "B": "$0.125\\text{ mm}$",
+        "C": "$0.150\\text{ mm}$",
+        "D": "$0.180\\text{ mm}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A standard US/IP sieve number 80 has a nominal mesh aperture size of $0.180\\text{ mm}$ ($180\\;\\mu\\text{m}$).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "The ideal saponification value for suppository base is",
+      "options": {
+        "A": "50-100",
+        "B": "100-150",
+        "C": "150-200",
+        "D": "200-500"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Suppository bases made of cocoa butter or hard fat typically have a saponification value in the range of 150-200.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "o, m, p- isomers can be differentiated on the basis of:",
+      "options": {
+        "A": "Chemical shift",
+        "B": "Coupling constant",
+        "C": "Extinction coefficient",
+        "D": "Dipole moment"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ortho, meta, and para isomers have characteristically distinct dipole moments due to their structural symmetry differences.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which of the following drug comes under Schedule $C_1$",
+      "options": {
+        "A": "Opium",
+        "B": "Ergot",
+        "C": "Fish liver oil",
+        "D": "Insulin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Biological and special products such as sera, vaccines, and certain antibiotics/hormones like insulin fall under Schedule C1.",
+      "category": "General"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Source of amla is",
+      "options": {
+        "A": "Phyllanthus inruri",
+        "B": "Terminiliachebula",
+        "C": "Terminalia Bacteria",
+        "D": "Embika officinalis"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amla consists of the dried and fresh fruits of Emblica officinalis (syn. Phyllanthus emblica).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 12,
+      "question_text": "What is the unit of dielectric constant",
+      "options": {
+        "A": "Dyne",
+        "B": "Debey",
+        "C": "Farad/meter",
+        "D": "No Unit"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dielectric constant is a relative permittivity ratio, making it a dimensionless quantity with no unit.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Monitoring of plasma drug concentration is required while using:",
+      "options": {
+        "A": "Antihypertensive drugs",
+        "B": "Levodopa",
+        "C": "Lithium carbonate",
+        "D": "MAO inhibitors"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lithium has a narrow therapeutic index and requires routine therapeutic drug monitoring.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Of the following antibiotics, which one would be acceptable to use when treating penicillin resistant S. pnumoinae otitis media",
+      "options": {
+        "A": "Azithromycin",
+        "B": "Clarithromycin",
+        "C": "Cefuroxime",
+        "D": "Cefaclor"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Second-generation cephalosporins like cefuroxime are often recommended for penicillin-resistant Streptococcus pneumoniae infections.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Addition of which of the following to a large volume parntral product is not advised",
+      "options": {
+        "A": "Active pharmaceutical ingredient",
+        "B": "Preservatives",
+        "C": "Buffering agens",
+        "D": "Tonicity adjusters"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Large volume parenterals (LVPs) are given in large quantities, so antimicrobial preservatives are generally avoided to prevent toxicity.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 16,
+      "question_text": "A drug suspension decomposes by zero-order kinetics with a rate constant of $2\\text{ mg mL}^{-1}\\text{ month}^{-1}$ if the initial concentration is $100\\text{ mg mL}^{-1}$ what is the shelf life",
+      "options": {
+        "A": "$2\\text{ months}$",
+        "B": "$3\\text{ months}$",
+        "C": "$4\\text{ months}$",
+        "D": "$5\\text{ months}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "For zero-order kinetics, shelf life $t_{90} = 0.1 \\cdot C_0 / k_0 = 0.1 \\cdot 100 / 2 = 5\\text{ months}$ (or based on standard formula $t_{10\\%}$ interpretation).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Sanguinarine belongs to the subgroup of:",
+      "options": {
+        "A": "Morphinans",
+        "B": "Benzyl isoquinolines",
+        "C": "Phthalide isoquinolines",
+        "D": "Benzophenanthridines"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sanguinarine is a benzophenanthridine alkaloid found in plants such as Sanguinaria canadensis.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Antidote for paracetamol overdosing is",
+      "options": {
+        "A": "Atropine",
+        "B": "N- Acetly cysteine",
+        "C": "Glutathione",
+        "D": "Theophylline"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "N-acetylcysteine (NAC) acts as a glutathione precursor to replenish hepatic stores and detoxify the reactive metabolite NAPQI.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Which one of the following drug combination is contraindicated",
+      "options": {
+        "A": "Glyceryl trinitrate and sildenafil",
+        "B": "Amoxicillin and clavulanic acid",
+        "C": "Losartan and hydrochlorothiazide",
+        "D": "Pyrimthemaine and sulfadoxine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Co-administration of nitrates and PDE5 inhibitors causes a severe, potentially fatal drop in blood pressure.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Which sugar is suitable for diabetic patient",
+      "options": {
+        "A": "Fructose",
+        "B": "Lactose",
+        "C": "Mannitol",
+        "D": "Sucralose"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sucralose is a non-nutritive, zero-calorie sweetener suitable for diabetic patients.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Headquarter of Bureau of Indian standards is situated at",
+      "options": {
+        "A": "New delhi",
+        "B": "Mumbai",
+        "C": "Kolkata",
+        "D": "Chennai"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Bureau of Indian Standards (BIS) has its headquarters in New Delhi.",
+      "category": "General"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Identity the structure of barbituric acid",
+      "options": {
+        "A": "O=C1NC(=O)CC(=O)N1",
+        "B": "O=C1NC(=O)NC(=O)C1",
+        "C": "O=C1NC(=O)NC1",
+        "D": "O=C1NC(=O)CC1"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Barbituric acid (pyrimidine-2,4,6-trione) corresponds to structure B.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Ehtics for pharmacist are put forth by",
+      "options": {
+        "A": "PCI",
+        "B": "CDSCO",
+        "C": "AICTE",
+        "D": "WHO"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Pharmacy Council of India (PCI) outlines the ethical regulations and code of conduct for pharmacists.",
+      "category": "General"
+    },
+    {
+      "question_number": 24,
+      "question_text": "What is the IUPAC name of the following compound",
+      "options": {
+        "A": "Bicyclo[2.2.2] octane",
+        "B": "Tricyclo[2.2.2] ontane",
+        "C": "Bicyclo[2.2.0] ontane",
+        "D": "Bicyclo [2.2.1] heptanes"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The structure represents bicyclo[2.2.2]octane.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Morphine does not cause:",
+      "options": {
+        "A": "Constriction of pupil",
+        "B": "CNS depression",
+        "C": "Respiratory depression",
+        "D": "Diarrhoea"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Morphine causes constipation, not diarrhoea, due to decreased GI motility.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Which of the following is seed gum: (P) Gaur gum, (Q) Locust bean gum, (R) Xanthan gum, (S) Gellan gum",
+      "options": {
+        "A": "P and Q",
+        "B": "R and S",
+        "C": "Q and R",
+        "D": "P and S"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Guar gum and locust bean gum are classic examples of seed gums.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 27,
+      "question_text": "The cancer that derived form ectoderm of endoderm of epithelial cells is",
+      "options": {
+        "A": "Carcinoma",
+        "B": "Sarcoma",
+        "C": "Leukaemia",
+        "D": "Myloid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carcinomas are malignant tumors that arise from epithelial tissues (ectodermal, endodermal, or mesodermal).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Which of the following is/are marine anticancer",
+      "options": {
+        "A": "Trabectadine",
+        "B": "Eribulin",
+        "C": "Cytarabine",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Trabectedin, eribulin, and cytarabine derivatives are well-known marine-derived anticancer agents.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Identity the compound which is derived form tryptophan",
+      "options": {
+        "A": "Pilocarpine",
+        "B": "Ephedrine",
+        "C": "Muscarine",
+        "D": "Quinoline"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Quinoline alkaloids (such as quinine/quinidine) are biosynthetically derived from tryptophan.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Opium, cocoa, poppy straw are given in",
+      "options": {
+        "A": "Schedule H",
+        "B": "Schedule X",
+        "C": "Narcotic drugs and Psychotropic substances act 1998",
+        "D": "Schedule C"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Opium, poppy straw, and similar substances are regulated under the NDPS Act (Narcotic Drugs and Psychotropic Substances Act).",
+      "category": "General"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Which of the following will be inert in NMR spectrometry",
+      "options": {
+        "A": "$13\\text{C}$",
+        "B": "$31\\text{P}$",
+        "C": "$2\\text{H}$",
+        "D": "$1\\text{H}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Actually, 12C and 16O are typically NMR inactive (even-even nuclei). Among the choices, if standard options apply, wait - usually 12C is inert, but here 13C, 31P, 2H, 1H all have non-zero spin. Assuming a typographical error in the original test where 12C was intended, 13C has spin 1/2. Let's select C as the best approximate answer if 2H is considered distinct, or note standard questions use 12C.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "What is the relationship between keto and enol tautomers",
+      "options": {
+        "A": "Resonance forms",
+        "B": "Theriosomers",
+        "C": "Constituonal isomers",
+        "D": "Different conformations of the same compound"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Keto and enol forms are constitutional isomers (specifically tautomers) that readily interconvert.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Which of the following is following is true for natural killer cells",
+      "options": {
+        "A": "They may phagocytose tumor cells",
+        "B": "Killing of cells is enhanced by interleukin-2",
+        "C": "They recognize and kill some virus-infected cells",
+        "D": "Killing of cells is stimulated by prostaglandin E2"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Natural killer (NK) cells recognize and lyse virus-infected cells and tumor cells without prior sensitization.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Evaluation of colour is tablets is done by",
+      "options": {
+        "A": "Reflectance spectrophotometer",
+        "B": "Tristimulus colorimeter",
+        "C": "Microreflectance photometer",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Various instrumental methods including reflectance spectrophotometers, tristimulus colorimeters, and microreflectance photometers are used to evaluate tablet color uniformity.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 35,
+      "question_text": "The disintegration time of the effervescent tablets is",
+      "options": {
+        "A": "$2\\text{ minutes}$",
+        "B": "$2.4\\text{ minutes}$",
+        "C": "$3.5\\text{ minutes}$",
+        "D": "$5\\text{ minutes}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to pharmacopeial standards, effervescent tablets typically disintegrate within 2 minutes in water at $15-25^\\circ\\text{C}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Identify the false statements about magmas: (P) The addition of suspending agents to magmas is always necessary, (Q) Magmas differ from gels in that their suspended particles are larger, (R) Magmas are two-phase systems, (S) Magmas basically are gets",
+      "options": {
+        "A": "P and Q",
+        "B": "Q and R",
+        "C": "Only P",
+        "D": "Only S"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Suspending agents are not always necessary if flocculation is controlled or particles are stabilized otherwise, making statement P false.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 37,
+      "question_text": "All of the following ACE inhibitors are prodrugs EXCEPT",
+      "options": {
+        "A": "Ramipril",
+        "B": "Lisinopril",
+        "C": "Enalapril",
+        "D": "Perindopril"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lisinopril and captopril are active drugs and not prodrugs, whereas most other ACE inhibitors are administered as ester prodrugs.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 38,
+      "question_text": "All of the following is resistant to both true and pseudo cholinesterase enzymes",
+      "options": {
+        "A": "Carbachol",
+        "B": "Acetylcholine",
+        "C": "Methacholine",
+        "D": "Pilocarpine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carbachol has a carbamyl group that renders it completely resistant to hydrolysis by acetylcholinesterase and butyrylcholinesterase.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Globule size of parenteral emulsion should be",
+      "options": {
+        "A": "$0.1\\text{ to } 0.5\\;\\mu\\text{m}$",
+        "B": "$0.5-5\\;\\mu\\text{m}$",
+        "C": "$5-10\\;\\mu\\text{m}$",
+        "D": "Any of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "For intravenous/parenteral emulsions, the droplet size must be very small (typically $<1\\;\\mu\\text{m}$, around $0.1-0.5\\;\\mu\\text{m}$) to prevent embolism.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 40,
+      "question_text": "The objective of audit is to",
+      "options": {
+        "A": "Improve the product quality",
+        "B": "Find out the fault",
+        "C": "Improve the product value",
+        "D": "Find and process fault and to improve"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Audits aim to evaluate systems, identify non-conformances/faults, and implement corrective actions for overall improvement.",
+      "category": "General"
+    },
+    {
+      "question_number": 41,
+      "question_text": "__________ is an alkaloid derived form aliphatic amino acid",
+      "options": {
+        "A": "Reserpine",
+        "B": "Nicotinic acid",
+        "C": "Anabasine",
+        "D": "Vinblastine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Anabasine is a piperidine alkaloid derived from aliphatic amino acid precursors (ornithine/lysine).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 42,
+      "question_text": "The drug sulphan blue is obtained from ____________.source",
+      "options": {
+        "A": "Plant",
+        "B": "Animal",
+        "C": "Synthetic",
+        "D": "Mineral"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfan blue (patent blue V) is a synthetic triphenylmethane dye.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 43,
+      "question_text": "In mammals, The major fat in adipose tissue is:",
+      "options": {
+        "A": "Triglyceride",
+        "B": "Cholesterol",
+        "C": "Sphingophospholipids",
+        "D": "Phospholipids"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Triacylglycerols (triglycerides) form the primary storage lipid in mammalian adipose tissue.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Dovers powder used as a diaphoretic contains:",
+      "options": {
+        "A": "Ipecac & Opium",
+        "B": "Ipecac, Senna & Cinchona",
+        "C": "Opium, Ipecac & Cinchona",
+        "D": "All"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dover's powder is a traditional preparation containing ipecacuanha and opium.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Biological active form of Vit. D in man is:",
+      "options": {
+        "A": "Cholecalciferol",
+        "B": "Calcifediol",
+        "C": "Cakiferol",
+        "D": "Calcitriol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Calcitriol ($1,25$-dihydroxycholecalciferol) is the biologically active hormonal form of vitamin D.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Actions and clinical uses of muscarinic cholinoceptor agonists include which on of the following",
+      "options": {
+        "A": "Bronchodilation (asthama)",
+        "B": "Improved aqueous humor drainage (glaucoma)",
+        "C": "Decreased gastrointestinal motility (diarrhea)",
+        "D": "Decreased neuromuscular transmission and relaxation of skeletal muscle (During surgical anesthesia)"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Muscarinic agonists cause miosis and contraction of the ciliary muscle, facilitating aqueous humor outflow in glaucoma.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Regarding the role of surfactants in pharmaceutical suspensions for oral administration which of the following statements is false",
+      "options": {
+        "A": "Surfactants decrease the water contact angle of dispersed drug particle",
+        "B": "Surfactants promote flocculation",
+        "C": "Surfactants with high HLB stabilize oral suspensions",
+        "D": "Surfactants increase the viscosity of the continuous phase of pharmaceutical suspensions"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Standard surfactant concentrations used for wetting/deflocculation do not significantly increase the bulk viscosity of the continuous phase.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Which of the following drug is NOT used in treatment of H. Pylori infection",
+      "options": {
+        "A": "Ampicillin",
+        "B": "Clarithromycin",
+        "C": "Mosapride",
+        "D": "Bismuth subgallate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mosapride is a prokinetic agent and has no direct antibacterial activity against Helicobacter pylori.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 49,
+      "question_text": "The most suitable disinfectant for decontamination of HIV contaminated endoscope is",
+      "options": {
+        "A": "1% Sodium hypochlorite",
+        "B": "2% Glutaraldehyde",
+        "C": "5% phenol",
+        "D": "70% ethanol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glutaraldehyde ($2\\%$) is widely used for high-level disinfection of heat-sensitive medical equipment like endoscopes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Which rule does provide the most accurate method to calculate the dose for child based on adult dose",
+      "options": {
+        "A": "Age is months",
+        "B": "Age in years",
+        "C": "Weight in pounds",
+        "D": "Body surface area"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Body surface area (BSA) provides the most physiologically sound and accurate basis for pediatric dosing calculations.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Chemokine co-receptor 5 (CCR 5) inhibitor is",
+      "options": {
+        "A": "Enfuvirtide",
+        "B": "Maraviroc",
+        "C": "Raltegravir",
+        "D": "Atazanavir"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Maraviroc is a selective entry inhibitor that binds to human chemokine receptor CCR5.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 52,
+      "question_text": "The Franz diffusion cell which is used for the evaluation of transdermal drug delivery systems consists of:",
+      "options": {
+        "A": "1 chamber",
+        "B": "2 chamber",
+        "C": "3 chamber",
+        "D": "None"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A standard Franz diffusion cell comprises a donor compartment and a receptor compartment (2 chambers).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Whick of the following plastic is transparent and flexible",
+      "options": {
+        "A": "Silicon rubber",
+        "B": "PVP",
+        "C": "HDPED",
+        "D": "PE"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Silicone rubber is well known for being both transparent and highly flexible.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 54,
+      "question_text": "In which method an order of a fixed number of items is placed every time an inventory level falls to a predetermined point",
+      "options": {
+        "A": "A-B-C method",
+        "B": "Maximum and minimum method",
+        "C": "Open-to-buy method",
+        "D": "Economic order quantity"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The reorder level / minimum-maximum inventory control system triggers a fixed-quantity order when stock hits the predetermined minimum point.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Choose the option with two reducing sugars",
+      "options": {
+        "A": "Lactose and maltose",
+        "B": "Trehalose and surcrose",
+        "C": "Maltose and tredhalose",
+        "D": "Economic order quantity"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lactose and maltose both possess free reducing hemiacetal/hemiketal groups, making them reducing sugars.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 56,
+      "question_text": "The Local anesthetic with highest cardiotoxicity is",
+      "options": {
+        "A": "Lingocaine",
+        "B": "Bupivacaine",
+        "C": "Levo- bupivacaine",
+        "D": "Procaine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bupivacaine has high lipid solubility and potent cardiac sodium channel blockade, leading to significant cardiotoxicity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Homatropine is",
+      "options": {
+        "A": "Tropine ester of amino acetic acid",
+        "B": "Tropine ester of mendelic acid",
+        "C": "Tropine methyl bromide ester of mendelic acid",
+        "D": "Tropine ester of amino formic acid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Homatropine is an anticholinergic drug consisting of a tropine base esterified with mandelic acid.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Tranexamic acid is",
+      "options": {
+        "A": "Antithrombotic",
+        "B": "Antifibrinolytic",
+        "C": "Fibrinolytic",
+        "D": "Styptic"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tranexamic acid competitively inhibits plasminogen activation, acting as an antifibrinolytic agent.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Which of the antihistaminic compound has antiadrogenic effect",
+      "options": {
+        "A": "Famotidine",
+        "B": "Ranitidine",
+        "C": "Nizatidine",
+        "D": "Cimetidine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cimetidine is well known to block androgen receptors and inhibit prolactin clearance, causing antiandrogenic side effects like gynecomastia.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Which of the following drug is used prefenntially as preanesthetic mediation",
+      "options": {
+        "A": "Midazolam",
+        "B": "Oxazepam",
+        "C": "Alprazolam",
+        "D": "Nitrozepam"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Midazolam is frequently used for preanesthetic sedation due to its short duration of action and rapid onset.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Proton pump inhibitors are most effective when given",
+      "options": {
+        "A": "Half hour before meals",
+        "B": "With meal",
+        "C": "After prolonged fasting",
+        "D": "Along with H2 blockers"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "PPIs are prodrugs that require active proton pumps; taking them 30 minutes before a meal ensures peak plasma levels align with meal-stimulated pump activation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Match compounds in Group I with inhibitory activities in Group II: Group I (P) Vancomycin, (Q) Rifampin, (R) Puromycin, (S) Ciprofloxacin; Group II (1) Folate metabolism, (2) DNA synthesis, (3) Protein synthesis, (4) RNA synthesis, (5) Cell wall synthesis",
+      "options": {
+        "A": "P-5, Q-4, R-3, S-2",
+        "B": "P-4, Q-3, R-1, S-2",
+        "C": "P-4, Q-1, R-3, S-2",
+        "D": "P-5, Q-3, R-2, S-4"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vancomycin inhibits cell wall synthesis (5), rifampin inhibits RNA synthesis (4), puromycin inhibits protein synthesis (3), and ciprofloxacin inhibits DNA synthesis (2).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 63,
+      "question_text": "Formation of Okazaki occurs in",
+      "options": {
+        "A": "Transcription",
+        "B": "Replication",
+        "C": "Translation",
+        "D": "Reverse Transcription"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Okazaki fragments are short segments of DNA synthesized on the lagging strand during DNA replication.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Drug used in ventricular arrhythmia is",
+      "options": {
+        "A": "Flecainide",
+        "B": "Verapamil",
+        "C": "Esmolol",
+        "D": "Diltiazem"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Flecainide is a Class IC antiarrhythmic drug primarily used for ventricular arrhythmias and supraventricular arrhythmias.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 65,
+      "question_text": "The lipoprotein with the fastest electrophoretic mobility and the lowest TG content is",
+      "options": {
+        "A": "VLDL",
+        "B": "HDL",
+        "C": "LDL",
+        "D": "Chylomicrons"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HDL has the highest protein-to-lipid ratio, exhibits the fastest electrophoretic mobility (alpha-globulin region), and has very low triglyceride content.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 66,
+      "question_text": "As per schedule 'Y' of the drugs and cosmetics act, the animal toxicity study requirements for marketing of a drug depends upon tentative route and duration of administration in humans. In This context, which one of the following statements is incorrect",
+      "options": {
+        "A": "Single dose human use-animal toxicity for 2 weeks in 2 species",
+        "B": "Oral use for 2 weeks in humans- animal toxicity for 4 week in 2 species",
+        "C": "Aerosol use by repeated use in humans- animal toxicity for 24 weeks in 2 species",
+        "D": "Multiple daily ocular application for short duration-iregation test in 1 species for 3 weeks"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule Y guidelines outline specific preclinical safety testing protocols matching human exposure parameters.",
+      "category": "General"
+    },
+    {
+      "question_number": 67,
+      "question_text": "For determining the efficacy of sterilization in an autoclave, the spores of the following organism are used as test organisms",
+      "options": {
+        "A": "Bacillus cereus",
+        "B": "Clostridium pefringens",
+        "C": "Bacillus stearothermophilus",
+        "D": "Clostridium histolyticum"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Geobacillus stearothermophilus (formerly Bacillus stearothermophilus) spores are the biological indicator of choice for steam sterilization/autoclaving.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 68,
+      "question_text": "Which of the following pairs is mismatched",
+      "options": {
+        "A": "Aerobic, helical bacteria- gram negative",
+        "B": "Entrics- gram negative",
+        "C": "Myconbacteria - acid fase",
+        "D": "Pseudomonas -gram positive"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "General"
+    },
+    {
+      "question_number": 69,
+      "question_text": "List of drugs whose import, manufacture and sale, labeling and packaging are governed by special provisions are included in schedule:",
+      "options": {
+        "A": "X",
+        "B": "K",
+        "C": "H",
+        "D": "G"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "General"
+    },
+    {
+      "question_number": 70,
+      "question_text": "Sigma minus method is used in assessment of",
+      "options": {
+        "A": "Bioavailability",
+        "B": "Absorption",
+        "C": "Metabolism",
+        "D": "Tissue distribution"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Which of the plant family contains volatile oil in their trichome",
+      "options": {
+        "A": "Rutaceae",
+        "B": "Papaveraceae",
+        "C": "Umbelliferare",
+        "D": "Laminaceae"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 72,
+      "question_text": "Ferritin is:",
+      "options": {
+        "A": "Coenzyme",
+        "B": "The stored form of Iron",
+        "C": "Non-protein moiety",
+        "D": "Isoenzyme"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Which oil is solute in alcohol",
+      "options": {
+        "A": "Arachis oil",
+        "B": "Sesame oil",
+        "C": "Castor oil",
+        "D": "Corn oil"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 74,
+      "question_text": "One of the first step of the citric acid cycle is isomerization of citric acid to isocitric acid this step is necessary because",
+      "options": {
+        "A": "Oxidation of secondary alcohols is very difficult",
+        "B": "Reduction of secondary alcohol is very impossible",
+        "C": "Reduction of tertiary alcohols would require a very powerful oxidizing agent",
+        "D": "Oxidation of tertiary alcohols would require oxidizing agents"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Which of the following alkyl halides would undergo $SN_2$ reaction most rapidly",
+      "options": {
+        "A": "$CH_3CH_2-Br$",
+        "B": "$CH_3CH_2-Cl$",
+        "C": "$CH_3CH_2-I$",
+        "D": "$CH_3CH_2-F$"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 76,
+      "question_text": "Mechanism of action of Ketoconazole is:",
+      "options": {
+        "A": "Inhibits Ergosterol synthesis",
+        "B": "Inhibits DNA gyrase",
+        "C": "Inhibits dihydropteroate synthetase",
+        "D": "Induces translation misreading"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 77,
+      "question_text": "All are adrenal gland over activity disorders EXCEPT",
+      "options": {
+        "A": "Addison's disease",
+        "B": "Conn's syndrome",
+        "C": "Cushing's syndrome",
+        "D": "Cushing's disease"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 78,
+      "question_text": "The oil used in a parenteral product cannot contain............................",
+      "options": {
+        "A": "WFI",
+        "B": "Parffin oil",
+        "C": "Peanut oil",
+        "D": "Glycerine"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 79,
+      "question_text": "Identity the non-absorbable sature",
+      "options": {
+        "A": "Catgut suture",
+        "B": "Chromic catgut suture",
+        "C": "Silk suture",
+        "D": "Polydioxanone suture"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 80,
+      "question_text": "The relative lowering of vapour pressure is given by",
+      "options": {
+        "A": "Raoult's law",
+        "B": "Henry's law",
+        "C": "Boyle's law",
+        "D": "Charles law"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 81,
+      "question_text": "Identity the functional group present in meprobamate",
+      "options": {
+        "A": "Amide",
+        "B": "Ester",
+        "C": "Carbamic",
+        "D": "Lactam"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Match the following: (P) Gypsum salt - (1) $KAl(SO_4)_2 \\cdot 12H_2O$, (Q) Epson salt - (2) $FeSO_4 \\cdot 7H_2O$, (R) Alum - (3) $CaSO_4 \\cdot 2H_2O$, (S) Green vitriol - (4) $MgSO_4 \\cdot 7H_2O$",
+      "options": {
+        "A": "P-1, Q-2, R-4, S-3",
+        "B": "P-3, Q-4, R-1, S-2",
+        "C": "P-4, Q-3, R-1, S-2",
+        "D": "P-2, Q-4, R-1, S-3"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Tinea capitis is ringworm infection of",
+      "options": {
+        "A": "Feet",
+        "B": "Groin",
+        "C": "Head",
+        "D": "Nails"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 84,
+      "question_text": "Rank the following compounds in order of increasing reactivity in electrophilic aromatic Substitution reactions: (P) $C_6H_6$, (Q) $C_6H_5CH_3$, (R) $C_6H_5NO_2$",
+      "options": {
+        "A": "Q<P<R",
+        "B": "R<P<Q",
+        "C": "Q<R<P",
+        "D": "P<Q<R"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 85,
+      "question_text": "Dose dumping may be a general problem in the formulation of:",
+      "options": {
+        "A": "Soft gelatin capsules",
+        "B": "Suppositories",
+        "C": "Modified release drug products",
+        "D": "None"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 86,
+      "question_text": "Codeine differ in structure from morphine by:",
+      "options": {
+        "A": "N-methyl group",
+        "B": "Acetyl group at C1 and C6",
+        "C": "-OC2H5 group",
+        "D": "-OCH3 group"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 87,
+      "question_text": "Isotopes differ in:",
+      "options": {
+        "A": "The number of protons",
+        "B": "The valency number",
+        "C": "The chemical activity",
+        "D": "The number of neutrons"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "General"
+    },
+    {
+      "question_number": 88,
+      "question_text": "Arrange the given acids in increasing order as per the number of carbons present in them (P) Capric, (Q) Caprylic, (R) Caproic, (D) Lauric",
+      "options": {
+        "A": "P<Q<R<S",
+        "B": "R<Q<P<S",
+        "C": "R<Q<P<S",
+        "D": "Q<P<R<S"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 89,
+      "question_text": "$E_1cb$ (Elimination reaction via conjugate base) which reaction intermediate will form?",
+      "options": {
+        "A": "Carbocation",
+        "B": "Carbanion",
+        "C": "Free radical",
+        "D": "All"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 90,
+      "question_text": "What are the three basic steps of conventional PCR",
+      "options": {
+        "A": "Denature, anneal & Strand displacement",
+        "B": "Denature, anneal & extension",
+        "C": "Strand displacement, synthesis & release",
+        "D": "Reverse-Transcription, anneal & extend"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 91,
+      "question_text": "Rabies bodies are",
+      "options": {
+        "A": "Negri bodies",
+        "B": "Cowdry type B inclusion bodies",
+        "C": "Cowdry type A inclusion bodies",
+        "D": "Bollinge bodies"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 92,
+      "question_text": "When glucose reacts with bromine water; the main product is",
+      "options": {
+        "A": "Glucaric acid",
+        "B": "Glucoronic acid",
+        "C": "Sorbitols",
+        "D": "Gluconic acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 93,
+      "question_text": "Increase in melting temperature of DNA is due to high content of",
+      "options": {
+        "A": "A+T",
+        "B": "G+C",
+        "C": "A+G",
+        "D": "T+G"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 94,
+      "question_text": "What will be the primary product of the following reaction: Methylcyclohexane + HCl -> ?",
+      "options": {
+        "A": "Identify the structure: CC1CCCCC1Cl",
+        "B": "Identify the structure: CC1CCCC(Cl)C1",
+        "C": "Identify the structure: C1CCCCC1CCl",
+        "D": "Identify the structure: ClC1CCCCC1C"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 95,
+      "question_text": "The mass spectrum of a compound with an approximate MW 137 shows tow equally intense. peaks at m/z 136 and 138. What does the suggest",
+      "options": {
+        "A": "The compound is alkyl iodide",
+        "B": "The compound is alkyl bromide",
+        "C": "The compound is alkyl chloride",
+        "D": "The compound is aryl fluoride"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 96,
+      "question_text": "Capping in tablets mainly due to:",
+      "options": {
+        "A": "Less upper punch pressure",
+        "B": "Poor flowability of granules",
+        "C": "Proper formulation design",
+        "D": "Entrapment of air in tablet during compression"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 97,
+      "question_text": "How can we detect the rhizome from the root of the Rauwolfia?",
+      "options": {
+        "A": "By the presence of small central pith",
+        "B": "By the absence of small central pith",
+        "C": "By the presence of vascular bundle",
+        "D": "None"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 98,
+      "question_text": "Drug of choice to treat H1N1 influenza is",
+      "options": {
+        "A": "Adefovir",
+        "B": "Cidofovir",
+        "C": "Oseltamivir",
+        "D": "Tenofovir"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 99,
+      "question_text": "Identify the correct statement (P) Condensed tannins are polymers flavans (Q) Condensed tannins do not contain sugar redigues (R) Hydrolyzabletannis are polymers of gallic acid or ellagic acids (S) Gallic acid and catechin are psedotannins",
+      "options": {
+        "A": "Only Q",
+        "B": "P and Q",
+        "C": "P, Q and R",
+        "D": "P, Q, R and S"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 100,
+      "question_text": "Quick breaking aerosols are applicable:",
+      "options": {
+        "A": "Orally",
+        "B": "Parenterally",
+        "C": "Topically",
+        "D": "Ophthalmically"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 101,
+      "question_text": "In the Reimer-Tiemann reaction............ Reacts with phenol to give the ortho-formylated product",
+      "options": {
+        "A": "Carbene",
+        "B": "Carbocation",
+        "C": "Carbanion",
+        "D": "Free radical"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 102,
+      "question_text": "Which of the following is not added to chewing tablet",
+      "options": {
+        "A": "Glidant",
+        "B": "Disintegrant",
+        "C": "Lubricant",
+        "D": "Anitadhesive"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 103,
+      "question_text": "Range of C=O stretching in enol is",
+      "options": {
+        "A": "$1800\\text{ cm}^{-1}$",
+        "B": "$1710\\text{ cm}^{-1}$",
+        "C": "$1685\\text{ cm}^{-1}$",
+        "D": "$1655\\text{ cm}^{-1}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 104,
+      "question_text": "Match the following phytochemicals with their source and use: (P) Shatavrin - (1) Buckwheat and citrus fruits, strengthens capillary walls, (Q) Resveratrol - (2) Broccoli and cabbage, protects against bladder cancer, (R) Glucosinolates - (3) Purple grape, anti inflammatory, anticancer, (S) Rutin - (4) Asparagus, galactogogue",
+      "options": {
+        "A": "P-4, Q-3, R-2, S-1",
+        "B": "P-4, Q-2, R-3, S-1",
+        "C": "P-3, Q-1, R-4, S-2",
+        "D": "P-2, Q-3, R-4, S-1"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 105,
+      "question_text": "Which RNA polymerase is the only whose product are capped",
+      "options": {
+        "A": "RNA polymerase I",
+        "B": "RNA polymerase II",
+        "C": "RNA polymerase III",
+        "D": "RNA pimase"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 106,
+      "question_text": "Match the scientist awarded with Nobel prize with their contributions: (P) Alexander Fleming - (1) GPCR, (Q) Kobilka - (2) $\\beta$-blocker, (R) Banting - (3) Penicillin, (S) Black - (4) Insulin",
+      "options": {
+        "A": "P-4, Q-3, R-2, S-1",
+        "B": "P-4, Q-2, R-3, S-1",
+        "C": "P-3, Q-1, R-4, S-2",
+        "D": "P-2, Q-3, R-4, S-1"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "General"
+    },
+    {
+      "question_number": 107,
+      "question_text": "Mean arterial pressure is http://www.xamstudy.com",
+      "options": {
+        "A": "Systolic pressure - Diastolic Pressure",
+        "B": "(Diastolic pressure + Diastolic Pressure )/2",
+        "C": "Diastolic alcohol + (1/3) \\times pulse pressure",
+        "D": "Stroke volume X heart rate"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 108,
+      "question_text": "Eugenol is",
+      "options": {
+        "A": "Monoterpene alcohol",
+        "B": "Sesquiterpene alcohol",
+        "C": "Aliphatic alcohol",
+        "D": "Phenylpropene"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 109,
+      "question_text": "The Vitamin required for carboxylation of pyruvate to form oxaloacetate is",
+      "options": {
+        "A": "Thiamine",
+        "B": "Biotin",
+        "C": "Pyridoxine",
+        "D": "Niacin"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 110,
+      "question_text": "Which of the following circled hydrogen is most acidic",
+      "options": {
+        "A": "Identify the structure: CC(=O)CC(=O)C",
+        "B": "Identify the structure: CC(=O)CH(C)C(=O)OC",
+        "C": "Identify the structure: CC(=O)CH2C(=O)C",
+        "D": "Identify the structure: CC(=O)CH(C)C(=O)OC"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 111,
+      "question_text": "The drug formulated as suspension follows .............. order reaction",
+      "options": {
+        "A": "Zero",
+        "B": "Pseudo Zero",
+        "C": "First",
+        "D": "Pseudo first"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 112,
+      "question_text": "Which diuretic causes decrease in release of insulin",
+      "options": {
+        "A": "Chlorothiazide",
+        "B": "Ethacrynic zero",
+        "C": "Triamterene",
+        "D": "Acetazolamide"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 113,
+      "question_text": "Match the following drugs with their mode of action: (P) Methotrexate - (1) Mitotic inhibitor, (Q) Cyclophosphamide - (2) Antimetabolite, (R) Vincristine - (3) Alkylating agent, (S) Dactinomycin - (4) Intercalating agent",
+      "options": {
+        "A": "P-4, Q-3, R-2, S-1",
+        "B": "P-2, Q-4, R-1, S-3",
+        "C": "P-3, Q-1, R-4, S-2",
+        "D": "P-2, Q-3, R-1, S-4"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 114,
+      "question_text": "Which compound would be expected to show intense IR absorption at $3300\\text{ cm}^{-1}$",
+      "options": {
+        "A": "$CH_3CH_2CH_2CH_3$",
+        "B": "$CH_3CH_2C\\equiv CH$",
+        "C": "$CH_3C\\equiv CCH_3$",
+        "D": "$CH_2\\text{CHCH}_2CH_3$"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 115,
+      "question_text": "In the carbon NMR, in what region of the spectrum does one typically observe carbons which are part of the aromatic ring",
+      "options": {
+        "A": "-10-0 ppm",
+        "B": "40-60 ppm",
+        "C": "80-100 ppm",
+        "D": "120-150 ppm"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 116,
+      "question_text": "Meclofenamate belongs to which class of drug",
+      "options": {
+        "A": "Slicylates",
+        "B": "Oxicams",
+        "C": "Aryl antaranillic acid",
+        "D": "p-Amino phenols"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 117,
+      "question_text": "Match the following crude with their chemical constituents: (P) Aloe - (1) Hesperidine, (Q) Ginger - (2) Palmitin, (R) Lemon peel - (3) Barbaloin, (S) Olive oil - (4) Allin",
+      "options": {
+        "A": "P-4, Q-3, R-2, S-1",
+        "B": "P-3, Q-4, R-2, S-1",
+        "C": "P-3, Q-4, R-1, S-2",
+        "D": "P-3, Q-1, R-1, S-4"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 118,
+      "question_text": "Dopamine agonists with tetralene function",
+      "options": {
+        "A": "Ropinorole",
+        "B": "Pirebidil",
+        "C": "Pramipixole",
+        "D": "Rotigotine"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 119,
+      "question_text": "The IUPAC name of the compound-$(CH_3)_2CHCH_2Cl$:",
+      "options": {
+        "A": "2-methyl-3-chloropropane",
+        "B": "1-chloro-3-mehtyl butane",
+        "C": "1-chloropentane",
+        "D": "2-mehtyl-4-chlorobutane"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 120,
+      "question_text": "A powerful inhibitor of stomatal opening is",
+      "options": {
+        "A": "Auxin",
+        "B": "Bytokinin",
+        "C": "Gibberellin",
+        "D": "Abscisic acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 121,
+      "question_text": "What is the renal clearance of a substance, if its concentration in plasma is 10mg, concentration in urine is 100 mg and urine flow is 2 ml/min",
+      "options": {
+        "A": "0.02 ml/min",
+        "B": "0.2 ml/min",
+        "C": "2ml/min",
+        "D": "20 ml/min"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 122,
+      "question_text": "Aim of pharmacovigilance is",
+      "options": {
+        "A": "To monitor drug toxicity",
+        "B": "To monitor unauthorized drug manufacture",
+        "C": "To monitor rational use of drugs",
+        "D": "To check and control drug costs"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 123,
+      "question_text": "Phase zero studies is a/an (P) Exploratory investigational new drug study (Q) Human microdosingstudies (R) Step to speed up drug discovery/ development process (S) Mandatory by FDA",
+      "options": {
+        "A": "P and Q",
+        "B": "Q and R",
+        "C": "P, Q and R",
+        "D": "P, Q, R and S"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 124,
+      "question_text": "Parenteral product must be:",
+      "options": {
+        "A": "Packed in bottle",
+        "B": "Sterilized",
+        "C": "Free from viable/living organism",
+        "D": "Pyrogenic"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 125,
+      "question_text": "Quinine present in highest amount in:",
+      "options": {
+        "A": "C. calisaya",
+        "B": "C. officinalis",
+        "C": "C. ledgeriana",
+        "D": "C. succirubra"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    }
+  ]
+}

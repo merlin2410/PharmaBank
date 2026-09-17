@@ -1,0 +1,1506 @@
+{
+  "exam_title": "Pharmacist gr 2, Compounder",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Millipore filters are examples of which type of filters used in sterilization :",
+      "options": {
+        "A": "Membrane filters",
+        "B": "Ceramic filters",
+        "C": "Seitz filter",
+        "D": "Fibrous Pad"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Millipore filters are well-known membrane filters utilized for sterile filtration.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Enhanced sterilizing action of moist heat is mainly due to :",
+      "options": {
+        "A": "Oxidation of essential cell constituents",
+        "B": "Coagulation of Protoplasm",
+        "C": "Ionisation of cell constituents",
+        "D": "Alkylation of cell constituents"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Moist heat kills microorganisms primarily by coagulating and denaturing cellular proteins and protoplasm.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Which of the following is true about disinfection?",
+      "options": {
+        "A": "Destroys all viable forms of microorganisms",
+        "B": "Done by physical and chemical methods",
+        "C": "Cannot be used for producing sterile products",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Disinfection reduces pathogenic microorganisms but does not necessarily eliminate all microbial forms, hence it cannot guarantee absolute sterility.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Sieve number used for wet screening of granules in moist granulation process of tablet manufacturing :",
+      "options": {
+        "A": "Sieve No.3",
+        "B": "Sieve No.10",
+        "C": "Sieve No.22",
+        "D": "Sieve No.44"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sieve No. 10 is commonly used for wet screening of damp granules in conventional wet granulation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Super disintegrants used as tablet excipients :",
+      "options": {
+        "A": "are required in low concentration",
+        "B": "swell and disrupt the tablet",
+        "C": "are mainly modified starches and cellulose",
+        "D": "all of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Super disintegrants are effective at low concentrations, act by rapid swelling/disruption, and are typically modified celluloses and starches.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Inadequate removal of air from granules in the die cavity before and during compression of tablets leads to :",
+      "options": {
+        "A": "Picking",
+        "B": "Sticking",
+        "C": "Binding",
+        "D": "Capping"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Entrapped air in granules during compression expands upon ejection, causing the top or bottom crown of the tablet to separate, known as capping.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Disintegration test for uncoated tablets is carried out using which of the following immersion liquid at $37\\pm2^{\\circ}$ :",
+      "options": {
+        "A": "0.1N HCl",
+        "B": "6.8 Phosphate buffer",
+        "C": "Distilled water",
+        "D": "Simulated gastric fluid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Water is typically used as the standard immersion liquid for the disintegration test of ordinary uncoated tablets.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Film forming polymer commonly used in film coating of tablets :",
+      "options": {
+        "A": "Salol",
+        "B": "Cellulose acetate phthalate",
+        "C": "Hydroxy propyl methyl cellulose",
+        "D": "Shellac"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hydroxypropyl methylcellulose (HPMC) is the most widely used water-soluble polymer for conventional tablet film coating.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Most suitable capsule number used for filling 450 mg of a powder fill :",
+      "options": {
+        "A": "000",
+        "B": "0",
+        "C": "3",
+        "D": "5"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Size 0 hard gelatin capsules typically hold approximately 500 mg depending on bulk density, making size 0 suitable for 450 mg.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which of the following is not a Quality control test for capsules?",
+      "options": {
+        "A": "Uniformity of weight",
+        "B": "Uniformity of content",
+        "C": "Disintegration test",
+        "D": "Friability test"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Friability test is performed exclusively on compressed tablets, not on capsules.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "In the formulation of suspension which of the following is the use of non-ionic surfactant :",
+      "options": {
+        "A": "Flocculating agent",
+        "B": "Thickening agent",
+        "C": "Antifoaming agent",
+        "D": "Preservative"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Surfactants are commonly employed in suspensions to reduce interfacial tension and act as wetting or flocculating agents.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 12,
+      "question_text": "The HLB value of Sorbitan monoleate is :",
+      "options": {
+        "A": "2.5",
+        "B": "4.3",
+        "C": "12.0",
+        "D": "16.7"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sorbitan monooleate (Span 80) has a standard HLB value of approximately 4.3.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Resinous drugs containing preparations fall into which category of suspension :",
+      "options": {
+        "A": "Suspensions containing diffusible solids",
+        "B": "Suspension containing indiffusible solids",
+        "C": "Suspension produced by chemical reaction",
+        "D": "Suspension containing precipitate forming liquids"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Resinous matter does not readily wet or diffuse uniformly, making them indiffusible solids requiring a suspending agent.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Preservative used in the formulation of emulsion :",
+      "options": {
+        "A": "Cobalt chloride",
+        "B": "Benzoic acid derivatives",
+        "C": "Ascorbic acid",
+        "D": "Tocopherol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benzoic acid and its derivatives (like parabens) are classical antimicrobial preservatives used in aqueous emulsion phases.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Humectant used in the formulation of dental preparations :",
+      "options": {
+        "A": "Methyl cellulose",
+        "B": "Propylene glycol",
+        "C": "Hydrated alumina",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Propylene glycol (along with glycerin and sorbitol) is commonly used as a humectant in toothpastes to prevent moisture loss.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Materials used to impart lustre to the hair and keep hair in place :",
+      "options": {
+        "A": "Hair tonic",
+        "B": "Hair conditioner",
+        "C": "Brilliantines",
+        "D": "Depilatory"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Brilliantines are hair grooming preparations used to impart shine and keep hair in place.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Dye used for leaker test for the evaluation of parenteral products :",
+      "options": {
+        "A": "Methylene blue",
+        "B": "Scarlet red",
+        "C": "Bromothymol blue",
+        "D": "All of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methylene blue dye solution is standardly used in dye immersion tests to detect container-closure leaks in ampoules.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Which among the following is an example of water miscible non aqueous solvent used in the preparation parenteral preparations?",
+      "options": {
+        "A": "Ethyl oleate",
+        "B": "Isopropyl myristate",
+        "C": "PEG 400",
+        "D": "Benzyl benzoate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Polyethylene glycol 400 (PEG 400) is a water-miscible co-solvent used in parenteral formulations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 19,
+      "question_text": "The bactericide used in ophthalmic preparation must be rapidly effective against wide range of microorganisms particularly :",
+      "options": {
+        "A": "Escherichia coli",
+        "B": "Pseudomonas aeruginosa",
+        "C": "Salmonella typhi",
+        "D": "Clostridium tetani"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pseudomonas aeruginosa is notoriously hazardous in eye infections, making rapid bactericidal activity against it mandatory for ophthalmic preservatives.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Eye drops are sterilised by :",
+      "options": {
+        "A": "Autoclaving",
+        "B": "Heating with bactericide",
+        "C": "Membrane filtration",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Depending on the formulation stability, eye drops can be sterilized via autoclaving, heating with a bactericide, or membrane filtration.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 21,
+      "question_text": "The available iodine in povidone-iodine, calculated on dry basis, is :",
+      "options": {
+        "A": "9% to 12%",
+        "B": "1% to 3%",
+        "C": "27% to 30%",
+        "D": "5% to 7%"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to pharmacopeial standards, povidone-iodine contains between 9.0% and 12.0% available iodine on a dry basis.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Which of the following statement about Boric acid is correct?",
+      "options": {
+        "A": "Very weak acid",
+        "B": "Much weaker than carbonic acid",
+        "C": "Having a very low dissociation constant",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Boric acid is a very weak monobasic Lewis acid with a very low dissociation constant ($K_a \\approx 5.8 \\times 10^{-10}$), making it weaker than carbonic acid.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 23,
+      "question_text": "The emulsifying action of borax on oils is due to the presence of free alkali formed by :",
+      "options": {
+        "A": "Oxidation",
+        "B": "Reduction",
+        "C": "Hydrolysis",
+        "D": "Esterification"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Borax undergoes hydrolysis in water to yield sodium hydroxide (free alkali), which reacts with fatty acids in oils to form natural soaps acting as emulsifiers.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "The pellets of sodium hydroxide should be kept in well-closed bottles because it is :",
+      "options": {
+        "A": "Highly efflorescence",
+        "B": "Highly deliquescent and absorbs carbon dioxide from the air",
+        "C": "Highly hygroscopic and absorbs oxygen from the air",
+        "D": "Highly effervescence"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium hydroxide is deliquescent and reacts readily with atmospheric carbon dioxide to form sodium carbonate.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Which of the following statement about mild silver protein is not correct?",
+      "options": {
+        "A": "Non-irritant",
+        "B": "Used as a mild antiseptic",
+        "C": "Silver rendered colloidal by combination with protein",
+        "D": "Contains less amount of silver than strong silver protein"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mild silver protein actually contains a higher percentage of silver (approx 19-23%) compared to strong silver protein (7-8%), making statement D incorrect.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 26,
+      "question_text": "The suitable calcium salt as a stabilizer used in the official calcium gluconate intravenous injection is :",
+      "options": {
+        "A": "Calcium chloride hexahydrate",
+        "B": "Dibasic calcium phosphate",
+        "C": "Calcium lactate",
+        "D": "Calcium D-Saccharate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Calcium D-saccharate is added as a stabilizing agent to official calcium gluconate injections to prevent supersaturation and precipitation.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Which of the following drug is effective in treating severe metabolic alkalosis when administered intravenously?",
+      "options": {
+        "A": "Ammonium chloride injection",
+        "B": "Boric acid injection",
+        "C": "Sodium nitrite injection",
+        "D": "Calcium gluconate injection"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ammonium chloride IV injection is used to acidify the extracellular fluid and treat severe metabolic alkalosis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 28,
+      "question_text": "“Tartar emetic” is chemically known as :",
+      "options": {
+        "A": "Sodium potassium tartrate",
+        "B": "Antimony potassium tartrate",
+        "C": "Antimony sodium gluconate",
+        "D": "Antimony sodium tartrate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tartar emetic is the traditional name for potassium antimonyl tartrate or antimony potassium tartrate.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 29,
+      "question_text": "All of the following are official compounds of Iron EXCEPT :",
+      "options": {
+        "A": "Ferric sulphate",
+        "B": "Ferrous sulphate",
+        "C": "Ferrous gluconate",
+        "D": "Ferric ammonium citrate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ferric sulfate is an astringent/hemostatic reagent and not an official therapeutic iron supplement compound like the others.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 30,
+      "question_text": "All of the following statements about Lugol’s solution are correct EXCEPT :",
+      "options": {
+        "A": "Contains no alcohol",
+        "B": "Contains more amount of potassium iodide than iodine",
+        "C": "Otherwise called aqueous solution of iodine",
+        "D": "Cannot be taken by mouth"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lugol's solution (aqueous iodine solution) can indeed be taken by mouth (e.g., for thyroid storm preparation), making statement D incorrect.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 31,
+      "question_text": "All of the following statements regarding Benzalkonium chloride are true EXCEPT :",
+      "options": {
+        "A": "Cationic surfactant",
+        "B": "Quaternary ammonium compound",
+        "C": "Water insoluble",
+        "D": "Detergent, emulsifier and wetting agent"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benzalkonium chloride is readily soluble in water and alcohol, making option C false.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "All of the following compounds exhibit amphoteric properties EXCEPT :",
+      "options": {
+        "A": "Amphotericin",
+        "B": "Tetracycline",
+        "C": "Sulfanilamide",
+        "D": "Benzyl penicillin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benzyl penicillin contains a carboxylic acid group but lacks a basic amino group that confers true amphoteric properties, unlike the others.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 33,
+      "question_text": "All of the following are anti-tubercular antibiotics EXCEPT :",
+      "options": {
+        "A": "Erythromycin",
+        "B": "Streptomycin",
+        "C": "Rifampicin",
+        "D": "Cycloserine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Erythromycin is a macrolide antibiotic primarily used for gram-positive respiratory infections, not tuberculosis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 34,
+      "question_text": "An aromatic nitro compound, used as a broad spectrum antibiotic :",
+      "options": {
+        "A": "Ampicillin",
+        "B": "Benzathine penicillin",
+        "C": "Chloramphenicol",
+        "D": "Daunorubicin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chloramphenicol features a characteristic p-nitrophenyl aromatic nitro group and is a broad-spectrum antibiotic.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Which of the following statement about chloroquine is correct?",
+      "options": {
+        "A": "4-Aminoquinoline derivative",
+        "B": "Used for both prophylaxis and treatment of malaria",
+        "C": "For the treatment of extra intestinal amoebiasis",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chloroquine is a 4-aminoquinoline used for malaria prophylaxis and treatment, and also for extraintestinal amebiasis like liver abscess.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 36,
+      "question_text": "A drug which belongs to fluorobutyrophenone with antipsychotic activity :",
+      "options": {
+        "A": "Chlorpromazine",
+        "B": "Thiothixene",
+        "C": "Trifluoperazine",
+        "D": "Haloperidol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Haloperidol is a classical butyrophenone antipsychotic containing a fluorophenyl group.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Diazepam is used :",
+      "options": {
+        "A": "For several anxiety states",
+        "B": "As anticonvulsant",
+        "C": "In various spastic disorders",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diazepam is a benzodiazepine widely used as an anxiolytic, anticonvulsant, and skeletal muscle relaxant in spasticity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Adrenaline is light sensitive and easily oxidised on exposure to air because of the moiety in adrenaline :",
+      "options": {
+        "A": "Secondary hydroxyl group",
+        "B": "Secondary amino group",
+        "C": "Catechol ring system",
+        "D": "All of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The ortho-diphenol (catechol) ring system in adrenaline is readily oxidized to quinone derivatives upon exposure to light and air.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 39,
+      "question_text": "The most widely used anticholinesterase agent for treating myasthenia gravis :",
+      "options": {
+        "A": "Atropine",
+        "B": "Pyridostigmine",
+        "C": "Tolazoline",
+        "D": "Ephedrine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyridostigmine is a carbamate acetylcholinesterase inhibitor that serves as the standard chronic oral treatment for myasthenia gravis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Most of the anti-neoplastic alkylating agents contain :",
+      "options": {
+        "A": "Nucleophilic groups",
+        "B": "Electrophilic groups",
+        "C": "Both nucleophilic and electrophilic groups",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Alkylating agents act by generating reactive electrophilic species that form covalent adducts with cellular nucleophiles like DNA.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Which of the following plant is commonly known as Henbane?",
+      "options": {
+        "A": "Belladona",
+        "B": "Rhubarb",
+        "C": "Aconite",
+        "D": "Hyoscyamus"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hyoscyamus niger is commonly known as henbane.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Meconic acid is a dibasic acid found in :",
+      "options": {
+        "A": "Opium",
+        "B": "Cinchona",
+        "C": "Clove",
+        "D": "Ipecacuanha"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Meconic acid is a characteristic organic acid found exclusively in opium (Papaver somniferum).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Hallucinogenic drug LSD is prepared from :",
+      "options": {
+        "A": "Cannabis",
+        "B": "Cocoa leaves",
+        "C": "Ergot",
+        "D": "Nutmeg"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lysergic acid diethylamide (LSD) is semisynthetically produced from lysergic acid derived from ergot alkaloids (Claviceps purpurea).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Cinnamon is the dried inner bark of the coppiced shoots of Cinnamomum zeylanicum Nees., belonging to family Lauraceae. Coppicing means :",
+      "options": {
+        "A": "Cutting at ground level",
+        "B": "Separation of inner bark",
+        "C": "Cutting of branches",
+        "D": "Separation outer bark"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Coppicing is the practice of cutting woody plants close to the ground level to stimulate vigorous shoot growth.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Cardamom consists of the dried ripe seeds of Elettaria cardamomum Maton., belonging to family :",
+      "options": {
+        "A": "Myrtacea",
+        "B": "Zingiberaceae",
+        "C": "Lauraceae",
+        "D": "Leguminosae"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cardamom belongs to the ginger family, Zingiberaceae.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Guggal is a gum resin obtained by incision of the bark of :",
+      "options": {
+        "A": "Commiphora mukul",
+        "B": "Commiphora molmol",
+        "C": "Commiphora merkii",
+        "D": "Commiphora airica"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Guggul gum resin is tapped from the plant species Commiphora mukul.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Hydnocarpic acid is a constituent of :",
+      "options": {
+        "A": "Castor oil",
+        "B": "Shark liver oil",
+        "C": "Chaulmoogra oil",
+        "D": "Lemon grass oil"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chaulmoogra oil contains cyclopentenyl fatty acids, notably hydnocarpic acid and chaulmoogric acid, historically used for leprosy.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 48,
+      "question_text": "In Fiehe’s test for honey, on addition of which reagent gives a transient red colour for natural honey :",
+      "options": {
+        "A": "1% alpha naphthol",
+        "B": "1% resorcinol",
+        "C": "5% Ferric chloride",
+        "D": "2% Ferric chloride"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fiehe's test utilizes resorcinol (in hydrochloric acid) to detect adulteration with commercial invert sugar in honey.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 49,
+      "question_text": "Narcotic effect of Nutmeg is due to the presence of :",
+      "options": {
+        "A": "Elimicin",
+        "B": "Saffrole",
+        "C": "Myricticin",
+        "D": "d-Camphene"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Myristicin is the primary phenylpropene constituent responsible for the psychoactive and narcotic effects of nutmeg.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Epidermis with thick-waved, bent and twisted lignified covering trichomes are characteristic feature of :",
+      "options": {
+        "A": "Coriander",
+        "B": "Fennel",
+        "C": "Ephedra",
+        "D": "Nux-vomica"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ephedra species are characterized by thick-waved, bent, and twisted lignified covering trichomes on their epidermis.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Weight gain can be a side effect of the following anticonvulsants :",
+      "options": {
+        "A": "Carbamazepine",
+        "B": "Phenytoin",
+        "C": "Valproic acid",
+        "D": "Ethosuximide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Valproic acid is well-known to cause weight gain and increased appetite as a common adverse metabolic effect.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Dipivefrine is an :",
+      "options": {
+        "A": "Epinephrine ester",
+        "B": "Anti anginal agent",
+        "C": "Opioid analgesic",
+        "D": "Antimuscarinic drug"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dipivefrine is a prodrug formed by the diesterification of epinephrine and pivalic acid, used to treat glaucoma.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Timolol has the following features except :",
+      "options": {
+        "A": "Non subtype selective beta-adrenergic antagonist",
+        "B": "No intrinsic sympathomimetic",
+        "C": "No membrane stabilizing activity",
+        "D": "Selective beta-adrenergic antagonist"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Timolol is a non-selective beta-blocker (blocking both beta-1 and beta-2 receptors), making option D incorrect.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Therapeutic index of digitalis is :",
+      "options": {
+        "A": "Low",
+        "B": "High",
+        "C": "Safe",
+        "D": "Moderate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitalis (digoxin) has a narrow margin of safety, meaning its therapeutic index is low.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Sulfonamides are not effective in the presence of pus because they are rich in :",
+      "options": {
+        "A": "Folic acid",
+        "B": "Purine",
+        "C": "Tetrahydrofolic acid",
+        "D": "PABA"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pus contains breakdown products of cellular debris, particularly para-aminobenzoic acid (PABA), which competitively inhibits sulfonamides.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Diacetylmorphine is :",
+      "options": {
+        "A": "Meperidine",
+        "B": "Heroin",
+        "C": "Pholcodine",
+        "D": "Tramadol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diacetylmorphine is the chemical IUPAC-derived name for heroin.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Which endogenous substance depletion potentiates paracetamol toxicity?",
+      "options": {
+        "A": "Glucuronic acid",
+        "B": "Glutathione",
+        "C": "N-acetyl cystine",
+        "D": "Amino acid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Depletion of hepatic glutathione leads to accumulation of toxic NAPQI metabolite, causing paracetamol-induced hepatotoxicity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Select the long-acting semisynthetic tetracycline :",
+      "options": {
+        "A": "Demeclocycline",
+        "B": "Chlortetracycline",
+        "C": "Minocycline",
+        "D": "Oxytetracycline"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Minocycline and doxycycline are long-acting tetracyclines derived semisynthetically.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Doxapram is :",
+      "options": {
+        "A": "Convulsant",
+        "B": "Psychomoto stimulant",
+        "C": "Nootropics",
+        "D": "Respiratory stimulant"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Doxapram is a central nervous system stimulant that primarily acts as a respiratory stimulant.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Which of the following is not an intravenous anesthetic?",
+      "options": {
+        "A": "Sevoflurane",
+        "B": "Fospropofol",
+        "C": "Fentanyl",
+        "D": "Ketamine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sevoflurane is an inhaled volatile general anesthetic, not an intravenous one.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 61,
+      "question_text": "The life period of polio vaccine when stored at minus 20°C is :",
+      "options": {
+        "A": "12 months",
+        "B": "24 months",
+        "C": "6 months",
+        "D": "3 months"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oral polio vaccine (OPV) stored at -20°C typically maintains its potency for 24 months.",
+      "category": "General"
+    },
+    {
+      "question_number": 62,
+      "question_text": "As per Drugs and Cosmetic act 1940 and Rules 1945, \"Cool Place\" means place having a temperature between :",
+      "options": {
+        "A": "10°C and 25°C",
+        "B": "8°C and 25°C",
+        "C": "Less than 25°C",
+        "D": "Not exceeding 30°C"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Drugs and Cosmetics Act, a cool place is defined as a place with temperatures between 8°C and 25°C.",
+      "category": "General"
+    },
+    {
+      "question_number": 63,
+      "question_text": "The flowering or fruiting tops of the cannabis plant (excluding the seeds and leaves when not accompanied by the tops), by whatever name they may be known or designated is known as :",
+      "options": {
+        "A": "Charas",
+        "B": "Poppy",
+        "C": "Ganja",
+        "D": "Erythroxylum"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ganja is legally defined as the flowering or fruiting tops of the cannabis plant.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Who among the following is not the member of Central council of Pharmacy council of India?",
+      "options": {
+        "A": "Representative of the University Grants Commission",
+        "B": "Representative of the All India Council for Technical Education",
+        "C": "Representative of Indian Council of Medical research",
+        "D": "Director general of Health services"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "ICMR representative is typically not a designated member of the PCI under the Pharmacy Act.",
+      "category": "General"
+    },
+    {
+      "question_number": 65,
+      "question_text": "\"If the label or container bears the name of an individual or company purporting to be the manufacturer of the drug, which individual or company is fictitious or does not exist\" it belongs to :",
+      "options": {
+        "A": "Misbranded drugs",
+        "B": "Adulterated drug",
+        "C": "Spurious drug",
+        "D": "All the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Drugs with fictitious manufacturing names are classified as spurious drugs under the Drugs and Cosmetics Act.",
+      "category": "General"
+    },
+    {
+      "question_number": 66,
+      "question_text": "The nominated member of Pharmacy Council of India shall hold office for a term of how many years from the date of his : (I) 5 years (II) 3 years (III) 6 years (IV) Until his successor has been duly nominated",
+      "options": {
+        "A": "Only (I)",
+        "B": "Only (I and IV)",
+        "C": "Only (II and IV)",
+        "D": "Only (III and IV)"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nominated members of the PCI hold office for 5 years and continue until their successor is nominated (I and IV).",
+      "category": "General"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Which among the following conditions, in which their advertisements are prohibited?",
+      "options": {
+        "A": "Bright's disease and Dropsy",
+        "B": "Cataract and Deafness",
+        "C": "Insanity and Lupus",
+        "D": "All the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Drugs and Magic Remedies Act, advertisements for all these conditions are strictly prohibited.",
+      "category": "General"
+    },
+    {
+      "question_number": 68,
+      "question_text": "Any product of opium by any series of operations designed to transform opium an extract suitable for smoking and the dross or other residue remaining after opium is smoked is :",
+      "options": {
+        "A": "Prepared Opium",
+        "B": "Medicinal Opium",
+        "C": "Semi synthetic opium",
+        "D": "Poppy Straw Concentrate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Prepared opium is legally defined as any product of opium obtained through operations to make it suitable for smoking.",
+      "category": "General"
+    },
+    {
+      "question_number": 69,
+      "question_text": "The pack size of Albendazole suspension :",
+      "options": {
+        "A": "5ml",
+        "B": "10ml",
+        "C": "15ml",
+        "D": "30ml"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Standard paediatric single-dose packs of Albendazole oral suspension are typically formulated in 10 ml bottles.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 70,
+      "question_text": "Application for grant of a licence to sell, stock, exhibit or offer for sale, or distribute drugs other than those specified in Schedule X by wholesale is in :",
+      "options": {
+        "A": "Form 19",
+        "B": "Form 19A",
+        "C": "Form 19AA",
+        "D": "Form 19B"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 19AA is the application form for wholesale licenses of drugs other than Schedule X drugs.",
+      "category": "General"
+    },
+    {
+      "question_number": 71,
+      "question_text": "The upsurge in prices for goods and services is called :",
+      "options": {
+        "A": "Inflation",
+        "B": "Deflation",
+        "C": "Depression",
+        "D": "Reflation"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "An ongoing rise in the general price level of goods and services in an economy is defined as inflation.",
+      "category": "General"
+    },
+    {
+      "question_number": 72,
+      "question_text": "Which among the following comes under current liability?",
+      "options": {
+        "A": "Bonds",
+        "B": "Debentures",
+        "C": "Capital",
+        "D": "Bank overdraft"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bank overdraft is a short-term obligation categorized as a current liability.",
+      "category": "General"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Incentives are a part of :",
+      "options": {
+        "A": "Consumer promotion",
+        "B": "Trade promotion",
+        "C": "Good public relations",
+        "D": "Sales force promotion"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Trade promotions frequently utilize monetary and non-monetary incentives to encourage distributors and retailers.",
+      "category": "General"
+    },
+    {
+      "question_number": 74,
+      "question_text": "Which among the following is a constraint of sole proprietorship?",
+      "options": {
+        "A": "No sharing of profit and loss",
+        "B": "Single ownership",
+        "C": "Less legal formalities",
+        "D": "Infinite liability"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A major disadvantage or constraint of a sole proprietorship is the unlimited (infinite) personal liability of the owner.",
+      "category": "General"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Request indicator refers to :",
+      "options": {
+        "A": "Lead time",
+        "B": "Delivery time",
+        "C": "Reorder level",
+        "D": "Consumption level"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reorder level serves as the indicator that triggers a request or replenishment order.",
+      "category": "General"
+    },
+    {
+      "question_number": 76,
+      "question_text": "The term capital refers to :",
+      "options": {
+        "A": "Assets-liabilities",
+        "B": "Assets-credit",
+        "C": "Assets-debentures",
+        "D": "Asset-Merchandise"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Capital (owner's equity) is calculated mathematically as total assets minus total liabilities.",
+      "category": "General"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Aisle interrupter is a part of :",
+      "options": {
+        "A": "Market Research",
+        "B": "Sales promotion",
+        "C": "Consumer protection",
+        "D": "Pharmaceutical Care"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "An aisle interrupter is a retail point-of-sale display used as a sales promotion tool.",
+      "category": "General"
+    },
+    {
+      "question_number": 78,
+      "question_text": "Which among the following committee was constituted by Govt. of India to rationalize the price structure of drugs?",
+      "options": {
+        "A": "Hathi committee",
+        "B": "Chopra committee",
+        "C": "Dharia Committee",
+        "D": "C Rao Committee"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Hathi Committee was appointed by the Government of India in 1974 to review and rationalize drug prices and the pharmaceutical industry.",
+      "category": "General"
+    },
+    {
+      "question_number": 79,
+      "question_text": "When a given event affects both revenue and expenses, the effect on each should be recognized in the same period is a part of?",
+      "options": {
+        "A": "Consistency concept",
+        "B": "Accrual concept",
+        "C": "Matching concept",
+        "D": "Conservatism concept"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The matching concept requires that expenses be matched with revenues generated in the same accounting period.",
+      "category": "General"
+    },
+    {
+      "question_number": 80,
+      "question_text": "The salary of staff is entered in which among the following account :",
+      "options": {
+        "A": "Real account",
+        "B": "Nominal account",
+        "C": "Personal Account",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Salary is an expense, and all expenses and incomes are recorded under nominal accounts.",
+      "category": "General"
+    },
+    {
+      "question_number": 81,
+      "question_text": "Which among the following is NOT a primary source of information?",
+      "options": {
+        "A": "Patents",
+        "B": "Manufacturer's Data Sheet",
+        "C": "Text Books",
+        "D": "Scientific journals publishing original research"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Textbooks are classified as tertiary literature sources, not primary sources.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Inventory control method ABC Analysis is based on which principle :",
+      "options": {
+        "A": "Pareto's Principle",
+        "B": "Principle of supply and demand",
+        "C": "Principle of scarcity",
+        "D": "Marginal analysis"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "ABC analysis relies on Pareto's 80/20 principle where a small portion of items account for the majority of inventory value.",
+      "category": "General"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Identify factors influencing the selection of drugs in a hospital formulary : (1) Efficacy (2) Safety (3) Cost (4) Restricted use",
+      "options": {
+        "A": "All the above",
+        "B": "(1) and (3) only",
+        "C": "(1), (2) and (3) only",
+        "D": "(1) and (4) only"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "All listed factors—efficacy, safety, cost, and restrictions on use—are critical considerations in a hospital formulary.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 84,
+      "question_text": "Average time duration between placing the order and the receipt of item is known as :",
+      "options": {
+        "A": "Incubation period",
+        "B": "Usance period",
+        "C": "Shelf life",
+        "D": "Lead time"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lead time is the time elapsed between placing an order and receiving the delivered goods.",
+      "category": "General"
+    },
+    {
+      "question_number": 85,
+      "question_text": "Surgical instrument with long handles and angulated blades, not having rachette and is used for picking sterile instruments and swabs at the time of surgery :",
+      "options": {
+        "A": "Sponge holding forceps",
+        "B": "Cheetle's forceps",
+        "C": "Haemostatic forceps",
+        "D": "Allis forceps"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cheetle's forceps are long-handled, angulated, ratchet-free forceps specifically used for handling sterile instruments.",
+      "category": "General"
+    },
+    {
+      "question_number": 86,
+      "question_text": "All inpatient drugs are dispensed in unit doses and all the drugs are stored in main pharmacy and dispensed at the time the dose is due to be given to the patient. This system is known as :",
+      "options": {
+        "A": "Decentralized unit dose drug distribution system",
+        "B": "Complete floor stock system",
+        "C": "Centralized unit dose drug distribution system",
+        "D": "Non charge floor stock system"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Storing and dispensing unit doses directly from a central pharmacy location describes a centralized unit dose system.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 87,
+      "question_text": "The most vital committee in a hospital which is having both advisory and educational role :",
+      "options": {
+        "A": "Pharmacy and Therapeutics Committee",
+        "B": "Infection control committee",
+        "C": "Antibiotic Stewardship Committee",
+        "D": "Hospital development committee"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Pharmacy and Therapeutics (P&T) Committee serves an advisory and educational role regarding drug therapy in hospitals.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 88,
+      "question_text": "\"Clean room area\" an atmosphere free from small particles of size less than 0.5 mm is given a distinct colour code :",
+      "options": {
+        "A": "Black",
+        "B": "White",
+        "C": "Red",
+        "D": "Orange"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clean room zones and environments are traditionally designated with white color coding.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 89,
+      "question_text": "The day today assessment of all operations from receipt of raw materials to the distribution of finished products with analysis and testing of finished product is :",
+      "options": {
+        "A": "Quality assurance",
+        "B": "Sterility testing",
+        "C": "Quality control",
+        "D": "Inventory control"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Quality control involves day-to-day sampling, testing, and inspection of raw materials and finished products.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 90,
+      "question_text": "Bandage which is a union fabric with more than 60% wool content with warp cotton and weft is wool :",
+      "options": {
+        "A": "Crepe bandage",
+        "B": "Calico bandage",
+        "C": "Cambric bandage",
+        "D": "Domette bandage"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Domette bandage is a union fabric containing over 60% wool with cotton warp and wool weft.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 91,
+      "question_text": "Glucose 6 phosphate dehydrogenase enzyme deficient persons are at risk of developing haemolytic crisis with which of the following drug group :",
+      "options": {
+        "A": "Sulphonamides",
+        "B": "Barbiturates",
+        "C": "Succinyl choline",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulphonamides, antimalarials, and certain other drugs precipitate hemolytic crisis in G6PD deficient patients.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 92,
+      "question_text": "In rheumatoid arthritis hypertrophy of the synovium due to sustained inflammation leads to the formation of a structure which spreads over the joint surface causing erosive destruction of cartilage and bone is :",
+      "options": {
+        "A": "Spur",
+        "B": "Lewy bodies",
+        "C": "pannus",
+        "D": "Condyle"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pannus is the abnormal layer of fibrovascular tissue that invades and destroys joint cartilage and bone in rheumatoid arthritis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 93,
+      "question_text": "Slow acetylators are at increased risk of developing which ADR :",
+      "options": {
+        "A": "Type A",
+        "B": "Type B",
+        "C": "Type C",
+        "D": "Type D"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Type B adverse drug reactions are idiosyncratic and genetically determined, such as toxicity in slow acetylators.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 94,
+      "question_text": "Which of the following is NOT an ingredient of universal antidote?",
+      "options": {
+        "A": "Tannic acid",
+        "B": "Activated charcoal",
+        "C": "Pencillamine",
+        "D": "Magnesium oxide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Universal antidote consists of activated charcoal, magnesium oxide, and tannic acid; penicillamine is a chelating agent, not part of it.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 95,
+      "question_text": "In disease conditions high ESR value is observed than normal. The reason is :",
+      "options": {
+        "A": "Increased glucose level in blood",
+        "B": "Increased protein level in blood",
+        "C": "Decreased WBC count",
+        "D": "Decreased glucose level in blood"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Elevated acute-phase proteins (like fibrinogen and globulins) increase erythrocyte sedimentation rate (ESR).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 96,
+      "question_text": "The causative organism of peptic ulcer in susceptible individuals :",
+      "options": {
+        "A": "Treponema pallidum",
+        "B": "Helicobacter pyori",
+        "C": "Yersinia pestis",
+        "D": "Wuchereria bancrofti"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Helicobacter pylori is the primary bacterial causative agent responsible for peptic ulcer disease.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 97,
+      "question_text": "Faecal oral route is the mode of transmission of :",
+      "options": {
+        "A": "Hepatitis E",
+        "B": "Hepatitis C",
+        "C": "Hepatitis D",
+        "D": "Hepatitis B"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hepatitis A and E are primarily transmitted via the fecal-oral route, unlike B, C, and D which are blood-borne.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 98,
+      "question_text": "Ingestion of alcohol along with the use of sulphonyl ureas can cause :",
+      "options": {
+        "A": "Hyperglycemia",
+        "B": "Weight gain",
+        "C": "Hypoglycemia",
+        "D": "Lactic acidosis"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Alcohol can potentiate the hypoglycemic effects of sulfonylureas, sometimes leading to severe hypoglycemia.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 99,
+      "question_text": "Identify the drug which can induce hypertension in susceptible individuals :",
+      "options": {
+        "A": "Metformin",
+        "B": "Ciclosporin",
+        "C": "Hydrochlorothiazide",
+        "D": "Sodium valproate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cyclosporine is a well-known immunosuppressant that frequently causes hypertension as an adverse effect.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 100,
+      "question_text": "A patient receiving ACE inhibitor and potassium sparing diuretic is at risk of developing :",
+      "options": {
+        "A": "Hypokalemia",
+        "B": "Bradycardia",
+        "C": "Hypernatremia",
+        "D": "Hyperkalemia"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Both ACE inhibitors and potassium-sparing diuretics retain potassium, synergistically increasing the risk of hyperkalemia.",
+      "category": "Pharmacology"
+    }
+  ]
+}

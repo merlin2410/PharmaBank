@@ -1,0 +1,321 @@
+{
+  "exam_title": "gpat-question-paper-1994",
+  "total_questions": 21,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Natural camphor is:",
+      "options": {
+        "A": "An optically inactive aldehyde obtained from cinnamomum camphora",
+        "B": "A white dextrorotatory ketone obtained from the wood of cinnamomum camphora",
+        "C": "A white optically inactive ketone obtained form the bark of cinnamomum camphora",
+        "D": "A white volatile aldehyde obtained from the bark of cinnamomum camphora"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Natural camphor is a white, dextrorotatory cyclic terpene ketone derived from the wood of Cinnamomum camphora.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Ingredients used for capsulation in soft capsule should flow by gravity at a temperature Not exceeding",
+      "options": {
+        "A": "$35^\\circ\\text{c}$",
+        "B": "$30^\\circ\\text{c}$",
+        "C": "$25^\\circ\\text{c}$",
+        "D": "$20^\\circ\\text{c}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Liquid or paste fill formulations for soft gelatin capsules must flow by gravity at temperatures not exceeding $35^\\circ\\text{C}$ to avoid damaging the gelatin shell.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 3,
+      "question_text": "The region of the electromagnetic spectrum below $200\\text{ nm}$ is known as",
+      "options": {
+        "A": "Vacuum ultra violet region",
+        "B": "Far uv region",
+        "C": "Low uv region",
+        "D": "Microwave region"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Electromagnetic radiation below $200\\text{ nm}$ is absorbed by atmospheric oxygen, necessitating a vacuum for spectrophotometric measurements, hence termed vacuum ultraviolet.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 4,
+      "question_text": "O/W micro emulsion containing hydrophilic surfactant produces",
+      "options": {
+        "A": "Translucent emulsion",
+        "B": "Transparent emulsion",
+        "C": "Milky white emulsion",
+        "D": "Intense white emulsion"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Microemulsions are thermodynamically stable, isotropic systems that appear transparent or translucent due to droplet sizes typically under $100\\text{ nm}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Which of the following steroids shows predominant mineralocorticoid action?",
+      "options": {
+        "A": "Hydrocortisone",
+        "B": "Spironolactone",
+        "C": "Dexamethasone",
+        "D": "Fludrocortisone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fludrocortisone is a potent synthetic corticosteroid with exceptionally high mineralocorticoid activity relative to its glucocorticoid effect.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 6,
+      "question_text": "The factors affecting diffusion current in polarography can be denoted by",
+      "options": {
+        "A": "Nernst equation",
+        "B": "Ilkovic equation",
+        "C": "Lambert's law",
+        "D": "Mark-Houwink equation"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Ilkovic equation relates the diffusion current to the concentration of the electroactive species in polarography.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Rotosort is an equipment used",
+      "options": {
+        "A": "To separate unfilled capsules",
+        "B": "To fix the cap and body of the capsules after filling",
+        "C": "To separate the improper tablets",
+        "D": "To adjust the required compression for the tablets"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rotosort is a machine specifically designed for sorting and separating defective or improper tablets from a batch.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "As per G.M.P. permitted limit of slid contents in water for injection is:",
+      "options": {
+        "A": "$100\\text{ ppm}$",
+        "B": "$1.0\\text{ ppm}$",
+        "C": "$0.1\\text{ ppm}$",
+        "D": "$10.0\\text{ ppm}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Water for injection must be purified stringently, maintaining very low total solids, typically adhering to limits such as $0.1\\text{ ppm}$ or strict conductivity limits.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Nujol is",
+      "options": {
+        "A": "Hexachlorobutadiene",
+        "B": "Mineral oil",
+        "C": "Perfluorokerosene",
+        "D": "Flurlube"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nujol is a heavy mineral oil commonly used as a mulling agent in infrared spectroscopy.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which of the following is a microsomal enzyme inducer?",
+      "options": {
+        "A": "Indomethacin",
+        "B": "Clofibrate",
+        "C": "Tolbutamide",
+        "D": "Glutethamide"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glutethamide is a well-known hepatic microsomal enzyme inducer that accelerates the metabolism of various drugs.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Fiducial limit is a term used in",
+      "options": {
+        "A": "Microbiological assay",
+        "B": "Biologically assay",
+        "C": "Chemical assay",
+        "D": "Instrumental methods of assay"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fiducial limits (confidence limits) are commonly applied in biological assays to express the precision and reliability of potency estimations.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Phenothiazines are metabolized",
+      "options": {
+        "A": "In the hepatic microsomal system by hydroxylation followed by conjugation with glucuronicad",
+        "B": "In the liver by oxidation",
+        "C": "In the hepatic microsomal system by reduction",
+        "D": "In the hepatic microsomal system by oxidation followed by conjugation withy glycine."
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phenothiazines undergo extensive hepatic metabolism primarily via aromatic hydroxylation and subsequent conjugation with glucuronic acid.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Benzodiazepines potentiate",
+      "options": {
+        "A": "The binding of protein to nervous tissue",
+        "B": "The binding of GABA to liver",
+        "C": "The binding of GABA to receptors",
+        "D": "The binding or GABA to carbohydrates"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benzodiazepines allosterically bind to $\\text{GABA}_\\text{A}$ receptors, enhancing the affinity and frequency of GABA binding and chloride channel opening.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Benzalkonium chloride is a germicidal surfactant which is rendered inactive in the presence of",
+      "options": {
+        "A": "Organic acid",
+        "B": "Cationic surfactants",
+        "C": "Soaps",
+        "D": "Inorganic salts"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benzalkonium chloride is a cationic surfactant that forms inactive complexes in the presence of anionic surfactants such as soaps.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Enkephalins are",
+      "options": {
+        "A": "Exogenous compounds useful in Analgesia",
+        "B": "Endogenous ligands which are pentapeptides that are localized in some nerve endings.",
+        "C": "Endogenous ligands which are tripeptides that are present in nervous tissue",
+        "D": "Endogenous ligands which are tetrapeptides that are present in cardiovascular tissue."
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Enkephalins are endogenous opioid pentapeptides involved in regulating nociception, localized at nerve terminals.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Benorylate is a Prodrug, chemically it is polymeric condensation product of",
+      "options": {
+        "A": "Aluminium oxide and asprin",
+        "B": "An acetyl salicylic ester of phenol",
+        "C": "An acetyl salicylic ester of paracetamol",
+        "D": "An acetyl salicylic ester of $\\beta$-naphthol"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benorylate is an ester prodrug formed by combining aspirin (acetylsalicylic acid) and paracetamol.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Listed below are some of the common vehicles, which one is most appropriate for the intravenous admixture of ampicillin $500\\text{ mg}/50\\text{ ml}$?",
+      "options": {
+        "A": "$5\\%$ Dextrose injection",
+        "B": "$5\\%$ Dextrose and $0.9\\%$ Sodium chloride solution",
+        "C": "$2.5\\%$ Dextrose and $0.45\\%$ Sodium Chloride injection",
+        "D": "$0.9\\%$ Sodium Chloride injection"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ampicillin sodium solutions have limited stability in dextrose solutions due to rapid degradation, making normal saline ($0.9\\%$ NaCl) the preferred vehicle.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Acetonides are prepared to improve the bioavailability of certain drugs. Which of the following is available as acetonide?",
+      "options": {
+        "A": "Clonidine",
+        "B": "Prednisolone",
+        "C": "Pyrimethamine",
+        "D": "Tramicinolone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Triamcinolone acetonide is a potent synthetic corticosteroid acetonide derivative designed for enhanced lipophilicity and topical/systemic efficacy.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Which one of the following indicators is used in Complexometric Titration?",
+      "options": {
+        "A": "Crystal Violet",
+        "B": "Murexide",
+        "C": "Eosin",
+        "D": "Methyl Orange"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Murexide is a classic metallochromic indicator frequently used in complexometric titrations, especially for calcium estimation.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Betamethasone is:",
+      "options": {
+        "A": "$9\\alpha$ Fluro $11\\beta, 17\\alpha, 21$ trihydroxy $16\\beta$ methyl pregna-$1, 4$ diene $3, 20$ dione",
+        "B": "$9\\alpha$ Fluro $12\\beta, 13\\alpha, 21$ trihydroxy $17\\beta$ methyl estra-$1, 4$ diene $3, 20$ diene",
+        "C": "$9\\alpha$ Fluro $11\\beta, 17\\alpha, 21$ trihydroxy $16\\beta$ methyl estra-$1, 4$ diene $3, 20$ dione",
+        "D": "$9\\alpha$ Fluro $11\\beta, 17\\alpha$, dihydroxy $16\\beta$ methyl pregna-$1, 4$ diene $3, 20$ dione"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Betamethasone IUPAC nomenclature specifies a pregnadiene core with $9\\alpha$-fluoro, $11\\beta, 17\\alpha, 21$-trihydroxy, and $16\\beta$-methyl substituents.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 4,
+      "question_text": "The most appropriate pharmacological actions of the following drugs are listed in (A) to (E). Match them. (1) Verapamil (2) Propranolol (3) Dipyridamole (4) Hydralazine",
+      "options": {
+        "A": "1-B, 2-A, 3-C, 4-D",
+        "B": "1-A, 2-C, 3-B, 4-D",
+        "C": "1-E, 2-A, 3-B, 4-C",
+        "D": "1-B, 2-C, 3-E, 4-A"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    }
+  ]
+}

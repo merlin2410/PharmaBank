@@ -1,0 +1,18 @@
+[
+  {
+    "question_number": 38,
+    "question_text": "International Conference on Harmonization (ICH) Q 1B guidelines describes",
+    "options": {
+      "A": "Pharmacopoeial harmonization",
+      "B": "Photostability testing of new drug substances",
+      "C": "Evaluation of stability data",
+      "D": "Quality risk management"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "ICH Q1B guideline specifically outlines the requirements for photostability testing of new drug substances and products.",
+    "category": "Pharmaceutical Jurisprudence",
+    "source_exam": "Analyst gr 3"
+  }
+]

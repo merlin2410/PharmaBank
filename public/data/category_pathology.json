@@ -1,0 +1,78 @@
+[
+  {
+    "question_number": 97,
+    "question_text": "Which of the following is non-epithelial malignancy tumor?",
+    "options": {
+      "A": "Naevus",
+      "B": "Adenoma",
+      "C": "Lipoma",
+      "D": "Fibrosarcoma"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Fibrosarcoma is a malignant tumor of mesenchymal (non-epithelial) origin, whereas adenoma is epithelial and lipoma is benign.",
+    "category": "Pathology",
+    "source_exam": "gpat 2021"
+  },
+  {
+    "question_number": 109,
+    "question_text": "What is anaplasia?",
+    "options": {
+      "A": "Morphological and functional alterations/changes, that are different from normal cells",
+      "B": "Morphological and functional resemblance to normal cells",
+      "C": "Increase in size of cell",
+      "D": "Lack of growth of cells"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pathology",
+    "source_exam": "gpat-question-paper-2019"
+  },
+  {
+    "question_number": 115,
+    "question_text": "The term 'aneurysm' refers to:",
+    "options": {
+      "A": "Permanent blockage of blood vessels",
+      "B": "Permanent abnormal dilatation of blood vessel",
+      "C": "Abnormal connections in blood vessels",
+      "D": "Abnormal growth of neurones near blood vessels"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pathology",
+    "source_exam": "gpat-question-paper-2019"
+  },
+  {
+    "question_number": 119,
+    "question_text": "Several different chemicals released by microbes and inflamed tissues attract phagocytes, this phenomenon is called as ...........",
+    "options": {
+      "A": "Phagocytosis",
+      "B": "Integrins",
+      "C": "Chemotaxis",
+      "D": "Emigration"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pathology",
+    "source_exam": "gpat-question-paper-2019"
+  },
+  {
+    "question_number": 120,
+    "question_text": "Hematocrit 65% to 70% indicates:",
+    "options": {
+      "A": "Hemophilia",
+      "B": "Polycythemia",
+      "C": "Hypoxia",
+      "D": "Anaemia"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pathology",
+    "source_exam": "gpat-question-paper-2019"
+  }
+]

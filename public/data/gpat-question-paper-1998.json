@@ -1,0 +1,816 @@
+{
+  "exam_title": "gpat-question-paper-1998",
+  "total_questions": 54,
+  "questions": [
+    {
+      "question_number": 11,
+      "question_text": "The opium alkaloids in Papaver somniferum is present as one of the following. Identify.",
+      "options": {
+        "A": "Free alkaloids",
+        "B": "As salts of citric acid",
+        "C": "As salt of meconic acid",
+        "D": "None of these"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Opium alkaloids naturally occur in the plant complexed as salts of meconic acid.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 12,
+      "question_text": "In expressing vitamin A activity one of the following is true. Identify.",
+      "options": {
+        "A": "One RE represents the biological activity in $1 \\mu g$ of all trans retinol",
+        "B": "One RE represents the biological activity of $30 \\text{ mg}$ of all trans retinol",
+        "C": "One RE represents the biological activity of $0.334 \\text{ } \\mu \\text{g}$ of all trans retinol",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "One retinol equivalent (RE) corresponds to $1 \\mu \\text{g}$ of all-trans-retinol.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Which of the antineoplastic agent is metabolised by xanthine oxidase?",
+      "options": {
+        "A": "6-Mercaptopurine",
+        "B": "Vincristine",
+        "C": "Chlorambucil",
+        "D": "6-Thioguanine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mercaptopurine is inactivated by xanthine oxidase, which is why allopurinol interacts with it.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 15,
+      "question_text": "The energy of a photon is given by the relationship $E = h\\nu$, where",
+      "options": {
+        "A": "$E$ is energy of photon in kilo-calories",
+        "B": "$E$ is energy of photon in cycles/sec",
+        "C": "$E$ is the energy of photon in joules",
+        "D": "$E$ is the energy of photon in ergs"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In standard SI units for Planck's relation, energy $E$ is measured in joules.",
+      "category": "General"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Gas chromatographic technique can be used for",
+      "options": {
+        "A": "Qualitative analysis only",
+        "B": "Quantitative analysis only",
+        "C": "Both",
+        "D": "None of these"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gas chromatography is widely used for both qualitative identification (via retention time) and quantitative determination.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Reference compound widely used in NMR spectroscopy for proton spectra in non-aqueous medium is:",
+      "options": {
+        "A": "Silane",
+        "B": "Tetramethyl Silane",
+        "C": "Dpph",
+        "D": "Peroxylamide Di Sulphonate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tetramethylsilane (TMS) is the universal reference standard for $^1\\text{H}$ NMR in non-aqueous organic solvents.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Liposomes are",
+      "options": {
+        "A": "Uni or multilayered vesicles of phospholipids",
+        "B": "Type of enzymes",
+        "C": "Fibrinopeptides",
+        "D": "Red blood cells"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Liposomes consist of phospholipid bilayers forming spherical vesicles.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 19,
+      "question_text": "The gonadal hormones like Estrogens, Androgens and Progestins bind with",
+      "options": {
+        "A": "Receptors located in the cytoplasm",
+        "B": "Receptors located in the nucleus of the cell",
+        "C": "Receptors located in the contractile vacuoles",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Steroid hormone receptors primarily function as nuclear receptors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 110,
+      "question_text": "A highly sensitive semi quantitative method of detecting microbial antigens in biological fluid is:",
+      "options": {
+        "A": "Counter immune electrophoresis",
+        "B": "Nitroblue tetrazolium dye assay",
+        "C": "The Coomb's test",
+        "D": "Radio-immune electrophoresis"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Counterimmunoelectrophoresis is commonly employed for rapid detection of microbial antigens.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 111,
+      "question_text": "Polyene antibiotics such as Amphotericin - B are most likely to",
+      "options": {
+        "A": "Inhibit bacterial DNA synthesis",
+        "B": "Bind to prokaryotic ribosomes",
+        "C": "Act as antimetabolites",
+        "D": "React with sterols in the membrane"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amphotericin B binds to ergosterol in fungal cell membranes, creating pores that lead to cell death.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 112,
+      "question_text": "Among the following statements one of them is most appropriate for $\\gamma$ - Interferon. Identify.",
+      "options": {
+        "A": "They are virus specific substances and not host specific, naturally occurring glycol-proteins.",
+        "B": "They are not virus specific substances, however, they are naturally occurring glycol-proteins.",
+        "C": "They are not virus specific substances, however they are not host specific either. They are naturally occurring glycol-proteins.",
+        "D": "They are virus specific and host specific naturally occurring glycoproteins."
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Interferons are host-specific, non-virus-specific glycoproteins with antiviral and immunomodulatory activities.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 113,
+      "question_text": "The tear secretion contains an antibacterial enzyme known as",
+      "options": {
+        "A": "Zymase",
+        "B": "Diastase",
+        "C": "Lysozyme",
+        "D": "Lipase"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lysozyme is an antimicrobial enzyme found in tears and other bodily secretions.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 114,
+      "question_text": "A list of ACE inhibition is given below. One of them is not a Prodrug. Identify.",
+      "options": {
+        "A": "Benzepril",
+        "B": "Captopril",
+        "C": "Quinapril",
+        "D": "Ramipril"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Captopril is an active drug and does not require ester hydrolysis unlike most other ACE inhibitors.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 115,
+      "question_text": "Which one of the following is not a pharmacological effect of MORPHINE?",
+      "options": {
+        "A": "Constriction of the pupil",
+        "B": "C.N.S. depression",
+        "C": "Diarrhoea",
+        "D": "Respiratory"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Morphine causes constipation, not diarrhoea, due to decreased gastrointestinal motility.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 116,
+      "question_text": "Half life equation for First order reaction is:",
+      "options": {
+        "A": "$\\frac{t}{2} = \\frac{a}{2K}$",
+        "B": "$\\frac{t}{2} = \\frac{0.693}{K}$",
+        "C": "$\\frac{t}{2} = \\frac{1}{aK}$",
+        "D": "$\\frac{t}{2} = \\frac{3}{2 a^2 K}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The half-life for a first-order reaction is independent of initial concentration and equals $0.693/K$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 117,
+      "question_text": "Which one of the following is true for alkaloidal bases?",
+      "options": {
+        "A": "Water solubility and organic solvent insolubility.",
+        "B": "Water insolubility and organic solvent insolubility.",
+        "C": "Water solubility and organic solvent solubility",
+        "D": "Water insolubility and organic solvent solubility"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Free alkaloidal bases are typically insoluble in water but soluble in organic solvents.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 118,
+      "question_text": "The conductivity of the solution of an electrolysis is:",
+      "options": {
+        "A": "Non temperature dependent",
+        "B": "Temperature dependent",
+        "C": "Pressure dependent",
+        "D": "None of these"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Electrolytic conductivity varies significantly with temperature due to changes in ion mobility and viscosity.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 119,
+      "question_text": "One of the materials listed below is most commonly used in film coating of tablets. Identify.",
+      "options": {
+        "A": "Hydroxypropyl Methyl Cellulose",
+        "B": "Acacia",
+        "C": "Simple Syrup",
+        "D": "Bees Wax"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HPMC is the industry standard polymer used for pharmaceutical film coating.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 120,
+      "question_text": "Lamination is:",
+      "options": {
+        "A": "Separation of a tablet into two or more distinct layers",
+        "B": "Partial and complete separation of the top and bottom crowns from the main body of the tablet",
+        "C": "Process of sub-coating of tablets",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lamination refers to the separation of a tablet into two or more distinct horizontal layers.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 121,
+      "question_text": "Among the four OPIOIDS given below one of them is equipotent on $\\mu$, $\\delta$, $k_1$ and $k_3$ receptor types. Identify.",
+      "options": {
+        "A": "Fentanyl",
+        "B": "Methadone",
+        "C": "Morphine",
+        "D": "Etorphine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Morphine acts across various opioid receptor subtypes.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 122,
+      "question_text": "An amperometric titrations which one of the following is kept constant?",
+      "options": {
+        "A": "Current",
+        "B": "Resistance",
+        "C": "Voltage Applied",
+        "D": "Conductance"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In amperometry, a constant potential is applied to the indicator electrode while measuring current.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 123,
+      "question_text": "Disposable syringes are made up of",
+      "options": {
+        "A": "Polypropylene",
+        "B": "Transparent Polystyrene",
+        "C": "Glass",
+        "D": "Poly Tetra Chloro Ethylene"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Polypropylene is widely used for manufacturing medical-grade disposable syringes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 124,
+      "question_text": "Typhoid vaccine IP is a sterile suspension or a freeze dried solid prepared from",
+      "options": {
+        "A": "Salmonella Typhi Murium",
+        "B": "Salmonella Para Typhi",
+        "C": "Salmonella Typhi",
+        "D": "Salmonella Enteritidis"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Typhoid vaccines are prepared from killed or attenuated Salmonella typhi.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 125,
+      "question_text": "In the microbiological assay of bacitracin \\ce{IP} the test organism used is",
+      "options": {
+        "A": "Staphylococcus Aureus",
+        "B": "Sataphylococcus Epidermidis",
+        "C": "Micrococcus Luteus",
+        "D": "Bacillus Pumilus"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Micrococcus luteus is typically used as the test organism for bacitracin microbiological assays.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 126,
+      "question_text": "In the general formula \\ce{R-X-C-C-N}: $X = \\text{Nitrogen}$, or $\\text{Carbon}$, $R = \\text{Different groups}$. This formula represents",
+      "options": {
+        "A": "Antitussive",
+        "B": "Antipyretics",
+        "C": "Analgesics",
+        "D": "Antihistamines"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ethanolamine-type antihistamines follow this core aminoalkyl ether/amine structural framework.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 127,
+      "question_text": "The biological source of cinnamon bark is:",
+      "options": {
+        "A": "Dried inner bark of the shoot of coppiced trees of Cinnamomum zeylanicum Family - Lauraceae",
+        "B": "Dried inner bark of the shoot of coppiced trees of Cinnamomum indicum Family - Lauraceae",
+        "C": "Dried wood bark of Cinnamomum Camphora Family - Lauraceae",
+        "D": "Dried inner bark of the shoot of coppiced trees of Cinnamomum loureirii Family - Lauraceae"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cinnamon consists of the dried inner bark of the shoots of coppiced trees of Cinnamomum zeylanicum.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 128,
+      "question_text": "Identify the correct geneva name for CORTISONE.",
+      "options": {
+        "A": "4 - Pregnene $17\\alpha$, 21 - diol - 3, 11, 20 - trione",
+        "B": "3 - Pregnene $17\\alpha$, 21 - diol - 3, 11, 20 - trione",
+        "C": "4 - Pregnene $11\\beta$, $17\\alpha$, 21triol - 3, 11, 20 - dione",
+        "D": "4 - Pregnene $12\\beta$, $17\\alpha$, 21 - triol - 3, 20 - dione"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cortisone IUPAC nomenclature defines it as a pregnene derivative with keto groups at C3, C11, and C20 and hydroxyls at C17 and C21.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 129,
+      "question_text": "Identify one of the carbonic anhydrase inhibitor that inhibit only luminal carbonic anhydrase enzyme?",
+      "options": {
+        "A": "Methazolamide",
+        "B": "Acetazolamide",
+        "C": "Dichlorphenamide",
+        "D": "Benzolamide"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benzolamide is a positively charged carbonic anhydrase inhibitor targeted to luminal/extracellular enzymes.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 130,
+      "question_text": "Testosterone is rapidly converted to one of the following metabolic products in many tissues, which is the active androgen?",
+      "options": {
+        "A": "$5\\beta$-Dihydro Testosterone",
+        "B": "5-OH-Testosterone",
+        "C": "$5\\alpha$-Dihydro Testosterone",
+        "D": "$5\\alpha$, $6\\beta$-OH-Testosterone"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Testosterone is converted by 5-alpha-reductase into $5\\alpha$-dihydrotestosterone (DHT), the more potent active androgen.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 131,
+      "question_text": "One of the following drugs is an alkylating agent. Identify.",
+      "options": {
+        "A": "Cylophosphamide",
+        "B": "Methotrexate",
+        "C": "Allopurinol",
+        "D": "Rifampicin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cyclophosphamide is a nitrogen mustard alkylating antineoplastic agent.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 132,
+      "question_text": "Listed below are structures of sulphonamides. Which one of them is used as an anti-diabetic drug?",
+      "options": {
+        "A": "Identify structure: C1=CC(=CC=C1NS(=O)(=O)C2=CC=C(C=C2)N)NC3=NC=CS3",
+        "B": "Identify structure: C1=CC(=CC=C1NS(=O)(=O)C2=CC=C(C=C2)N)NC3=NC=C(N=C3)OC",
+        "C": "Identify structure: CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NHCCC",
+        "D": "Identify structure: CC1=CC(=O)N(C1)C2=CC(=C(C=C2)Cl)S(=O)(=O)N"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfonylurea structures like tolbutamide derivatives contain the characteristic sulfonylurea bridge used for anti-diabetic activity.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 133,
+      "question_text": "Four sets of intermediates are listed below. Choose the correct set for the synthesis of BUPIVACAINE IP.",
+      "options": {
+        "A": "$\\alpha$-Picolinic Acid Chloride with 2, 6-Diethyl Aniline.",
+        "B": "$\\beta$-Picolinic Acid Chloride with 2, 6-Diethyl Aniline.",
+        "C": "$\\alpha$-Picolinic Acid Chloride with Aniline Hydrochloride.",
+        "D": "$\\alpha$-Picolinic Acid Chloride with 2, 6-Di Methyl Aniline."
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bupivacaine is synthesized from pipecolic acid chloride (or $\\alpha$-picolinic acid derivative) and 2,6-diethylaniline.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 134,
+      "question_text": "Among the immunizing agents listed below one of them is orally administered. Identify.",
+      "options": {
+        "A": "Tetanus Toxoid",
+        "B": "Rabies Vaccine",
+        "C": "Poliomyestis Vaccine",
+        "D": "Mumps Virus Vaccine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sabin polio vaccine (OPV) is administered orally.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 135,
+      "question_text": "In vitro dissolution rate studies on drug product are useful in bioavailability evaluations if they are correlated with",
+      "options": {
+        "A": "Disintegration rate",
+        "B": "In-vivo studies in at least thee species of animals",
+        "C": "The chemical stability of the drug",
+        "D": "In-vivo studies in human"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In vitro dissolution must be correlated with in vivo human bioavailability data (IVIVC).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 21,
+      "question_text": "The mechanism of action of antiviral drugs is given. Match with closely associated drugs given in (A) to (D). (1) Inhibit an early step in viral replication viral uni-coating (2) Irreversible inactivation of DNA Polymerase",
+      "options": {
+        "A": "1-A, 2-C",
+        "B": "1-B, 2-C",
+        "C": "1-A, 2-D",
+        "D": "1-B, 2-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amantadine inhibits viral uncoating (1-A) and Acyclovir targets DNA polymerase (2-D).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Given below are the etiologic agents. Match with common name of the infection listed in (A) to (D): (1) Enterobius vermicularis (2) Taenia saginata",
+      "options": {
+        "A": "1-C, 2-A",
+        "B": "1-B, 2-C",
+        "C": "1-A, 2-D",
+        "D": "1-B, 2-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Enterobius vermicularis causes pinworm (1-B) and Taenia saginata is a tapeworm (2-A/C).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 23,
+      "question_text": "The substance mentioned below elicit the therapeutic effect given in (A) to (D): (1) Hepatitis B. Immuno globulin antibodies (2) Tetanus Toxoid",
+      "options": {
+        "A": "1-A, 2-C",
+        "B": "1-C, 2-A",
+        "C": "1-A, 2-D",
+        "D": "1-B, 2-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hepatitis B immune globulin provides passive transfer of antibodies (1-C), while tetanus toxoid induces active immunity (2-A).",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 24,
+      "question_text": "The following glycosides of Digitalis Purpurea give on hydrolysis the genius and sugars listed in (A) to (D). Match them. (1) Purpurea Glycoside-A (2) Purpurea Glycoside-B",
+      "options": {
+        "A": "1-A, 2-C",
+        "B": "1-B, 2-C",
+        "C": "1-A, 2-D",
+        "D": "1-B, 2-D"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glycoside A and B hydrolysis products correspond to specific cardenolide aglycones coupled with glucose and digitoxose units.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Listed are some important antibiotics (A) to (D). match them. (1) Bacitracin (2) Erythromycin",
+      "options": {
+        "A": "1-A, 2-C",
+        "B": "1-B, 2-C",
+        "C": "1-A, 2-D",
+        "D": "1-B, 2-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bacitracin is a peptide antibiotic from amino acids, whereas erythromycin is a macrolide built from propionate units.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 26,
+      "question_text": "The substitution of R in \\ce{R-CO-NH-CH-CH} is listed in A to D for the following antibiotics. Match Them: (1) CLOXACILLIN (2) CARBENICILLIN",
+      "options": {
+        "A": "1-A, 2-B",
+        "B": "1-B, 2-C",
+        "C": "1-A, 2-C",
+        "D": "1-C, 2-A"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cloxacillin corresponds to the isoxazolyl penicillin structure (A), and carbenicillin contains the phenyl-malonic acid side chain (B).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Some of the vitamins listed below are associated with co-enzyme given in (A) to (D). Match them. (1) Nicotinic Acid (2) Riboflavin",
+      "options": {
+        "A": "Coenzyme A",
+        "B": "Coenzyme I",
+        "C": "TPP",
+        "D": "FAD"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nicotinic acid forms Coenzyme I (NAD+) and Riboflavin forms FAD.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Listed are some tablets additives. Match them with their correct use given in (A) to (D). (1) Acacia (2) Lactose",
+      "options": {
+        "A": "Binder",
+        "B": "Glidant",
+        "C": "Diluent",
+        "D": "Lubricant"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Acacia is commonly used as a tablet binder, and lactose is widely used as a diluent.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 29,
+      "question_text": "The compounds listed are assayed by method given (A) to (D). Match them. (1) Pyridoxine Hydrochloride I.P (2) Ranitidine Hydrochloride",
+      "options": {
+        "A": "Colorimetry",
+        "B": "HPLC",
+        "C": "Flourimetry",
+        "D": "Non aqueous titration"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyridoxine hydrochloride and many basic amine hydrochlorides are commonly assayed by non-aqueous titration.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "The following techniques are associated with the support materials used in the column which are given in (A) to (D). Match them. (1) Size exclusion chromatography (2) H P L C",
+      "options": {
+        "A": "Octadecyl silane chemically bounded to Porous silica",
+        "B": "Cellulose acetate",
+        "C": "Diatomaceous support",
+        "D": "Agarose F.C."
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": true,
+      "explanation": "HPLC typically uses octadecyl silane (ODS) bonded to porous silica (C18 columns).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "For the following potentiometric titrations indicator electrode used is given from (A) to (D). Match them. (1) Acid base (2) Complexometry",
+      "options": {
+        "A": "Silver electrode",
+        "B": "Glass electrode",
+        "C": "Platinum electrode",
+        "D": "Mercury-Mercury electrode"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glass electrode is the primary indicator electrode for acid-base potentiometric titrations.",
+      "category": "General"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Following ring systems are present in the alkaloids listed (A) to (D). Match them. (1) Imidazole (2) Isoquinoline",
+      "options": {
+        "A": "Pelleteine",
+        "B": "Nicotine",
+        "C": "Papaverine",
+        "D": "Pilocarpine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pilocarpine contains an imidazole ring, and Papaverine contains an isoquinoline ring system.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Following constituents are present in drugs listed in (A) to (D). Match them. (1) D-Linalool (2) Panaxadiol",
+      "options": {
+        "A": "Opium",
+        "B": "Coriandrum sativum",
+        "C": "Ginseng",
+        "D": "Brahmi"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "D-Linalool is a major constituent of Coriandrum sativum, and Panaxadiol is found in Ginseng.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Systematic name of the following biologically important purines are given in (A) to (D). Match them correctly. (1) Adenine (2) Guanine",
+      "options": {
+        "A": "2-amino-6-oxy purine",
+        "B": "6-amino purine",
+        "C": "1, 3, 7-dimethyl 6-hydroxy purine",
+        "D": "6-hydroxy purine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Adenine is systematically 6-aminopurine, and guanine is 2-amino-6-oxypurine.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 15,
+      "question_text": "The drugs mentioned below are synthesized from intermediates listed in (A) to (D). Match them. (1) Meprobamate (2) Diazepam",
+      "options": {
+        "A": "2-chloro-5-amino benzophenone and glycine",
+        "B": "2-amino-5-chloro-benzophenone and ethyl glycinate",
+        "C": "2-ethyl benzaldehyde and formaldehyde",
+        "D": "2-methyl valeraldehyde and formaldehyde"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diazepam is synthesized from 2-amino-5-chlorobenzophenone and ethyl glycinate.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Some of the drugs listed below from (A) to (D) are having specific mechanism of action. Match them. (1) Interferes with the renin-angiotensin system (2) Directly relaxes arteriolar smooth muscles and thus decreases peripheral resistance",
+      "options": {
+        "A": "Hydralazine",
+        "B": "Methyl Dopa",
+        "C": "Enalapril",
+        "D": "Clonidine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Enalapril is an ACE inhibitor that interferes with the renin-angiotensin system, while hydralazine directly relaxes arteriolar smooth muscle.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Given below from (A) to (D) are application forms for the specific purpose listed as per (D) and (C) Act. Match them. (1) Manufacture of cosmetics (2) Retail sale of schedule C and C1 drugs",
+      "options": {
+        "A": "Form No. 31",
+        "B": "Form NO. 20 C",
+        "C": "Form No. 20",
+        "D": "Form No. 21"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 31 is typically associated with cosmetics manufacture and Form 20C/21 for specific sales under drug regulations.",
+      "category": "General"
+    },
+    {
+      "question_number": 18,
+      "question_text": "For many drugs in the I.P. exact solubility limits are not listed. Instead, descriptive terminology is employed. Match the numbered solubility limits with the correct lettered solubility expression (gm/ml). (1) Very soluble (2) Sparingly soluble",
+      "options": {
+        "A": "Less than 1",
+        "B": "From 1 to 10",
+        "C": "From 30 to 100",
+        "D": "From 100 to 1000"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Very soluble corresponds to less than 1 part solvent per part solute, and sparingly soluble is from 30 to 100 parts.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 19,
+      "question_text": "It is often desirable to formulate a dosage form so that its pH is approximately equivalent to that of the area of which it is administered. Match them. (1) Blood (2) Skin",
+      "options": {
+        "A": "pH 7.4",
+        "B": "pH 6.4",
+        "C": "pH 5.5",
+        "D": "pH 6.8"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Normal blood pH is approximately 7.4, and the skin surface pH is typically acidic around 5.5.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 20,
+      "question_text": "The following microscopical characteristic is associated with the drugs mentioned in (A) to (D). Match them. (1) Rubiaceous type of stomata (Paracytic) (2) Ranunculaceous type of stomata",
+      "options": {
+        "A": "Atropa belladonna leaves",
+        "B": "Cassia acutifolia leaves",
+        "C": "Cassia auriculata leaves",
+        "D": "Digitalis purpurea leaves"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rubiaceous stomata are found in drugs like Ipecac or certain leaves, while ranunculaceous (anomocytic) stomata are characteristic of digitalis and other dicot leaves.",
+      "category": "Pharmacognosy"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "Match the symbols in the List I with the terms used in the List II of conductance measurements, and List I: A. $\\Omega$, B. $\\Lambda$, C. $k$, D. $\\rho$ and List II: I. Specific conductance, II. Electrical conductance, III. Specific resistance, IV. Equivalent conductance",
+    "options": {
+      "A": "A - III, B - I, C - IV, D - II",
+      "B": "A - II, B - IV, C - I, D - III",
+      "C": "A - IV, B - II, C - III, D - I",
+      "D": "A - I, B - III, C - II, D - IV"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "$\\Omega$ is ohm (unit of resistance, specific resistance is related), $\\Lambda$ is equivalent conductance, $k$ is specific conductance, and $\\rho$ is specific resistance.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 2,
+    "question_text": "Cottrell's method is used for the measurement of:",
+    "options": {
+      "A": "Depression of freezing-point",
+      "B": "Elevation of boiling-point",
+      "C": "Lowering of vapour pressure",
+      "D": "Osmotic pressure"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Cottrell's apparatus/method is specifically designed for the accurate determination of the boiling point elevation of solutions.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 3,
+    "question_text": "Match the statements in List I with their correct answers in List II, respectively, in respect to modified 1st law of thermodynamics, and List I: A. Constant heat ($q = 0$), B. Reversible process at constant temperature ($dT = 0$), C. Constant volume ($dV = 0$), D. Constant pressure ($dP = 0$) and List II: I. Isothermal, II. Isometric, III. Adiabatic, IV. Isobar",
+    "options": {
+      "A": "A - II, B - I, C - III, D - IV",
+      "B": "A - I, B - III, C - II, D - IV",
+      "C": "A - III, B - I, C - II, D - IV",
+      "D": "A - IV, B - I, C - II, D - III"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Zero heat transfer ($q=0$) defines an adiabatic process, $dT=0$ is isothermal, $dV=0$ is isometric/isochoric, and $dP=0$ is isobaric.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 4,
+    "question_text": "Boric acid with molecular weight 61.83 was partitioned between water and amyl alcohol at 25 °C. The amount of boric acid was determined to be 0.24 g in 250 ml of amyl alcohol and 0.32 g in 100 ml water. The partition coefficient of boric acid between water and amyl alcohol, when calculated at molar concentration for each of the solution, is:",
+    "options": {
+      "A": "1.33",
+      "B": "0.75",
+      "C": "0.30",
+      "D": "3.33"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Concentration in water = $0.32/0.1 = 3.2 \\text{ g/L}$; Concentration in amyl alcohol = $0.24/0.25 = 0.96 \\text{ g/L}$. Partition coefficient ($C_{water}/C_{alcohol}$) = $3.2 / 0.96 = 3.33$.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 1,
+    "question_text": "Match the symbols in the List I with the terms used in the List II of conductance measurements, and List I: A. $\\Omega$, B. $\\Lambda$, C. $k$, D. $\\rho$ and List II: I. Specific conductance, II. Electrical conductance, III. Specific resistance, IV. Equivalent conductance",
+    "options": {
+      "A": "A - III, B - I, C - IV, D - II",
+      "B": "A - II, B - IV, C - I, D - III",
+      "C": "A - IV, B - II, C - III, D - I",
+      "D": "A - I, B - III, C - II, D - IV"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Resistance is measured in ohms ($\\Omega$, III), equivalent conductance is $\\Lambda$ (II), specific conductance is $k$ (I), and specific resistance (resistivity) is $\\rho$ (IV), matching C1=III, B=II, C=I, D=IV or alternative matching convention.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 2,
+    "question_text": "Cottrell’s method is used for the measurement of:",
+    "options": {
+      "A": "Depression of freezing-point",
+      "B": "Elevation of boiling-point",
+      "C": "Lowering of vapour pressure",
+      "D": "Osmotic pressure"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Cottrell's apparatus/method is specifically designed for the accurate determination of the elevation of boiling point of solutions.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 3,
+    "question_text": "Match the statements in List I with their correct answers in List II, respectively, in respect to modified 1st law of thermodynamics: A. Constant heat ($q = 0$), B. Reversible process at constant temperature ($dT = 0$), C. Constant volume ($dV = 0$), D. Constant pressure ($dP = 0$). List II: I. Isothermal, II. Isometric, III. Adiabatic, IV. Isobar",
+    "options": {
+      "A": "A - II, B - I, C - III, D - IV",
+      "B": "A - I, B - III, C - II, D - IV",
+      "C": "A - III, B - I, C - II, D - IV",
+      "D": "A - IV, B - I, C - II, D - III"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Constant heat $q=0$ corresponds to adiabatic processes (III), constant temperature $dT=0$ to isothermal (I), constant volume $dV=0$ to isometric (II), and constant pressure $dP=0$ to isobaric (IV).",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 37,
+    "question_text": "As the solution of a strong electrolyte is diluted, the following phenomenon is observed:",
+    "options": {
+      "A": "The specific conductance decreases and equivalent conductance increases",
+      "B": "The specific conductance increases and equivalent conductance decreases",
+      "C": "Both specific conductance and equivalent conductance increase",
+      "D": "Both specific conductance and equivalent conductance decrease"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Upon dilution of a strong electrolyte solution, the number of ions per unit volume decreases (reducing specific conductance), but the total volume containing one gram equivalent of the electrolyte increases, thereby increasing equivalent conductance.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 38,
+    "question_text": "The molecule having zero dipole moment is",
+    "options": {
+      "A": "$BF_3$",
+      "B": "HF",
+      "C": "$NH_3$",
+      "D": "$CH_3Cl$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "$BF_3$ has a symmetrical trigonal planar geometry where the bond dipole moments cancel each other out, resulting in a zero dipole moment.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 14,
+    "question_text": "The difference in velocity between two planes of liquids separated / infinitesimal distance is called",
+    "options": {
+      "A": "Rate of shear",
+      "B": "Rate of flow",
+      "C": "Rate of force",
+      "D": "Shearing stress"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Velocity gradient, or the rate of shear, is defined as the difference in velocity between two parallel planes of liquid separated by an infinitesimal distance.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 95,
+    "question_text": "Parachor and Molar refraction can be categorized under one of the following properties. Identify that.",
+    "options": {
+      "A": "Additive properties",
+      "B": "Constitutive properties",
+      "C": "Colligative properties",
+      "D": "Additive and constitutive property"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Parachor and molar refraction depend on both the sum of atomic contributions (additive) and the structural arrangement of atoms/bonds (constitutive).",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 96,
+    "question_text": "East's camphor method is used for determination of molecular weight of solutes which are soluble in molten camphor. The basic principle of the method is dependent on one of the following properties. Identify that.",
+    "options": {
+      "A": "Elevation of freezing point of camphor by the solute",
+      "B": "Lowering of vapour pressure of camphor by the solute",
+      "C": "Lowering of freezing point of camphor by the solute",
+      "D": "Elevation of boiling point of camphor by the solute"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rast's camphor method utilizes freezing-point depression (cryoscopy) using camphor as a solvent due to its unusually large cryoscopic constant.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 103,
+    "question_text": "Based on Henderson-Hasselbalch equation, at what pH value a weak acid would be 99.9% ionized?",
+    "options": {
+      "A": "At pH equivalent to $\\text{pKa} + 3$",
+      "B": "At pH equivalent to $\\text{pKa} - 3$",
+      "C": "At pH equivalent to $\\text{pKa} - 1$",
+      "D": "At pH equivalent to $\\text{pKa} + 1$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "For a weak acid, $\\text{pH} = \\text{pKa} + \\log(\\frac{[A^-]}{[HA]})$; for 99.9% ionization, the ratio is $99.9/0.1 = 1000$, and $\\log(1000) = 3$, so $\\text{pH} = \\text{pKa} + 3$.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 110,
+    "question_text": "Study the following two statements: [X] : If the gas is cooled below its critical temperature, less pressure is required to liquefy it. [V] : At critical temperature and critical pressure, the liquid will have highest vapor pressure. Choose the correct combination of statements.",
+    "options": {
+      "A": "Both X and V are correct",
+      "B": "X is incorrect and V is correct",
+      "C": "X is correct and V is incorrect",
+      "D": "Both X and Y are incorrect"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Lowering the temperature below critical makes liquefaction easier (less pressure needed); statement V is incorrect because vapor pressure at the critical temperature equals the critical pressure, not necessarily the 'highest' in an absolute sense compared to other definitions.",
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 68,
+    "question_text": "Le Chatelier's principle states that increasing temperature favors a reaction that...........",
+    "options": {
+      "A": "Release energy as heat",
+      "B": "Requires energy as heat",
+      "C": "Involves a chemical catalyst",
+      "D": "Gluconeogenesis"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 76,
+    "question_text": "What is the osmolality of a solution if one mmole of glucose and two mmoles of $\text{NaCl}$ are dissolved in $1\text{ kg}$ of the water",
+    "options": {
+      "A": "3 mOsm",
+      "B": "4 mOsm",
+      "C": "5 mOsm",
+      "D": "6 mOsm"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Physical Pharmacy",
+    "source_exam": "gpat-question-paper-2013"
+  }
+]

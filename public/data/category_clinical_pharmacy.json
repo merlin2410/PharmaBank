@@ -1,0 +1,4373 @@
+[
+  {
+    "question_number": 45,
+    "question_text": "“Desired income from drugs/cost of prescription drugs $\\times 100$ = percent above cost to be charged for prescription”: Name the above charging policy adopted in pricing of drugs in a hospital :",
+    "options": {
+      "A": "Break-even point pricing",
+      "B": "Cost-plus rate system",
+      "C": "Part inclusive rate system",
+      "D": "Per diem drug charge system"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "This formula defines the cost-plus pricing method where a markup percentage is added to the cost of the drugs.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Analyst gr 3 (drugs control) 016-2025-A"
+  },
+  {
+    "question_number": 46,
+    "question_text": "National programme for the control of blindness was introduced in which year?",
+    "options": {
+      "A": "1976",
+      "B": "1971",
+      "C": "1963",
+      "D": "1989"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The National Programme for Control of Blindness (NPCB) was launched in India in 1976.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Analyst gr 3 (drugs control) 016-2025-A"
+  },
+  {
+    "question_number": 47,
+    "question_text": "Which national programme was introduced to achieve 100% vaccination coverage nation wide?",
+    "options": {
+      "A": "Swachh Bharat",
+      "B": "Poshan Abhiyan",
+      "C": "Mother’s Absolute Affection (MAA)",
+      "D": "Indradhanush"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Mission Indradhanush was launched by the Ministry of Health and Family Welfare to achieve full immunization coverage for all children.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Analyst gr 3 (drugs control) 016-2025-A"
+  },
+  {
+    "question_number": 48,
+    "question_text": "The average duration of the time between the placing of an order and the receipt of the item is known as :",
+    "options": {
+      "A": "Reorder level",
+      "B": "Buffer stock",
+      "C": "Lead time",
+      "D": "Zero level"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Lead time is the latency between the initiation and completion of a process, specifically ordering and receiving stock.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Analyst gr 3 (drugs control) 016-2025-A"
+  },
+  {
+    "question_number": 49,
+    "question_text": "Dipstick test is used to detect :",
+    "options": {
+      "A": "Malaria",
+      "B": "Pneumonia",
+      "C": "Nipah",
+      "D": "Cancer"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rapid diagnostic tests using dipsticks are commonly employed for rapid detection of malaria parasites.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Analyst gr 3 (drugs control) 016-2025-A"
+  },
+  {
+    "question_number": 50,
+    "question_text": "Abbreviate ICH :",
+    "options": {
+      "A": "Indian Council for Harmonisation",
+      "B": "International Council for Harmonisation",
+      "C": "International Council for Homeopathy",
+      "D": "Indian Council for Human Rights"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "ICH stands for the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Analyst gr 3 (drugs control) 016-2025-A"
+  },
+  {
+    "question_number": 62,
+    "question_text": "Example of ingestant allergen :",
+    "options": {
+      "A": "Penicillin",
+      "B": "Wheat",
+      "C": "Liver extract",
+      "D": "Asparagus"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Ingestant allergens are food or food products taken orally, such as wheat.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Analyst gr 3 (drugs control) 016-2025-A"
+  },
+  {
+    "question_number": 93,
+    "question_text": "Loo-Riegelman method is useful for which of the following?",
+    "options": {
+      "A": "One compartment model",
+      "B": "Multi compartment model",
+      "C": "Mammillary model",
+      "D": "All of the above"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Loo-Riegelman method is a model-independent pharmacokinetic method used to calculate drug absorption kinetics in multi-compartment pharmacokinetic models.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Analyst gr 3 (drugs control) 016-2025-A"
+  },
+  {
+    "question_number": 8,
+    "question_text": "Mean Residence Time (MRT) represents which percentage of intravenous bolus dose to be eliminated ?",
+    "options": {
+      "A": "46.2",
+      "B": "63.2",
+      "C": "50",
+      "D": "73.2"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Mean Residence Time corresponds to the time required to eliminate 63.2% of the intravenous bolus dose.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 2015 116_15"
+  },
+  {
+    "question_number": 15,
+    "question_text": "In case of temporary or permanent renal failure, the removal of waste products and the maintenance of electrolyte balance, is done by",
+    "options": {
+      "A": "Haemodialysis",
+      "B": "Filtration",
+      "C": "Radiation",
+      "D": "Infusion"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Haemodialysis is the clinical process used to remove metabolic waste products and maintain electrolyte balance in renal failure.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 80,
+    "question_text": "Which application form (as per Drugs and Cosmetics Rules, 1945) is used to apply for a retail drug store license ?",
+    "options": {
+      "A": "19",
+      "B": "19A",
+      "C": "20",
+      "D": "21"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Form 20 is the application form for a license to sell, stock, or exhibit for sale drugs other than those specified in Schedule C, C(1) and X (retail drug store license).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 81,
+    "question_text": "Name the instrument used to fix surgical towels in place during surgery.",
+    "options": {
+      "A": "Horsley’s type clip",
+      "B": "Bobcock’s untoothed tissue forceps",
+      "C": "Gray’s type clip",
+      "D": "Haemostatic forceps"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Horsley's type clip and towel clips are commonly used to secure surgical drapes and towels.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 82,
+    "question_text": "Which is the health accessory used by the patient to promote proper body alignment ?",
+    "options": {
+      "A": "Canes",
+      "B": "Orthopaedic braces",
+      "C": "Rib belts",
+      "D": "Knee caps"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Orthopaedic braces are designed to support and align body parts correctly.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 83,
+    "question_text": "The first scientific Hospital Formulary in India was published in which year ?",
+    "options": {
+      "A": "1985",
+      "B": "2002",
+      "C": "1997",
+      "D": "1968"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The first hospital formulary in India was published in 1968 by the昌 All India Institute of Medical Sciences (AIIMS).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 87,
+    "question_text": "Which one is the computer based database used to predict Pharmacokinetic parameters in a hospital set up ?",
+    "options": {
+      "A": "NONLIN",
+      "B": "MEDIPHOR",
+      "C": "BIOSIS",
+      "D": "PAD"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "MEDIPHOR is a well-known computer-based monitoring system used in hospital pharmacy for drug data and pharmacokinetics.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 88,
+    "question_text": "What are the components present in the IV set, except ?",
+    "options": {
+      "A": "Plastic spike",
+      "B": "IV admixture",
+      "C": "Flow regulator",
+      "D": "Drip chamber"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "An IV set includes a plastic spike, drip chamber, and flow regulator, while the IV admixture is the fluid/drug mixture added to the system.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 89,
+    "question_text": "Dissertations are comes under which type of source of information ?",
+    "options": {
+      "A": "Tertiary source",
+      "B": "Secondary source",
+      "C": "Primary source",
+      "D": "None of the above"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Dissertations and theses contain original research data, classifying them as primary sources.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 90,
+    "question_text": "“Mobile dispensing unit” is mainly adopted to give medicines to patients comes under which type of drug distribution system ?",
+    "options": {
+      "A": "Complete floor stock system",
+      "B": "Unit dose dispensing system",
+      "C": "Individual prescription order system",
+      "D": "None of the above"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Mobile dispensing units are frequently utilized in unit dose drug distribution systems within hospitals.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 97,
+    "question_text": "As a Clinical Pharmacist, what drug would you recommend to relieve morning sickness in first trimester of pregnancy ?",
+    "options": {
+      "A": "Thalidomide",
+      "B": "Phenytoin",
+      "C": "Dicyclomine",
+      "D": "Pyridoxine"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Pyridoxine (Vitamin B6) is widely recommended and safe for treating nausea and vomiting in pregnancy.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 46,
+    "question_text": "The number of pharmacists required for a 100-bed hospital :",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "8"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "According to standard hospital pharmacy guidelines (like the Health Ministry recommendations in India), a 100-bed hospital typically requires around 8 pharmacists.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 47,
+    "question_text": "The Secretary of Pharmacy and therapeutics Committee is the :",
+    "options": {
+      "A": "Physician",
+      "B": "Chief Pharmacist",
+      "C": "Nursing Head",
+      "D": "Hospital Administrator"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The chief pharmacist usually serves as the secretary of the Pharmacy and Therapeutics (P&T) Committee.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 77,
+    "question_text": "Coca derivatives means any mixture of coca containing more than the following amount of cocaine?",
+    "options": {
+      "A": "0.2%",
+      "B": "0.5%",
+      "C": "0.02%",
+      "D": "0.10%"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Under the NDPS Act, coca derivatives include preparations containing more than 0.2% of cocaine.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 78,
+    "question_text": "The import of drugs for personal use contains average dose in mg up to?",
+    "options": {
+      "A": "10",
+      "B": "100",
+      "C": "50",
+      "D": "500"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Import of drugs for personal use is permitted up to 100 average doses under specific customs and drug rules.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 79,
+    "question_text": "All finished alcoholic preparations in a bonded laboratory should be stored in jars or bottles, each containing not less than?",
+    "options": {
+      "A": "1 Litre",
+      "B": "1.5 Litre",
+      "C": "2.25 Litre",
+      "D": "5 Litre"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Medicinal and Toilet Preparations Rules specify a minimum packaging size of 2.25 litres for certain bottled alcoholic preparations in bonded labs.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 80,
+    "question_text": "Manufacturer of cosmetics to conform to the latest Bureau of Indian Standards requirements is specified in :",
+    "options": {
+      "A": "Schedule-A",
+      "B": "Schedule-S",
+      "C": "Schedule-F",
+      "D": "Schedule-T"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Schedule S of the Drugs and Cosmetics Rules specifies standards for cosmetics manufacturing and quality compliance.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 81,
+    "question_text": "The application to import drugs as part of bonafide laggage is made to the licensing authority in :",
+    "options": {
+      "A": "Form 12A",
+      "B": "Form 12",
+      "C": "Form 12B",
+      "D": "Form 26"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Form 12A is used for applying to import small quantities of drugs for personal use / bonafide baggage.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 82,
+    "question_text": "The following points should be considered by a pharmacist while dealing with his profession except?",
+    "options": {
+      "A": "Professional vigilance",
+      "B": "Limitation of professional activity",
+      "C": "Relationship with professional organisation",
+      "D": "Law abiding citizens"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "While being a law-abiding citizen is a general civic duty, specific pharmacy ethics codes emphasize vigilance, limitations of practice, and organizational ties.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 83,
+    "question_text": "Narcotic drugs and psychotropic substances act was enacted in the year :",
+    "options": {
+      "A": "1895",
+      "B": "1857",
+      "C": "1985",
+      "D": "1980"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Narcotic Drugs and Psychotropic Substances (NDPS) Act was enacted in India in 1985.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 84,
+    "question_text": "The number of registered pharmacists nominated by respective state government in a state council is :",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "7",
+      "D": "8"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Under the Pharmacy Act, the State Pharmacy Council includes 5 members nominated by the State Government.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 85,
+    "question_text": "Whoever contravenes any of the provisions of the Drugs and Magic Remedies (objectionable advertisements) Act, 1954 is punishable up to the maximum imprisonment of :",
+    "options": {
+      "A": "One year",
+      "B": "Two years",
+      "C": "Five years",
+      "D": "Three years"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "First-time conviction under the Drugs and Magic Remedies Act carries imprisonment up to 6 months or 1 year depending on the offense clause (typically up to 1 year for first conviction).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 86,
+    "question_text": "Good manufacturing practices for ayurvedic, siddha and unani medicines is specified in :",
+    "options": {
+      "A": "Schedule-S",
+      "B": "Schedule-T",
+      "C": "Schedule-B",
+      "D": "Schedule-U"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Schedule T outlines the GMP requirements for Ayurvedic, Siddha, and Unani drugs.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 87,
+    "question_text": "As per the Drugs and Magic Remedies act-1954, which of the disease, disorder or condition cannot be claimed to be cured?",
+    "options": {
+      "A": "Goitre",
+      "B": "Gangrene",
+      "C": "Glaucoma",
+      "D": "All the above"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Goitre, gangrene, and glaucoma are all listed under diseases and conditions that cannot be advertised as curable under the Act.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 88,
+    "question_text": "Good laboratory practices and requirements of premises and equipments is specified in :",
+    "options": {
+      "A": "Schedule M",
+      "B": "Schedule N",
+      "C": "Schedule L-1",
+      "D": "Schedule M-1"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Schedule L-1 specifies good laboratory practices and requirements for premises and equipment for analytical testing labs.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 90,
+    "question_text": "The certificate of pharmaceutical product is issued in the format recommended by :",
+    "options": {
+      "A": "USFDA",
+      "B": "WHO",
+      "C": "CDSCO",
+      "D": "MHRA"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Certificate of a Pharmaceutical Product (COPP) follows the format established and recommended by the World Health Organization (WHO).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 91,
+    "question_text": "The rule for permission to import new drug under schedule Y is :",
+    "options": {
+      "A": "Rule 122A",
+      "B": "Rule 122B",
+      "C": "Rule 122DA",
+      "D": "Rule 122E"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rule 122A governs the permission to import new drugs into the country.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Drug Inspector 026_2024_a"
+  },
+  {
+    "question_number": 71,
+    "question_text": "Which technique is most used in clinical laboratories to analyze immuno assays?",
+    "options": {
+      "A": "Refractometry",
+      "B": "Nephelometry",
+      "C": "Polarimetry",
+      "D": "Potentiometry"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Nephelometry is widely used in clinical assays to measure antigen-antibody complex formation by detecting scattered light.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Laboratory Assistant 027_2023_a"
+  },
+  {
+    "question_number": 84,
+    "question_text": "The act which regulates the transportation of hazardous waste is :",
+    "options": {
+      "A": "NEPA",
+      "B": "NIPA",
+      "C": "RCRA",
+      "D": "NCL"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Resource Conservation and Recovery Act (RCRA) governs the generation, transportation, treatment, storage, and disposal of hazardous waste.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Laboratory Assistant 027_2023_a"
+  },
+  {
+    "question_number": 86,
+    "question_text": "The most common cause of blue baby syndrome is :",
+    "options": {
+      "A": "Excess Chloride in drinking water",
+      "B": "Nitrate contaminated drinking water",
+      "C": "Presence of Arsenic in drinking water",
+      "D": "Sulphate contaminated packed food"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Blue baby syndrome (methemoglobinemia) is primarily caused by high nitrate levels in drinking water that convert hemoglobin to methemoglobin.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Laboratory Assistant 027_2023_a"
+  },
+  {
+    "question_number": 89,
+    "question_text": "The act/rule that protest the right of workers in contingencies such as sick, maternity, temporary or permanent physical disability and death due to employment injury is :",
+    "options": {
+      "A": "The Employee’s State Insurance Act 1971",
+      "B": "The Workers Compensation Act 1951",
+      "C": "The Personal Safety Act 1948",
+      "D": "The Employee’s State Insurance Act 1948"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Employees' State Insurance (ESI) Act, 1948 provides socio-economic protection to workers for sickness, maternity, and employment injury.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Laboratory Assistant 027_2023_a"
+  },
+  {
+    "question_number": 54,
+    "question_text": "Drugs or biological products which are used for the diagnosis or treatment of rare diseases are called as :",
+    "options": {
+      "A": "Rare drugs",
+      "B": "Pro drugs",
+      "C": "Orphan drugs",
+      "D": "Hit and run drugs"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Products intended for treating rare diseases are officially designated as orphan drugs.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 85,
+    "question_text": "Systematic review of randomized control trials is an example of –––––––––– source of drug information.",
+    "options": {
+      "A": "Original",
+      "B": "Primary",
+      "C": "Secondary",
+      "D": "Tertiary"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Systematic reviews and meta-analyses aggregate primary literature and are classified as secondary sources.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 86,
+    "question_text": "–––––––––––– is not a WHO drug selection criteria to add new drugs into drug formulary.",
+    "options": {
+      "A": "Cost-benefit ratio",
+      "B": "Single compounds",
+      "C": "On the WHO essential drug list",
+      "D": "Combination compounds"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "WHO formulary selection generally favors single compounds over fixed-dose combination compounds unless proven synergistic.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 87,
+    "question_text": "Usually who will be the chairman of pharmacy and therapeutic committee :",
+    "options": {
+      "A": "Pharmacist",
+      "B": "Physician",
+      "C": "Nurse",
+      "D": "Hospital administrators"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Pharmacy and Therapeutics (P&T) committee is typically chaired by a physician, often representing the medical staff, working collaboratively with pharmacists and other healthcare professionals.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 88,
+    "question_text": "Pharmacy and therapeutic committee should meet regularly atleast –––––––––– times in a year.",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Pharmacy and Therapeutics committee generally meets at least quarterly (4 times a year) to ensure proper medication management and hospital formulary updates.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 96,
+    "question_text": "Normal HbA1C level is __________",
+    "options": {
+      "A": "7.6-8.6%",
+      "B": "8.6-9.6%",
+      "C": "Below 5.6%",
+      "D": "9.6-10.6%"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A normal glycated hemoglobin (HbA1c) level for individuals without diabetes is generally considered to be below 5.7% (or 5.6%).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 97,
+    "question_text": "A person is stage II hypertensive if his BP is __________ as per JNC-7 classification.",
+    "options": {
+      "A": "125/80 mm of Hg",
+      "B": "135/85 mm of Hg",
+      "C": "145/95 mm of Hg",
+      "D": "165/105 mm of Hg"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "According to the JNC-7 classification, Stage 2 hypertension is defined as a systolic blood pressure $\\ge 160$ mmHg or a diastolic blood pressure $\\ge 100$ mmHg.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 98,
+    "question_text": "Coma cocktail antidote refers to Intravenous administration of :",
+    "options": {
+      "A": "Naloxone, tannic acid, nor adrenaline",
+      "B": "Dextrose, naloxone, thiamine",
+      "C": "Isoprenaline, magnesium oxide, thiamine",
+      "D": "Adrenaline, folic acid, naloxone"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The traditional coma cocktail consists of intravenous administration of dextrose, naloxone, and thiamine for patients with altered mental status.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 100,
+    "question_text": "Urea breath test is to diagnose :",
+    "options": {
+      "A": "E. coli infection",
+      "B": "Streptococcal infection",
+      "C": "H.pylori infection",
+      "D": "Klebsiella pneumoniae infection"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The urea breath test detects the presence of Helicobacter pylori by measuring labeled carbon dioxide in the breath after ingestion of labeled urea.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 74,
+    "question_text": "Which of the following is the duty of drug inspector?",
+    "options": {
+      "A": "To analyse test samples and drugs",
+      "B": "To advise government on technical matter",
+      "C": "To grant licence for sale of drug",
+      "D": "Inspection of premises licensed for the sale of drug"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Inspecting premises licensed for the sale of drugs is a primary statutory duty of a drug inspector.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist Gr 2 148-2014"
+  },
+  {
+    "question_number": 9,
+    "question_text": "Bence Jones Proteins found in urine occur in :",
+    "options": {
+      "A": "Liver diseases",
+      "B": "Diabetes mellitus",
+      "C": "Multiple myeloma",
+      "D": "Thalassemia"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Bence Jones proteins are free immunoglobulin light chains found in the urine of patients with multiple myeloma.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist Gr 2 health services 2015 200_15"
+  },
+  {
+    "question_number": 49,
+    "question_text": "Rheumatoid arthritis is caused by :",
+    "options": {
+      "A": "Mycobacterium tuberculosis",
+      "B": "Deficiency of calcium",
+      "C": "Uric acid crystals",
+      "D": "Autoimmune disorder"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rheumatoid arthritis is a chronic systemic inflammatory autoimmune disorder that primarily attacks the synovial joints.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist Gr 2 health services 2015 200_15"
+  },
+  {
+    "question_number": 53,
+    "question_text": "HIV virus destroys :",
+    "options": {
+      "A": "T helper cells",
+      "B": "Eosinophils",
+      "C": "Basophils",
+      "D": "Monocytes"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Human Immunodeficiency Virus (HIV) specifically targets and progressively depletes CD4+ T helper cells, weakening cell-mediated immunity.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist Gr 2 health services 2015 200_15"
+  },
+  {
+    "question_number": 56,
+    "question_text": "Normal value of creatinine clearance:",
+    "options": {
+      "A": "$75 - 125\\text{ mL/minute}$",
+      "B": "$125 - 175\\text{ mL/minute}$",
+      "C": "$175 - 250\\text{ mL/minute}$",
+      "D": "$259 - 275\\text{ mL/minute}$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Normal creatinine clearance in healthy adults ranges approximately from $75$ to $125\\text{ mL/min}$.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist Gr 2 health services 2015 200_15"
+  },
+  {
+    "question_number": 60,
+    "question_text": "List of drugs to be purchased in a hospital is prepared by:",
+    "options": {
+      "A": "Chief Pharmacist",
+      "B": "Hospital superintendent",
+      "C": "Pharmacy and therapeutic committee",
+      "D": "Drug technical advisory board"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Pharmacy and Therapeutic Committee (PTC) is responsible for formulating drug lists and formulary decisions in a hospital.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist Gr 2 health services 2015 200_15"
+  },
+  {
+    "question_number": 61,
+    "question_text": "Safest and the most efficient method of drug distribution system is:",
+    "options": {
+      "A": "Floor stock system",
+      "B": "Complete floor stock system",
+      "C": "Charge floor stock system",
+      "D": "Unit dose drug distribution system"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The unit dose drug distribution system is recognized as the safest and most efficient method in hospitals.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist Gr 2 health services 2015 200_15"
+  },
+  {
+    "question_number": 62,
+    "question_text": "Faithful adherence of the instructions given by Physician/pharmacist is called:",
+    "options": {
+      "A": "Non compliance",
+      "B": "Pharmaceutical care",
+      "C": "Patient counseling",
+      "D": "Patient compliance"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Patient compliance refers to the degree to which a patient correctly follows medical advice and medication instructions.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist Gr 2 health services 2015 200_15"
+  },
+  {
+    "question_number": 67,
+    "question_text": "The major legal requirements of procurement of drugs include :",
+    "options": {
+      "A": "Pharmacy Act",
+      "B": "Drugs and Magic remedies Act",
+      "C": "Poison Act",
+      "D": "Drugs and Cosmetic Act"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Drugs and Cosmetics Act is the primary legislation regulating the import, manufacture, distribution, and sale of drugs in India.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 71,
+    "question_text": "Schedule FF is related with :",
+    "options": {
+      "A": "Paste formulation",
+      "B": "Skin and cosmetic preparation",
+      "C": "Ophthalmic preparation",
+      "D": "Oral Liquid formulation"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Schedule FF under the Drugs and Cosmetics Rules prescribes standards for the manufacture of ophthalmic preparations.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 72,
+    "question_text": "The objective of Pharmacy Act 1948 except :",
+    "options": {
+      "A": "Regulating and raising the status of profession of pharmacy in India",
+      "B": "Regulating the stock and sale of drugs in pharmacies",
+      "C": "Providing uniform education and training to pharmacy professionals",
+      "D": "Maintaining control over the persons entering the profession"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Regulating the stock and sale of drugs falls primarily under the Drugs and Cosmetics Act, whereas the Pharmacy Act regulates education and the profession.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 73,
+    "question_text": "As per schedule P sodium valproate tab should be stored in/at :",
+    "options": {
+      "A": "A cold place",
+      "B": "Temperature not exceeding 5 degrees",
+      "C": "A cool dry place away from heat and direct light",
+      "D": "A temperature below 25 degrees"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Schedule P specifies storage conditions for various pharmaceutical products, often requiring a cool, dry place away from heat and light for general tablets like sodium valproate.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 74,
+    "question_text": "Amoxycillin clavulanic acid tab comes under :",
+    "options": {
+      "A": "Schedule P",
+      "B": "Schedule H",
+      "C": "Schedule X",
+      "D": "Schedule F"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Amoxycillin and clavulanic acid combination is a prescription antibiotic that falls under Schedule H.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 75,
+    "question_text": "The Drug and Magic Remedies Act is enacted in the year :",
+    "options": {
+      "A": "1948",
+      "B": "1919",
+      "C": "1940",
+      "D": "1954"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Drugs and Magic Remedies (Objectionable Advertisements) Act was enacted in 1954.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 76,
+    "question_text": "As per Narcotic drugs and psychotropic substance Act rules a person cultivates or sell, transport of Cannabis on first conviction is :",
+    "options": {
+      "A": "Rigorous imprisonment up to 10 years or fine up to Rs. 10 lakhs",
+      "B": "Rigorous imprisonment up to 10 years or fine up to Rs. 1 lakhs",
+      "C": "Rigorous imprisonment up to 1 years or fine up to Rs. 10 lakhs",
+      "D": "Rigorous imprisonment up to 1 years or fine up to Rs. 5 lakhs"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Under the NDPS Act, penalties for offenses involving cannabis can include rigorous imprisonment up to 10 years and a fine up to Rs. 1 lakh or more depending on commercial quantities, often cited up to 10 lakhs.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 77,
+    "question_text": "Schedule ————— of Drugs and Cosmetic Act contains a list of diseases and ailments which a drug may not claim to prevent or cure.",
+    "options": {
+      "A": "C & C1",
+      "B": "F",
+      "C": "J",
+      "D": "H"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Schedule J of the Drugs and Cosmetics Act lists diseases and ailments that a drug cannot claim to cure or prevent.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 78,
+    "question_text": "The Drugs and Cosmetic Act was passed with main objective to :",
+    "options": {
+      "A": "To register a pharmacist",
+      "B": "Regulate import, manufacture distribution sale of drugs and cosmetics",
+      "C": "Raise the status of the profession of pharmacy",
+      "D": "Providing uniform education to pharmacists"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The main objective of the Drugs and Cosmetics Act 1940 is to regulate the import, manufacture, distribution, and sale of drugs and cosmetics.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 79,
+    "question_text": "In State Pharmacy Council how many members are elected from amongst themselves by registered pharmacists of the state?",
+    "options": {
+      "A": "Four",
+      "B": "Five",
+      "C": "Six",
+      "D": "Seven"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Six members are elected from amongst themselves by registered pharmacists of the state to form part of the State Pharmacy Council.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 80,
+    "question_text": "For licence granted to sell by wholesale drugs, specified C and C(1) drugs form no is :",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "20B",
+      "D": "21B"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Form 21B is the license form for wholesale distribution of drugs specified in Schedules C and C(1).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 81,
+    "question_text": "The safest and the most efficient means of delivering drugs from the pharmacy to the patients :",
+    "options": {
+      "A": "Unit dose drug distribution system",
+      "B": "Complete floor stock system",
+      "C": "Online pharmacy",
+      "D": "Combination of (B) and (C)"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The unit dose drug distribution system is widely recognized as the safest and most efficient method in hospital pharmacy.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 82,
+    "question_text": "Model essential medicine list was prepared by :",
+    "options": {
+      "A": "Hospital Management",
+      "B": "Government",
+      "C": "WHO",
+      "D": "DMO"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The World Health Organization (WHO) prepares and updates the Model List of Essential Medicines.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 83,
+    "question_text": "One of the disadvantage of floor stock system :",
+    "options": {
+      "A": "No return of drugs to the pharmacy",
+      "B": "Reduction in drug order transcriptions",
+      "C": "Reduction in pharmacy personnel",
+      "D": "Inadequate supervision of drug stocked"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A major disadvantage of the floor stock system is inadequate professional supervision of drugs kept on hospital wards.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 88,
+    "question_text": "Indexing and abstracting sources are induced in which type of literature in Drug Information :",
+    "options": {
+      "A": "Primary",
+      "B": "Secondary",
+      "C": "Tertiary",
+      "D": "Quaternary"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Indexing and abstracting services constitute secondary literature sources that direct users to primary literature.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 90,
+    "question_text": "The member secretary in PTC :",
+    "options": {
+      "A": "RMO",
+      "B": "Registered medical practitioner",
+      "C": "Head Nurse",
+      "D": "Hospital Pharmacists"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "In a Pharmacy and Therapeutics Committee (PTC), the hospital pharmacist typically serves as the member secretary.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 93,
+    "question_text": "The marker used to detect acute myocardial infarction :",
+    "options": {
+      "A": "Lactic acid dehydrogenase",
+      "B": "Alkaline phosphatase",
+      "C": "SGOT",
+      "D": "Creatinine phosphokinase"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Creatine phosphokinase (specifically the CK-MB fraction) is a classic cardiac biomarker used to diagnose acute myocardial infarction.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 019-2025-A"
+  },
+  {
+    "question_number": 39,
+    "question_text": "Intravenous administration of calories, nitrogen and other nutrients in sufficient quantities to achieve tissue synthesis is called",
+    "options": {
+      "A": "I.V. admixtures",
+      "B": "I.V. fluids",
+      "C": "Total oral nutrition",
+      "D": "Total parenteral nutrition"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Total parenteral nutrition (TPN) refers to the intravenous provision of all essential nutrients required for tissue growth and maintenance.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services and medical education 2020"
+  },
+  {
+    "question_number": 59,
+    "question_text": "Insulin is usually given to diabetic patients by which route ?",
+    "options": {
+      "A": "Oral",
+      "B": "Intravenous",
+      "C": "Intraspinal",
+      "D": "Subcutaneous"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Insulin is a peptide hormone that is degraded in the gastrointestinal tract, so it is typically administered via the subcutaneous route.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services and medical education 2020"
+  },
+  {
+    "question_number": 82,
+    "question_text": "Pharmacy and Therapeutic Committee has role except in",
+    "options": {
+      "A": "ADR monitoring and reporting",
+      "B": "Preparation of drug list and emergency supplies",
+      "C": "Medical record services",
+      "D": "Drug utilization review"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Medical record services are managed by the health information management department, not the Pharmacy and Therapeutics (P&T) committee.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services and medical education 2020"
+  },
+  {
+    "question_number": 83,
+    "question_text": "MEDLINE is a drug information resource categorised under",
+    "options": {
+      "A": "Primary resource",
+      "B": "Secondary resource",
+      "C": "Tertiary resource",
+      "D": "Primary literature"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "MEDLINE is a bibliographic database indexing biomedical literature, making it a secondary literature resource.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services and medical education 2020"
+  },
+  {
+    "question_number": 86,
+    "question_text": "Satellite pharmacy a mode of drug distribution system under",
+    "options": {
+      "A": "Charge floor stock system",
+      "B": "Centralised unit dose dispensing system",
+      "C": "Decentralised unit dose dispensing system",
+      "D": "Individual prescription system"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Satellite pharmacies operate as decentralized units to dispense medications close to nursing units, typically in decentralized unit dose systems.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services and medical education 2020"
+  },
+  {
+    "question_number": 87,
+    "question_text": "Automatic stop order is used for",
+    "options": {
+      "A": "OTC drugs",
+      "B": "Dangerous drugs",
+      "C": "Orphan drugs",
+      "D": "Counterfeit drugs"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Automatic stop orders are policies applied to dangerous or controlled drugs (such as narcotics and sedatives) to limit prolonged unmonitored use.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services and medical education 2020"
+  },
+  {
+    "question_number": 90,
+    "question_text": "Which one is used for aspiration of stomach contents ?",
+    "options": {
+      "A": "Endotracheal tube",
+      "B": "Ryle’s tube",
+      "C": "Metal catheter",
+      "D": "Rubber catheter"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Ryle's tube (nasogastric tube) is inserted through the nose into the stomach for feeding or aspiration of gastric contents.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services and medical education 2020"
+  },
+  {
+    "question_number": 94,
+    "question_text": "A method to improve patient compliance is",
+    "options": {
+      "A": "Patient counselling",
+      "B": "Proper packaging and labelling",
+      "C": "Simplification of medication regimens",
+      "D": "All the above"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "All listed methods (counselling, proper labeling, and regimen simplification) effectively enhance patient medication adherence.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services and medical education 2020"
+  },
+  {
+    "question_number": 97,
+    "question_text": "Fatigue, weight loss, chronic cough, night sweats, chest pain are clinical symptoms of",
+    "options": {
+      "A": "Angina pectoris",
+      "B": "Tuberculosis",
+      "C": "Hypertension",
+      "D": "Diabetes mellitus"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Chronic cough, night sweats, fatigue, and weight loss are classic hallmark symptoms of pulmonary tuberculosis.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services and medical education 2020"
+  },
+  {
+    "question_number": 83,
+    "question_text": "Who is the secretary of the Pharmacy and Therapeutics Committee (PTC) ?",
+    "options": {
+      "A": "The Chief Physician",
+      "B": "The Chief Pharmacist",
+      "C": "The Hospital Administrator",
+      "D": "The representative from nursing staff"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The chief pharmacist typically serves as the secretary of the Pharmacy and Therapeutics Committee in hospitals.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services"
+  },
+  {
+    "question_number": 86,
+    "question_text": "The word “Ambulatory care” means",
+    "options": {
+      "A": "Emergency care",
+      "B": "Outpatient care",
+      "C": "In patient care",
+      "D": "Both (A) and (B)"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Ambulatory care refers to medical services provided on an outpatient basis, allowing patients to walk in and out without overnight hospitalization.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services"
+  },
+  {
+    "question_number": 88,
+    "question_text": "Which of the following criteria should be taken into consideration for entry or deletion of drugs in Hospital formulary ?",
+    "options": {
+      "A": "The manufacturer of drug should have the license under Drug and Cosmetic Rules.",
+      "B": "The drug must be recognized by Pharmacopoeia.",
+      "C": "The drug should not have secret composition.",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "All listed criteria are essential standards and regulatory requirements for including a drug in a hospital formulary.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services"
+  },
+  {
+    "question_number": 93,
+    "question_text": "What are adverse drug reactions (ADRs) ?",
+    "options": {
+      "A": "The noxious and unintended effect of drugs which occurs at normal doses.",
+      "B": "The synergistic effects that are seen when some drugs are administered concurrently.",
+      "C": "Harmful chemical interactions between two drugs that are used to treat the same clinical symptoms.",
+      "D": "Responses to increased drug doses required to achieve the same physiological outcome."
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "By definition, an adverse drug reaction is a noxious and unintended response to a medicinal product occurring at doses normally used in humans.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services"
+  },
+  {
+    "question_number": 97,
+    "question_text": "What is the normal fasting blood sugar level range ?",
+    "options": {
+      "A": "70-100 mg/dl",
+      "B": "70-140 mg/dl",
+      "C": "100-125 mg/dl",
+      "D": "100-140 mg/dl"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A normal fasting blood glucose level is typically between 70 mg/dL and 100 mg/dL.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services"
+  },
+  {
+    "question_number": 99,
+    "question_text": "The following are the signs and symptoms of tuberculosis excepts :",
+    "options": {
+      "A": "Yellow sputum with blood spot",
+      "B": "Fatigue and weight loss",
+      "C": "Morning stiffness",
+      "D": "Night sweats"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Morning stiffness is a classic sign of inflammatory joint diseases like rheumatoid arthritis rather than tuberculosis.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 health services"
+  },
+  {
+    "question_number": 74,
+    "question_text": "Shick test is performed to test the degree of immunity against:",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Tetanus",
+      "C": "Rabies",
+      "D": "Diphtheria"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Schick test is a clinical skin test used to determine whether a person is susceptible to diphtheria.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2 ims 166-2016"
+  },
+  {
+    "question_number": 81,
+    "question_text": "Which among the following is NOT a primary source of information?",
+    "options": {
+      "A": "Patents",
+      "B": "Manufacturer's Data Sheet",
+      "C": "Text Books",
+      "D": "Scientific journals publishing original research"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Textbooks are classified as tertiary literature sources, not primary sources.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2, Compounder"
+  },
+  {
+    "question_number": 83,
+    "question_text": "Identify factors influencing the selection of drugs in a hospital formulary : (1) Efficacy (2) Safety (3) Cost (4) Restricted use",
+    "options": {
+      "A": "All the above",
+      "B": "(1) and (3) only",
+      "C": "(1), (2) and (3) only",
+      "D": "(1) and (4) only"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "All listed factors—efficacy, safety, cost, and restrictions on use—are critical considerations in a hospital formulary.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2, Compounder"
+  },
+  {
+    "question_number": 86,
+    "question_text": "All inpatient drugs are dispensed in unit doses and all the drugs are stored in main pharmacy and dispensed at the time the dose is due to be given to the patient. This system is known as :",
+    "options": {
+      "A": "Decentralized unit dose drug distribution system",
+      "B": "Complete floor stock system",
+      "C": "Centralized unit dose drug distribution system",
+      "D": "Non charge floor stock system"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Storing and dispensing unit doses directly from a central pharmacy location describes a centralized unit dose system.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2, Compounder"
+  },
+  {
+    "question_number": 87,
+    "question_text": "The most vital committee in a hospital which is having both advisory and educational role :",
+    "options": {
+      "A": "Pharmacy and Therapeutics Committee",
+      "B": "Infection control committee",
+      "C": "Antibiotic Stewardship Committee",
+      "D": "Hospital development committee"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Pharmacy and Therapeutics (P&T) Committee serves an advisory and educational role regarding drug therapy in hospitals.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2, Compounder"
+  },
+  {
+    "question_number": 96,
+    "question_text": "The causative organism of peptic ulcer in susceptible individuals :",
+    "options": {
+      "A": "Treponema pallidum",
+      "B": "Helicobacter pyori",
+      "C": "Yersinia pestis",
+      "D": "Wuchereria bancrofti"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Helicobacter pylori is the primary bacterial causative agent responsible for peptic ulcer disease.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2, Compounder"
+  },
+  {
+    "question_number": 97,
+    "question_text": "Faecal oral route is the mode of transmission of :",
+    "options": {
+      "A": "Hepatitis E",
+      "B": "Hepatitis C",
+      "C": "Hepatitis D",
+      "D": "Hepatitis B"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Hepatitis A and E are primarily transmitted via the fecal-oral route, unlike B, C, and D which are blood-borne.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 2, Compounder"
+  },
+  {
+    "question_number": 81,
+    "question_text": "Ryles tube is used for",
+    "options": {
+      "A": "Drain off a bladder",
+      "B": "To hold blood vessels",
+      "C": "Nutritional support and aspiration of stomach content",
+      "D": "To hold tissues"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A Ryles tube (nasogastric tube) is passed through the nose into the stomach for feeding or gastric aspiration.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 3 2021"
+  },
+  {
+    "question_number": 84,
+    "question_text": "The guidelines for inclusion or non-inclusion of drugs in the hospital formulary are framed by",
+    "options": {
+      "A": "Pharmacy and therapeutic committee",
+      "B": "Staff committee",
+      "C": "Medical audit committee",
+      "D": "Infection control committee"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Pharmacy and Therapeutics (P&T) committee is responsible for developing, managing, and updating the hospital formulary.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 3 2021"
+  },
+  {
+    "question_number": 86,
+    "question_text": "New England Journal of Medicine is which type of drug information resource?",
+    "options": {
+      "A": "Primary source",
+      "B": "Secondary source",
+      "C": "Tertiary source",
+      "D": "Formulary"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Peer-reviewed medical journals like the New England Journal of Medicine publish original research and clinical studies, making them primary literature sources.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 3 2021"
+  },
+  {
+    "question_number": 88,
+    "question_text": "Following statements of unit dose system are correct\n(i) Patient receives improved service round the clock and charged for only administered doses\n(ii) Allowing nurses more time for direct patient care\n(iii) Medication errors are decreased\n(iv) Eliminates wastage of drugs and pilferage",
+    "options": {
+      "A": "Only (i), (iii) and (iv)",
+      "B": "Only (i), (ii) and (iii)",
+      "C": "Only (ii) and (iii)",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "All listed statements accurately describe the distinct advantages of a well-implemented unit dose drug distribution system in hospitals.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 3 2021"
+  },
+  {
+    "question_number": 92,
+    "question_text": "The international drug monitoring centre is at",
+    "options": {
+      "A": "Uppsala, Sweden",
+      "B": "Geneva, Switzerland",
+      "C": "Washington DC, USA",
+      "D": "Mexico city, Mexico"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Uppsala Monitoring Centre (UMC) in Sweden serves as the WHO collaborating centre for international drug monitoring.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 3 2021"
+  },
+  {
+    "question_number": 95,
+    "question_text": "Normal safety range of potassium in adult blood is",
+    "options": {
+      "A": "1.5-2 mEq/L",
+      "B": "3.5-5 mEq/L",
+      "C": "6-8 mEq/L",
+      "D": "0.5-1.3 mEq/L"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The normal physiological serum potassium concentration range in healthy adult blood is approximately $3.5 - 5.0\\text{ mEq/L}$.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 3 2021"
+  },
+  {
+    "question_number": 42,
+    "question_text": "World diabetes day :",
+    "options": {
+      "A": "14th of November",
+      "B": "4th of November",
+      "C": "4th of March",
+      "D": "14th of July"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "World Diabetes Day is celebrated globally on November 14th.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 3 ims 45_2019_a_pdf_qestion"
+  },
+  {
+    "question_number": 95,
+    "question_text": "Omeprazole has to be taken :",
+    "options": {
+      "A": "Along with food",
+      "B": "One hour before food",
+      "C": "One hour after food",
+      "D": "With milk"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Proton pump inhibitors like omeprazole are best taken on an empty stomach, typically 30-60 minutes before a meal for maximal efficacy.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Pharmacist gr 3 ims 45_2019_a_pdf_qestion"
+  },
+  {
+    "question_number": 75,
+    "question_text": "Xerophthalmia is caused by the deficiency of:",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin D",
+      "C": "Vitamin C",
+      "D": "Vitamin K"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Xerophthalmia is a medical condition in which the eye fails to produce tears, caused by vitamin A deficiency.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 17,
+    "question_text": "Drug products that contain the same therapeutic moiety but as different salts, esters or complexes are called as :",
+    "options": {
+      "A": "Therapeutic alternatives",
+      "B": "Therapeutic equivalents",
+      "C": "Pharmaceutical alternative",
+      "D": "Pharmaceutical equivalents"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Pharmaceutical alternatives contain the identical therapeutic moiety or its precursor, but not necessarily in the same amount or dosage form or as the same salt or ester.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020"
+  },
+  {
+    "question_number": 90,
+    "question_text": "Which one of the following is a organ specific (localised) autoimmune disease ?",
+    "options": {
+      "A": "Rheumatoid arthritis",
+      "B": "Grave's disease",
+      "C": "Scleroderma",
+      "D": "Polyarteritis nodosa"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Grave's disease is a classic organ-specific autoimmune disease affecting the thyroid gland, whereas the others are systemic autoimmune diseases.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020"
+  },
+  {
+    "question_number": 95,
+    "question_text": "Rosacea is a skin condition that affect :",
+    "options": {
+      "A": "Teenage people",
+      "B": "Adults between the age of 30 - 60",
+      "C": "Oldage people",
+      "D": "Only woman"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rosacea is a chronic inflammatory skin condition that typically affects adults aged 30 to 60.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020"
+  },
+  {
+    "question_number": 101,
+    "question_text": "Which one of the following is not a renal osteodystrophy (type of bone disease associated with chronic kidney disease) ?",
+    "options": {
+      "A": "Secondary hypoparathyroidism",
+      "B": "Osteomalacia",
+      "C": "Mixed renal osteodystrophy",
+      "D": "Adynamic bone disease"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Chronic kidney disease typically causes secondary hyperparathyroidism, not secondary hypoparathyroidism.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020"
+  },
+  {
+    "question_number": 103,
+    "question_text": "Identify phase of clinical trial having following features : (A) Trial is conducted on about 3000 patients (B) Purpose of trial is therapeutic confirmation (C) Safety and tolerability is evaluated on wider scale (D) Completion of trial is followed by New Drug Application (NDA)",
+    "options": {
+      "A": "Phase - I",
+      "B": "Phase - II",
+      "C": "Phase - III",
+      "D": "Phase - IV"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phase III clinical trials involve large patient populations (thousands), confirm therapeutic efficacy, assess wider safety/tolerability, and precede the submission of an NDA.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020"
+  },
+  {
+    "question_number": 104,
+    "question_text": "Which one of the following is not affected in respiratory tuberculosis ?",
+    "options": {
+      "A": "Pleural cavity",
+      "B": "Mediastinal lymph nodes",
+      "C": "Larynx",
+      "D": "Pericardium"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Pericardial involvement (tuberculous pericarditis) is a form of extrapulmonary tuberculosis, whereas the others are typically categorized under respiratory or thoracic tuberculosis manifestations.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020"
+  },
+  {
+    "question_number": 17,
+    "question_text": "Drug products that contain the same therapeutic moiety but as different salts, esters or complexes are called as :",
+    "options": {
+      "A": "Therapeutic alternatives",
+      "B": "Therapeutic equivalents",
+      "C": "Pharmaceutical alternative",
+      "D": "Pharmaceutical equivalents"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Pharmaceutical alternatives contain the identical therapeutic moiety, or its precursor, but not necessarily in the same chemical form (e.g., different salts or esters).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 22,
+    "question_text": "Method of Study Drug Distribution pattern is :",
+    "options": {
+      "A": "Nuclear magnetic resonance",
+      "B": "UV-visible spectrophotometry",
+      "C": "Mass spectrophotometry",
+      "D": "Flourimetry"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "NMR spectroscopy and imaging are frequently utilized to study drug distribution patterns within biological tissues.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 90,
+    "question_text": "Which one of the following is a organ specific (localised) autoimmune disease ?",
+    "options": {
+      "A": "Rheumatoid arthritis",
+      "B": "Grave's disease",
+      "C": "Scleroderma",
+      "D": "Polyarteritis nodosa"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Grave's disease is an organ-specific autoimmune disorder targeting the thyroid gland.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 93,
+    "question_text": "In the transplant rejection the clinical features of graft-versus-host reaction includes following-Except :",
+    "options": {
+      "A": "Fever, weight loss",
+      "B": "Rheumatoid arthritis",
+      "C": "Intestinal malabsorption",
+      "D": "Dermatitis, diarrhoea"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rheumatoid arthritis is a distinct autoimmune disease, not a clinical feature of graft-versus-host disease.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 95,
+    "question_text": "Rosacea is a skin condition that affect :",
+    "options": {
+      "A": "Teenage people",
+      "B": "Adults between the age of 30 - 60",
+      "C": "Oldage people",
+      "D": "Only woman"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rosacea is a chronic inflammatory skin condition that typically affects adults between the ages of 30 and 60.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 101,
+    "question_text": "Which one of the following is not a renal osteodystrophy (type of bone disease associated with chronic kidney disease) ?",
+    "options": {
+      "A": "Secondary hypoparathyroidism",
+      "B": "Osteomalacia",
+      "C": "Mixed renal osteodystrophy",
+      "D": "Adynamic bone disease"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Secondary hyperparathyroidism (not hypoparathyroidism) is typically associated with chronic kidney disease and renal osteodystrophy.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 103,
+    "question_text": "Identify phase of clinical trial having following features : (A) Trial is conducted on about 3000 patients (B) Purpose of trial is therapeutic confirmation (C) Safety and tolerability is evaluated on wider scale (D) Completion of trial is followed by New Drug Application (NDA)",
+    "options": {
+      "A": "Phase - I",
+      "B": "Phase - II",
+      "C": "Phase - III",
+      "D": "Phase - IV"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phase III clinical trials involve large patient populations (several thousand) for therapeutic confirmation and precede the submission of an NDA.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 104,
+    "question_text": "Which one of the following is not affected in respiratory tuberculosis ?",
+    "options": {
+      "A": "Pleural cavity",
+      "B": "Mediastinal lymph nodes",
+      "C": "Larynx",
+      "D": "Pericardium"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Tuberculosis can affect the pleura, lymph nodes, and larynx, whereas pericardial involvement (tuberculous pericarditis) is typically classified under extrapulmonary or cardiovascular TB, not typically considered part of respiratory tract tuberculosis proper.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 115,
+    "question_text": "As per the definition of D & C Act, Gudakhu (rubbed against human teeth) is considered as :",
+    "options": {
+      "A": "Drug",
+      "B": "Cosmetic",
+      "C": "Food",
+      "D": "Sweeting gum"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Gudakhu, a tobacco preparation used for teeth/gums, is legally regulated as a drug under the D&C Act.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 116,
+    "question_text": "As per the Drugs and Cosmetics Act-1940, if a drug is not labelled in prescribed manner it is a :",
+    "options": {
+      "A": "Misbranded drug",
+      "B": "Adulterated drug",
+      "C": "Spurious drug",
+      "D": "Substandard drug"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Under the D&C Act, a drug not labelled in the prescribed manner is defined as a misbranded drug.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 117,
+    "question_text": "Standards to be complied under D & C act - 1940 for drugs imported, manufactured, stocked and exhibited for sale or distribution are covered under :",
+    "options": {
+      "A": "Schedule L",
+      "B": "Schedule M",
+      "C": "First Schedule",
+      "D": "Second Schedule"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Second Schedule of the D&C Act specifies the standards to be complied with for imported, manufactured, and sold drugs.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 118,
+    "question_text": "Who was the Chairman of the Drugs Enquiry Committee which was established in the year 1927?",
+    "options": {
+      "A": "R.N. Chopra",
+      "B": "B. Mukherjee",
+      "C": "Joseph Bhore",
+      "D": "S.S. Bhatia"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Col. Ram Nath Chopra served as the chairman of the Drugs Enquiry Committee established in 1927.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 13,
+    "question_text": "Compendium of pharmaceuticals and specialties is an International drug compendia from",
+    "options": {
+      "A": "German Pharmaceutical Association",
+      "B": "Australian Pharmaceutical Association",
+      "C": "Indian Pharmaceutical Association",
+      "D": "Canadian Pharmaceutical Association"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Compendium of Pharmaceuticals and Specialties (CPS) is the Canadian pharmacist's reference publication for prescribing and drug information.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021"
+  },
+  {
+    "question_number": 29,
+    "question_text": "Conversion of pseudostratified columnar epithelium in chronic bronchitis and bronchiectasis to columnar type epithelium is an example of which type of metaplasia?",
+    "options": {
+      "A": "Squamous metaplasia",
+      "B": "Columnar metaplasia",
+      "C": "Osseous metaplasia",
+      "D": "Cartilaginous metaplasia"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The change to columnar epithelium is classified as columnar metaplasia.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021"
+  },
+  {
+    "question_number": 35,
+    "question_text": "Hospital formulary consists of",
+    "options": {
+      "A": "List of hospital staff",
+      "B": "List of drugs present in the hospital",
+      "C": "List of equipments",
+      "D": "List of patients"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A hospital formulary is a continuously updated list of medications and related information maintained by a hospital's pharmacy and therapeutics committee.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021"
+  },
+  {
+    "question_number": 44,
+    "question_text": "To monitor the safety of the new drug under actual conditions of use in large number of patients has been classified as ________ clinical trials.",
+    "options": {
+      "A": "Phase III",
+      "B": "Phase II",
+      "C": "Phase IV",
+      "D": "Phase I"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phase IV clinical trials are post-marketing surveillance studies that monitor safety in large populations under real-world conditions.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021"
+  },
+  {
+    "question_number": 72,
+    "question_text": "For depot injections, in which drug is slowly released over weeks or months, which bioequivalence study design is used?",
+    "options": {
+      "A": "Multiple dose study design",
+      "B": "Replicated crossover study design",
+      "C": "Nonreplicate, parallel study design",
+      "D": "Randomized crossover design"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Long-acting depot injections are typically evaluated using a multiple-dose parallel or multiple-dose study design due to their extremely prolonged release profiles.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021"
+  },
+  {
+    "question_number": 99,
+    "question_text": "In healing of excised wound, there is",
+    "options": {
+      "A": "Less tissue loss",
+      "B": "Less inflammatory exudate",
+      "C": "Less necrotic tissue to be removed",
+      "D": "More granulation tissue is required"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "An excised or open wound heals by secondary intention, which requires significantly more granulation tissue formation to bridge the tissue gap compared to primary healing.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021"
+  },
+  {
+    "question_number": 13,
+    "question_text": "Compendium of pharmaceuticals and specialties is an International drug compendia from",
+    "options": {
+      "A": "German Pharmaceutical Association",
+      "B": "Australian Pharmaceutical Association",
+      "C": "Indian Pharmaceutical Association",
+      "D": "Canadian Pharmaceutical Association"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Compendium of Pharmaceuticals and Specialties (CPS) is the Canadian Pharmacists Association's resource for prescribing and pharmacotherapy.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021_2"
+  },
+  {
+    "question_number": 30,
+    "question_text": "Conversion of pseudostratified columnar epithelium in chronic bronchitis and bronchiectasis to columnar type epithelium is an example of which type of metaplasia?",
+    "options": {
+      "A": "Squamous metaplasia",
+      "B": "Columnar metaplasia",
+      "C": "Osseous metaplasia",
+      "D": "Cartilaginous metaplasia"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The conversion to columnar epithelium represents columnar metaplasia.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021_2"
+  },
+  {
+    "question_number": 35,
+    "question_text": "Hospital formulary consists of",
+    "options": {
+      "A": "List of hospital staff",
+      "B": "List of drugs present in the hospital",
+      "C": "List of equipments",
+      "D": "List of patients"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A hospital formulary is a continually updated list of medications and related information maintained by a hospital's pharmacy and therapeutics committee.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021_2"
+  },
+  {
+    "question_number": 44,
+    "question_text": "To monitor the safety of the new drug under actual conditions of use in large number of patients has been classified as ________ clinical trials.",
+    "options": {
+      "A": "Phase III",
+      "B": "Phase II",
+      "C": "Phase IV",
+      "D": "Phase I"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phase IV clinical trials involve post-marketing surveillance to monitor drug safety in large populations under real-world conditions.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021_2"
+  },
+  {
+    "question_number": 68,
+    "question_text": "Which of the following statement is the correct description of product positioning?",
+    "options": {
+      "A": "Selecting one or more segment to enter",
+      "B": "Occupying distinctive position in the mind of customer",
+      "C": "Identifying group of buyers with common need",
+      "D": "Distinguishes company's product form competitor's product"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Product positioning is defined as arranging for a product to occupy a clear, distinctive, and desirable place relative to competing products in the minds of target consumers.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021_2"
+  },
+  {
+    "question_number": 72,
+    "question_text": "For depot injections, in which drug is slowly released over weeks or months, which bioequivalence study design is used?",
+    "options": {
+      "A": "Multiple dose study design",
+      "B": "Replicated crossover study design",
+      "C": "Nonreplicate, parallel study design",
+      "D": "Randomized crossover design"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "For long-acting depot injections with extremely prolonged absorption phases, a multiple dose study design is typically recommended to establish steady-state bioequivalence.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2021_2"
+  },
+  {
+    "question_number": 8,
+    "question_text": "___________ is the practice of pharmacy in private and government-owned hospitals, health maintenance organizations (HMOs), clinics, walk-in health centers, and nursing homes.",
+    "options": {
+      "A": "Community pharmacy",
+      "B": "Government service",
+      "C": "Health-systems pharmacy",
+      "D": "Organizational management"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Health-systems pharmacy refers to pharmacy practice in institutional settings such as hospitals and clinics.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 22,
+    "question_text": "Match List I with List II. List I: A. When two dosage forms have equal tmax, B. AUC values of the two analogs can be compared to measure relative bioavailability, C. Urinary data is valid to measure bioavailability, D. Cmax is proportional to the rate of absorption. List II: I. When their total body clearance is constant, II. Absorption rate constants are equal, III. When fraction absorbed and elimination rate is constant, IV. Excretion of drug and/or metabolite is related to the bioavailable dose.",
+    "options": {
+      "A": "A - II, B -I , C -IV , D - III",
+      "B": "A -I , B -II , C -III , D -IV",
+      "C": "A -I, B -IV, C -III, D -II",
+      "D": "A -III , B -I , C -II , D -IV"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Matching pharmacokinetic parameters correctly pairs equality of tmax with equality of absorption rate constants.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 32,
+    "question_text": "Prescription price consists of",
+    "options": {
+      "A": "Cost of ingredients only",
+      "B": "Cost of professional fee only",
+      "C": "Cost of ingredients and cost of dispensing only",
+      "D": "Cost of ingredients and professional fee only"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The standard prescription price calculation includes the ingredient cost plus the professional/dispensing fee.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 33,
+    "question_text": "Hospital Formulary contains information on the following parameters except",
+    "options": {
+      "A": "Composition",
+      "B": "Indication",
+      "C": "Pricing",
+      "D": "Dosage and administration"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A hospital formulary provides clinical, pharmacological, and dosing information, but specific pricing is typically not included.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 24,
+    "question_text": "Which of the statement is true in geriatrics practice?",
+    "options": {
+      "A": "The incidence of Adverse Drug Reactions diminishs with advancement of age.",
+      "B": "Dose reduction is inevitable for each and every drug used in geriatric patients.",
+      "C": "Patient compliance is highest in geriatric patients.",
+      "D": "Polypharmacy is often a problem in elderly."
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Polypharmacy is a major, well-documented clinical concern in geriatric practice due to multiple comorbid conditions.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 27,
+    "question_text": "Match the following phases of clinical trial with their significance. List I: A. Phase-I, B. Phase-0, C. Phase-3, D. Phase-4. List II: P. Post marketing surveillance, Q. Microdosing, R. First in human dose, S. Multicentric trials.",
+    "options": {
+      "A": "A-R, B-Q, C-P, D-S",
+      "B": "A-R, B-Q, C-S, D-P",
+      "C": "A-Q, B-S, C-P, D-R",
+      "D": "A-S, B-P, C-Q, D-R"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phase-I is first-in-human (A-R), Phase-0 is microdosing (B-Q), Phase-3 uses multicentric trials (C-S), and Phase-4 is post-marketing surveillance (D-P).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 10,
+    "question_text": "Boston Consulting Group (BCG) Matrix is used for",
+    "options": {
+      "A": "Product life cycle management",
+      "B": "SWOT analysis",
+      "C": "Product portfolio management",
+      "D": "Gap analysis"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The BCG matrix is a renowned portfolio management tool used to evaluate a company's strategic business units.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 11,
+    "question_text": "The process of establishing a product in the minds of target customer is called as",
+    "options": {
+      "A": "Product positioning",
+      "B": "Product differentiation",
+      "C": "Product targeting",
+      "D": "Market segmentation"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Product positioning refers to the place that a brand occupies in the minds of the target customers.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 8,
+    "question_text": "___________ is the practice of pharmacy in private and government-owned hospitals, health maintenance organizations (HMOs), clinics, walk-in health centers, and nursing homes.",
+    "options": {
+      "A": "Community pharmacy",
+      "B": "Government service",
+      "C": "Health-systems pharmacy",
+      "D": "Organizational management"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Health-systems pharmacy encompasses pharmacy practice within organized healthcare settings like hospitals and clinics.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 32,
+    "question_text": "Prescription price consists of",
+    "options": {
+      "A": "Cost of ingredients only",
+      "B": "Cost of professional fee only",
+      "C": "Cost of ingredients and cost of dispensing only",
+      "D": "Cost of ingredients and professional fee only"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The total prescription price standardly comprises the ingredient cost plus the professional (dispensing) fee.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 33,
+    "question_text": "Hospital Formulary contains information on the following parameters except",
+    "options": {
+      "A": "Composition",
+      "B": "Indication",
+      "C": "Pricing",
+      "D": "Dosage and administration"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A hospital formulary provides clinical information such as composition, indication, dosage, and administration, but generally excludes drug pricing.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 16,
+    "question_text": "Which of the following is a specific enzyme marker of cell death in acute myocardial infarction?",
+    "options": {
+      "A": "Creatine Kinase-MB",
+      "B": "Aspartate aminotransferase",
+      "C": "Lactate dehydrogenase",
+      "D": "Cardiac troponin"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Among the enzyme markers listed, Creatine Kinase-MB (CK-MB) is the specific enzymatic marker (though troponins are more specific proteins, CK-MB is the classic enzymatic marker).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 18,
+    "question_text": "Which of the following clinical feature is not responsible for insulin resistance in type 2 diabetes?",
+    "options": {
+      "A": "Increased LDL",
+      "B": "Increased HDL",
+      "C": "Reduced HDL",
+      "D": "Increased triglycerides"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Increased HDL is protective and associated with a healthy metabolic profile, whereas reduced HDL, increased LDL, and hypertriglyceridemia are linked to insulin resistance.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 24,
+    "question_text": "Which of the statement is true in geriatrics practice?",
+    "options": {
+      "A": "The incidence of Adverse Drug Reactions diminishs with advancement of age.",
+      "B": "Dose reduction is inevitable for each and every drug used in geriatric patients.",
+      "C": "Patient compliance is highest in geriatric patients.",
+      "D": "Polypharmacy is often a problem in elderly."
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Polypharmacy is a major concern in geriatric practice due to multiple chronic conditions and age-related changes in pharmacokinetics and pharmacodynamics.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 27,
+    "question_text": "Match the following phases of clinical trial with their significance:\nList I: A. Phase-I, B. Phase-0, C. Phase-3, D. Phase-4\nList II: P. Post marketing surveillance, Q. Microdosing, R. First in human dose, S. Multicentric trials",
+    "options": {
+      "A": "A-R, B-Q, C-P, D-S",
+      "B": "A-R, B-Q, C-S, D-P",
+      "C": "A-Q, B-S, C-P, D-R",
+      "D": "A-S, B-P, C-Q, D-R"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phase-I is the first-in-human dose (A-R), Phase-0 involves microdosing (B-Q), Phase-3 uses multicentric trials (C-S), and Phase-4 is post-marketing surveillance (D-P).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 9,
+    "question_text": "Ideally BA studies should be carried on ––––––––––––––– volunteers,",
+    "options": {
+      "A": "aged",
+      "B": "children",
+      "C": "healthy",
+      "D": "patient"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Bioavailability (BA) studies are ideally conducted on healthy human volunteers to minimize variability from disease states or concomitant medications.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2023"
+  },
+  {
+    "question_number": 17,
+    "question_text": "Most common type of megaloblastic anemia caused by malabsorption of vitamin B12 and characterized by decreased production of hydrochloric acid in the stomach and a deficiency of intrinsic factor is",
+    "options": {
+      "A": "Iron deficiency anemia",
+      "B": "Sideroblastic anemia",
+      "C": "Pernicious anemia",
+      "D": "Aplastic anemia"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Pernicious anemia is an autoimmune condition featuring lack of intrinsic factor and achlorhydria, leading to vitamin B12 malabsorption and megaloblastic anemia.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2023"
+  },
+  {
+    "question_number": 20,
+    "question_text": "Choose the most appropriate answer: A. Enterobius vermicularis-pin worm, B. Strongyloides stercoralis-Thread worm, C. Wuchereria bancrofti-Filarial worm, D. Dracunculus medinensis-Guinea worm",
+    "options": {
+      "A": "Only B and C are correct",
+      "B": "Only A and B are correct",
+      "C": "A, B, C and D are correct",
+      "D": "Only B, C and D are correct"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "All listed helminths and their common names are correctly matched (Enterobius vermicularis = pinworm, Strongyloides stercoralis = threadworm, Wuchereria bancrofti = filarial worm, Dracunculus medinensis = guinea worm).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2023"
+  },
+  {
+    "question_number": 14,
+    "question_text": "Laboratory findings of which one of the following disease include markedly elevated serum amylase levels during the first 24 hours followed by rising serum lipase levels Within 72-96 hours?",
+    "options": {
+      "A": "Acute pancreatitis",
+      "B": "Cirrhosis of liver",
+      "C": "Jaundice",
+      "D": "Cystic fibrosis of lungs"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Serum amylase and lipase are classical enzymatic markers that become elevated during acute pancreatitis.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2023"
+  },
+  {
+    "question_number": 25,
+    "question_text": "Which one of the following types of hepatitis can lead to fulminant hepatitis causing massive hepatic cell death more frequently among infected pregnant women, showing third trimester mortality as high as 30%?",
+    "options": {
+      "A": "Hepatitis A",
+      "B": "Hepatitis B",
+      "C": "Hepatitis C",
+      "D": "Hepatitis E"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Hepatitis E virus infection is notorious for causing severe fulminant hepatitis with high mortality particularly in pregnant women during their third trimester.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2023"
+  },
+  {
+    "question_number": 5,
+    "question_text": "Who is the primary source of information for doctors' prescribing behaviour?",
+    "options": {
+      "A": "Competitor",
+      "B": "wholesaler",
+      "C": "Fellow doctor",
+      "D": "Retailer"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Studies in pharmaceutical marketing reveal that peer influence (fellow doctors and key opinion leaders) heavily shapes prescribing habits.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2023"
+  },
+  {
+    "question_number": 9,
+    "question_text": "Normal value of HbA1c falls in the range of:",
+    "options": {
+      "A": "0.1% to 0.8%",
+      "B": "6.5% to 7.5%",
+      "C": "21.5% to 24.5%",
+      "D": "51.5% to 53.5%"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Normal non-diabetic HbA1c is typically below 5.7%, while 6.5% to 7.5% is generally targeted or diagnostic for diabetes management ranges.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 16,
+    "question_text": "Choose the most appropriate statement for the Peptic ulcer disease caused by NSAIDs.",
+    "options": {
+      "A": "H2 antagonists offer rapid healing of ulcer provided the NSAID is discontinued.",
+      "B": "H2 antagonists offer rapid healing.",
+      "C": "Proton Pump Inhibitor is to be given only if the NSAID is discontinued.",
+      "D": "NSAIDs are strictly contraindicated with Proton Pump Inhibitors."
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "H2 antagonists and PPIs heal NSAID ulcers effectively, but continuous NSAID use typically requires PPIs or discontinuation for proper healing.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 217,
+    "question_text": "According to drug and cosmetics rule a list of schedule are as follows. Match the appropriate statement A to D with them: (1) Schedule G (2) Schedule P (3) Schedule J (4) Schedule N",
+    "options": {
+      "A": "1-A, 2-B, 3-D, 4-C",
+      "B": "1-E, 2-C, 3-D, 4-A",
+      "C": "1-D, 2-B, 3-A, 4-C",
+      "D": "1-A, 2-E, 3-D, 4-C"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1988"
+  },
+  {
+    "question_number": 26,
+    "question_text": "Most commonly used antimicrobial agent for intraperitoneal dialysis fluid is",
+    "options": {
+      "A": "Chlorocresol",
+      "B": "Benzalkonium chloride",
+      "C": "Isopropyl alcohol",
+      "D": "None of the above"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Intraperitoneal dialysis fluids are typically formulated without added antimicrobial preservatives due to toxicity risks.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1990"
+  },
+  {
+    "question_number": 214,
+    "question_text": "As per drug and cosmetics acts, match correct schedule to their respective titles: 1. Schedule P, 2. Schedule Q, 3. Schedule S, 4. Schedule FF",
+    "options": {
+      "A": "1-E, 2-B, 3-C, 4-D",
+      "B": "1-A, 2-B, 3-D, 4-C",
+      "C": "1-D, 2-E, 3-B, 4-C",
+      "D": "1-C, 2-D, 3-B, 4-A"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Schedules under the Drugs and Cosmetics Act govern standards for life periods, cosmetics, and ophthalmic preparations.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 219,
+    "question_text": "List below are some schedules 1 to 4 and the rule A to E. match them correctly: 1. C, 2. F, 3. G, 4. M",
+    "options": {
+      "A": "1-A, 2-B, 3-C, 4-D",
+      "B": "1-A, 2-B, 3-D, 4-C",
+      "C": "1-B, 2-C, 3-A, 4-D",
+      "D": "1-C, 2-D, 3-B, 4-A"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Schedule M pertains to GMP requirements, and Schedule C relates to biological products.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 20,
+    "question_text": "Infected blood products may produce serum hepatitis due to the presence of",
+    "options": {
+      "A": "Hepatitis A virus",
+      "B": "Hepatitis B virus",
+      "C": "Hepatitis C virus",
+      "D": "None of the above"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Serum hepatitis is historically synonymous with Hepatitis B virus transmitted via blood products.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1992"
+  },
+  {
+    "question_number": 24,
+    "question_text": "A highly sensitive semiquantitative method of detecting microbial antigen in biological fluid is done by",
+    "options": {
+      "A": "Radioimmuno electrophoresis",
+      "B": "Counter immunoelectrophoresis",
+      "C": "H.P.L.C",
+      "D": "Freeze dried centrifugal method"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Counter-immunoelectrophoresis (CIE) is a standard sensitive serological test used for rapid detection of microbial antigens.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1992"
+  },
+  {
+    "question_number": 17,
+    "question_text": "Listed below are some of the common vehicles, which one is most appropriate for the intravenous admixture of ampicillin $500\\text{ mg}/50\\text{ ml}$?",
+    "options": {
+      "A": "$5\\%$ Dextrose injection",
+      "B": "$5\\%$ Dextrose and $0.9\\%$ Sodium chloride solution",
+      "C": "$2.5\\%$ Dextrose and $0.45\\%$ Sodium Chloride injection",
+      "D": "$0.9\\%$ Sodium Chloride injection"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Ampicillin sodium solutions have limited stability in dextrose solutions due to rapid degradation, making normal saline ($0.9\\%$ NaCl) the preferred vehicle.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1994"
+  },
+  {
+    "question_number": 9,
+    "question_text": "One of the following types of adverse drug reactions is not believed to be dose related phenomena",
+    "options": {
+      "A": "Side effects and toxic reactions",
+      "B": "Toxic reactions and hypersensitivity",
+      "C": "Side effects and hypersensitivity",
+      "D": "Hypersensitivity and idiosyncrasy"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Hypersensitivity and idiosyncrasy are Type B (bizarre) reactions which are unpredictable and generally not dose-related.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1995"
+  },
+  {
+    "question_number": 110,
+    "question_text": "A highly sensitive semi quantitative method of detecting microbial antigens in biological fluid is:",
+    "options": {
+      "A": "Counter immune electrophoresis",
+      "B": "Nitroblue tetrazolium dye assay",
+      "C": "The Coomb's test",
+      "D": "Radio-immune electrophoresis"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Counterimmunoelectrophoresis is commonly employed for rapid detection of microbial antigens.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1998"
+  },
+  {
+    "question_number": 124,
+    "question_text": "Typhoid vaccine IP is a sterile suspension or a freeze dried solid prepared from",
+    "options": {
+      "A": "Salmonella Typhi Murium",
+      "B": "Salmonella Para Typhi",
+      "C": "Salmonella Typhi",
+      "D": "Salmonella Enteritidis"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Typhoid vaccines are prepared from killed or attenuated Salmonella typhi.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1998"
+  },
+  {
+    "question_number": 134,
+    "question_text": "Among the immunizing agents listed below one of them is orally administered. Identify.",
+    "options": {
+      "A": "Tetanus Toxoid",
+      "B": "Rabies Vaccine",
+      "C": "Poliomyestis Vaccine",
+      "D": "Mumps Virus Vaccine"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Sabin polio vaccine (OPV) is administered orally.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1998"
+  },
+  {
+    "question_number": 23,
+    "question_text": "The substance mentioned below elicit the therapeutic effect given in (A) to (D): (1) Hepatitis B. Immuno globulin antibodies (2) Tetanus Toxoid",
+    "options": {
+      "A": "1-A, 2-C",
+      "B": "1-C, 2-A",
+      "C": "1-A, 2-D",
+      "D": "1-B, 2-D"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Hepatitis B immune globulin provides passive transfer of antibodies (1-C), while tetanus toxoid induces active immunity (2-A).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1998"
+  },
+  {
+    "question_number": 7,
+    "question_text": "The most common causative agent of Bacterial Pneumonia is:",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Escherichia coli",
+      "C": "Streptococcus pneumoniae",
+      "D": "Mycoplasma pneumoniae"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Streptococcus pneumoniae is the leading bacterial cause of community-acquired pneumonia.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1999"
+  },
+  {
+    "question_number": 8,
+    "question_text": "Creatinine clearance is used as a measurement for",
+    "options": {
+      "A": "Glomerular filtration rate",
+      "B": "Renal excretion rate",
+      "C": "Drug metabolism rate",
+      "D": "Passive renal excretion"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Creatinine clearance closely approximates the glomerular filtration rate (GFR) of the kidneys.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-1999"
+  },
+  {
+    "question_number": 20,
+    "question_text": "The following prescription is given to the pharmacist by the physician to dispense: Calciferol solution $0.3$, Water to Q.S. $5.0\\text{ ml}$ send $25\\text{ ml}$. Final dosage from of this prescription will be",
+    "options": {
+      "A": "Solution",
+      "B": "Elixir",
+      "C": "Emulsion",
+      "D": "Suspension"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Calciferol (Vitamin D) is fat-soluble and does not dissolve completely in water without a co-solvent or emulsifying agent, forming a suspension.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2000"
+  },
+  {
+    "question_number": 45,
+    "question_text": "Match the diseases with their clinical tests: 1. Diabetes mellitus 2. Cystic fibrosis",
+    "options": {
+      "A": "Decrease in Haemoglobin levels",
+      "B": "Increase in blood sugar levels",
+      "C": "D.N.A diagnosis",
+      "D": "Decreased levels of TSH"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Diabetes mellitus is diagnosed via increased blood sugar levels, and cystic fibrosis can be diagnosed using DNA tests.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2000"
+  },
+  {
+    "question_number": 22,
+    "question_text": "A specimen obtained from a patient's cerebrospinal fluid, cultured in specializedmedia for about five weeks showed the presence of bent rods and tested positive with Ziehl-Neelsen reagent. Identify the organism",
+    "options": {
+      "A": "Nesseria meningitides",
+      "B": "Mycobacterium tuberculosis",
+      "C": "Bacteroides fragilis",
+      "D": "Leptospira interrogans"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Mycobacterium tuberculosis is acid-fast (positive Ziehl-Neelsen stain), slow-growing, and can cause tuberculous meningitis.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2001"
+  },
+  {
+    "question_number": 221,
+    "question_text": "Varicella zoster is the causative organism for",
+    "options": {
+      "A": "Small Pox",
+      "B": "Dermatophytosis",
+      "C": "Herpes",
+      "D": "Infectious mononucleosis"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Varicella-zoster virus is the causative agent of chickenpox (varicella) and shingles (herpes zoster).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2001"
+  },
+  {
+    "question_number": 222,
+    "question_text": "One of the following is confirmed by diagnosis test",
+    "options": {
+      "A": "Hyperuricemia",
+      "B": "Cystic fibrosis",
+      "C": "Acute pancreatitis",
+      "D": "Hyperlipidemia"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The sweat chloride test is the standard diagnostic test specifically used to confirm cystic fibrosis.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2001"
+  },
+  {
+    "question_number": 14,
+    "question_text": "Which of the following pairs has an interaction beneficial for routine clinical use",
+    "options": {
+      "A": "Pseudoephedrine & Aluminium hydroxide gel",
+      "B": "Tetracyclines and Milk of magnesia",
+      "C": "MAO inhibitors and Tyramine",
+      "D": "Choramphenicol and Tolbutamide"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Antacids like aluminum hydroxide can increase the rate of absorption of pseudoephedrine due to alkalinization of the stomach.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2002"
+  },
+  {
+    "question_number": 15,
+    "question_text": "Measurement of which of the following two of the constituents of human plasma is of great value in the differential diagnosis of rheumatoid diseases",
+    "options": {
+      "A": "Rheumatoid factor and immunoglobulin G",
+      "B": "Rheumatoid factor and C-reactive Protein",
+      "C": "HL-A antigen and C-reactive protein",
+      "D": "Immunoglobulin and bradykinin"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rheumatoid factor and C-reactive protein (CRP) are classic clinical markers assessed together for the diagnosis and monitoring of rheumatoid diseases.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2002"
+  },
+  {
+    "question_number": 21,
+    "question_text": "A specimen isolated form a patient suffering from septicemia was found to be a strict aerobe. Its culture vial had a characteristic grape like odour and it was susceptible to carbenicillin. Identify the organism",
+    "options": {
+      "A": "Pseudomonas fluorescens",
+      "B": "Salmonella typhi",
+      "C": "Staphylococcus",
+      "D": "Pseudomonas aeruginosa"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Pseudomonas aeruginosa is characterized by a distinctive grapaelike or corn tortilla-like odor, is a strict aerobe, and is typically susceptible to antipseudomonal penicillins like carbenicillin.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2002"
+  },
+  {
+    "question_number": 23,
+    "question_text": "One of the ex-officio member of the Pharmacy Council of India is",
+    "options": {
+      "A": "Director General of Health Services",
+      "B": "Government Analyst",
+      "C": "Registrar of the State Pharmacy Council",
+      "D": "Director General of veterinary Research Institute"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Director General of Health Services is an ex-officio member of the Pharmacy Council of India under the Pharmacy Act.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 24,
+    "question_text": "The Schedule in Drugs and Cosmetics Act that deals with the requirements and guidelines for clinical trials, import and manufacture of new drugs is",
+    "options": {
+      "A": "Schedule 'O'",
+      "B": "Schedule 'M'",
+      "C": "Schedule 'F'",
+      "D": "Schedule 'Y'"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Schedule Y of the Drugs and Cosmetics Rules outlines the requirements and guidelines for clinical trials and approval of new drugs.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 29,
+    "question_text": "An organism which has been implicated as a possible cause of chronic gastritis and peptic ulcer is",
+    "options": {
+      "A": "Campylobacter Jejuni",
+      "B": "Escherichia Coli",
+      "C": "Helicobacter pylori",
+      "D": "Giardia lamblia"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Helicobacter pylori is a gram-negative bacterium strongly associated with chronic gastritis, peptic ulcers, and gastric cancer.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 51,
+    "question_text": "Rabies Antiserum I. P. is",
+    "options": {
+      "A": "A freeze dried preparation containing antitoxic",
+      "B": "A preparation containing specific globulin or its derivatives obtained by purification of hyper immune serum or plasma of healthy horses",
+      "C": "A sterile preparation containing antitoxic globulin",
+      "D": "A sterile preparation containing antioxic globulin obtained by purification of hyper immune serum of horses"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rabies antiserum is a sterile preparation containing antiviral globulins derived from hyperimmunized equine plasma.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 44,
+    "question_text": "Acid-fast organisms are seen in the sputum of a 48-year old alcoholic man. A test to confirm whether he needs long-term multi-drug treatment for tuberculosis is",
+    "options": {
+      "A": "Chest X-ray",
+      "B": "Ziehl-Neelsen stain of the sputum",
+      "C": "Sputum cytology",
+      "D": "Mycobacterial cultures of the sputum"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Mycobacterial culture provides the definitive diagnosis and confirmation for initiating long-term multi-drug anti-TB therapy.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2005"
+  },
+  {
+    "question_number": 75,
+    "question_text": "Warfarin interacts with this antiasthmatic drug and increases prothrombin time:",
+    "options": {
+      "A": "Budesonide",
+      "B": "Zafirlukast",
+      "C": "Salmeterol",
+      "D": "Bambuterol"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2005"
+  },
+  {
+    "question_number": 11,
+    "question_text": "Metered dose inhalers documentation records shall show one of the information in addition to the GMP:",
+    "options": {
+      "A": "Portable stirrer",
+      "B": "Records of rejection during on line check weighing",
+      "C": "Water distillation unit deionizer",
+      "D": "Electrically operate mixer"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "In-process quality control records such as rejection logs during on-line check weighing are mandatory for MDIs.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2006"
+  },
+  {
+    "question_number": 13,
+    "question_text": "A 80 years old lady suffering from osteoarthritis of hip and knee joints is given diclofenac 50 mg thrice daily and paracetamol 1 gm asrequire. She complains of passing black stools. This symptom is due to",
+    "options": {
+      "A": "Paracetamol causing the black stool",
+      "B": "Change in food habits",
+      "C": "Upper gastrointestinal bleeding due to diclofenac",
+      "D": "Age related decrease in gastrointestinal motility"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Melena (black stools) in a patient taking NSAIDs like diclofenac is a classic sign of upper gastrointestinal bleeding.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2006"
+  },
+  {
+    "question_number": 54,
+    "question_text": "The characteristic of the sabin vaccine administered orally for prevention of polio",
+    "options": {
+      "A": "P, S",
+      "B": "Q, R",
+      "C": "P, R",
+      "D": "P, Q"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Sabin vaccine (OPV) consists of live attenuated strains and carries a rare risk of reverting to neurovirulence, causing vaccine-associated paralytic poliomyelitis.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2007"
+  },
+  {
+    "question_number": 3,
+    "question_text": "Co-administration of NSAIDs with Warfarin may often lead to",
+    "options": {
+      "A": "Antagonistic interaction",
+      "B": "Interaction due to change in drug transport",
+      "C": "Interaction due to disturbances in electrolyte balance",
+      "D": "Additive or synergistic interaction"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "NSAIDs displace warfarin from plasma protein binding sites or inhibit platelet aggregation, leading to additive or synergistic bleeding risks.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 13,
+    "question_text": "Clinical jaundice, typified by yellowing of the tissues is associated with elevated levels of",
+    "options": {
+      "A": "Serum lysozyme",
+      "B": "Serum bilirubin",
+      "C": "Serum creatinine",
+      "D": "Serum g-glutamyl transferase"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Jaundice is clinically defined by hyperbilirubinemia, leading to the yellow coloration of skin and sclera.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 63,
+    "question_text": "Match interacting drugs in Group I with pharmacological effects in Group II: (P) Verapamil and Atenolol, (Q) Clozapine and Co-trimoxazole, (R) Alcohol and Flunitrazepam, (S) Ramipril and amiloride.",
+    "options": {
+      "A": "P-4, Q-2, R-3, S-1",
+      "B": "P-2, Q-3, R-4, S-1",
+      "C": "P-3, Q-4, R-2, S-1",
+      "D": "P-4, Q-1, R-2, S-3"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Verapamil and atenolol cause severe bradycardia/asystole, clozapine and co-trimoxazole increase bone marrow suppression risk, alcohol and flunitrazepam cause severe CNS depression, and ramipril with amiloride increases hyperkalemia risk.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 34,
+    "question_text": "Phase I clinical studies of a drug under development is generally carried out on",
+    "options": {
+      "A": "At least 10,000 people from different ethnic communities and a wide range of age groups",
+      "B": "A medium sized group of 500-1000 patients suffering from the disease for which the drug is being developed",
+      "C": "A small group of 20-100 healthy male and female volunteers",
+      "D": "Reliable in-vitro cell-lines derived from people suffering with the disease"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phase I clinical trials primarily evaluate safety, pharmacokinetics, and tolerability in a small group of healthy volunteers (usually 20-100).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2009"
+  },
+  {
+    "question_number": 94,
+    "question_text": "Geriatric populations should be included in the following Phase of clinical trials",
+    "options": {
+      "A": "Phase I",
+      "B": "Phase II",
+      "C": "Phase III",
+      "D": "Phase IV"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2010"
+  },
+  {
+    "question_number": 31,
+    "question_text": "Blood level monitoring of HbA1c is important in which of the given diseased states",
+    "options": {
+      "A": "Hypercholesterolemia",
+      "B": "Diabetes mellitus",
+      "C": "Myocardial infarction",
+      "D": "Congestive heart failure"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "HbA1c reflects average blood glucose over the past 3 months and is the standard metric for monitoring diabetes mellitus.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 46,
+    "question_text": "A 64 year old woman with a history of Type II diabetes is diagnosed with heart failure. Which of the followings would be a Poor choice in controlling her diabetes",
+    "options": {
+      "A": "Metformin",
+      "B": "Pioglitazone",
+      "C": "Glipizide",
+      "D": "Exenatide"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Thiazolidinediones like pioglitazone cause fluid retention and worsen or precipitate heart failure, making them contraindicated.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 55,
+    "question_text": "Which condition does not apply as per Indian law while conducting single dose bioavailability study of an immediate release product",
+    "options": {
+      "A": "Sampling period should be at least three t_1/2 el",
+      "B": "Sampling should represent pre-exposure, peak exposure and post-exposure phases",
+      "C": "There should be at least four sampling points during elimination phase",
+      "D": "Sampling should be continued till measured AUC is at least equal to 80% of AUC"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Typically, at least 3 to 4 points are needed in the terminal elimination phase, but specific regulatory guidance requires AUC truncation rules rather than exactly four points in elimination.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 57,
+    "question_text": "Which of the following routes of administration of drugs is associated with Phlebitis",
+    "options": {
+      "A": "Subcutaneous",
+      "B": "Intravenous",
+      "C": "Intraspinal",
+      "D": "Intradural"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phlebitis is inflammation of a vein, commonly associated with intravenous catheterization and IV drug administration.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 75,
+    "question_text": "Define Plasmapheresis. Choose the correct answer",
+    "options": {
+      "A": "The process of collecting plasma and returning the red blood cells concentrate to the donor",
+      "B": "The process of collecting red blood cells concentrate and returning the plasma to the donor",
+      "C": "The process of separating whiteblood cells from blood",
+      "D": "The process of generating artificial blood plasma expanders"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Plasmapheresis involves extracting plasma from drawn blood and returning the cellular components back to the donor.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 79,
+    "question_text": "A drug is administered to a $65\\text{ Kg}$ patient as $500\\text{ mg}$ tablets every $4\\text{ hours}$. Half-life of the drug is $3\\text{ h}$, volume of distribution is $2\\text{ liter/Kg}$ and oral bioavailability of the drug is $0.85$. Calculate the steady state concentration of the drug",
+    "options": {
+      "A": "$5.05\\text{ mcg/ml}$",
+      "B": "$4.50\\text{ mcg/ml}$",
+      "C": "$3.53\\text{ mcg/ml}$",
+      "D": "$3.00\\text{ mcg/ml}$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Css = $(F \\times Dose) / (Cl \\times \\tau)$. Calculation yields approximately $5.05\\text{ mcg/ml}$.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 86,
+    "question_text": "What will be the dose required maintaining therapeutic concentration of $20\\text{ }\\mu\\text{gm/ml}$ for $24\\text{ hr}$ of a drug exhibiting total clearance of $2\\text{ L/hr}$?",
+    "options": {
+      "A": "$96\\text{ mg}$",
+      "B": "$480\\text{ mg}$",
+      "C": "$960\\text{ mg}$",
+      "D": "$48\\text{ mg}$"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Total Dose = $C_p \\times Cl \\times t = 20\\text{ }\\mu\\text{g/mL} \\times 2000\\text{ mL/hr} \\times 24\\text{ hr} = 960,000\\text{ }\\mu\\text{g} = 960\\text{ mg}$.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 91,
+    "question_text": "SOS means which one of the followings",
+    "options": {
+      "A": "Take occasionally",
+      "B": "Take immediately",
+      "C": "Take when necessary",
+      "D": "Take as directed"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Latin abbreviation 'si opus sit' (SOS) means 'if necessary' or 'as needed'.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 132,
+    "question_text": "Following are the phases of clinical trials:\n[P] : Human pharmacology\t[Q] : Therapeutic confirmatory trials\n[R] : Post marketing trials\t[S] : Therapeutic exploratory trials\nChoose the correct order of phases of clinical trial.",
+    "options": {
+      "A": "P, Q, R, S",
+      "B": "P, R, Q, S",
+      "C": "P, Q, S, R",
+      "D": "P, S, Q, R"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Clinical trial phases correspond to Phase I (Human pharmacology), Phase II (Therapeutic exploratory), Phase III (Therapeutic confirmatory), and Phase IV (Post marketing).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 147,
+    "question_text": "In a pharmacokinetic model depicted In the following scheme, what is the half-life of the drug if the apparent volume of distribution of the drug is 25 L?",
+    "options": {
+      "A": "1.7 hr",
+      "B": "2 hr",
+      "C": "4 hr",
+      "D": "3 hr"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Using the elimination rate constant $k = 0.173 \\text{ hr}^{-1}$, half-life $t_{1/2} = 0.693 / 0.173 \\approx 4 \\text{ hr}$ or based on specific multi-compartment values matching the diagram's calculated parameters.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 15,
+    "question_text": "For intramuscular injection, angle of administration is ............... Degree",
+    "options": {
+      "A": "30",
+      "B": "45",
+      "C": "60",
+      "D": "90"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Intramuscular injections are administered at a 90-degree angle to reach deep muscle tissue.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013 (1)"
+  },
+  {
+    "question_number": 24,
+    "question_text": "A prescription order for an antibiotic preparation includes the directions 'ii gtt AU q.i.d' what auxiliary label should be affixed to the prescription order container",
+    "options": {
+      "A": "Take with meals",
+      "B": "For the eye",
+      "C": "For rectal use",
+      "D": "For the ear"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "AU stands for 'aurque utraque' which means both ears, so the auxiliary label should specify 'For the ear'.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013 (1)"
+  },
+  {
+    "question_number": 26,
+    "question_text": "Which of the following criteria should be considered when reviewing a medication for addition to the hospital formulary",
+    "options": {
+      "A": "The amount of samples provided to hospital physicians",
+      "B": "Research funds donated to the hospital by the pharmaceutical company",
+      "C": "National adverse drug reaction reports",
+      "D": "Whether is a gluten-free oral formulation"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Safety profile and national adverse drug reaction reports are critical clinical criteria when evaluating drugs for a hospital formulary.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013 (1)"
+  },
+  {
+    "question_number": 58,
+    "question_text": "To balace intellectual property protection, competition and access to affordable prescription drug, the act made by US government is",
+    "options": {
+      "A": "Drug Price Competition act",
+      "B": "Patent term Restroration act",
+      "C": "Hatch-Waxman act",
+      "D": "Orphan Drug Act"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Drug Price Competition and Patent Term Restoration Act of 1984 is widely known as the Hatch-Waxman Act.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013 (1)"
+  },
+  {
+    "question_number": 73,
+    "question_text": "Which of the following drugs requires administration on an empty stomach",
+    "options": {
+      "A": "Naproxen",
+      "B": "Levothyroxine",
+      "C": "Prednisone",
+      "D": "Nitrofurantoin"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013 (1)"
+  },
+  {
+    "question_number": 93,
+    "question_text": "The Vd for phenytoin is 70 L and half life is 1.5 hours. What is the total clearance of phenytoin",
+    "options": {
+      "A": "34.32 L/h",
+      "B": "32.34 L/h",
+      "C": "151.5 L/h",
+      "D": "51.51 L/h"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013 (1)"
+  },
+  {
+    "question_number": 102,
+    "question_text": "An extension of the normal pharmacological effects of a drug or its metabolite is termed as ............",
+    "options": {
+      "A": "Type A ADR",
+      "B": "Type B ADR",
+      "C": "Type C ADR",
+      "D": "Type D ADR"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013 (1)"
+  },
+  {
+    "question_number": 103,
+    "question_text": "Which of the following parameters is/are important in determining bioequivalence",
+    "options": {
+      "A": "T_{max}",
+      "B": "C_{max}",
+      "C": "AUC and C_{max}",
+      "D": "None of these"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013 (1)"
+  },
+  {
+    "question_number": 108,
+    "question_text": "Identify the harmful drug-drug interaction",
+    "options": {
+      "A": "Imipenem - Cilastatin",
+      "B": "L-Dopa-Entacapone",
+      "C": "Meperidine - Pargyline",
+      "D": "Methotrexate - leucovorin"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013 (1)"
+  },
+  {
+    "question_number": 24,
+    "question_text": "A prescription order for an antibiotic preparation includes the directions 'ii gtt AU q.i.d' what auxiliary label should be affixed to the prescription order container",
+    "options": {
+      "A": "Take with meals",
+      "B": "For the eye",
+      "C": "For rectal use",
+      "D": "For the ear"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "'AU' stands for aurique utra (both ears), hence 'For the ear' is appropriate.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 26,
+    "question_text": "Which of the following criteria should be considered when reviewing a medication for addition to the hospital formulary",
+    "options": {
+      "A": "The amount of samples provided to hospital physicians",
+      "B": "Research funds donated to the hospital by the pharmaceutical company",
+      "C": "National adverse drug reaction reports",
+      "D": "Whether is a gluten-free oral formulation"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Formulary committee decisions are heavily guided by safety, efficacy, cost, and national adverse drug reaction reports.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 58,
+    "question_text": "To balace intellectual property protection, competition and access to affordable prescription drug, the act made by US government is",
+    "options": {
+      "A": "Drug Price Competition act",
+      "B": "Patent term Restroration act",
+      "C": "Hatch-Waxman act",
+      "D": "Orphan Drug Act"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Drug Price Competition and Patent Term Restoration Act of 1984 is commonly known as the Hatch-Waxman Act.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 93,
+    "question_text": "The Vd for phenytoin is 70 L and half life is 1.5 hours. What is the total clearance of phenytoin",
+    "options": {
+      "A": "34.32 L/h",
+      "B": "32.34 L/h",
+      "C": "151.5 L/h",
+      "D": "51.51 L/h"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 102,
+    "question_text": "An extension of the normal pharmacological effects of a drug or its metabolite is termed as ............",
+    "options": {
+      "A": "Type A ADR",
+      "B": "Type B ADR",
+      "C": "Type C ADR",
+      "D": "Type D ADR"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 103,
+    "question_text": "Which of the following parameters is/are important in determining bioequivalence",
+    "options": {
+      "A": "T_{max}",
+      "B": "C_{max}",
+      "C": "AUC and C_{max}",
+      "D": "None of these"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 13,
+    "question_text": "Monitoring of plasma drug concentration is required while using:",
+    "options": {
+      "A": "Antihypertensive drugs",
+      "B": "Levodopa",
+      "C": "Lithium carbonate",
+      "D": "MAO inhibitors"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Lithium has a narrow therapeutic index and requires routine therapeutic drug monitoring.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2014"
+  },
+  {
+    "question_number": 50,
+    "question_text": "Which rule does provide the most accurate method to calculate the dose for child based on adult dose",
+    "options": {
+      "A": "Age is months",
+      "B": "Age in years",
+      "C": "Weight in pounds",
+      "D": "Body surface area"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Body surface area (BSA) provides the most physiologically sound and accurate basis for pediatric dosing calculations.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2014"
+  },
+  {
+    "question_number": 122,
+    "question_text": "Aim of pharmacovigilance is",
+    "options": {
+      "A": "To monitor drug toxicity",
+      "B": "To monitor unauthorized drug manufacture",
+      "C": "To monitor rational use of drugs",
+      "D": "To check and control drug costs"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2014"
+  },
+  {
+    "question_number": 123,
+    "question_text": "Phase zero studies is a/an (P) Exploratory investigational new drug study (Q) Human microdosingstudies (R) Step to speed up drug discovery/ development process (S) Mandatory by FDA",
+    "options": {
+      "A": "P and Q",
+      "B": "Q and R",
+      "C": "P, Q and R",
+      "D": "P, Q, R and S"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2014"
+  },
+  {
+    "question_number": 6,
+    "question_text": "Which eye infection is also called as 'Pink Eye' infection",
+    "options": {
+      "A": "Fungal keratitis",
+      "B": "Viral keratitis",
+      "C": "Conjunctivitis",
+      "D": "Myopia"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Conjunctivitis, particularly bacterial or viral, is commonly referred to as pink eye due to redness of the conjunctiva.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2015"
+  },
+  {
+    "question_number": 31,
+    "question_text": "A Pharmaceutical company plans to market a generic version of a drug produce whose patent has expired has expire (d) Which type of documentation must be submitted to the FDA",
+    "options": {
+      "A": "IND",
+      "B": "NDA",
+      "C": "ANDA",
+      "D": "SNDA & Letter of intent"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "An Abbreviated New Drug Application (ANDA) is submitted to the FDA for the review and approval of a generic drug product.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2015"
+  },
+  {
+    "question_number": 39,
+    "question_text": "Characteristics feature if hemorrhagic dengue fever is",
+    "options": {
+      "A": "Reduction in platelet count",
+      "B": "Reduction in RBC count",
+      "C": "Reduction in coagulation factors",
+      "D": "Increased RBC"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Thrombocytopenia (marked reduction in platelet count) is a cardinal clinical feature of dengue hemorrhagic fever.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2015"
+  },
+  {
+    "question_number": 50,
+    "question_text": "Which of the following is not recommended in patients with renal insufficiency or cardiac dysfunction",
+    "options": {
+      "A": "Aloe",
+      "B": "Bisacodyl",
+      "C": "Isapghol",
+      "D": "Magnesium hydroxide"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Magnesium hydroxide (saline laxative) can cause systemic magnesium toxicity in patients with renal insufficiency.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2015"
+  },
+  {
+    "question_number": 52,
+    "question_text": "Which of the following in correct about parenteral nutrition",
+    "options": {
+      "A": "Parenteral nutrition solutions are hypertonic solutionsand IV fluids are isotonic",
+      "B": "Parenteralnutribtionsolutions and IV preparations are isotonic solutions",
+      "C": "Parentrntal nutrition solutions are hypertonic solutions and IV fluids are isotonic",
+      "D": "Parenteral nutrition solutions can be supplemented with mediacations"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Parenteral nutrition solutions have high concentrations of amino acids and dextrose, making them markedly hypertonic compared to standard isotonic IV fluids.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2015"
+  },
+  {
+    "question_number": 54,
+    "question_text": "Which of the following in not include in immunization programme as per WHO recommendations for all children",
+    "options": {
+      "A": "BCG",
+      "B": "Oral polio",
+      "C": "Measels",
+      "D": "Typhoid"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Typhoid vaccine is not universally included in the standard WHO expanded program on immunization for all children worldwide.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2015"
+  },
+  {
+    "question_number": 80,
+    "question_text": "The chairman of the investigational new Drug (IND) committee in India is",
+    "options": {
+      "A": "Drugs controller General of India, Government of India",
+      "B": "Secretary, Department of Health Research, Government of India",
+      "C": "Directorate General of Health Sciences, Government of India",
+      "D": "Secretary, Department of Biotechnology, Government of India"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2015"
+  },
+  {
+    "question_number": 95,
+    "question_text": "Monitoring of plasma drug concentration is required while using:",
+    "options": {
+      "A": "Antihypertensive drugs",
+      "B": "Levodopa",
+      "C": "Lithium carbonate",
+      "D": "MAO inhibitors"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2015"
+  },
+  {
+    "question_number": 100,
+    "question_text": "Efficiency of drug is checked in modest population in",
+    "options": {
+      "A": "Clinical trail-phase 1",
+      "B": "Clinical trail-phase 2",
+      "C": "Clinical trail-phase 3",
+      "D": "Clinical trail-phase 4"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2015"
+  },
+  {
+    "question_number": 122,
+    "question_text": "Adverse drug Event reporting in the responsibility of all of the following EXCEPT",
+    "options": {
+      "A": "Pharmacist and physician",
+      "B": "Manufacturer",
+      "C": "Consumer",
+      "D": "Regulatory authorities"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2015"
+  },
+  {
+    "question_number": 10,
+    "question_text": "Adverse drug Event reporting in the responsibility of all of the following EXCEPT",
+    "options": {
+      "A": "Pharmacist and physician",
+      "B": "Manufacturer",
+      "C": "Consumer",
+      "D": "Regulatory authorities"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Regulatory authorities receive and evaluate ADR reports; reporting is the responsibility of healthcare professionals, manufacturers, and consumers.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2016"
+  },
+  {
+    "question_number": 14,
+    "question_text": "Efficiency of drug is checked in modest population in",
+    "options": {
+      "A": "Clinical trail-phase 1",
+      "B": "Clinical trail-phase 2",
+      "C": "Clinical trail-phase 3",
+      "D": "Clinical trail-phase 4"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phase 2 clinical trials involve a modest/controlled patient population (typically several hundred) to evaluate efficacy and short-term safety.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2016"
+  },
+  {
+    "question_number": 49,
+    "question_text": "In order to make a generic substitution; a pharmacist must do also act as a hydrogen bond acceptor",
+    "options": {
+      "A": "Notify the patient of the substitution",
+      "B": "Charge the same or lower price for the generic",
+      "C": "Place the brand name on the label and write \"substitute for\"",
+      "D": "Obtain the physician's consent to substitute the product"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Standard labeling practices for generic dispensing require indicating the substituted product clearly.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2016"
+  },
+  {
+    "question_number": 54,
+    "question_text": "The clinical trial registry in India is maintained by",
+    "options": {
+      "A": "World health organization, Delhi",
+      "B": "Indian council of medical research, New Delhi",
+      "C": "Institute of Clinical Research, New Delhi",
+      "D": "Central drugs standard control Organization, New Delhi"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Clinical Trials Registry - India (CTRI) is hosted and maintained by the ICMR (National Institute of Medical Statistics).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2016"
+  },
+  {
+    "question_number": 16,
+    "question_text": "The most commonly used test of sensitivity to antimicrobial agent is",
+    "options": {
+      "A": "Kirby-Bauer techniques",
+      "B": "Immunodiffusion techniques",
+      "C": "Qudin procedure",
+      "D": "Ouchter-Lon procedure"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Kirby-Bauer disk diffusion method is the standard and most commonly used laboratory test for antimicrobial susceptibility.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2017"
+  },
+  {
+    "question_number": 42,
+    "question_text": "A patient receiving warfarin develops rheumatoid arthritis. Which one of the following drugs would be Contraindicated",
+    "options": {
+      "A": "Ibuprofen",
+      "B": "Tolmetin",
+      "C": "Aurothioglucose",
+      "D": "Aspirin"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Aspirin causes significant GI ulceration risk and inhibits platelet function, severely compounding the bleeding risks associated with warfarin anticoagulation.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2017"
+  },
+  {
+    "question_number": 47,
+    "question_text": "Following are the list of various inherited metabolic disorders that can affect functioning of liver: a. Primary biliary cirrhosis, b. Glycogen storage disease, c. Gilbert's syndrome, d. Haemochromatosis, e. Wilson's disease",
+    "options": {
+      "A": "a, b, c, d",
+      "B": "b, c, d, e",
+      "C": "a, c, d, e",
+      "D": "a, b, d, e"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Glycogen storage disease, Gilbert's syndrome, hemochromatosis, and Wilson's disease are inherited metabolic disorders directly impacting liver function and deposition.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2017"
+  },
+  {
+    "question_number": 93,
+    "question_text": "Phase 0 studies means",
+    "options": {
+      "A": "In vitro studies",
+      "B": "Part of phase I studies of clinical trials",
+      "C": "First in human microdosing studies",
+      "D": "Studies carried out on small number of animals"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phase 0 clinical trials designate exploratory, first-in-human trials involving very low (microdose) drug quantities.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2017"
+  },
+  {
+    "question_number": 98,
+    "question_text": "An inventory turnover of ......... a year is considered satisfactory",
+    "options": {
+      "A": "Four to six times, Six",
+      "B": "To eight times",
+      "C": "One to two times",
+      "D": "None of the above"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "An inventory turnover of four to six times a year is generally considered standard and satisfactory for retail/pharmaceutical inventory management.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2017"
+  },
+  {
+    "question_number": 103,
+    "question_text": "The number of subjects required in a phase 1 clinical trial is:-",
+    "options": {
+      "A": "20 to 100",
+      "B": "Upto several hundred",
+      "C": "300 to 3,000",
+      "D": "Several thousands"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phase 1 clinical trials typically involve a small group of healthy volunteers numbering around 20 to 100.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2018"
+  },
+  {
+    "question_number": 106,
+    "question_text": "The management of Type-B adverse drug reaction is:-",
+    "options": {
+      "A": "To reduce the dose",
+      "B": "To withhold the dose and avoid in future",
+      "C": "To increase the dose",
+      "D": "To reintroduce and withdraw slowly"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Type B (bizarre/idiosyncratic) adverse drug reactions are dose-independent and hypersensitivity-related, requiring immediate cessation and future avoidance.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2018"
+  },
+  {
+    "question_number": 112,
+    "question_text": "Which of the following is NOT true about the Ebola Virus Disease (EVD)?",
+    "options": {
+      "A": "Spreads through human-to-human transmission via direct contact",
+      "B": "Antiviral drugs are approved by FDA to mitigate the infection",
+      "C": "Diagnostic tests include ELISA",
+      "D": "The virus is named after a river"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2018"
+  },
+  {
+    "question_number": 125,
+    "question_text": "Which of the following about the Varicella-Zoster Virus (VZV) is NOT true?",
+    "options": {
+      "A": "Varicella develops after an individual is exposed to VZV for the first time",
+      "B": "Herpes zoster develops from reactivation of the virus later in life",
+      "C": "There are no vaccines for this virus",
+      "D": "The infection results in post-herpetic neuralgia"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2018"
+  },
+  {
+    "question_number": 59,
+    "question_text": "In treating immunodeficiency disease the goal is to maintain IgG levels at about :",
+    "options": {
+      "A": "$100 \\text{ mg/dL}$",
+      "B": "$400 \\text{ mg/dL}$",
+      "C": "$200 \\text{ mg/dL}$",
+      "D": "$300 \\text{ mg/dL}$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "In antibody deficiency therapies, immunoglobulin replacement aims to maintain trough IgG levels typically above $400-500 \\text{ mg/dL}$ or normal ranges depending on guidelines.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2019"
+  },
+  {
+    "question_number": 68,
+    "question_text": "MEDLINE, EMBASE, EBM and IDIS are :",
+    "options": {
+      "A": "Drug databases",
+      "B": "New compendial specification of drugs",
+      "C": "Chronicles of drug standards",
+      "D": "Source for drug patents"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "MEDLINE, EMBASE, and IDIS are prominent biomedical and drug information databases.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2019"
+  },
+  {
+    "question_number": 82,
+    "question_text": "Essentially Hospital Formulary system provide mechanism to :",
+    "options": {
+      "A": "Streamline prescription writing",
+      "B": "Improve quality and hygenicity of food",
+      "C": "Avoid brand and therapeutic duplication",
+      "D": "Improve surgical procedures"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2019"
+  },
+  {
+    "question_number": 110,
+    "question_text": "Match the following liver abnormalities with consequences: (a) Steatosis (b) Cholestasis (c) Hepatitis (d) Fibrosis with (M) Raised bilirubin level (N) Slight rise in serum transaminase level (O) Accumulation of fat droplets within liver cells (P) Elevated liver function test (LFT's)",
+    "options": {
+      "A": "(a) - (N), (b) - (P), (c) - (M), (d) - (O)",
+      "B": "(a) - (O), (b) - (M), (c) - (P), (d) - (N)",
+      "C": "(a) - (N), (b) - (O), (c) - (P), (d) - (M)",
+      "D": "(a) - (P), (b) - (O), (c) - (N), (d) - (M)"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2019"
+  },
+  {
+    "question_number": 13,
+    "question_text": "The Wilson's disease is a rare inherited disorder due to accumulation in brain, liver and other vital organs of:",
+    "options": {
+      "A": "Iodine",
+      "B": "Calcium",
+      "C": "Iron",
+      "D": "Copper"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Wilson's disease is an autosomal recessive genetic disorder characterized by toxic accumulation of copper in tissues, especially the liver and brain.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2024"
+  },
+  {
+    "question_number": 9,
+    "question_text": "Match the following disease with their test for detection: P. Tuberculosis, Q. AIDS, R. Syphilis, S. Leprosy with (i) Lepromin test, (ii) ELISA, (iii) Mantoux test, (iv) Kahn's test",
+    "options": {
+      "A": "P(ii), Q(i), R(iii), S(iv)",
+      "B": "P(i), Q(ii), R(iii), S(iv)",
+      "C": "P(iii), Q(ii), R(iv), S(i)",
+      "D": "P(iv), Q(ii), R(iii), S(i)"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Tuberculosis matches Mantoux test (iii), AIDS matches ELISA (ii), Syphilis matches Kahn's test (iv), and Leprosy matches Lepromin test (i).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2024"
+  },
+  {
+    "question_number": 12,
+    "question_text": "The etiology of jaundice could be haemolytic anaemia if:",
+    "options": {
+      "A": "Unconjugated bilirubin is found more than conjugated bilirubin",
+      "B": "Increase in IgE level",
+      "C": "Conjugated bilirubin is found more than unconjugated bilirubin",
+      "D": "Unconjugated bilirubin is found equal to conjugated bilirubin"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Haemolytic anaemia leads to pre-hepatic jaundice, characterized by a significant elevation in indirect (unconjugated) bilirubin.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2024"
+  },
+  {
+    "question_number": 14,
+    "question_text": "Murmurs are generally heard in disorders affecting the following:",
+    "options": {
+      "A": "Heart valves",
+      "B": "AV nodes",
+      "C": "Pulmonary vein",
+      "D": "SA nodes"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Heart murmurs are abnormal sounds produced by turbulent blood flow, typically caused by defective or diseased heart valves.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2024"
+  },
+  {
+    "question_number": 16,
+    "question_text": "Leprosy is a:",
+    "options": {
+      "A": "Viral disease",
+      "B": "Metazoal disease",
+      "C": "Fungal disease",
+      "D": "Bacterial disease"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Leprosy (Hansen's disease) is a chronic infectious disease caused by the bacterium Mycobacterium leprae.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2024"
+  },
+  {
+    "question_number": 17,
+    "question_text": "Which of the following drug does NOT require therapeutic drug monitoring:",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "Phenytoin",
+      "C": "Digitoxin",
+      "D": "Gentamicin"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Acetaminophen is typically managed via acute overdose levels rather than routine long-term therapeutic drug monitoring (TDM), unlike phenytoin, digitoxin, and gentamicin.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2024"
+  },
+  {
+    "question_number": 2,
+    "question_text": "Who has the power to fix the ceiling price of scheduled formulations:",
+    "options": {
+      "A": "National Pharmaceutical Pricing Authority",
+      "B": "Director General Health Services",
+      "C": "National Medical Commission",
+      "D": "Pharmacy Council of India"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The National Pharmaceutical Pricing Authority (NPPA) in India is mandated to fix and revise prices of scheduled formulations.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2024"
+  },
+  {
+    "question_number": 5,
+    "question_text": "How many Pharmacists are required for a hospital having up to 300 beds:",
+    "options": {
+      "A": "15",
+      "B": "8",
+      "C": "10",
+      "D": "5"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Hospital pharmacy standards typically require specific staffing ratios, such as 10 pharmacists for up to 300 beds according to hospital pharmacy guidelines.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2024"
+  },
+  {
+    "question_number": 20,
+    "question_text": "Two drugs producing the same clinical effects and safety profile when administered to patients are considered:",
+    "options": {
+      "A": "Minimum Effective Concentration (MEC)",
+      "B": "Therapeutic equivalent",
+      "C": "Minimum Toxic Concentration (MTC)",
+      "D": "Therapeutic window"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Therapeutic equivalents are drug products that contain the same active ingredient and provide the same clinical effect and safety profile.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2024"
+  },
+  {
+    "question_number": 19,
+    "question_text": "Which of the following formula for calculating child dose is based on body weight:",
+    "options": {
+      "A": "Young's formula",
+      "B": "Clark's formula",
+      "C": "Fried's formula",
+      "D": "Dilling's formula"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2024"
+  },
+  {
+    "question_number": 15,
+    "question_text": "Match of the following: Diseases: (P) Tuberculosis, (Q) Diphtheria, (R) Yellow fever, (S) Malaria | Causative agent: (1) Bacterial, (2) Viral, (3) Toxoids, (4) Protozoal",
+    "options": {
+      "A": "P-1, Q-3, R-2, S-4",
+      "B": "P-3, Q-1, R-4, S-2",
+      "C": "P-1, Q-2, R-3, S-4",
+      "D": "P-4, Q-1, R-2, S-3"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2025"
+  },
+  {
+    "question_number": 95,
+    "question_text": "Common name of convective transport",
+    "options": {
+      "A": "Endocytosis",
+      "B": "Active transport",
+      "C": "Passive transport",
+      "D": "Pore transport"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2025"
+  },
+  {
+    "question_number": 96,
+    "question_text": "After which phase of clinical trial pharmaceutical companies submit new drug application (NDA) to license authority",
+    "options": {
+      "A": "Phase I",
+      "B": "Phase II",
+      "C": "Phase III",
+      "D": "Phase IV"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2025"
+  },
+  {
+    "question_number": 99,
+    "question_text": "Blood concentration ratio of combination of trimethoprim and sulfamethoxazole after given in ratio 1:5 is",
+    "options": {
+      "A": "1:1",
+      "B": "1:5",
+      "C": "1:10",
+      "D": "1:20"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2025"
+  },
+  {
+    "question_number": 110,
+    "question_text": "If 50% of Women who are diagnosed with Venous Thrombosis is found to be taking oral contraceptives compared to non-thrombosis... Which type of study?",
+    "options": {
+      "A": "Cohort",
+      "B": "Case Study",
+      "C": "Cross Sectional",
+      "D": "ANOVA"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": true,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2025"
+  },
+  {
+    "question_number": 11,
+    "question_text": "A 15 year old boy presents with cough, sneezing and bronchoconstriction. His shows eosinophilia. This condition is most likely associated with which type of hypersensitivity reaction",
+    "options": {
+      "A": "IgE-mediated hypersensitivity",
+      "B": "IgG-mediated cytotoxic hypersensitivity",
+      "C": "Immune complex-mediated hypersensitivity",
+      "D": "Delayed-type hypersensitivity"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2026"
+  },
+  {
+    "question_number": 31,
+    "question_text": "Ginkgo biloba should be avoided with",
+    "options": {
+      "A": "Antihistaminic",
+      "B": "Antidiabetic",
+      "C": "Anticoagulant",
+      "D": "Antacid"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2026"
+  },
+  {
+    "question_number": 89,
+    "question_text": "Formula of Renal clearance",
+    "options": {
+      "A": "Absorption rate/Plasma concentrations",
+      "B": "Absorption rate + Plasma concentrations",
+      "C": "Elimination rate/plasma concentrations",
+      "D": "Absorption rate - Plasma concentrations"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2026"
+  },
+  {
+    "question_number": 103,
+    "question_text": "The Durham-Humphrey Amendment of 1951 primarily introduced. How it impacts pharmacy practice in India",
+    "options": {
+      "A": "Classification of drugs into prescription (legend) and over-the-counter (OTC) categories",
+      "B": "Mandatory proof of drug efficacy before marketing approval",
+      "C": "Regulation of cosmetic products under federal law",
+      "D": "Requirement of informed consent in clinical trials"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2026"
+  },
+  {
+    "question_number": 118,
+    "question_text": "Orphan Drugs are",
+    "options": {
+      "A": "Orphan Drugs is essential drug",
+      "B": "Drugs which are for orphan children's",
+      "C": "Drugs which satisfy majority of population",
+      "D": "Drugs used for rare disease"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2026"
+  },
+  {
+    "question_number": 120,
+    "question_text": "Phase I trial is critical especially due to",
+    "options": {
+      "A": "Efficacy",
+      "B": "Marked surveillance",
+      "C": "Safety and tolerated dose",
+      "D": "Long term study"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Clinical Pharmacy",
+    "source_exam": "gpat-question-paper-2026"
+  },
+  {
+    "question_number": 18,
+    "question_text": "Mantoux test is a diagnostic test for",
+    "options": {
+      "A": "Diphtheria",
+      "B": "Typhoid",
+      "C": "Dengue fever",
+      "D": "Tuberculosis"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Mantoux test is a standardized intradermal skin test used to screen for tuberculosis infection.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "laboratory_technician_qstn_paper"
+  },
+  {
+    "question_number": 77,
+    "question_text": "Body Mass Index is calculated by",
+    "options": {
+      "A": "Weight in Kg $\\div$ (Height in Metre)$^2$",
+      "B": "(Weight in Kg)$^2$ $\\div$ (Height in Metre)",
+      "C": "Weight in Kg $\\div$ (Body Surface area in cm$^2$)",
+      "D": "(Weight in Kg)$^2$ $\\div$ (Body Surface area in cm$^2$)"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Body Mass Index (BMI) is defined as weight in kilograms divided by the square of height in meters ($kg/m^2$).",
+    "category": "Clinical Pharmacy",
+    "source_exam": "laboratory_technician_qstn_paper"
+  },
+  {
+    "question_number": 55,
+    "question_text": "Milky white color of urine is due to the presence of",
+    "options": {
+      "A": "Albumin",
+      "B": "Fat globules",
+      "C": "Haemoglobin",
+      "D": "Nephritis"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Chyluria, the presence of fat globules (lymph/chyle) in the urine, causes it to appear milky white.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "qstn_paper_pharmacist_gr_ii_1"
+  },
+  {
+    "question_number": 56,
+    "question_text": "Severe form of anaemia",
+    "options": {
+      "A": "Hemolytic anaemia",
+      "B": "Regenerative anaemia",
+      "C": "Non regenerative anaemia",
+      "D": "Megalocytic anaemia"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Hemolytic anemia can manifest as a severe form of anemia due to the rapid destruction of red blood cells.",
+    "category": "Clinical Pharmacy",
+    "source_exam": "qstn_paper_pharmacist_gr_ii_1"
+  }
+]

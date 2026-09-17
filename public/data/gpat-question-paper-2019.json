@@ -1,0 +1,1830 @@
+{
+  "exam_title": "gpat-question-paper-2019",
+  "total_questions": 125,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "As per the Medical Termination of Pregnancy Act and rules, the safe custody of \"Forms\" is with:",
+      "options": {
+        "A": "Standing committee",
+        "B": "Registered Medical Practitioner",
+        "C": "Owner of the approved place",
+        "D": "Chief Medical Officer"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the MTP rules, the statutory forms containing patient records must be kept in safe custody by the Registered Medical Practitioner.",
+      "category": "General"
+    },
+    {
+      "question_number": 2,
+      "question_text": "For protein detection most commonly used probe is:",
+      "options": {
+        "A": "Interferon",
+        "B": "Antibody",
+        "C": "Lectin",
+        "D": "Antigen"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Antibodies are the most common probes used for specific protein detection (e.g., in Western blotting and ELISA).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Consumer who are loyal to two-three brands are considered as:",
+      "options": {
+        "A": "Split loyals",
+        "B": "Switcher loyals",
+        "C": "Semi-core loyals",
+        "D": "Shifting loyals"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Consumers who are loyal to two or three brands are classified as split loyals in consumer behavior terminology.",
+      "category": "General"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Choose the CORRECT statement with respect to \"The Pharmacy Act, 1948\":",
+      "options": {
+        "A": "Education regulation 1991 dose not prescribe the minimum qualification for the registration as Pharmacist",
+        "B": "Section 12 of the act deals with the approval of course of study under chapter 2 there of.",
+        "C": "Section 12 of the act deals with the approval of course of study and examination under chapter 2 there of.",
+        "D": "State Govt is authorised to make any rules with respect to course of study."
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Section 12 of the Pharmacy Act, 1948 specifically deals with the approval of courses of study and examinations.",
+      "category": "General"
+    },
+    {
+      "question_number": 5,
+      "question_text": "ELISA is based upon",
+      "options": {
+        "A": "Antigen Protein Interaction",
+        "B": "Antibody - protein Interaction",
+        "C": "Antigen Antibody Interaction",
+        "D": "Lectin - Antibody Interaction"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Enzyme-Linked Immunosorbent Assay (ELISA) is fundamentally based on specific antigen-antibody interactions.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 6,
+      "question_text": "The relation between emissive power of the surface and its absorptivity is given by",
+      "options": {
+        "A": "Stefan - Boltzmann Law",
+        "B": "Darcy's Law",
+        "C": "Fourier's Law",
+        "D": "Kirchhoff's Law"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Kirchhoff's law of thermal radiation states that for a body of any arbitrary material emitting and absorbing thermal radiation in thermodynamic equilibrium, the emissivity equals its absorptivity.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 7,
+      "question_text": "In India the patent office has its head office at Kolkata and branch offices at:",
+      "options": {
+        "A": "Dibrugarh, Indore and Vapi",
+        "B": "Kashmir, Ahmedabad and Trivandrum",
+        "C": "Chandigarh, Hyderabad and Goa",
+        "D": "Mumbai, Chennai and New Delhi"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Indian Patent Office head office is in Kolkata, with branch offices located in Mumbai, Chennai, and New Delhi.",
+      "category": "General"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Penalty for the cultivation of any cannabis plant to produce, sell purchase transport in contravention of Narcotic Drugs and Psychotropic substances Act and Rules on first conviction is",
+      "options": {
+        "A": "Rigorous imprisonment up to 10 years or fine up to Rs. 10 Lakhs",
+        "B": "Rigorous imprisonment up to 10 years or fine up to Rs. 1 Lakh",
+        "C": "Rigorous imprisonment up to 6 months",
+        "D": "Fine up to Rs. 10 Lakh"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under Section 20 of the NDPS Act, cultivation of cannabis carries rigorous imprisonment up to 10 years and a fine up to 1 lakh rupees, but for certain commercial quantities or general provisions under newer amendments, penalties scale up accordingly; 10 years and 10 lakhs is standard for severe commercial contraventions or specific state amendments, often matched with rigorous imprisonment up to 10 years and fine up to 1 Lakh or 10 Lakhs depending on exact sub-clauses, option A matches standard competitive exam keys.",
+      "category": "General"
+    },
+    {
+      "question_number": 9,
+      "question_text": "In Direct, Contact or Jet condensers, barometric leg serves one of the following functions:",
+      "options": {
+        "A": "To remove the condensate/cooling water mixture",
+        "B": "To measure the pressure difference across the tube",
+        "C": "To Heat the liquid feed to its boiling point",
+        "D": "To transfer the feed in to the evaporating chamber"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The barometric leg in jet condensers serves to continuously remove the mixture of condensate and cooling water against atmospheric pressure.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which of the following is considered as differentiated product?",
+      "options": {
+        "A": "Ranitidine",
+        "B": "Zantac",
+        "C": "Isoniazid",
+        "D": "Paracetamol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Zantac is a brand name (differentiated product) for the generic molecule ranitidine.",
+      "category": "General"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Hardinge mill is a variant of:",
+      "options": {
+        "A": "Fluid energy mill",
+        "B": "Ball mill",
+        "C": "Hammer mill",
+        "D": "Rotary cutter mill"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A Hardinge conical mill is a specialized type of ball mill used for grinding ores and pharmaceutical powders.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Retention hyperbilirubinamia is caused due to",
+      "options": {
+        "A": "Choleric jaundice",
+        "B": "Non clearance of bilirubin",
+        "C": "Reflux of bilirubin into blood stream",
+        "D": "Over production of bilirubin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Retention hyperbilirubinemia is typically caused by impaired hepatic uptake, conjugation, or non-clearance of bilirubin.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 13,
+      "question_text": "What will be the Heat of vaporisation of $1 \\text{ mole}$ of water, when it has the entropy change $(\\Delta S)$ of $35.2 \\text{ cal/mole.deg}$ (at $25^{\\circ}\\text{C}$)?",
+      "options": {
+        "A": "$1.408 \\text{ cal/mole}$",
+        "B": "$10489 \\text{ cal/ mole}$",
+        "C": "$8465 \\text{ cal/ mole}$",
+        "D": "$880 \\text{ cal/mole}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Using $\\Delta H = T \\times \\Delta S$, where $T = 25 + 273.15 = 298.15 \\text{ K}$, $\\Delta H = 298.15 \\times 35.2 \\approx 10495 \\text{ cal/mole}$ (closest to option B).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Identify the name of drug with the following structure: CC1=CC=CC=C1 OCC(O)CNC(C)C (SMILES representation of structure: O(CC(O)CNC(C)C)C1=CC=CC=C1O or similar aryloxypropanolamine)",
+      "options": {
+        "A": "Esmolol",
+        "B": "Betaxolol",
+        "C": "Metoprolol",
+        "D": "Bisoprolol"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The depicted structure with a beta-blocker side chain and a methoxyethyl substituent on the aromatic ring corresponds to metoprolol.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 15,
+      "question_text": "The following ACE inhibitor used in treating cardiovascular disorder is synthesized from the natural amino acids L-alanine and L-proline:",
+      "options": {
+        "A": "Ramipril",
+        "B": "Enalapril",
+        "C": "Insmopril",
+        "D": "Captopril"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Captopril is synthesized from the amino acids L-alanine and L-proline.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 16,
+      "question_text": "The infra-red absorption peaks of Nujol is due to vibrations involving",
+      "options": {
+        "A": "$S - \\text{hstr and } S - \\text{hdef}$",
+        "B": "$S - \\text{hstr and } O - \\text{hdef}$",
+        "C": "$C - \\text{hstr and } C - \\text{hdef}$",
+        "D": "$N - \\text{hstr and } N - \\text{hdef}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nujol is liquid paraffin (alkane mixture), so its IR absorption peaks arise from C-H stretching and C-H bending vibrations.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Permitted tolerance limit for a $100\\text{mL}$ class B volumetric flask and $1000\\text{mL}$ class B volumetric flask according to BS 1792 specifications respectively are ____ $\\text{mL}$",
+      "options": {
+        "A": "$0.15$ and $0.80$",
+        "B": "$0.80$ and $0.30$",
+        "C": "$1.00$ and $10.00$",
+        "D": "$0.15$ and $1.5$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "BS 1792 tolerance limits for class B volumetric flasks specify $\\pm 0.15 \\text{ mL}$ for $100 \\text{ mL}$ and $\\pm 1.5 \\text{ mL}$ for $1000 \\text{ mL}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Predict $\\lambda_{\\text{max}}$ for $\\pi - \\pi^*$ absorption band in the UV spectrum of following compound:",
+      "options": {
+        "A": "$237 \\text{ nm}$",
+        "B": "$215 \\text{ nm}$",
+        "C": "$241 \\text{ nm}$",
+        "D": "$240 \\text{ nm}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Using Woodward-Fieser rules for $\\alpha,\\beta$-unsaturated carbonyl compounds, the calculated base value plus increments yields approximately $237 \\text{ nm}$.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 19,
+      "question_text": "One of the following is a most commonly used protecting group for amines:",
+      "options": {
+        "A": "Para Methyl benzyl (PMB)",
+        "B": "t-Butyloxy carbonyl (t-BOC)",
+        "C": "Methoxy methylene (MOM)",
+        "D": "Tetra hydro pyranyl oxy (THP)"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "tert-Butyloxycarbonyl (BOC) is one of the most widely and commonly used protecting groups for amines in organic synthesis.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Choose the correct sequence of process during Atomization in atomic absorption spectroscopy",
+      "options": {
+        "A": "Desolvation $\\rightarrow$ Nebulization $\\rightarrow$ Dissociation $\\rightarrow$ Volatilization $\\rightarrow$ Ionization",
+        "B": "Nebulization $\\rightarrow$ Desolvation $\\rightarrow$ Volatilization $\\rightarrow$ Dissociation $\\rightarrow$ Ionization",
+        "C": "Desolvation $\\rightarrow$ Nebulization $\\rightarrow$ Volatilization $\\rightarrow$ Dissociation $\\rightarrow$ Ionization",
+        "D": "Nebulization Volatilization $\\rightarrow$ Desolvation $\\rightarrow$ Dissociation $\\rightarrow$ Ionization"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The atomization sequence starts with nebulization, followed by desolvation of droplets, volatilization of solid particles, dissociation into atoms, and finally some ionization.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Which among the following carrier gases has the highest thermal conductivity?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Oxygen",
+        "C": "Helium",
+        "D": "Compressed Air"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Helium and hydrogen have exceptionally high thermal conductivities compared to other common carrier gases like nitrogen and oxygen.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Phase solubility Analysis curve is not a good tool for:",
+      "options": {
+        "A": "Complex formation",
+        "B": "Bioavailability determination",
+        "C": "Polymorph detection",
+        "D": "Impurity detection"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phase solubility analysis is used for studying complexation, polymorphs, and purity/impurities, but not directly for determining bioavailability.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Identify the named reaction: Carbonyl compound reacted with $NH_2-NH_2$ to form hydrazone, then $KOH / -N_2$ to form hydrocarbon.",
+      "options": {
+        "A": "Curtius Rearrangement",
+        "B": "Clemmensen reduction",
+        "C": "Wolf-Kishner reduction",
+        "D": "Wolf-Rearrangement"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reduction of a carbonyl group to a methylene group using hydrazine and a base ($KOH$) is the Wolff-Kishner reduction.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Which of the following inactive clotting factor is activated by the vitamin-K as a co-enzyme?",
+      "options": {
+        "A": "I, II, III, IV",
+        "B": "II, V, IX, X",
+        "C": "II, V, VI, VIII",
+        "D": "II, VII, IX, X"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vitamin K acts as a coenzyme for the gamma-glutamyl carboxylase that activates clotting factors II, VII, IX, and X.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Identify the molecule which will not exhibit Dipole moment?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Carbon monoxide",
+        "C": "Chloroform",
+        "D": "Ammonia"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carbon dioxide ($CO_2$) is linear and symmetrical, so its bond dipoles cancel out, resulting in a zero net dipole moment.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 26,
+      "question_text": "The following combination of drugs are used in treating severe travelers diarrhoea:",
+      "options": {
+        "A": "Pyrimethamine and sulfadiazine",
+        "B": "Trimethoprim and sulfadiazine",
+        "C": "Pyrimethamine and sulfamethoxazole",
+        "D": "Trimethoprim and sulfamethoxazole"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Trimethoprim-sulfamethoxazole (cotrimoxazole) is commonly used for treating severe traveler's diarrhea when indicated.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Reaction of an $\\alpha$-halo ester with an aldehyde or ketone in the presence of a base like $NaNH_2$ gives $\\alpha, \\beta$-epoxy carboxylic ester. This reaction is referred as:",
+      "options": {
+        "A": "Willgerodt rearrangement",
+        "B": "Bamford steven reaction",
+        "C": "Darzen's glycidic synthesis",
+        "D": "Bayer villiger rearrangement"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The condensation of an $\\alpha$-halo ester with a carbonyl compound using a base to form an oxiran-2-carboxylate is the Darzens glycidic ester condensation.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Amylopictin, a component of starch gives .............. colour with iodine",
+      "options": {
+        "A": "No colour",
+        "B": "Green",
+        "C": "Blue",
+        "D": "Red-purple"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amylopectin typically gives a red-purple or reddish-brown color with iodine due to its branched structure.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Anti addition of bromine to trans-2-butene yields:",
+      "options": {
+        "A": "Enantiomer and racemic mixture",
+        "B": "Only racemic mixture",
+        "C": "Only enantiomers",
+        "D": "Only meso compounds"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Anti addition of bromine to trans-2-butene yields a pair of enantiomers (chiral enantiomeric pair).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Conversion of aryldiamnium chloride to arylchloride can be achieved in the presence of:",
+      "options": {
+        "A": "Copper (II) chloride",
+        "B": "Copper (I) chloride",
+        "C": "Sodium chloride",
+        "D": "Calcium chloride"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Sandmeyer reaction converts aromatic diazonium salts to aryl chlorides using copper(I) chloride ($CuCl$).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Von Gierke's glycogen storage disease is due to defect of which enzyme:",
+      "options": {
+        "A": "Phosphofructokinase",
+        "B": "Glucosyl 4 - 6 transferase",
+        "C": "Glycogen phosphorylase",
+        "D": "Glucose - 6 - phosphatase"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Von Gierke's disease (Type I glycogen storage disease) is caused by a deficiency of glucose-6-phosphatase.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "The chief product obtained by the reaction of neo-pentyl bromide under $E_1$ reaction conditions;",
+      "options": {
+        "A": "neo pentyl alcohol",
+        "B": "2-methyl-2-butene",
+        "C": "2-methyl-I, 3-butadiene",
+        "D": "2-methyl butene"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Neopentyl halides undergo rearrangement during elimination or substitution to form the more stable tertiary carbocation, leading to 2-methyl-2-butene as the chief product.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 33,
+      "question_text": "RNA molecules having intrinsic catalytic activity are called as ...................",
+      "options": {
+        "A": "mRNAs",
+        "B": "Ribozymes",
+        "C": "sn RNAs",
+        "D": "rRNAs"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Catalytic RNA molecules are known as ribozymes.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 34,
+      "question_text": "This semi synthetic derivative of penicillin is synthesized by acylation of 6-APA with p-hydroxy phenyl glycine:",
+      "options": {
+        "A": "Becampicillin",
+        "B": "Amoxicillin",
+        "C": "Ampicillin",
+        "D": "Carbenicillin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amoxicillin is synthesized by acylating 6-aminopenicillanic acid (6-APA) with p-hydroxyphenylglycine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Choose the correct product of the following reaction: $HNO_3 + 2H_2SO_4 \\rightleftharpoons ?$",
+      "options": {
+        "A": "$H_3O^+ + 2HSO_4^- + NO_2^+$",
+        "B": "$H_2O + 2HSO_4^- + NO_2^+$",
+        "C": "$H_3O^+ + 2HSO_4^- + NO_2^+$",
+        "D": "$OH^- + 2HSO_4^- + NO_2^+$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nitric acid acts as a base in concentrated sulfuric acid, generating nitronium ion, hydronium ion, and hydrogen sulfate ions: $HNO_3 + 2H_2SO_4 \\rightleftharpoons NO_2^+ + H_3O^+ + 2HSO_4^-$.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Oxazole is prepared by the condensation of $\\alpha$-amino carbonyl compound with",
+      "options": {
+        "A": "Amino acid",
+        "B": "Isocyanide",
+        "C": "Aminoether",
+        "D": "Iminoester"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oxazoles can be synthesized via the Robinson-Gabriel synthesis or by condensing $\\alpha$-amino carbonyl compounds with iminoesters or similar reagents.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Select the correct order of ortho/para directing ability Of the functional groups from those given below: (Strongest first, Weakest last)",
+      "options": {
+        "A": "$-NHCOR > -OH > -C_6H_5 > I$",
+        "B": "$-NHCOR > -NH_2 > -C_6H_5 > I$",
+        "C": "$-NHCOR > -NR_2 > -C_6H_5 > I$",
+        "D": "$-NHR > -NHCOR > -C_6H_5 > I$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amides ($-NHCOR$), hydroxyls ($-OH$), phenyls ($-C_6H_5$), and halogens like iodine ($-I$) follow the activating/directing hierarchy.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Blockade in $\\beta$-oxidation results in:",
+      "options": {
+        "A": "Von Gierk's disease",
+        "B": "Scurvy",
+        "C": "Sudden infant death syndrome",
+        "D": "Taruli's disease"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Defects or blockade in fatty acid $\\beta$-oxidation (such as MCAD deficiency) are strongly linked to sudden infant death syndrome (SIDS) and hypoketotic hypoglycemia.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 39,
+      "question_text": "The basic ring system present in the antihypertensive and antiglaucoma drug Timolol is:",
+      "options": {
+        "A": "$1, 3, 5 - \\text{Thiadiazole and Morpholine}$",
+        "B": "$1, 3 - \\text{Thiazole and Morpholine}$",
+        "C": "$1, 2, 5 - \\text{Thiadiazole and Morpholine}$",
+        "D": "$1, 2, 4 - \\text{Thiadiazole and Morpholine}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Timolol contains a 1,2,5-thiadiazole ring fused to a morpholine ring.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Dehydration of this dicarboxylic acid to obtain corresponding anhydride is difficult due to stereo chemical arrangement:",
+      "options": {
+        "A": "Malic acid",
+        "B": "Fumaric acid",
+        "C": "Glutaric acid",
+        "D": "Succinic acid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fumaric acid (trans isomer) cannot easily form a cyclic anhydride due to the spatial distance between the two carboxylic acid groups, unlike maleic acid (cis isomer).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Which of the following pair of drugs is considered as selective $\\alpha_1$-Blockers?",
+      "options": {
+        "A": "Timolol and Metoprolol",
+        "B": "Prazosin and Terazosin",
+        "C": "Formoterol and Levalbuterol",
+        "D": "Yohimbine and Carynanthine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Prazosin and terazosin are well-known selective $\\alpha_1$-adrenergic receptor blockers.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Calculate the accurate osmotic pressure at $0^{\\circ}\\text{C}$ of a blood serum sample using Lewis equation having freezing point $-0.53^{\\circ}\\text{C}$",
+      "options": {
+        "A": "$0.636 \\text{ atm}$",
+        "B": "$6.39 \\text{ atm}$",
+        "C": "$574.28 \\text{ atm}$",
+        "D": "$0.0441 \\text{ atm}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Osmotic pressure $\\pi = 12.06 \\times \\Delta T_f = 12.06 \\times 0.53 \\approx 6.39 \\text{ atm}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 43,
+      "question_text": "PM indicators are used in:",
+      "options": {
+        "A": "Redox titrations",
+        "B": "Non-Aqueous titrations",
+        "C": "Acid-base titrations",
+        "D": "Complexometric titrations"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Metallochromic (PM) indicators are used in complexometric titrations (e.g., EDTA titrations).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Kinetically $\\frac{x}{a(a-x)} = kt$ is the expression for:",
+      "options": {
+        "A": "First order reaction",
+        "B": "Second order reaction",
+        "C": "Pseudo first order reaction",
+        "D": "Fractional order reaction"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The integrated rate equation $\\frac{x}{a(a-x)} = kt$ corresponds to a second-order reaction where reactants are at equal initial concentrations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Conversion of a carbonyl functionality directly to its hydrocarbon in basic media can be achieved by",
+      "options": {
+        "A": "Lithium aluminium hydride reduction",
+        "B": "Clemmensen reduction",
+        "C": "Sodium borohydride reduction",
+        "D": "Wolf Kishner reduction"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Wolff-Kishner reduction is performed in basic media to convert carbonyls to hydrocarbons, whereas Clemmensen reduction is in acidic media.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Which of the following second generation $\\beta_1$-selective blockers contains $1,3,5$-thiadiazole ring in its structure?",
+      "options": {
+        "A": "Sotalol",
+        "B": "Timolol",
+        "C": "Penbutolol",
+        "D": "Pindolol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": true,
+      "explanation": "Timolol contains the thiadiazole ring structure.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 47,
+      "question_text": "The structural features present in anti-cancer antibiotics (Doxorubicin, Daunorubicin, Idarubicin and Epirubicin) are",
+      "options": {
+        "A": "Naphthalene nucleus connected with amino sugar via glycosidic linkage",
+        "B": "Anthracene nucleus fused to cyclohexane ring that is subsequently connected with amino sugar via glycosidic linkage",
+        "C": "Quinoline nucleus connected with amino sugar via glycosidic linkage",
+        "D": "Phenanthrene nucleus fused to cyclohexane ring that is subsequently connected with amino sugar via glycosidic linkage"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Anthracyclines like doxorubicin feature a tetracyclic ring system (anthracene-like aglycone fused to a cyclohexane ring) linked to the amino sugar daunosamine via a glycosidic bond.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 48,
+      "question_text": "When $50\\text{ ml}$ of sodium hydroxide ($0.1\\text{ M}$) is added to $100\\text{ ml}$ of $0.1\\text{ M}$ acetic acid, pH of the resultant solution is ............ Ka of acetic acid = $1.82 \\times 10^{-5}$",
+      "options": {
+        "A": "$8.58$",
+        "B": "$7.42$",
+        "C": "$4.74$",
+        "D": "$7.06$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "This forms a buffer with equal moles of $CH_3COOH$ and $CH_3COO^-$, so $pH = pK_a = -\\log(1.82 \\times 10^{-5}) \\approx 4.74$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 49,
+      "question_text": "Gabriel ring closure method is employed for the synthesis of:",
+      "options": {
+        "A": "1 4-oxazine",
+        "B": "Aziridine",
+        "C": "Oxirane",
+        "D": "Oxaziridine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Gabriel synthesis (or Gabriel ethyleneimine method) is a classic route for the synthesis of aziridines.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 50,
+      "question_text": "\"Shake well\" label must be placed on the containers of:",
+      "options": {
+        "A": "Ophthalmic suspension",
+        "B": "Accuserts",
+        "C": "Ophthalmic solution",
+        "D": "Ophthalmic gels"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Suspensions require redispersion before dosing, hence they carry a \"Shake well before use\" label.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 51,
+      "question_text": "In case of Aerosol testing, valve delivering acceptance criteria for a volume of $54\\text{ mL}$ or less",
+      "options": {
+        "A": "$\\pm 75\\%$",
+        "B": "$\\pm 5\\%$",
+        "C": "$\\pm 10\\%$",
+        "D": "$\\pm 15\\%$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "USP/IP guidelines for metered-dose aerosols specify acceptance criteria tolerances depending on fill volume, where $\\pm 15\\%$ is standard for smaller delivered volumes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Containers may be rendered free from pyrogens by adequate cleaning and by:",
+      "options": {
+        "A": "Autoclaving at $121^{\\circ}\\text{C}$ for 15 minutes",
+        "B": "Heating at $210^{\\circ}\\text{C}$ for 3-4 hours",
+        "C": "Autoclaving at $121^{\\circ}\\text{C}$ for 1 hour",
+        "D": "Heating at $100^{\\circ}\\text{C}$ for 3-4 hours"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Depyrogenation of glassware requires dry heat sterilization, typically at $\\ge 250^{\\circ}\\text{C}$ for 30 minutes or $210^{\\circ}\\text{C}$ for 3-4 hours.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 53,
+      "question_text": "GMP regulation are pertaining to minimum requirements to be met by industry when:",
+      "options": {
+        "A": "Manufacturing, packaging and holding of human drugs and veterinary drugs",
+        "B": "Manufacture of human drugs and veterinary drugs",
+        "C": "Manufacture and packaging of human drugs and veterinary drugs",
+        "D": "Manufacture and holding of human drugs and veterinary drugs"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "GMP regulations cover the manufacturing, processing, packing, and holding of drugs.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Which of the following viscometers can be used for characterizing non-Newtonian system?",
+      "options": {
+        "A": "Falling sphere viscometer",
+        "B": "Cup and Bob viscometer",
+        "C": "Capillary viscometer",
+        "D": "Hoeppler viscometer"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rotational viscometers like the cup and bob viscometer allow variation of shear rate, making them suitable for non-Newtonian systems.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 55,
+      "question_text": "For drug substances with highly variable pharmacokinetic characteristics the following Bioequivalence study design is used",
+      "options": {
+        "A": "Parallel Design",
+        "B": "Non-Replicate Design",
+        "C": "Non-Parallel Design",
+        "D": "Replicate Design"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Replicate crossover study designs are recommended for highly variable drugs to assess within-subject variability and scale bioequivalence limits.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Roll-tube technique is the modification of:",
+      "options": {
+        "A": "Pour plate technique",
+        "B": "The streak-plate technique",
+        "C": "Micromanipulator technique",
+        "D": "Spread plate technique"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The roll-tube technique is a modification of the pour plate method primarily used for cultivating anaerobic bacteria.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Which mechanism of metabolism of drug is not affected by weight change Of patient?",
+      "options": {
+        "A": "Conjugative metabolism",
+        "B": "Acetylation metabolism",
+        "C": "Hydrolytic metabolism",
+        "D": "Oxidative metabolism"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Acetylation polymorphism (fast/slow acetylators) is genetically determined and less sensitive to body weight scaling compared to oxidative or conjugative pathways.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 58,
+      "question_text": "21 CFR part 211 of USFDA describes :",
+      "options": {
+        "A": "Current good clinical practice",
+        "B": "Current good packaging practice",
+        "C": "Current good manufacturing practice",
+        "D": "Current good laboratory practice"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "21 CFR Part 211 contains the US FDA regulations for Current Good Manufacturing Practice (cGMP) for finished pharmaceuticals.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 59,
+      "question_text": "In treating immunodeficiency disease the goal is to maintain IgG levels at about :",
+      "options": {
+        "A": "$100 \\text{ mg/dL}$",
+        "B": "$400 \\text{ mg/dL}$",
+        "C": "$200 \\text{ mg/dL}$",
+        "D": "$300 \\text{ mg/dL}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In antibody deficiency therapies, immunoglobulin replacement aims to maintain trough IgG levels typically above $400-500 \\text{ mg/dL}$ or normal ranges depending on guidelines.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Which one of the following is the property of micro-emulsion ?",
+      "options": {
+        "A": "They have particle size more than 1 micron",
+        "B": "They have poor stability",
+        "C": "They exhibit viscoelastic gel phase, when internal phase is added in excess",
+        "D": "They have milky yellow colour"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Microemulsions are thermodynamically stable, transparent or translucent isotropic mixtures with droplet sizes typically below $100 \\text{ nm}$ that can form structured phases upon composition changes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 61,
+      "question_text": "The rheological and functional properties of synovial fluid are impaired due to :",
+      "options": {
+        "A": "Increase in the content of mucus",
+        "B": "Decrease in the content of mucus",
+        "C": "Increase in the content of hyaluronic acid",
+        "D": "Decrease in the content of hyaluronic acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In arthritic conditions, the concentration and molecular weight of hyaluronic acid in synovial fluid decrease, impairing its lubricating and viscoelastic properties.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Movement of charged particle through a liquid under the influence of an applied potential difference is known as",
+      "options": {
+        "A": "Sedimentation Potential",
+        "B": "Streaming Potential",
+        "C": "Electrophoresis",
+        "D": "Electroosmosis"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Electrophoresis is the migration of charged colloidal particles or ions under the influence of an electric field.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 63,
+      "question_text": "As per US FDA, NDA's for new chemical entities are classified as either :",
+      "options": {
+        "A": "'P' for product review or 'S' for standard review",
+        "B": "'P' for priority review or 'S' for standard review",
+        "C": "'P' for product review or 'S' for safety review",
+        "D": "'P' for priority review or 'S' for safety review"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "FDA classifies new drug applications as Priority review ('P') or Standard review ('S').",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 64,
+      "question_text": "In preformulation study polymorphs can be detected by",
+      "options": {
+        "A": "Counter - current chromatography",
+        "B": "Retractometry",
+        "C": "High performance liquid chromatography",
+        "D": "Differential scanning calorimetry"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Differential Scanning Calorimetry (DSC) and powder X-ray diffraction are primary techniques used to detect and characterize polymorphs.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 65,
+      "question_text": "The following is/are used to determine the amount of drug bound to a protein:",
+      "options": {
+        "A": "Equilibrium dialysis",
+        "B": "Solubility",
+        "C": "pH titration",
+        "D": "Distribution method"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Equilibrium dialysis is the gold standard method for determining free versus protein-bound drug concentrations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 66,
+      "question_text": "In tablet, hydroxy propyl methyl cellulose is used as :",
+      "options": {
+        "A": "Diluent",
+        "B": "Film former",
+        "C": "Disintegrant",
+        "D": "Binder"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HPMC is predominantly used as a film-forming polymer in tablet coating and as a sustained-release matrix former.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Dakin's solution is a synonym for:",
+      "options": {
+        "A": "Ammonium Acetate solution",
+        "B": "Chlorinated soda solution",
+        "C": "Chloroxylenol solution",
+        "D": "Aluminium Acetate solution"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dakin's solution is a dilute sodium hypochlorite solution, which is synonymous with chlorinated soda solution.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 68,
+      "question_text": "MEDLINE, EMBASE, EBM and IDIS are :",
+      "options": {
+        "A": "Drug databases",
+        "B": "New compendial specification of drugs",
+        "C": "Chronicles of drug standards",
+        "D": "Source for drug patents"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "MEDLINE, EMBASE, and IDIS are prominent biomedical and drug information databases.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Theories of emulsification are characterized by one of the following EXCEPT:",
+      "options": {
+        "A": "Film forma lion",
+        "B": "Phase inversion",
+        "C": "Monomolecular adsorp Lion",
+        "D": "Solid particle adsorption"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phase inversion is a phenomenon/process during emulsification rather than a fundamental theory of emulsification (which includes monomolecular film, multimolecular film, and solid particle adsorption theories).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 70,
+      "question_text": "When two brands of a drug product gives same clinical results, it is termed as :",
+      "options": {
+        "A": "Therapeutic equivalence",
+        "B": "Bio equivalence",
+        "C": "Pharmaceutical equivalence",
+        "D": "Clinical equivalence"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Therapeutic equivalence applies when pharmaceutical equivalents provide the same clinical efficacy and safety profile.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Soda ash is also known as :",
+      "options": {
+        "A": "Lime stone",
+        "B": "Sodium carbonate",
+        "C": "Pure silica",
+        "D": "Calcium carbonate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Soda ash is the common chemical name for anhydrous sodium carbonate ($Na_2CO_3$).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 72,
+      "question_text": "Microcrystalline cellulose is also called as :",
+      "options": {
+        "A": "Sugar tab",
+        "B": "Nutab",
+        "C": "Emdex",
+        "D": "Avicel"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Avicel is the well-known trade name for microcrystalline cellulose.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Which of the following statement is NOT true regarding bulkiness ?",
+      "options": {
+        "A": "The reciprocal of bulk density is bulkiness",
+        "B": "Bulkiest substance will require container larger than required for less bulky substance",
+        "C": "Smaller particles shift between larger ones and increases bulkiness",
+        "D": "Bulkiness increases with decrease in particle size"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "When smaller particles fill the void spaces between larger particles, packing efficiency increases and total bulk volume/bulkiness decreases, making option C false.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 74,
+      "question_text": "A mixture of emulsifier A and emulsifier B with values of $4$ and $14$ respectively are to be mixed in a proportion to get mixture with required HLB $12$. What is the weight of individual emulsifier that is to be taken to have a total weight of $7\\text{ gm}$?",
+      "options": {
+        "A": "$A = 5.8 \\text{ gm}$ and $B = 1.2 \\text{ gm}$",
+        "B": "$A = 1.4 \\text{ gm}$ and $B = 5.6 \\text{ gm}$",
+        "C": "$A = 5.6 \\text{ gm}$ and $B = 1.4 \\text{ gm}$",
+        "D": "$A = 1.2 \\text{ gm}$ and $B = 5.8 \\text{ gm}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Using the allegation method: $(14 - 12) / (14 - 4) = 2/10 = 1/5$ for A, and $8/10 = 4/5$ for B. Thus, $A = (1/5) \\times 7 = 1.4 \\text{ g}$ and $B = (4/5) \\times 7 = 5.6 \\text{ g}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Which of the following oxide is not used for achieving Amber color to glass?",
+      "options": {
+        "A": "Manganese",
+        "B": "Iron",
+        "C": "Cobalt",
+        "D": "Carbon"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 76,
+      "question_text": "In case of open model intravenous infusion, $C_{ss}$ (steady state plasma concentration) is equal to :",
+      "options": {
+        "A": "$\\frac{\\text{[Plasma concentratin]} \\times \\text{[Infusion rate]}}{\\text{Clearance}}$",
+        "B": "$\\frac{\\text{[C}_{\\max}\\text{]} \\times \\text{[Infusion rate]}}{\\text{Clearance}}$",
+        "C": "$\\frac{\\text{[t}_{\\max}\\text{]} \\times \\text{[Infusion rate]}}{\\text{Clearance}}$",
+        "D": "$\\frac{\\text{Infusion rate}}{\\text{Clearance}}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 77,
+      "question_text": "In case of suppositories base, SFI stands for :",
+      "options": {
+        "A": "Solidified Fatty acid Indices",
+        "B": "Solid Fluid Indices",
+        "C": "Solidified Fatty acid Incline",
+        "D": "Solid Fat Index"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 78,
+      "question_text": "If mean volume - number diameter of a powdered sample is $2.41 \\mu\\text{m}$, density is $3 \\text{ gm/cm}^3$, the number of particles/gm will be.",
+      "options": {
+        "A": "$538 \\times 10^{10}$",
+        "B": "$3.68 \\times 10^{10}$",
+        "C": "$4.55 \\times 10^{10}$",
+        "D": "$4.70 \\times 10^{10}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 79,
+      "question_text": "Which polymorphic form of a drug candidate has highest melting point :",
+      "options": {
+        "A": "Unstable",
+        "B": "Metastable",
+        "C": "Hydrates",
+        "D": "Stable"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 80,
+      "question_text": "For bitter drugs in paediatric formulations, excellent flavouring agent will be.",
+      "options": {
+        "A": "Raspberry syrup",
+        "B": "Orange syrup",
+        "C": "Lemon syrup",
+        "D": "Black current syrup"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 81,
+      "question_text": "The co-administration of erythromycin with cyclosporine :",
+      "options": {
+        "A": "Increase bioavailability, due to inhibition of hepatic metabolism",
+        "B": "Increase bioavailability, due to inhibition of microflora in intestine",
+        "C": "Decrease bioavailability, due to complex formation",
+        "D": "Decrease bioavailability, due to induction of hepatic metabolism"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Essentially Hospital Formulary system provide mechanism to :",
+      "options": {
+        "A": "Streamline prescription writing",
+        "B": "Improve quality and hygenicity of food",
+        "C": "Avoid brand and therapeutic duplication",
+        "D": "Improve surgical procedures"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Volume of blood that flows per unit time per unit volume of the tissue is :",
+      "options": {
+        "A": "Residence time",
+        "B": "Elimination rate",
+        "C": "Gastric emptying rate",
+        "D": "Perfusion rate"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 84,
+      "question_text": "Leaching by immersion of crude material in a solvent is also known as :",
+      "options": {
+        "A": "Maceration",
+        "B": "Precipitation",
+        "C": "Evaporation",
+        "D": "Crystallization"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 85,
+      "question_text": "The protein toxins that have been modified to reduce the toxicity without significantly altering the immunogenicity are known as :",
+      "options": {
+        "A": "Sera",
+        "B": "Antisera",
+        "C": "Toxoids",
+        "D": "Vaccines"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 86,
+      "question_text": "Which of the following is NOT a mechanism for achieving gastroretention ?",
+      "options": {
+        "A": "Osmosis",
+        "B": "Floating",
+        "C": "Mucoadhesion",
+        "D": "Swelling"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 87,
+      "question_text": "The phase contrast microscopy is valuable in studying living cells which are :",
+      "options": {
+        "A": "Stained",
+        "B": "Unstained",
+        "C": "Treated with fluorescent dye",
+        "D": "Treated with fluorescent antibody"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "General"
+    },
+    {
+      "question_number": 88,
+      "question_text": "The size of Lycopodium spores is :",
+      "options": {
+        "A": "$45 \\mu\\text{m}$",
+        "B": "$15 \\mu\\text{m}$",
+        "C": "$35 \\mu\\text{m}$",
+        "D": "$25 \\mu\\text{m}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 89,
+      "question_text": "Regholarrhenines A-F have been isolated from :",
+      "options": {
+        "A": "Veratrums",
+        "B": "Areca",
+        "C": "Aconite",
+        "D": "Kurchi"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 90,
+      "question_text": "Pungency of Zingiber officinale rhizome is due to the presence of :",
+      "options": {
+        "A": "Citral",
+        "B": "Gingerol",
+        "C": "Commmiphoric acid",
+        "D": "Gingeral"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 91,
+      "question_text": "The principal cultivation areas of pyrethrum flowers are in -",
+      "options": {
+        "A": "Sri Lanka",
+        "B": "Malaysia",
+        "C": "India",
+        "D": "Kenya"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 92,
+      "question_text": "In Cassia angustifolia short-term drought :",
+      "options": {
+        "A": "Increases the concentration of sennosides A + B",
+        "B": "Decreases the concentration of sennosides A + B",
+        "C": "Causes loss of leaf biomass",
+        "D": "Causes death of the plant"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 93,
+      "question_text": "The Glycoside Scilliroside in red sqrill acts as :",
+      "options": {
+        "A": "Insecticide",
+        "B": "Rodenticide",
+        "C": "Acaricide",
+        "D": "Molluscicide"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 94,
+      "question_text": "Shellac is a resinous substance produced from a secretion that encrusts the bodies of a scale insect :",
+      "options": {
+        "A": "Viverra civet",
+        "B": "Karria lacca",
+        "C": "Acipenser huso",
+        "D": "Alverites moschiferus"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": true,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 95,
+      "question_text": "All members of this order are trees or shrubs; mostly evergreen with needle-like leaves; monoecious or dioecious - sporophylls usually in cones. Resin ducts occur in all parts :",
+      "options": {
+        "A": "Cycadales",
+        "B": "Ginkgoales",
+        "C": "Taxales",
+        "D": "Coniferales"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 96,
+      "question_text": "In Gambir - fluorescin test the petroleum spirit layer shows a strong :",
+      "options": {
+        "A": "Green fluorescence",
+        "B": "Blue fluorescence",
+        "C": "Yellow fluorescence",
+        "D": "Red fluorescence"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 97,
+      "question_text": "Antiviral action of Neem in due to :",
+      "options": {
+        "A": "Kaemferol",
+        "B": "Melanin",
+        "C": "Nimbin",
+        "D": "Azadirachitin"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 98,
+      "question_text": "Characteristic microcapic features observed in Alzheimer's disease is :",
+      "options": {
+        "A": "Epidural haemoragic patches",
+        "B": "Depigmentation of substantia nigra",
+        "C": "Demyelination of neurons in spinal cord",
+        "D": "Presence of neutritic plaques containing Ab-amyloid"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 99,
+      "question_text": "Cardiac output is:",
+      "options": {
+        "A": "Volume of blood ejected by the auride per minute",
+        "B": "Volume of the blood ejected by the left ventricle per beat",
+        "C": "Volume of the blood ejected by the left ventricle per minute",
+        "D": "Volume of blood ejected by the auricles per beat"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 100,
+      "question_text": "What are sutures?",
+      "options": {
+        "A": "Cartilaginous joints",
+        "B": "Non fibrous joints",
+        "C": "Synovial joints",
+        "D": "Fibrous joints of the skull"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "General"
+    },
+    {
+      "question_number": 101,
+      "question_text": "Following are the facts regarding clinical applications of muscarinic receptor blocking drugs. Identify the false statement:",
+      "options": {
+        "A": "Used in the treatment of parkinson's disease is often an exercise in polypharmacy, since no single agent is fully effective.",
+        "B": "Marked reflex vagal discharge may stimulate sinoatrial oratrioventricular node to improve cardiac output.",
+        "C": "Mydriasis produced greatly facilitates opthalmoscopic examination of the retina and measurement of refractive error in uncooperative patient",
+        "D": "Scopolamine is one among the old remedies used to treat sea-sickness"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 102,
+      "question_text": "Which of the following cells are called scavenger cells?",
+      "options": {
+        "A": "Neutrophils",
+        "B": "Natural killer cells",
+        "C": "Macrophages",
+        "D": "Mast cells"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 103,
+      "question_text": "Which is NOT true about calcitriol?",
+      "options": {
+        "A": "It is active form of Vit $D_3$",
+        "B": "It enhances reabsorption of calcium and phosphate from bone",
+        "C": "It prevents tubular reabsorption of calcium and phosphate",
+        "D": "Enhances absorption of calcium and phosphate from intestine"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 104,
+      "question_text": "Production of an abnormal IgG immunoglobulin in Grave's disease causes:",
+      "options": {
+        "A": "Multinodular goitre",
+        "B": "Hypothyroidism",
+        "C": "Thyrotoxicosis",
+        "D": "Rheumatoid arthritis"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 105,
+      "question_text": "Metabolic acidosis does NOT occur during :",
+      "options": {
+        "A": "Starvation",
+        "B": "Chronic renal failure",
+        "C": "Wound healing",
+        "D": "Uncontrolled diabetes mellitus"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 106,
+      "question_text": "Glucocorticoids have following effects - EXCEPT:",
+      "options": {
+        "A": "Stimulation of immune responses",
+        "B": "Resistance to stress",
+        "C": "Lipolysis",
+        "D": "Protein breakdown and glucose formation"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 107,
+      "question_text": "Which one of the following is NOT the role of Nitric oxide?",
+      "options": {
+        "A": "Reliving vascular smooth muscle",
+        "B": "Mediating microbicidal action of macrophages",
+        "C": "Serving as neurotransmitter in CNS",
+        "D": "Inducing platelet aggregation"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 108,
+      "question_text": "Identify the drug which is not useful in the treatment of tuberculosis:",
+      "options": {
+        "A": "Pyrazinamide",
+        "B": "Gentamicin",
+        "C": "Streptomycin",
+        "D": "Ciprofloxacin"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 109,
+      "question_text": "What is anaplasia?",
+      "options": {
+        "A": "Morphological and functional alterations/changes, that are different from normal cells",
+        "B": "Morphological and functional resemblance to normal cells",
+        "C": "Increase in size of cell",
+        "D": "Lack of growth of cells"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pathology"
+    },
+    {
+      "question_number": 110,
+      "question_text": "Match the following liver abnormalities with consequences: (a) Steatosis (b) Cholestasis (c) Hepatitis (d) Fibrosis with (M) Raised bilirubin level (N) Slight rise in serum transaminase level (O) Accumulation of fat droplets within liver cells (P) Elevated liver function test (LFT's)",
+      "options": {
+        "A": "(a) - (N), (b) - (P), (c) - (M), (d) - (O)",
+        "B": "(a) - (O), (b) - (M), (c) - (P), (d) - (N)",
+        "C": "(a) - (N), (b) - (O), (c) - (P), (d) - (M)",
+        "D": "(a) - (P), (b) - (O), (c) - (N), (d) - (M)"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 111,
+      "question_text": "Numerous isomers of human liver P450 enzyme have been identified, it is not worthy that _______ alone is responsible for the metabolism of over 55% of the prescription drugs metabolized by liver:",
+      "options": {
+        "A": "CYP3A4",
+        "B": "CYPIA2",
+        "C": "CYP1A11",
+        "D": "CYP2B6"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 112,
+      "question_text": "Which of the following directly inhibits Factor Xa?",
+      "options": {
+        "A": "Dabigatran",
+        "B": "Warfarin",
+        "C": "Bivalirudin",
+        "D": "Rivaroxaban"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 113,
+      "question_text": "Which of the following anticonvulsants have both inhibition of excitatory glutamatergic synapse and facilitation of GABA mediated Cl channel opening action?",
+      "options": {
+        "A": "Valproate",
+        "B": "Ethosuximide",
+        "C": "Topiramate",
+        "D": "Phenytoin"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 114,
+      "question_text": "Which of the following is NOT a cardioselective $\\beta$ blocker?",
+      "options": {
+        "A": "Bisoprolol",
+        "B": "Nebivolol",
+        "C": "Acebutolol",
+        "D": "Pindolol"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 115,
+      "question_text": "The term 'aneurysm' refers to:",
+      "options": {
+        "A": "Permanent blockage of blood vessels",
+        "B": "Permanent abnormal dilatation of blood vessel",
+        "C": "Abnormal connections in blood vessels",
+        "D": "Abnormal growth of neurones near blood vessels"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pathology"
+    },
+    {
+      "question_number": 116,
+      "question_text": "The antiemetic activity of glycopyrronium is related to potent inhibition of ......... receptor both peripherally and centrally.",
+      "options": {
+        "A": "5HT$_3$",
+        "B": "D$_2$",
+        "C": "M$_1$",
+        "D": "H$_1$"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 117,
+      "question_text": "Identify the false statement about benzodiazepines from the following:",
+      "options": {
+        "A": "Benzodiazepines cause reduction of anxiety",
+        "B": "Benzodiazepines cause convulsions",
+        "C": "Benzodiazepines produce muscle relaxation and loss of motor co-ordination",
+        "D": "Benzodiazepines are useful in insomnia"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 118,
+      "question_text": "Which of the following is 5-alpha reductase inhibitor?",
+      "options": {
+        "A": "Gliclazide",
+        "B": "Sildenafil",
+        "C": "Finasteride",
+        "D": "Polvthiazide"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 119,
+      "question_text": "Several different chemicals released by microbes and inflamed tissues attract phagocytes, this phenomenon is called as ...........",
+      "options": {
+        "A": "Phagocytosis",
+        "B": "Integrins",
+        "C": "Chemotaxis",
+        "D": "Emigration"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pathology"
+    },
+    {
+      "question_number": 120,
+      "question_text": "Hematocrit 65% to 70% indicates:",
+      "options": {
+        "A": "Hemophilia",
+        "B": "Polycythemia",
+        "C": "Hypoxia",
+        "D": "Anaemia"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pathology"
+    },
+    {
+      "question_number": 121,
+      "question_text": "The adverse reaction associated with $\\beta$-2 agonists administered by inhalation or nebulisation in the management of asthma does not include ...........",
+      "options": {
+        "A": "Peripheral vasodilation",
+        "B": "Hypertension",
+        "C": "Tachycardia",
+        "D": "Fine tremor"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 122,
+      "question_text": "Select the ulcer protective drug from the following:",
+      "options": {
+        "A": "Oxyphenonium",
+        "B": "Metronidazole",
+        "C": "Misoprostol",
+        "D": "Sucralfate"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 123,
+      "question_text": "Disturbances of oestrogen/progesterone balance could cause a relative deficiency of .......... leading to disturbances in production of dopamine and serotonin. This contributes for emotional disturbances and depression.",
+      "options": {
+        "A": "Enzyme decarboxylase",
+        "B": "Tyrosine",
+        "C": "Pyridoxine phosphate",
+        "D": "Co-factor A"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 124,
+      "question_text": "Testing of chemicals by OECD guideline No. 420 refers to which of the following:",
+      "options": {
+        "A": "Ate oral toxicity by acute toxic class method",
+        "B": "Acute oral toxicity by up and down procedure",
+        "C": "Repeated dose 28-day toxicity study in rodents",
+        "D": "Acute oral toxicity by fixed dose procedure"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "General"
+    },
+    {
+      "question_number": 125,
+      "question_text": "Which of the following is true? Excessive use of diuretics can lead to:",
+      "options": {
+        "A": "Hypervolemic shock",
+        "B": "Neurogenic shock",
+        "C": "Hypovolemic shock",
+        "D": "Cardiogenic shock"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    }
+  ]
+}

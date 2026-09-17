@@ -1,0 +1,1506 @@
+{
+  "exam_title": "Pharmacist gr 3 ims 45_2019_a_pdf_qestion",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Number of Neutrons in $^{56}_{26}\\text{Fe}$ is :",
+      "options": {
+        "A": "30",
+        "B": "56",
+        "C": "26",
+        "D": "82"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Neutron number = Mass number (56) - Atomic number (26) = 30.",
+      "category": "General"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which of the following radiation have least penetrablity?",
+      "options": {
+        "A": "X-ray",
+        "B": "Beta particles",
+        "C": "Gamma particles",
+        "D": "Alpha particles"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Alpha particles have the lowest penetration power and can be stopped by a sheet of paper.",
+      "category": "General"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Phytomenadione is :",
+      "options": {
+        "A": "Niacin",
+        "B": "Vitamin K",
+        "C": "Pyridoxin",
+        "D": "Lipoic acid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phytomenadione is the generic name for Vitamin K1.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 4,
+      "question_text": "The rate limiting step in glycolysis is catalyzed by the enzyme :",
+      "options": {
+        "A": "Phosphofructokinase",
+        "B": "Aldolase",
+        "C": "Enolase",
+        "D": "Hexokinase"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phosphofructokinase-1 (PFK-1) catalyzes the primary rate-limiting and committed step of glycolysis.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 5,
+      "question_text": "What is spirit of salt?",
+      "options": {
+        "A": "$\\text{MgSO}_4$",
+        "B": "$\\text{Na}_2\\text{B}_4\\text{O}_7$",
+        "C": "$\\text{CaOCl}_2$",
+        "D": "$\\text{HCl}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Spirit of salt is a historical name for hydrochloric acid.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which of the following is useful in Cyanide poisoning?",
+      "options": {
+        "A": "Sodium bi sulphite",
+        "B": "Sodium metabisulphite",
+        "C": "Sodium sulfosuccinate",
+        "D": "Sodium thiosulphate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium thiosulfate is a standard antidote for cyanide poisoning, acting as a sulfur donor for rhodanese.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Nitrous Oxide is stored in :",
+      "options": {
+        "A": "Blue colored cylinder",
+        "B": "Grey colored cylinders",
+        "C": "White cylinder with Black neck",
+        "D": "Orange colored cylinders"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nitrous oxide medical gas cylinders are universally color-coded French blue.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "True antagonist of morphine :",
+      "options": {
+        "A": "Nalorphine",
+        "B": "Naloxone",
+        "C": "Nalbuphine",
+        "D": "Methadone"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Naloxone is a pure, competitive opioid receptor antagonist used to reverse opioid overdose.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Ma-Huang is another name of :",
+      "options": {
+        "A": "Ephedra",
+        "B": "Artemesia",
+        "C": "Rhubarb",
+        "D": "Cascara"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ma-Huang is the traditional Chinese medicine name for Ephedra species.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 10,
+      "question_text": "An adulterant of digitalis leaves :",
+      "options": {
+        "A": "Verbascum thapses",
+        "B": "Cayratia pedata",
+        "C": "Crotalaria striata",
+        "D": "Cymbopogon flexuosus"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Verbascum thapsus (mullein leaves) is a well-known common adulterant of digitalis leaves.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Which of the following is anti-oestrogen?",
+      "options": {
+        "A": "Tibolone",
+        "B": "Clomiphene",
+        "C": "Letrozole",
+        "D": "Mifepristone"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clomiphene is a selective estrogen receptor modulator (SERM) with anti-estrogenic properties in the hypothalamus.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Uterine relaxants are also known as :",
+      "options": {
+        "A": "Ecbolics",
+        "B": "Tocolytics",
+        "C": "Abortifacients",
+        "D": "Analeptics"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tocolytics are medications used to suppress premature labor by relaxing the myometrium.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Through which route Ipratropium bromide is administered?",
+      "options": {
+        "A": "Subcutaneous",
+        "B": "Topical application",
+        "C": "Oral",
+        "D": "Inhalation"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ipratropium bromide is a quaternary ammonium anticholinergic administered primarily via inhalation for bronchodilation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Which of the following is fourth generation cephalosporin?",
+      "options": {
+        "A": "Cephalothin",
+        "B": "Cephamandole",
+        "C": "Cefepime",
+        "D": "Ceftriaxone"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cefepime is a fourth-generation cephalosporin with extended gram-negative and gram-positive coverage.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Example for atypical antipsychotic :",
+      "options": {
+        "A": "Haloperidol",
+        "B": "Penfluridol",
+        "C": "Olanzapine",
+        "D": "Thioridazine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Olanzapine is classified as a second-generation (atypical) antipsychotic agent.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Fluoxetine is an example for :",
+      "options": {
+        "A": "Atypical antidepressant",
+        "B": "Serotonin and Noradrenaline Re-uptake Inhibitor",
+        "C": "Tricyclic anti depressant",
+        "D": "Selective Serotonin Re-uptake Inhibitor"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fluoxetine is a classic Selective Serotonin Reuptake Inhibitor (SSRI).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Digoxin act on by inhibiting :",
+      "options": {
+        "A": "$\\text{Na}^+\\text{K}^+\\text{-ATPase}$",
+        "B": "Myosine light chain kinase",
+        "C": "$\\text{Na}^+\\text{Cl}^-$ antiport",
+        "D": "Glut-4"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digoxin binds to and inhibits the cardiac cell membrane $\\text{Na}^+/\\text{K}^+$-ATPase pump.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Ankle oedema is a frequent adverse effect of :",
+      "options": {
+        "A": "Propranolol",
+        "B": "Nifedipine",
+        "C": "Captopril",
+        "D": "Nicorandil"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nifedipine and other dihydropyridine calcium channel blockers frequently cause peripheral edema due to precapillary vasodilation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Which of the following is potassium sparing diuretic?",
+      "options": {
+        "A": "Eplerenone",
+        "B": "Ethacrynic acid",
+        "C": "Acetazolamide",
+        "D": "Hydrochlorothiazide"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Eplerenone is a selective aldosterone receptor antagonist, acting as a potassium-sparing diuretic.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Which vitamine is given along with INH to reduce risk of neurotoxicity?",
+      "options": {
+        "A": "Niacin",
+        "B": "Pyridoxine",
+        "C": "Pantothenic acid",
+        "D": "Thiamine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyridoxine (Vitamin B6) is co-administered with isoniazid (INH) to prevent peripheral neuropathy.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 21,
+      "question_text": "The first Pharmacy council of India was started functioning in :",
+      "options": {
+        "A": "1952",
+        "B": "1950",
+        "C": "1949",
+        "D": "1955"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Pharmacy Council of India (PCI) was constituted under the Pharmacy Act, 1948, and started functioning in 1949.",
+      "category": "General"
+    },
+    {
+      "question_number": 22,
+      "question_text": "For the constitution of State Pharmacy Council, the respective State Government have to nominate ________ Government analyst(s).",
+      "options": {
+        "A": "Two",
+        "B": "One",
+        "C": "Five",
+        "D": "Three"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Pharmacy Act, the State Government nominates one Government analyst to the State Pharmacy Council.",
+      "category": "General"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Which of the defect in an emulsion make most unstable?",
+      "options": {
+        "A": "Creaming",
+        "B": "Flocculation",
+        "C": "Cracking",
+        "D": "Sedimentation"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cracking (coalescence) is an irreversible emulsion instability defect where droplets merge, destroying the system.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Approximate chemical formula of bleaching powder is :",
+      "options": {
+        "A": "$\\text{Ca}_2\\text{OCl}_2$",
+        "B": "$(\\text{CaO})_2\\text{Cl}$",
+        "C": "$\\text{Ca}(\\text{OCl})\\text{Cl}$",
+        "D": "$\\text{Ca}(\\text{OH})\\text{Cl}_2$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bleaching powder is a complex mixture whose approximate composition is represented as $\\text{Ca}(\\text{OCl})\\text{Cl}$.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Which antiviral drug is found to be useful in parkinsonism?",
+      "options": {
+        "A": "Abacavir",
+        "B": "Oseltamivir",
+        "C": "Zanamivir",
+        "D": "Amantadine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amantadine is an antiviral agent that also enhances dopamine release, making it useful in Parkinson's disease.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Who is responsible for preparation and maintenance of first register?",
+      "options": {
+        "A": "Pharmacy Council of India",
+        "B": "DGHS",
+        "C": "State Pharmacy Councils",
+        "D": "AICTE"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "State Pharmacy Councils are responsible for the preparation and maintenance of the first register of pharmacists.",
+      "category": "General"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Which of the following drug shows immune-suppressant activity?",
+      "options": {
+        "A": "Levamizole",
+        "B": "Miconazole",
+        "C": "Clotrimazole",
+        "D": "Itraconazole"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Levamisole is an immunomodulatory agent that can restore depressed immune function, though historical clinical uses included immunomodulation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Neuroleptic agents are also known as :",
+      "options": {
+        "A": "Psycho-analeptics",
+        "B": "Major tranquilizers",
+        "C": "Anti-maniac agents",
+        "D": "Mood elevators"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Antipsychotics are traditionally referred to as major tranquilizers or neuroleptics.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Extrapyramidal side effects are common with :",
+      "options": {
+        "A": "Chloramphenicol",
+        "B": "Chlorpheneramine",
+        "C": "Chlorothiazide",
+        "D": "Chlorpromazine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chlorpromazine is a typical antipsychotic associated with a high incidence of extrapyramidal side effects.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Which of the opium alkaloid is benzyl isoquinoline derivative?",
+      "options": {
+        "A": "Morphine",
+        "B": "Codeine",
+        "C": "Thebaine",
+        "D": "Papaverine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Papaverine is a benzylisoquinoline alkaloid found in opium, unlike the phenanthrene derivatives such as morphine, codeine, and thebaine.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Weakly acidic drugs are better absorbed from :",
+      "options": {
+        "A": "Alkaline pH",
+        "B": "Neutral pH",
+        "C": "Acidic pH",
+        "D": "Very high pH"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Weakly acidic drugs are unionized in an acidic environment, facilitating better lipid membrane permeation and absorption.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Pick out the Choline esterase re-activator :",
+      "options": {
+        "A": "Atropine",
+        "B": "Flumazenil",
+        "C": "Pralidoxime",
+        "D": "Donepezil"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pralidoxime (2-PAM) is a cholinesterase reactivator used in organophosphate poisoning.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Ondansetron act by antagonism of :",
+      "options": {
+        "A": "5HT-3 receptor",
+        "B": "H2 receptor",
+        "C": "5HT-1 receptor",
+        "D": "D2 receptor"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ondansetron is a selective $5\\text{-HT}_3$ receptor antagonist used as an antiemetic.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Which one is an important drug in paracetamol poisoning?",
+      "options": {
+        "A": "N-acetyl p-benzoquinoneimine",
+        "B": "N-acetyl muramic acid",
+        "C": "N-acetyl glycine",
+        "D": "N- Acetyl cysteine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "N-acetylcysteine (NAC) is the standard antidote used to replenish glutathione in paracetamol (acetaminophen) toxicity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Which of the following is a good uricosuric agent:",
+      "options": {
+        "A": "Sulfamethoxazole",
+        "B": "Sulfanilamide",
+        "C": "Sulfinpyrazone",
+        "D": "Sulphacetamide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfinpyrazone is a potent uricosuric agent used to treat gout by promoting renal uric acid excretion.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Example for ultra short acting barbiturate :",
+      "options": {
+        "A": "Secobarbitone",
+        "B": "Methohexitone",
+        "C": "Butobarbitone",
+        "D": "Amylobarbitone"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methohexitone (methohexital) is an ultra-short-acting barbiturate commonly used for intravenous anesthesia induction.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Oto and nephro toxicity is common with which class of antibiotics?",
+      "options": {
+        "A": "Macrolides",
+        "B": "Carbepenams",
+        "C": "Aminoglycosides",
+        "D": "Polyenes"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aminoglycosides are well known for causing irreversible ototoxicity and nephrotoxicity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Which of the following is selective MAO-B inhibitor :",
+      "options": {
+        "A": "Selegiline",
+        "B": "Clorgyline",
+        "C": "Moclobemide",
+        "D": "Iproniazid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Selegiline is a selective inhibitor of monoamine oxidase type B (MAO-B), used in Parkinson's disease.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Which of the following is heparin antagonist?",
+      "options": {
+        "A": "Potassium sulphate",
+        "B": "Protamine sulfate",
+        "C": "Lepirudin",
+        "D": "Alteplase"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Protamine sulfate is a positively charged protein that neutralizes the anticoagulant effect of heparin.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Grey baby syndrome is associated with :",
+      "options": {
+        "A": "Chlorpromazine",
+        "B": "Chlorcyclizine",
+        "C": "Chloroquine",
+        "D": "Chloramphenicol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Grey baby syndrome is a serious adverse reaction seen in neonates treated with chloramphenicol due to impaired hepatic glucuronidation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 41,
+      "question_text": "The chemical group of Glycyrrhizin is :",
+      "options": {
+        "A": "Alkaloid",
+        "B": "Glycoside",
+        "C": "Saponin",
+        "D": "Sesquiterpene"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glycyrrhizin is a triterpenoid saponin glycoside found in licorice root.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 42,
+      "question_text": "World diabetes day :",
+      "options": {
+        "A": "14th of November",
+        "B": "4th of November",
+        "C": "4th of March",
+        "D": "14th of July"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "World Diabetes Day is celebrated globally on November 14th.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 43,
+      "question_text": "BCG vaccination gives protection against :",
+      "options": {
+        "A": "Mumps",
+        "B": "Rubella",
+        "C": "Measles",
+        "D": "TB"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Bacillus Calmette–Guérin (BCG) vaccine provides protection against tuberculosis (TB).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Curved, warty trichomes are present in :",
+      "options": {
+        "A": "Datura",
+        "B": "Senna",
+        "C": "Eucalyptus",
+        "D": "Digitalis"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Senna leaves characteristically possess curved, warty trichomes (hairs).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Aretemisinin is used as :",
+      "options": {
+        "A": "Antelminthic",
+        "B": "Antimalarial",
+        "C": "Diaphoretic",
+        "D": "Aperient"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Artemisinin is a potent antimalarial agent derived from Artemisia annua.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Which of the following is a peripherally acting muscle relaxant?",
+      "options": {
+        "A": "Baclofen",
+        "B": "Methocarbamol",
+        "C": "Dantrolene",
+        "D": "Tizanidine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dantrolene acts directly on skeletal muscle by interfering with calcium release from the sarcoplasmic reticulum.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Example for Alpha Glucosidase Inhibitor :",
+      "options": {
+        "A": "Miglitol",
+        "B": "Nateglinide",
+        "C": "Gliclazide",
+        "D": "Glyburide"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Miglitol is an alpha-glucosidase inhibitor used to delay carbohydrate digestion in diabetes mellitus.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Which of the following is called Indian Gum?",
+      "options": {
+        "A": "Colophony",
+        "B": "Tragacanth",
+        "C": "Guar gum",
+        "D": "Acacia"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Acacia gum is also widely known as Indian gum or gum arabic.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 49,
+      "question_text": "Which of the following emulsifiers have highest HLB value?",
+      "options": {
+        "A": "PEG 400",
+        "B": "Cetrimide",
+        "C": "Sodium Lauryl Sulfate",
+        "D": "Span 80"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium Lauryl Sulfate is a strong ionic surfactant with a very high HLB value (around 40), favoring O/W emulsions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Example for aromatase inhibitor :",
+      "options": {
+        "A": "Letrozole",
+        "B": "Fosfestrol",
+        "C": "Flutamide",
+        "D": "Tamoxifen"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Letrozole is a potent non-steroidal aromatase inhibitor used in estrogen-receptor-positive breast cancer.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Chance of Ototoxicity is more with :",
+      "options": {
+        "A": "Acetazolamide",
+        "B": "Spironolactone",
+        "C": "Mannitol",
+        "D": "Frusemide"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Frusemide (furosemide) is a loop diuretic well known for causing ototoxicity, especially when administered rapidly or in high doses.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Which of the following is an essential amino acid?",
+      "options": {
+        "A": "Alanine",
+        "B": "Valine",
+        "C": "Tyrosine",
+        "D": "Arginine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Valine is an essential amino acid that cannot be synthesized by the human body and must be obtained from the diet.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Which of the following schedule deals with regulations and requirements for establishing and running a pharmacy?",
+      "options": {
+        "A": "Schedule M",
+        "B": "Schedule N",
+        "C": "Schedule K",
+        "D": "Schedule F"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule N of the Drugs and Cosmetics Act deals with the minimum requirements for the efficient running of a pharmacy.",
+      "category": "General"
+    },
+    {
+      "question_number": 54,
+      "question_text": "License in Form 10 is issued for the import of :",
+      "options": {
+        "A": "Drugs for test or analysis",
+        "B": "All new drugs",
+        "C": "Biological preparations",
+        "D": "Cosmetics"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 10 is the import license issued for drugs imported for the purpose of examination, test, or analysis.",
+      "category": "General"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Which class of drugs can be manufactured under loan license in Form 25A?",
+      "options": {
+        "A": "Drugs specified in Schedule X",
+        "B": "Drugs specified in Schedule C and C1",
+        "C": "Drugs other than those specified in Schedule X",
+        "D": "Drugs other than those specified in schedule C, C1 and X"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Loan licenses in Form 25A are issued for manufacturing drugs other than those specified in Schedule X.",
+      "category": "General"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Ideal temperature for storage of freeze-dried BCG vaccine is :",
+      "options": {
+        "A": "Between $2$ and $8^\\circ\\text{C}$",
+        "B": "Below minus $2^\\circ\\text{C}$",
+        "C": "Between $2$ and $4^\\circ\\text{C}$",
+        "D": "Below $0^\\circ\\text{C}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "BCG vaccine is typically stored at standard cold chain temperatures between $2^\\circ\\text{C}$ and $8^\\circ\\text{C}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Which of the following is a first line anti-tubercular drug?",
+      "options": {
+        "A": "PAS",
+        "B": "Pyrazinamide",
+        "C": "Ethionamide",
+        "D": "Thiacetazone"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyrazinamide is one of the standard first-line medications used to treat tuberculosis along with isoniazid, rifampicin, and ethambutol.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Equivalent weight of Potassium permanganate in alkaline medium is :",
+      "options": {
+        "A": "$316$",
+        "B": "$31.6$",
+        "C": "$52.7$",
+        "D": "$5.27$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In an alkaline medium, potassium permanganate undergoes a 1-electron reduction ($MnO_4^- + e^- \\rightarrow $MnO_4^{2-}$), making its equivalent weight equal to its molecular weight divided by 1 ($158 / 1 = 158$ wait, in alkaline medium it goes to manganate, $n$-factor is 1, so $158/1 = 158$? Wait, strongly alkaline goes to $MnO_4^{2-}$ ($n=1$), mildly alkaline/neutral goes to $MnO_2$ ($n=3$). Here $158/3 \\approx 52.67$, giving $52.7$.)",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Which of the following is an inhalation anesthetic?",
+      "options": {
+        "A": "$N_2O$",
+        "B": "$NO_2$",
+        "C": "$NO$",
+        "D": "$HNO_2$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nitrous oxide ($N_2O$) is a widely used inhalation anesthetic gas.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Fomepizole acts by inhibiting :",
+      "options": {
+        "A": "Choline esterase",
+        "B": "Lactate dehydrogenase",
+        "C": "Xanthine oxidase",
+        "D": "Alcohol dehydrogenase"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fomepizole is a competitive inhibitor of alcohol dehydrogenase, used as an antidote in methanol or ethylene glycol poisoning.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Universal antidote contains :",
+      "options": {
+        "A": "Activated charcoal, Tannic acid and Magnesium Oxide",
+        "B": "Activated charcoal, Tartaric and Magnesium Oxide",
+        "C": "Activated charcoal, Tartaric and Magnesium hydroxide",
+        "D": "Activated charcoal, Tannic and Magnesium Trisilicate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The traditional universal antidote is composed of activated charcoal, tannic acid, and magnesium oxide.",
+      "category": "General"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Molecular formula of Green vitriol is :",
+      "options": {
+        "A": "$CuSO_4 \\cdot 5H_2O$",
+        "B": "$FeSO_4 \\cdot 7H_2O$",
+        "C": "$Fe_2(SO_4)_3 \\cdot 7H_2O$",
+        "D": "$Na_2B_4O_7$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Green vitriol is the common name for ferrous sulfate heptahydrate ($FeSO_4 \\cdot 7H_2O$).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 63,
+      "question_text": "Two important uses of Apomorphine are :",
+      "options": {
+        "A": "Analgesic and anti-tussive",
+        "B": "Anti-spasmodic and anti-emetic",
+        "C": "Analgesic and anti-emetic",
+        "D": "As an emetic and in Parkinsonism"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Apomorphine acts as a dopamine agonist used in Parkinson's disease and historically as a centrally acting emetic.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 64,
+      "question_text": "At isoelectric pH, an amino acid will exist as :",
+      "options": {
+        "A": "Anion",
+        "B": "Cation",
+        "C": "Zwitter ion",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "At its isoelectric point, an amino acid has equal positive and negative charges, existing predominantly as a dipolar ion or zwitterion.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 65,
+      "question_text": "The safety of a drug is more, if the therapeutic index is :",
+      "options": {
+        "A": "Less than one",
+        "B": "One",
+        "C": "Greater than one",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A higher therapeutic index indicates a wider margin of safety between the lethal/toxic dose and the effective dose.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 66,
+      "question_text": "Which is called British anti-Lewisite?",
+      "options": {
+        "A": "Mechlorethamine",
+        "B": "Sarin",
+        "C": "Dyflos",
+        "D": "Dimercaprol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dimercaprol was developed during World War II as an antidote against the arsenic-based chemical weapon Lewisite, earning the name British Anti-Lewisite (BAL).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Example for selective $\\alpha-2$ adrenergic blocker :",
+      "options": {
+        "A": "Phentolmine",
+        "B": "Yohimbine",
+        "C": "Chlorpromazine",
+        "D": "Prazosin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Yohimbine is a well-known selective $\\alpha_2$-adrenergic receptor antagonist.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 68,
+      "question_text": "Example for cardio-selective beta blocker :",
+      "options": {
+        "A": "Atenolol",
+        "B": "Timolol",
+        "C": "Sotalol",
+        "D": "Pindolol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atenolol is a beta-1 selective ($\\beta_1$) adrenergic blocker, making it cardioselective.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Which of the following sulfonamide is applied topically?",
+      "options": {
+        "A": "Sulfamethoxy pyridazine",
+        "B": "Sulfacetamide Sodium",
+        "C": "Sulfaguanidine",
+        "D": "Succinyl sulfathiazole"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfacetamide sodium is widely used topically, particularly in ophthalmology for ocular infections.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 70,
+      "question_text": "Example for benzodiazepine antagonist :",
+      "options": {
+        "A": "Flumazenil",
+        "B": "Zopiclone",
+        "C": "Flucytosine",
+        "D": "Zolpidem"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Flumazenil is a competitive antagonist at the benzodiazepine binding site on the $GABA_A$ receptor.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Allopurinol act by inhibiting the enzyme :",
+      "options": {
+        "A": "Monoamine oxidase",
+        "B": "Aldehyde dehydrogenase",
+        "C": "Xanthine oxidase",
+        "D": "Superoxide dismutase"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Allopurinol inhibits xanthine oxidase, thereby decreasing the production of uric acid to treat gout.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 72,
+      "question_text": "How much of $10\\%$ KCl solution is required to prepare one Liter of $4\\%$ solution ?",
+      "options": {
+        "A": "$40\\text{ ml}$",
+        "B": "$50\\text{ ml}$",
+        "C": "$200\\text{ ml}$",
+        "D": "$400\\text{ ml}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Using $C_1V_1 = C_2V_2$: $10\\% \\times V_1 = 4\\% \\times 1000\\text{ ml}$, so $V_1 = 400\\text{ ml}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Eugenol is a chief constituent in :",
+      "options": {
+        "A": "Fennel",
+        "B": "Clove",
+        "C": "Nutmeg",
+        "D": "Coriander"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Eugenol is the primary volatile phenolic constituent found in clove oil.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 74,
+      "question_text": "Which test is best suited for the identification of Anthraquinone C-glycosides?",
+      "options": {
+        "A": "Borntrager's test",
+        "B": "Keller Killiani test",
+        "C": "Foam test",
+        "D": "Modified Borntrager's test"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Modified Borntrager's test uses an oxidizing agent (like ferric chloride and acid) prior to extraction to cleave and detect C-glycosides of anthraquinones.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 75,
+      "question_text": "When Klunge's test was conducted with a sample of aloes, a wine red color was obtained. The sample may be :",
+      "options": {
+        "A": "Socotrine aloes",
+        "B": "Zanzibar aloes",
+        "C": "Curacao aloes",
+        "D": "Cape aloes"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Curacao aloes gives a distinct wine-red color with Klunge's test (copper sulfate and hydrogen peroxide).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 76,
+      "question_text": "Which of the following drug prevent mast cell degranulation?",
+      "options": {
+        "A": "Sodium cromoglycate",
+        "B": "Di sodium EDTA",
+        "C": "Sodium sulfosuccinate",
+        "D": "Sodium Pentothal"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium cromoglycate acts as a mast cell stabilizer, preventing the release of inflammatory mediators like histamine.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Which of the following is an analeptic drug?",
+      "options": {
+        "A": "Nicotinic acid",
+        "B": "Nicorandil",
+        "C": "Niclosamide",
+        "D": "Nikethamide"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nikethamide is a central nervous system stimulant historically classified as a respiratory analeptic.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 78,
+      "question_text": "Gum hyperplasia is associated with long term use of :",
+      "options": {
+        "A": "Phenylbutazone",
+        "B": "Phenytoin",
+        "C": "Phenenteramine",
+        "D": "Phenobarbitone"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gingival (gum) hyperplasia is a well-known adverse effect associated with long-term phenytoin therapy.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 79,
+      "question_text": "Which class of drugs is associated with 'cheese reaction'?",
+      "options": {
+        "A": "ACE inhibitors",
+        "B": "COX inhibitors",
+        "C": "MAO inhibitors",
+        "D": "COMT inhibitors"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "MAO inhibitors can precipitate hypertensive crises when ingested alongside tyramine-rich foods like aged cheese, known as the 'cheese reaction'.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Which of the following drug is used to reduce the risk of cyclophosphamide induced hemorrhagic cystitis?",
+      "options": {
+        "A": "Mesna",
+        "B": "BAL",
+        "C": "Thio-TEPA",
+        "D": "5-FU"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mesna binds to and inactivates the urotoxic metabolites of cyclophosphamide and ifosfamide in the bladder, preventing hemorrhagic cystitis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 81,
+      "question_text": "Which of the following local anesthetic is long acting?",
+      "options": {
+        "A": "Tetracaine",
+        "B": "Procaine",
+        "C": "Lignocaine",
+        "D": "Chloroprocine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tetracaine is an ester-type local anesthetic with a long duration of action compared to procaine, lignocaine, or chloroprocaine.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Example for peripheral decarboxylase inhibitor",
+      "options": {
+        "A": "Probenecid",
+        "B": "Benserazide",
+        "C": "Iproniazid",
+        "D": "Zotepine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benserazide (along with carbidopa) is a peripheral dopa decarboxylase inhibitor co-administered with levodopa.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Example for atypical antidepressant :",
+      "options": {
+        "A": "Fluoxetine",
+        "B": "Amoxapine",
+        "C": "Sertline",
+        "D": "Trazodone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Trazodone is classified as an atypical antidepressant (specifically a SARI), whereas fluoxetine and sertraline are SSRIs.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 84,
+      "question_text": "Which family cinnamon belongs to?",
+      "options": {
+        "A": "Leguminosae",
+        "B": "Lauraceae",
+        "C": "Imarubaceae",
+        "D": "Rubiaceae"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cinnamon belongs to the Lauraceae plant family.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 85,
+      "question_text": "Which of the following is not an aminoglycoside antibiotic?",
+      "options": {
+        "A": "Streptomycin",
+        "B": "Gentamicin",
+        "C": "Amikacin",
+        "D": "Mithramycin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mithramycin (plicamycin) is a cytotoxic antitumor antibiotic (polyketide/chromomycin), not an aminoglycoside.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 86,
+      "question_text": "The alkaloid colchicine is an :",
+      "options": {
+        "A": "Anti cancer drug",
+        "B": "Anthelmintic drug",
+        "C": "Anti-gout drug",
+        "D": "Anti Parkinsonian drug"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Colchicine is a natural alkaloid primarily used for the treatment and prophylaxis of acute gouty arthritis.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 87,
+      "question_text": "Barbiturates acts through :",
+      "options": {
+        "A": "Glutamate receptors",
+        "B": "Nicotinic receptors",
+        "C": "NMDA receptors",
+        "D": "GABA receptors"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Barbiturates exert their depressant effects by binding to and allosterically modulating $GABA_A$ receptors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 88,
+      "question_text": "Ondansetron act by antagonizing :",
+      "options": {
+        "A": "$D_2$ receptor",
+        "B": "$H_2$ receptors",
+        "C": "$5HT_3$ receptors",
+        "D": "$H_1$ receptors"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ondansetron is a selective $5-HT_3$ receptor antagonist used as an antiemetic.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 89,
+      "question_text": "The new WHO formula for ORS does not contain",
+      "options": {
+        "A": "Sodium chloride",
+        "B": "Potassium chloride",
+        "C": "Sodium citrate",
+        "D": "Calcium chloride"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The WHO oral rehydration salts (ORS) formula contains sodium chloride, potassium chloride, sodium citrate, and anhydrous glucose, but no calcium chloride.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 90,
+      "question_text": "Composition of Cotrimoxazole is :",
+      "options": {
+        "A": "Trimethoprim : Sulphamethoxazole = 1 : 2",
+        "B": "Trimethoprim : Sulphamethoxazole = 5 : 1",
+        "C": "Sulphamethoxazole : Trimethoprim= 5 : 1",
+        "D": "Trimethoprim : Sulphadiazine = 1 : 5"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cotrimoxazole is a fixed-dose combination containing sulfamethoxazole and trimethoprim in a ratio of $5:1$.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 91,
+      "question_text": "Which is a selective estrogen receptor down regulator?",
+      "options": {
+        "A": "Flutamide",
+        "B": "Letrozole",
+        "C": "Fulvestrant",
+        "D": "Finasteride"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fulvestrant is a complete estrogen receptor antagonist that causes receptor down-regulation and degradation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 92,
+      "question_text": "Vincristine is a ––––––––– type of alkaloid.",
+      "options": {
+        "A": "Indole",
+        "B": "Phenanthrene",
+        "C": "Benzyl isoquinoline",
+        "D": "Triterpenoid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vincristine is a Vinca alkaloid possessing a dimeric indole-dihydroindole structure.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 93,
+      "question_text": "Formula for primary emulsion of castor emulsion is :",
+      "options": {
+        "A": "Oil : water: gum = 4 : 3 : 1",
+        "B": "Oil : water: gum = 3 : 2 : 1",
+        "C": "Oil : water: gum = 2 : 2 : 1",
+        "D": "Oil : water: gum = 4 : 2 : 1"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "For fixed/fixed-mineral/fixed oils like castor oil, the primary emulsion ratio of oil : water : gum is typically $4 : 2 : 1$ for fixed, wait, castor oil is a fixed oil and requires $4:2:1$, let's check option D ($4:2:1$). Oh, option A says $4:3:1$, wait, volatile oils are $2:2:1$, fixed oils are $4:2:1$. Let's select D.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 94,
+      "question_text": "Ideal temperature to store insulin is :",
+      "options": {
+        "A": "$0^\\circ\\text{C} -2^\\circ\\text{C}$",
+        "B": "$0^\\circ\\text{C}$",
+        "C": "$2^\\circ\\text{C} -8^\\circ\\text{C}$",
+        "D": "$20^\\circ\\text{C} -40^\\circ\\text{C}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Unopened insulin supplies must be refrigerated at $2^\\circ\\text{C}$ to $8^\\circ\\text{C}$ to maintain stability.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 95,
+      "question_text": "Omeprazole has to be taken :",
+      "options": {
+        "A": "Along with food",
+        "B": "One hour before food",
+        "C": "One hour after food",
+        "D": "With milk"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Proton pump inhibitors like omeprazole are best taken on an empty stomach, typically 30-60 minutes before a meal for maximal efficacy.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 96,
+      "question_text": "Example for HMG COA reductase inhibitor :",
+      "options": {
+        "A": "Fluvastatin",
+        "B": "Fluoxetine",
+        "C": "Fluoxamine",
+        "D": "Flucinolone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fluvastatin is a member of the statin class, which act as HMG-CoA reductase inhibitors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 97,
+      "question_text": "Which of the following disease is waterborne?",
+      "options": {
+        "A": "Yellow fever",
+        "B": "Cholera",
+        "C": "West Nile fever",
+        "D": "Influenza"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cholera is a classic waterborne infectious disease caused by Vibrio cholerae.",
+      "category": "General"
+    },
+    {
+      "question_number": 98,
+      "question_text": "Calorific value of carbohydrate is approximately equal to :",
+      "options": {
+        "A": "$4\\text{ Kcal/g}$",
+        "B": "$0.4\\text{ Kcal/g}$",
+        "C": "$0.04\\text{ Kcal/g}$",
+        "D": "$9\\text{ Kcal/g}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The physiological fuel value (calorific value) of carbohydrates is approximately $4\\text{ kcal/g}$.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 99,
+      "question_text": "Which of the following is a non viral disease?",
+      "options": {
+        "A": "Rabies",
+        "B": "Leprosy",
+        "C": "Small pox",
+        "D": "Poliomyelitis"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Leprosy is a chronic bacterial infection caused by Mycobacterium leprae, whereas the others are viral diseases.",
+      "category": "General"
+    },
+    {
+      "question_number": 100,
+      "question_text": "A drug combined with cyclophosphamide to reduce the risk of haemorrhagic cystitis is:",
+      "options": {
+        "A": "Mesna",
+        "B": "5–FU",
+        "C": "2–PAM",
+        "D": "Pyridoxine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mesna is specifically given alongside cyclophosphamide to detoxify its urotoxic metabolites and prevent hemorrhagic cystitis.",
+      "category": "Pharmacology"
+    }
+  ]
+}

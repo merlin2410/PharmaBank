@@ -1,0 +1,273 @@
+[
+  {
+    "question_number": 9,
+    "question_text": "What is Epsom salt ?",
+    "options": {
+      "A": "Ferrous sulphate",
+      "B": "Magnesium sulphate",
+      "C": "Copper sulphate",
+      "D": "Barium sulphate"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Epsom salt is chemically known as magnesium sulphate heptahydrate.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 30,
+    "question_text": "Which statement is/are true about ammonium chloride? i) Ammonium chloride is assayed by Volhard's method. ii) Ammonium chloride is assayed by acid-base titration. iii) Ammonium chloride is a reflux expectorant. iv) Ammonium chloride is an antidote for cyanide poisoning.",
+    "options": {
+      "A": "Only iv",
+      "B": "Only i and ii",
+      "C": "Only i, ii and iii",
+      "D": "Only iii"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Ammonium chloride is assayed by acid-base titration (back titration), used as an expectorant, and can be assayed via methods including modified approaches, while cyanide uses specific antidotes like sodium nitrite.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "Assistant Pharmacist 72-24  (Set A)_0"
+  },
+  {
+    "question_number": 21,
+    "question_text": "The calcium compound used topically in the treatment of burns by hydrofluoric acid :",
+    "options": {
+      "A": "Calcium lactate",
+      "B": "Calcium hydroxide",
+      "C": "Calcium gluconate",
+      "D": "Calcium phosphate"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Calcium gluconate gel is the standard topical treatment for hydrofluoric acid burns to bind fluoride ions.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 22,
+    "question_text": "Substance added as a stabilizer for aqueous solutions of mild silver protein :",
+    "options": {
+      "A": "Sodium benzoate",
+      "B": "Kaolin",
+      "C": "Bentonite",
+      "D": "Disodium calcium edetate"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Disodium edetate (EDTA) is added as a chelating stabilizer to prevent precipitation and oxidation in mild silver protein solutions.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 23,
+    "question_text": "The concentration of iodine in strong iodine solution I.P. is :",
+    "options": {
+      "A": "2.0% w/v",
+      "B": "5.0% w/v",
+      "C": "6.0% w/v",
+      "D": "10% w/v"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Strong iodine solution I.P. (Lugol's solution) contains 5% w/v iodine and 10% w/v potassium iodide.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 24,
+    "question_text": "Tartar emetic is :",
+    "options": {
+      "A": "Sodium potassium tartrate",
+      "B": "Antimony potassium tartrate",
+      "C": "Selenium potassium tartrate",
+      "D": "Aluminium potassium tartrate"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Tartar emetic is chemically antimony potassium tartrate.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 26,
+    "question_text": "Spirit of salt is the synonym for :",
+    "options": {
+      "A": "Hydrochloric acid",
+      "B": "Hydrofluoric acid",
+      "C": "Hydroiodic acid",
+      "D": "Hypophosphorus acid"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Hydrochloric acid is historically known by the synonym 'spirit of salt'.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 27,
+    "question_text": "The content of chlorine in chlorinated lime should be not less than :",
+    "options": {
+      "A": "10% w/w",
+      "B": "20% w/w",
+      "C": "30% w/w",
+      "D": "40% w/w"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Chlorinated lime (bleaching powder) must contain not less than 30% w/w of available chlorine.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "Pharmacist 159-2025-A"
+  },
+  {
+    "question_number": 75,
+    "question_text": "Inorganic compound which is used as a dentine desensitiser is:",
+    "options": {
+      "A": "Calcium carbonate",
+      "B": "Strontium chloride",
+      "C": "Calcium chloride",
+      "D": "Calcium hypochlorite"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Strontium chloride is widely used in toothpaste formulations as a dentine desensitizing agent.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "Pharmacist Gr 2 health services 2015 200_15"
+  },
+  {
+    "question_number": 101,
+    "question_text": "A tooth paste contains stannous fluoride and calcium pyrophosphate along with other formulation constituents. Choose the correct statement out of the followings",
+    "options": {
+      "A": "Stannous fluoride is an anticaries agent while calcium pyrophosphate is a dentifrice",
+      "B": "Stannous fluoride is a dentifrice while calcium pyrophosphate is a desensitizing agent",
+      "C": "Stannous fluoride is a desensitizing agent while calcium pyrophosphate is an anticaries agent",
+      "D": "Both are dentifrices while calcium pyrophosphate is additionally a desensitizing agent"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Stannous fluoride provides fluoride for caries prevention, whereas calcium pyrophosphate acts as an abrasive/polishing agent (dentifrice component).",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 102,
+    "question_text": "Hydrogen peroxide solution (20 volumes) is used topically as a mild antiseptic. It is mainly used for cleaning of wounds which could be due to some of the following actions of hydrogen peroxide. [P] Astringent action [Q] Nascent hydrogen releasing action [R] Oxidizing action [S] Mechanical cleansing action Choose the correct statements for the use of hydrogen peroxide as cleaning agent for wounds",
+    "options": {
+      "A": "P&R",
+      "B": "P&Q",
+      "C": "R&Q",
+      "D": "R&S"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Hydrogen peroxide cleanses wounds via its oxidizing action and mechanical effervescence/cleansing action from oxygen gas release.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 104,
+    "question_text": "Boric acid is a weak acid ($\text{pKa } 9.19$) which cannot be titrated with a standard solution of sodium hydroxide using phenolphthalein as indicator. This titration becomes possible on addition of glycerol due to one of the following reactions. Choose the correct reaction",
+    "options": {
+      "A": "Boric acid becomes boronic acid on reaction with glycerol",
+      "B": "Boric acid gives a monoprotic tetravalent boron ester with glycerol",
+      "C": "Boric acid gives a tribasic acid on reaction with glycerol",
+      "D": "Two boric acid molecules combine to give an anhydride in presence of glycerol"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Glycerol complexes with boric acid to form a stronger, stable chelated monobasic acid complex that can be titrated using phenolphthalein.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 105,
+    "question_text": "An iron compound used as heaminatic agent must meet two requirements i.e. it should be biologically available and be non-irritating. Which of the following compounds meet the above two requirements most closely",
+    "options": {
+      "A": "Ferric chloride",
+      "B": "Ferric ammonium sulphate",
+      "C": "Ferric ammonium citrate",
+      "D": "Ferrous thioglycollate"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Ferric ammonium citrate is a well-tolerated, bioavailable oral iron supplement with minimized gastric irritation compared to inorganic ferric salts.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 106,
+    "question_text": "Iodine-131 as sodium iodide solution is used as a radiopharmaceutical for diagnostic and therapeutic purposes. Its usage is dependent on the release of the following emissions: [P] Alpha particles [Q] Positrons [R] Beta emission [S] Gamma radiation Choose the correct combination of statements",
+    "options": {
+      "A": "R&S",
+      "B": "Q&S",
+      "C": "P&R",
+      "D": "P&S"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Iodine-131 undergoes radioactive decay by emitting beta particles (for therapeutic tissue destruction) and gamma rays (for imaging/diagnostics).",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 71,
+    "question_text": "The chelate, $EDTA^{4-}$, can described as what type of chelating ligand",
+    "options": {
+      "A": "Bidentate",
+      "B": "Tetradentate",
+      "C": "Hexadentate",
+      "D": "Tridentate"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 12,
+    "question_text": "Madrell's salt is used as",
+    "options": {
+      "A": "Astringent",
+      "B": "Dentifrice",
+      "C": "Antioxidant",
+      "D": "Emetic"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Madrell's salt (insoluble sodium metaphosphate) is commonly used as a polishing agent in dentifrices.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "qstn_paper_pharmacist_gr_ii_1"
+  },
+  {
+    "question_number": 15,
+    "question_text": "Which of the following metal has no therapeutic use ?",
+    "options": {
+      "A": "Lead",
+      "B": "Lithium",
+      "C": "Iron",
+      "D": "Platinum"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Lead is a toxic heavy metal with no approved therapeutic use in modern medicine.",
+    "category": "Pharmaceutical Chemistry",
+    "source_exam": "qstn_paper_pharmacist_gr_ii_1"
+  }
+]

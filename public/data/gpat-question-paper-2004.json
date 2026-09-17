@@ -1,0 +1,1321 @@
+{
+  "exam_title": "gpat-question-paper-2004",
+  "total_questions": 90,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "The structural feature common for propranolol, atenolol, pindolol, metoprolol in the side chain is",
+      "options": {
+        "A": "Isopropyl amino propan-2-ol",
+        "B": "Dimethyl amino propan-2-ol",
+        "C": "Diethyl amino propan-2-ol",
+        "D": "Dibutylamino propan-2-ol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Beta-blockers like propranolol, atenolol, pindolol, and metoprolol characteristically possess an isopropylaminopropanol side chain crucial for their pharmacological activity.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 2,
+      "question_text": "When N- methyl group of morphine is replaced with an allyl group, the compound formed is",
+      "options": {
+        "A": "Naloxone-morphine antagonist",
+        "B": "Naltrexone-morphine antagonist",
+        "C": "Nalorphine-morphine antagonist",
+        "D": "Nalbuphine-morphine agonist/antagonist"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Replacement of the N-methyl group of morphine with an allyl group yields nalorphine, which acts as an opioid antagonist.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Nitrazepam can be synthesized from",
+      "options": {
+        "A": "2-Bromo-5-amino benzophenone",
+        "B": "2-Nitro-2-chloro acetophenone",
+        "C": "2-Amino-5-nitro cyclohexanone",
+        "D": "2-Amino-5 nitro-benzophenone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nitrazepam synthesis typically involves the condensation of 2-amino-5-nitrobenzophenone with glycine derivative followed by cyclization.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Clavulanic acid has a beta lactam ring fused to",
+      "options": {
+        "A": "Thienyl system",
+        "B": "Thiodiazole system",
+        "C": "Thiazolidine system",
+        "D": "Oxazolidine system"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Unlike penicillins which have a thiazolidine ring, clavulanic acid features an oxazolidine ring fused to its beta-lactam ring.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 5,
+      "question_text": "A drug which has antipyretic, anti-inflammatory and antiplatelet activity is",
+      "options": {
+        "A": "Sulfinpyrazone",
+        "B": "Aspirin",
+        "C": "Ticlopidine",
+        "D": "Acetaminophen"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aspirin (acetylsalicylic acid) uniquely possesses antipyretic, anti-inflammatory, and antiplatelet properties due to irreversible inhibition of COX enzymes.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Wild cherry bark contains prunasin which is a",
+      "options": {
+        "A": "Phenolic glycoside",
+        "B": "Isothiocyanate glycoside",
+        "C": "Coumarin glycoside",
+        "D": "Cyanogenic glycoside"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Prunasin found in wild cherry bark is a cyanogenic glycoside that yields hydrocyanic acid upon enzymatic hydrolysis.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Ephedra sinica and Ephedra equisetina can be distinguished by type of",
+      "options": {
+        "A": "Branching",
+        "B": "Stomata",
+        "C": "Scaly leaves.",
+        "D": "Alkaloids"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ephedra species such as Ephedra sinica and Ephedra equisetina are typically distinguished macroscopically by their branching patterns.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Micropropagation of the plants is carried out through",
+      "options": {
+        "A": "Cross fertilization",
+        "B": "Seed germination",
+        "C": "Plant tissue culture",
+        "D": "Grafting"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Micropropagation is the practice of rapidly multiplying plant stock material to produce a large number of progeny plants, using modern plant tissue culture methods.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Aconitine belongs to the group of",
+      "options": {
+        "A": "Steroidal alkaloids",
+        "B": "Terpenoidal alkaloid",
+        "C": "Indole alkaloid",
+        "D": "Quinoline alkaloid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aconitine is a highly toxic diterpene alkaloid found in plants of the genus Aconitum.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Crude fibre value of a drug is measure of",
+      "options": {
+        "A": "Soft tissue matter",
+        "B": "Woody matter",
+        "C": "Mineral matter",
+        "D": "Organic matter"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Crude fibre determination measures the amount of non-digestible cellulose, lignin, and other woody matter in a crude drug sample.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 11,
+      "question_text": "One of the units used for expressing pressure is 'torr' and is equal to",
+      "options": {
+        "A": "cm of Hg",
+        "B": "mm of mercury",
+        "C": "psi",
+        "D": "gause"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "One torr is precisely equal to one millimeter of mercury (mmHg) under standard conditions.",
+      "category": "General"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Removal of a single electron from a molecule results in the formation of",
+      "options": {
+        "A": "Fragment ion",
+        "B": "Metastable ion",
+        "C": "Molecular ion",
+        "D": "Rearrangement ion"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In mass spectrometry, the removal of a single electron from a neutral molecule produces the molecular ion radical ($M^{+\\bullet}$).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Nuclear magnetic movement is NOT shown by",
+      "options": {
+        "A": "$^{13}\\text{C}$",
+        "B": "$^{16}\\text{O}$",
+        "C": "$^{1}\\text{H}$",
+        "D": "$^{15}\\text{N}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nuclei with even mass numbers and even atomic numbers (such as $^{16}\\text{O}$) have a nuclear spin of zero and do not exhibit NMR signals.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Derivatisation techniques in HPLC are intended to enhance",
+      "options": {
+        "A": "Molecular weight",
+        "B": "Detectability",
+        "C": "Reversibility",
+        "D": "Reproducibility"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Derivatization in chromatography is primarily used to enhance detectability by introducing UV-absorbing, fluorescent, or electroactive tags.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "A conductance cell is calibrated by using a solution of known conductivity i.e.usually a solution of",
+      "options": {
+        "A": "NaCl",
+        "B": "\\text{Hg}_2\\text{Cl}_2",
+        "C": "KCl",
+        "D": "\\text{Na}_2\\text{SO}_4"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Potassium chloride (KCl) solutions of precisely known concentrations are universally used as standards for calibrating conductance cells.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Metoclopramide is generally used for",
+      "options": {
+        "A": "Prophylaxis of vomiting",
+        "B": "Preventing motion sickness",
+        "C": "Treating irritable bowel syndrome",
+        "D": "Treatment of pancreatic insufficiency"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Metoclopramide is a well-known dopamine receptor antagonist used primarily as an antiemetic for prophylaxis and treatment of nausea and vomiting.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 17,
+      "question_text": "DNA amplification by the polymerase chain reaction uses",
+      "options": {
+        "A": "Thermus aquaticus DNA polymerase",
+        "B": "DNA topoisomerase",
+        "C": "RNA polymerase",
+        "D": "RNA helicase"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "PCR relies on thermostable Taq polymerase derived from the bacterium Thermus aquaticus.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Identify the non-pathogenic organism",
+      "options": {
+        "A": "Mycobacterium bovis",
+        "B": "Mycobacterium smegmatis",
+        "C": "Mycobacterium avium",
+        "D": "Mycobacterium intracellulare"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mycobacterium smegmatis is a non-pathogenic species commonly used as a model organism in laboratory studies.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Bioassay are carried out to",
+      "options": {
+        "A": "Measure the pharmacological activity of a drug",
+        "B": "Avoid clinical trials for newdrugs",
+        "C": "Detect the impurity in a given drug",
+        "D": "Screen for pharmacogenicinfluences of new drugs"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bioassays estimate the concentration or potency of a substance by measuring its biological response on living tissues or organisms.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 20,
+      "question_text": "A direct way of studying idiosyncratic reactions to the given drug is by",
+      "options": {
+        "A": "Changing the route of drug administration",
+        "B": "Change the assay method",
+        "C": "Pharmacogenomic",
+        "D": "Structure activity relationship studies of a family of compounds"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Idiosyncratic drug reactions are often genetically determined, making pharmacogenomic studies the direct method for their investigation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 21,
+      "question_text": "An example of haemopoietic growth factor is",
+      "options": {
+        "A": "Platelet derived factor",
+        "B": "Epidermal growth factor",
+        "C": "Iron dextran",
+        "D": "Erythropoietin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Erythropoietin is a glycoprotein hormone that stimulates red blood cell production, functioning as a hematopoietic growth factor.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Safranin is used as a reagent to detect",
+      "options": {
+        "A": "Gram-negative bacteria",
+        "B": "Gram-positive bacteria",
+        "C": "Acid fast bacteria",
+        "D": "Myxozoa"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In Gram staining, safranin is used as a counterstain which stains Gram-negative bacteria pink or red.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Sulphonamides do not have adverse drug interaction with",
+      "options": {
+        "A": "Oral anticoagulants",
+        "B": "Sulfonylurea hypoglycemic agent",
+        "C": "Hydantoin anticonvulsant",
+        "D": "Dihydro folate reductase inhibitors"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfonamides can interact significantly with oral anticoagulants, sulfonylureas, and hydantoins by protein-binding displacement, whereas dihydrofolate reductase inhibitors (like trimethoprim) are often deliberately combined synergistically.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Simvastatin belongs to",
+      "options": {
+        "A": "HMG CoA reductase inhibitor type of antilipidemic agents",
+        "B": "HMG CoAreductase inhibitor type of anticoagulant agents",
+        "C": "Fibrate type of anticoagulantsagents",
+        "D": "Fibrate type of antilipidemic agents"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Simvastatin is a statin medication that acts as an HMG-CoA reductase inhibitor used to lower lipid levels.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 25,
+      "question_text": "HIV infection can be clinically controlled with",
+      "options": {
+        "A": "Cytarabine",
+        "B": "Acyclovir",
+        "C": "Zidovudine",
+        "D": "Amantadine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Zidovudine (AZT) is a nucleoside reverse transcriptase inhibitor used in the management of HIV infection.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 26,
+      "question_text": "The measure of cohesive strength of the cross linking that occurs between gelatin molecules and is proportional to the molecular weight of gelatin is so called",
+      "options": {
+        "A": "Bloom Strength",
+        "B": "Viscosity",
+        "C": "Surface tension",
+        "D": "Partition coefficient"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bloom strength is the measure of the gel strength and rigidity of gelatin, correlating directly with its molecular weight and cross-linking.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 27,
+      "question_text": "A water soluble substance used as coating material in microencapsulation process is",
+      "options": {
+        "A": "Polyethylene",
+        "B": "Silicone",
+        "C": "Hydroxy ethyl cellulose",
+        "D": "Paraffin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hydroxyethyl cellulose is a water-soluble polymer frequently utilized as a coating and film-forming agent in microencapsulation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 28,
+      "question_text": "One of the following is used as a solubilizing agent to solubilize testosterone inpharmaceutical liquid dosage forms.",
+      "options": {
+        "A": "Sucrose monoesters",
+        "B": "Lanolin esters",
+        "C": "Lanoline ethers",
+        "D": "Tween"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Polysorbates (Tweens) are widely used non-ionic surfactants acting as solubilizing agents for poorly water-soluble drugs like testosterone.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 29,
+      "question_text": "One of the following is used as a pH dependent controlled release expicient",
+      "options": {
+        "A": "Carnauba wax",
+        "B": "Hydroxyl propyl methyl cellulose phthalate",
+        "C": "Methyl cellulose",
+        "D": "Glyceryl monosterate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HPMC phthalate contains free carboxyl groups rendering its solubility pH-dependent, making it ideal for enteric and delayed-release coatings.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 30,
+      "question_text": "The Schedule in D & C Act that deals with the standards for disinfectant fluids is",
+      "options": {
+        "A": "Schedule B",
+        "B": "Schedule F",
+        "C": "Schedule O",
+        "D": "Schedule M"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Drugs and Cosmetics Act, Schedule O specifies the standards for disinfectant fluids.",
+      "category": "General"
+    },
+    {
+      "question_number": 31,
+      "question_text": "The carboxyl group of aspirin is esterified with N-acetyl-p-aminophenol to get",
+      "options": {
+        "A": "3-Acetamidophenyl-o-acetyl salicylate",
+        "B": "4-Acetamidophenyl-o-acetyl salicylate",
+        "C": "O-(2-hydroxy benzoyl) salicylic acid",
+        "D": "2-Acetamidophenyl-o-acetyl salicylate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Esterification of aspirin's carboxyl group with paracetamol (N-acetyl-p-aminophenol, where the hydroxyl is at position 4) yields 4-acetamidophenyl-o-acetyl salicylate (benorilate).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "IUPAC system of nomenclature for Diclofenac sodium(BP) is",
+      "options": {
+        "A": "Sodium 2-[(2,6-Dichlorophenyl) amino] phenyl acetate",
+        "B": "Sodium 3-[(2,6-Dichlorophenyl)amino] phenyl acetate",
+        "C": "Sodium 2-[(2-Chlorophenyl) amino] phenyl acetate",
+        "D": "Sodium 2-[(6-Chlorophenyl) amino] phenyl acetate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diclofenac sodium is chemically sodium 2-[(2,6-dichlorophenyl)amino]phenylacetate.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 33,
+      "question_text": "1-(2-Aminoethyl) perhydroazocine on treatment with S-methyl isothiourea gives rise to an adrenergic neuron blocking agent",
+      "options": {
+        "A": "Bethanidine",
+        "B": "Mecamylamine",
+        "C": "Guanadrel",
+        "D": "Guanethidine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reaction of 1-(2-aminoethyl)perhydroazocine with S-methylisothiourea yields guanethidine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Quercetin is",
+      "options": {
+        "A": "5, 7, 3'-Trihydroxy flavones",
+        "B": "5, 7, 3', 4'-Trihydroxy flavones",
+        "C": "3, 5, 7, 3', 4'-Pentahydroxy flavonol",
+        "D": "3, 5, 7, 3', 4'-Pentahydroxy dlavonone"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Quercetin is a well-known flavonoid structurally classified as 3,5,7,3',4'-pentahydroxyflavonol.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Meconic acid is a chemical marker for the genus",
+      "options": {
+        "A": "Piper",
+        "B": "Pilocarpus",
+        "C": "Prunus",
+        "D": "Papaver"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Meconic acid is a characteristic chemical constituent and analytical marker found exclusively in Papaver species (opium poppy).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 36,
+      "question_text": "A novel diterpenoid isolated from the of Taxus brevifolia is",
+      "options": {
+        "A": "Demecokine",
+        "B": "Paclitaxel",
+        "C": "Vinblastin",
+        "D": "Brevifolicin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Paclitaxel (Taxol) is a well-known complex diterpenoid taxane isolated from Taxus brevifolia.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 37,
+      "question_text": "The absorption maximum for polar compound is usually shifted with change in polarity of the solvents due to",
+      "options": {
+        "A": "Hydrogen bonding",
+        "B": "Chemical reaction",
+        "C": "Ionization of the compound",
+        "D": "Change in the chromophore"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Solvent polarity effects on absorption spectra (solvatochromism) for polar compounds are frequently driven by hydrogen bonding interactions with solvent molecules.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 38,
+      "question_text": "A titration in which potential applied across two electrode is maintained at a constant value and the current is measured and plotted against volume of titrant is",
+      "options": {
+        "A": "Potentiometric titration",
+        "B": "Amperometric titration",
+        "C": "Displacement titration",
+        "D": "Conductometric titration"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amperometric titration involves maintaining a constant potential and measuring current as a function of titrant volume.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 39,
+      "question_text": "The parameter in the elution curve that is proportional to the concenteration of a compound in gas chromatographic effluent is the",
+      "options": {
+        "A": "Number of peaks",
+        "B": "Width of the peak",
+        "C": "Area under the peak",
+        "D": "Shape of the peak"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In chromatography, the area under the chromatographic peak is directly proportional to the concentration and amount of the analyte.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 40,
+      "question_text": "A drug solution has a half life of 21 days. Assuming that the drug undergoes first order kinetics, how long will it take for the potency to drop to 90% of the initial potency",
+      "options": {
+        "A": "3.2 days",
+        "B": "9.6 days",
+        "C": "16 days",
+        "D": "6.4 days"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Using first-order kinetics $t = (2.303/k) \\log(100/90)$ where $k = 0.693/21$, giving approximately 3.19 or 3.2 days? Wait, let's calculate: $t = 21 \\times \\log_{2}(1/0.9) = 21 \\times 0.152 = 3.2$ days.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 41,
+      "question_text": "An amphoteric surfactant used in pharmaceutical disperse systems is",
+      "options": {
+        "A": "Bile salts",
+        "B": "Lecithin",
+        "C": "Sorbitan monolaurate",
+        "D": "Sorbitan monostearate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lecithin is a naturally occurring zwitterionic (amphoteric) phospholipid surfactant widely used in pharmaceutical dispersions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 42,
+      "question_text": "An abrasive used in dentifrices is",
+      "options": {
+        "A": "Dicalcium phosphate",
+        "B": "Sodium carboxy methyl cellulose",
+        "C": "Sodium lauryl sulfate",
+        "D": "Dioctyl sodium sulfosuccinate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dicalcium phosphate is a standard polishing and abrasive agent utilized in toothpaste formulations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 43,
+      "question_text": "An electrochemical method that enhances the transport of some solute molecules by creating a potential gradient through skin tissue with an applied electrical current or voltage is called",
+      "options": {
+        "A": "Electrophoresis",
+        "B": "Iontophoresis",
+        "C": "Osmosis",
+        "D": "Implants"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Iontophoresis uses a small electric current to deliver charged drugs or solutes transdermally.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Apatient with rheumatoid arthritis has been taking acetyl salicylic acid regularly. However, recently she has been experiencing stiffness, swelling andpain due to salicylate resistance. She has occult blood in her feaeces. Suggest an appropriate drug suitable for her from those mentioned below",
+      "options": {
+        "A": "Paracetamol",
+        "B": "Celecoxib",
+        "C": "Piroxicam",
+        "D": "Naproxen"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Celecoxib is a selective COX-2 inhibitor which provides anti-inflammatory relief with a reduced risk of gastrointestinal bleeding compared to non-selective NSAIDs.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 45,
+      "question_text": "The break down of fibrin is catalysed by",
+      "options": {
+        "A": "Plasmin",
+        "B": "Renin",
+        "C": "Urokinase",
+        "D": "Ptylin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Plasmin is the primary active enzyme that breaks down fibrin blood clots (fibrinolysis).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Which one of these best describes a process carried out to render a drug pharmacokinetically more acceptable http://www.xamstudy.com",
+      "options": {
+        "A": "Enteric coating of diclofenac",
+        "B": "Co-administration of aspirin with antacids",
+        "C": "Use of colloidal suspension or liposomes for administering Amphotericin-B",
+        "D": "Synthesis of an analogue to obtain high receptor specificity"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Liposomal formulation of amphotericin B significantly alters and improves its pharmacokinetic and toxicity profiles.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Azithromycin is clinically administered once daily as compared to erythromycin which is administered every 6 hours because, azithromycin",
+      "options": {
+        "A": "Penetrates into most tissue and is released very slowly",
+        "B": "Has a methylated nitrogen in its lactone ring which renders it much more potent than Erythromycin",
+        "C": "Is a very potent antibiotic but not tolerated well in the gastrointestinal tract",
+        "D": "Is usually presented in a sustained release dosage"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Azithromycin has a large volume of distribution, tissue penetration, and a long terminal half-life, allowing once-daily dosing.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 48,
+      "question_text": "A patient showing muscle rigidity, bradykinesia, tremors and postural instability was administered levodopa. Which of the properties of levo-dopa is not true",
+      "options": {
+        "A": "Levo-dopa is preferred over dopamine because it can cross the blood brain barrier",
+        "B": "Levo-dopa is the levorotatory stereoisomer of 3, 4-dihydroxy phenylalanine",
+        "C": "Levo-dopa gets decarboxylated in the brain to dopamine",
+        "D": "Levo-dopa is administered because of its strong antagonistic action on dopamine receptors"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Levodopa is a dopamine precursor and agonist, not a receptor antagonist.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 49,
+      "question_text": "Autoimmunity refers to",
+      "options": {
+        "A": "An automatic trigger of the immune system directed against a specific pathogen",
+        "B": "Failure to distinguish between self and non-self",
+        "C": "An automatic segregation of T and B cells",
+        "D": "Failure of B-cells to interact with T-cells"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Autoimmunity arises from the failure of the immune system to properly distinguish between self and non-self antigens.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Which of these is true about the discovery of HB antigen in the blood of people infected with Heptatitis-B",
+      "options": {
+        "A": "It provided a basis for vaccine design",
+        "B": "It indicated that specific vaccines cannot be designed for Hepatitis-B",
+        "C": "It has not been of much significance",
+        "D": "It indicated that Hepatitis-B is a viral disease"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Discovery of Hepatitis B surface antigen enabled the development and production of subunit vaccines.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Which drug molecule does not have phenylethyl amine moiety",
+      "options": {
+        "A": "Amphetamine",
+        "B": "Glyburide",
+        "C": "Pheniramine",
+        "D": "Mescaline"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glyburide is a sulfonylurea derivative lacking a phenylethylamine skeleton, whereas amphetamine, pheniramine derivatives and mescaline contain related aromatic ethylamine scaffolds.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 52,
+      "question_text": "There are two methods by which the duration of action if insulin may prolonged\n(P) Binding with resins\n(Q) Esterification of aminio acid residues\n(R) Forming of complex of insulin with protein\n(S) Modification of particle size",
+      "options": {
+        "A": "Q, R",
+        "B": "R, S",
+        "C": "P, S",
+        "D": "P, R"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Insulin duration of action is prolonged by complexing with proteins (e.g., NPH insulin with protamine) or through chemical modification/binding.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 53,
+      "question_text": "The attributes of cycloserine are\n(P) No tautomeric shown\n(Q) Exists in equilibrium with its tautomeric enolic form\n(R) Stable in alkaline solution, destroyed rapidly at neutral or acidic pH\n(S) Stable in neutral solution, destroyed in alkaline pH",
+      "options": {
+        "A": "R, S",
+        "B": "P, Q",
+        "C": "Q, R",
+        "D": "P, R"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cycloserine is stable in alkaline solutions and rapidly decomposes at neutral or acidic pH.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Compared to benzyl penicillin, amoxicillin has the following advantages in biological properties\n(P) The amino group renders the antibiotic resistant to acid catalysed degradation\n(Q) The spectrum of activity is broadened\n(R) The amino group renders penicillinase resistance to the compound\n(S) The phenolic group renderspenicillinase resistance to the compound",
+      "options": {
+        "A": "P, Q",
+        "B": "P, R",
+        "C": "P, S",
+        "D": "Q, R"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amoxicillin's amino group provides acid stability and broadens its antibacterial spectrum compared to benzylpenicillin.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 55,
+      "question_text": "The identification of propellants in pharmaceutical aerosok is carried out by\n(P) Gas-chromatography\n(Q) Tag-open cup apparatus\n(R) Pycnometer\n(S) IR Spectrophotometer",
+      "options": {
+        "A": "P, Q",
+        "B": "P, S",
+        "C": "Q, R",
+        "D": "R, S"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aerosol propellants are typically identified and quantified using gas chromatography and infrared spectroscopy.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Schedule 'H' and Schedule 'S' as per the Drugs & Cosmetics Act deal with the following (P) Prescription drugs which are required to be sold by retail only on prescription of RMP (Q) Standard for cosmetics (R) Biological and special products (S) List of coal tar colours permitted to be used in cosmetics and soaps",
+      "options": {
+        "A": "P, Q",
+        "B": "P, R",
+        "C": "Q, S",
+        "D": "R, S"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "General"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Myristica fragrans Houtt. Has two of the following characteristics (P) An indeciduous tree, which produces drupaceous, pale yellow fruits (Q) Each fruit has several round seeds with smooth surface and lignaceous tegument, and the red fleshy aril-the mace, is present inside the seed (R) A deciduous tall tree, which produces lignaceous capsules (S) Each fruit has a unque ovoid seed, with lignified tegument, surrounded by orange red laciniate fleshy aril-the mace",
+      "options": {
+        "A": "Q, R",
+        "B": "P, R",
+        "C": "P, S",
+        "D": "Q, S"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 58,
+      "question_text": "In size exclusion chromatography the stationary phases used are (P) Alumina (Q) Dextran (R) Agarose (S) Styrene",
+      "options": {
+        "A": "P, S",
+        "B": "Q, R",
+        "C": "Q, S",
+        "D": "P, R"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Match Group I with Group II. Group I (Synthetic Drug): (P) Buclizin, (Q) Chlorphenesin, (R) Thiotepa, (S) Alprazolam. Group II (Intermediates from which Group I drugs are synthesized): 1. Aziridin and thiophosphoryl chloride, 2. 4-Chlorophenol, 3. 4-Chlorobenzhydryl chloride, 4. 2-Amino-5-chloro benzophenone",
+      "options": {
+        "A": "P-3, Q-2, R-1, S-4",
+        "B": "P-4, Q-2, R-1, S-3",
+        "C": "P-2, Q-4, R-3, S-1",
+        "D": "P-1, Q-2, R-4, S-3"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Match Group I with Group II. Group I (Cardiac Agents): (P) Digitoxin, (Q) Dobutamine, (R) Sotalol, (S) Nicardipine. Group II (Mechanism of Action): 1. Produces negative inotropic effect by blocking calcium channels, 2. Depresses adrenergically enhanced calcium influx through beta receptor blockade, 3. Causes elevation of cAMP levels by stimulation of adenylate Cyclase, 4. Inhibits membrane bound sodium potassium ATPase pump",
+      "options": {
+        "A": "P-4, Q-3, R-2, S-1",
+        "B": "P-3, Q-4, R-1, S-2",
+        "C": "P-4, Q-2, R-3, S-1",
+        "D": "P-4, Q-3, R-1, S-2"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Match Group I with Group II. Group I (Technique employed): (P) Visible spectrophotometry, (Q) IR spectrophotometry, (R) NMR spectrophotometry, (S) Fluorescence spectrophotometry. Group II (Source of Radiation): 1. $R_f$ Source transmitter, 2. Xenon lamp, 3. Tungsten lamp, 4. Nernst glower",
+      "options": {
+        "A": "P-2, Q-4, R-3, S-1",
+        "B": "P-3, Q-2, R-1, S-4",
+        "C": "P-3, Q-4, R-1, S-2",
+        "D": "P-4, Q-1, R-3, S-2"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Match Group I with Group II. Group I (Amino acids): (P) Aspartic acid, (Q) Arginine, (R) Serine, (S) Methionine. Group II (Common degradative products that are citric acid cycle intermediates or their precursors): 1. Succinyl CoA, 2. Alpha-Ketoglutarate, 3. Fumarate, 4. Pyruvate",
+      "options": {
+        "A": "P-3, Q-2, R-4, S-1",
+        "B": "P-3, Q-1, R-4, S-2",
+        "C": "P-1, Q-2, R-3, S-4",
+        "D": "P-4, Q-2, R-3, S-1"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 63,
+      "question_text": "Match Group I with Group II. Group I (Tablet defects): (P) Picking, (Q) Sticking, (R) Mottling, (S) Lamination. Group II (Explanation): 1. A term used to describe the surface material from a tab that is sticking to and being removed from the tablet's surface by a punch, 2. Term refers to tablet material adhering to the die wall, 3. Term refers to an unequal distribution of colour on a tablet, 4. Term refers to separation of a tablet into two or more distinct layers",
+      "options": {
+        "A": "P-1, Q-2, R-3, S-4",
+        "B": "P-1, Q-3, R-4, S-2",
+        "C": "P-2, Q-4, R-3, S-1",
+        "D": "P-3, Q-1, R-2, S-4"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Match Group I with Group II. Group I (Lanatosides): (P) Lanatoside A, (Q) Lanatoside B, (R) Lanatoside C, (S) Lanatoside D. Group II (Aglycone): 1. Gitoxigenin, 2. Diginatigenin, 3. Digoxigenin, 4. Digitoxigenin",
+      "options": {
+        "A": "P-1, Q-4, R-3, S-2",
+        "B": "P-1, Q-2, R-4, S-3",
+        "C": "P-3, Q-4, R-2, S-1",
+        "D": "P-4, Q-1, R-2, S-4"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 65,
+      "question_text": "Match Group I with Group II. Group I (Specific chemical test): (P) Thalleoquin Test, (Q) Murexide test, (R) Vitali-Morin test, (S) Modified Borntrager's test. Group II (Phytoconstituents): 1. Hyoscyamine, 2. Barbaloin, 3. Quinine, 4. Theobromine",
+      "options": {
+        "A": "P-2, Q-3, R-4, S-1",
+        "B": "P-3, Q-4, R-1, S-2",
+        "C": "P-1, Q-2, R-3, S-4",
+        "D": "P-4, Q-1, R-2, S-3"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 66,
+      "question_text": "In a formulation development laboratory a tablet is to be formulated. The core tablet has a bad taste and requires physical and chemical protection of the drug from moisture. The tablet should also deliver the drug for the local action in the intestine. Suggest a suitable method",
+      "options": {
+        "A": "Sugar coating",
+        "B": "Film coating",
+        "C": "Enteric coating",
+        "D": "Sub coating"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Choose the correct coating material to be used",
+      "options": {
+        "A": "Sugar",
+        "B": "Acacia",
+        "C": "Ethyl cellulose",
+        "D": "Cellulose acetate phthalate"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 68,
+      "question_text": "Choose the correct solvent for the coating material",
+      "options": {
+        "A": "Acetone",
+        "B": "Water",
+        "C": "Propylene glycol",
+        "D": "Glycerin"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Compound A with formula $C_7H_7N$ shows the following important bands in the IR spectra (a) $3423cm^{-1}$, (b) $3236cm^{-1}$. Assign these bands to the important group in the compound A",
+      "options": {
+        "A": "$-\\text{CH}_3$",
+        "B": "$-\\text{NH}_2$",
+        "C": "$-\\text{CN}$",
+        "D": "$\\text{C}=\\text{N}-$"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 70,
+      "question_text": "On treatment with nitrous acid the compound A is converted to B, which shows a strong band at $3430cm^{-1}$. Assign the absorption band for the group formed in the product",
+      "options": {
+        "A": "$-\\text{OH}$",
+        "B": "$\\text{C}=\\text{N}-$",
+        "C": "$-\\text{COOH}$",
+        "D": "$-\\text{N}=\\text{N}-$"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 71,
+      "question_text": "In the assay of sulfamethoxazole I.P ($C_{10}H_{11}N_3O_3S$), 0.2g of the sample was dissolved in 50ml of 2M HCl. To this was added 3g of KBr and the titration was carried out. Titration was carried out using",
+      "options": {
+        "A": "$NaNO_2$ to estimate the amino group",
+        "B": "$NaNO_2$ to estimate the sulphonamido group",
+        "C": "NaOH to estimate the amino group",
+        "D": "NaOH to estimate the sulphonamido group"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 72,
+      "question_text": "The end point in the assay was determined by",
+      "options": {
+        "A": "Conductometric method",
+        "B": "Using an indicator",
+        "C": "Potentiometric method",
+        "D": "Photometric method"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 73,
+      "question_text": "If the volume of 0.1 M titrant consumed was 7.8 ml calculate the % purity of the sample",
+      "options": {
+        "A": "99.70%",
+        "B": "9.97%",
+        "C": "8.87%",
+        "D": "98.79%"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 74,
+      "question_text": "A drug which is unstable to light, susceptible to oxygen and gets degraded in presence of metallic ions, has to be formulated in the form of a solution for injection. Choose a suitable additive to improve the stability of the injection",
+      "options": {
+        "A": "Preservative",
+        "B": "Chelating agent",
+        "C": "Buffer",
+        "D": "Tonicity contributor"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Select the appropriate filling and method for the above product",
+      "options": {
+        "A": "Filling in an amber colored ampoule with an addition of antioxidant, replacing the inside air with nitrogen and sealing",
+        "B": "Filling with an antioxidant dissolved in the solution and sealing the ampoule",
+        "C": "Filling in an amber colored ampoule with a preservative and sealing",
+        "D": "Filling in an ampoule, sealing and giving direction to store it in dark"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 76,
+      "question_text": "The usual adulterants for buds are clove stalks and anthophyll. Clove stalks can be identified by the presence of",
+      "options": {
+        "A": "Starch grains",
+        "B": "Cystoliths",
+        "C": "Lignified sclereids",
+        "D": "Acicular crystals of calcium oxalate"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Anthophylli can be identified by the presence of",
+      "options": {
+        "A": "Lignified sclereids",
+        "B": "Acicular crystals of calcium oxalate",
+        "C": "Cystoliths",
+        "D": "Starch grains"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 78,
+      "question_text": "Plant tissue culture of carrot is being developed in the laboratory on a semisolid White's medium. The micronutrient essential in the medium is",
+      "options": {
+        "A": "NaCl",
+        "B": "$CoCl_2$",
+        "C": "KCl",
+        "D": "$CaCl_2$"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 79,
+      "question_text": "The pH of the medium is",
+      "options": {
+        "A": "6.6",
+        "B": "6.0",
+        "C": "5.6",
+        "D": "5.0"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 80,
+      "question_text": "The tissue growth observed is",
+      "options": {
+        "A": "Undifferentiated cells suspended in the medium",
+        "B": "Undifferentiated cells in clusters distributed in the medium",
+        "C": "Differentiated mass of cells",
+        "D": "Surface growth of undifferentiated mass of cells"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 81,
+      "question_text": "In glucose metabolism, name the enzymes catalyzing the following step. Conversion of glucose to glucose-6-phosphate",
+      "options": {
+        "A": "Hexokinase",
+        "B": "Glucose-6-phosphate dehydrogenase",
+        "C": "Glycogen phosphorylase",
+        "D": "Glycogen synthase"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Conversion of 2-phosphoglycerate to phosphoenol pyruvate",
+      "options": {
+        "A": "Pyruvate kinase",
+        "B": "Phosphoglycerate mytase",
+        "C": "Phosphoglycerate kinase",
+        "D": "Enolase"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Methotrexate, trimethoprim and pyrimethamine are all known to be inhibitors of dihydrofolate reductase. Yet they are classified in different therapeutic categories. Trimethoprim has an advantage over methotrexate in its therapeutic category because",
+      "options": {
+        "A": "Trimethoprim binds to bacterial DHFR about 50,000 times more strongly as compared to the host DHFR",
+        "B": "Trimethoprim can be administered orally",
+        "C": "Trimethoprim exhibits to significant adverse effects",
+        "D": "Trimethoprim has additional anti-inflammatory properties"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 84,
+      "question_text": "Methotrexate is thought to exert its actions by",
+      "options": {
+        "A": "Interfering with purine synthesis",
+        "B": "Intracellular formation of an amine adduct",
+        "C": "Forming a conjugate with nucleic acids",
+        "D": "Inhibiting the synthesis of folic acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 85,
+      "question_text": "An administrative officer having high blood pressure, gastric acidity and diabetes is prescribed famotidine enalapril and tolbutamide. From the structural features of the drugs, predict which will be ionized in the stomach",
+      "options": {
+        "A": "Famotidine",
+        "B": "Enalapril",
+        "C": "Tolbutamide",
+        "D": "Enalapril and tolbutamide"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 86,
+      "question_text": "The patient cannot tolerate enalapril. Which of the following can be substituted?",
+      "options": {
+        "A": "Omeprazole",
+        "B": "Losartan",
+        "C": "Rosiglitazone",
+        "D": "Clofibrate"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 87,
+      "question_text": "Famotidine acts as",
+      "options": {
+        "A": "$H_1$-histamine antagonist",
+        "B": "$H_2$-histamine antagonist",
+        "C": "Proton pump inhibitor",
+        "D": "$H_4$ agonist"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 88,
+      "question_text": "2-Methoxy naphthalene on treatment with acetyl chloride in presence of $AlCl_3$, gives 2-acetyl-6-methoxy naphthalene. This is converted with a set of reagents-X to 6-methoxy-2-naphthyl acetic acid, which is esterified with methanol to the methyl ester. Ester on treatment with Y gives DL-2-(6-methoxy-2-naphthyl)-propionic acid methyl ester. This on hydrolysis gives Z(final compound). The set of reagents-X are",
+      "options": {
+        "A": "Morpholine /Sulphur followed by $H_2SO_4/H_2O$",
+        "B": "Morpholine/Sulphur followed by $HCl/H_2O$",
+        "C": "Formic acid/Cu followed by acetic acid",
+        "D": "Hydroiodic acid followed by $H_2SO_4/H_2O$"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 89,
+      "question_text": "Identify the reagents -Y",
+      "options": {
+        "A": "$NaOH/CH_3OH$",
+        "B": "$NaH/CH_3I$",
+        "C": "Hydrazine/$CH_3I$",
+        "D": "$LiAlH_4/CH_3OH$"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 90,
+      "question_text": "The final compound Z is",
+      "options": {
+        "A": "Naphazoline",
+        "B": "Carprofen",
+        "C": "Pranoprofen",
+        "D": "Naproxen"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "category": "Medicinal Chemistry"
+    }
+  ]
+}

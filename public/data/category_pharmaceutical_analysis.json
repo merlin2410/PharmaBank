@@ -1,0 +1,1819 @@
+[
+  {
+    "question_number": 2,
+    "question_text": "Aluminium hydroxide gel is assayed by",
+    "options": {
+      "A": "Iodimetric titration",
+      "B": "Complexometric titration",
+      "C": "Redox titration",
+      "D": "Non-aqueous titration"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Aluminium hydroxide is typically assayed using complexometric titration with EDTA.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 5,
+    "question_text": "Gutzeit test is used for the limit test for",
+    "options": {
+      "A": "Lead",
+      "B": "Chloride",
+      "C": "Iron",
+      "D": "Arsenic"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Gutzeit test is a specific chemical test used for the limit test of arsenic.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 6,
+    "question_text": "Alkaline potassium mercuric iodide is known as",
+    "options": {
+      "A": "Hager's reagent",
+      "B": "Nessler's reagent",
+      "C": "Wagner's reagent",
+      "D": "Marqui's reagent"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Nessler's reagent is an alkaline solution of potassium mercuric iodide used to detect ammonia.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 8,
+    "question_text": "The reddish purple colour formed in limit test for iron is",
+    "options": {
+      "A": "Ferroin",
+      "B": "Ferric thioglycollate",
+      "C": "Ferric ferrocyanide",
+      "D": "Ferrous thioglycollate"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "In the limit test for iron, iron reacts with thioglycollic acid in the presence of citric acid to form a reddish-purple ferric thioglycollate complex.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 31,
+    "question_text": "Activation of TLC plates is the process in which ____________ is done.",
+    "options": {
+      "A": "Dipping in developing solvent",
+      "B": "Increasing the chirality",
+      "C": "Heating at high temperature",
+      "D": "Adding fluorescent dye"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Activation of TLC plates involves heating them at an elevated temperature to remove adsorbed moisture.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 32,
+    "question_text": "____________ are used in qualitative analysis to find out whether the compounds belong to homologous series.",
+    "options": {
+      "A": "R_x values",
+      "B": "R_m values",
+      "C": "R_f values",
+      "D": "R_a values"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "R_m values (from chromatography) show a linear relationship with the number of carbon atoms in homologous series.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 34,
+    "question_text": "The non-polar stationary phase used in gas-liquid chromatography is",
+    "options": {
+      "A": "Poly dimethyl siloxane",
+      "B": "Poly ethylene glycol",
+      "C": "Poly propylene glycol",
+      "D": "Poly vinyl pyrrolidone"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Polydimethylsiloxane is a standard non-polar stationary phase in gas-liquid chromatography.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 35,
+    "question_text": "____________ is a hypothetical functional unit of a column in gas chromatography.",
+    "options": {
+      "A": "Stationary phase",
+      "B": "Theoretical plate",
+      "C": "Mobile phase",
+      "D": "Activated plate"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The theoretical plate is a hypothetical concept used to measure column efficiency in chromatography.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 36,
+    "question_text": "The fingerprint region of IR spectroscopy is",
+    "options": {
+      "A": "$100\\ \\text{cm}^{-1}$ to $150\\ \\text{cm}^{-1}$",
+      "B": "$4000\\ \\text{cm}^{-1}$ to $1600\\ \\text{cm}^{-1}$",
+      "C": "$1500\\ \\text{cm}^{-1}$ to $400\\ \\text{cm}^{-1}$",
+      "D": "$6000\\ \\text{cm}^{-1}$ to $4000\\ \\text{cm}^{-1}$"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The fingerprint region in infrared spectroscopy generally spans from $1500\\ \\text{cm}^{-1}$ to $400\\ \\text{cm}^{-1}$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 39,
+    "question_text": "Hollow Cathode Lamp is a source in ____________ spectroscopy.",
+    "options": {
+      "A": "Atomic absorption spectroscopy",
+      "B": "Flame photometry",
+      "C": "Infrared spectroscopy",
+      "D": "Ultra-violet spectroscopy"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A hollow cathode lamp is the standard radiation source used in atomic absorption spectroscopy.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 40,
+    "question_text": "Potassium metal when excited in a flame emits ____________ colour.",
+    "options": {
+      "A": "Red",
+      "B": "Green",
+      "C": "Lilac",
+      "D": "Orange"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "When potassium salts are heated in a flame, they emit a characteristic lilac or violet color.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 41,
+    "question_text": "Indeterminate errors are also called as",
+    "options": {
+      "A": "Systemic errors",
+      "B": "Random errors",
+      "C": "Additive errors",
+      "D": "Personal errors"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Indeterminate errors are random errors that fluctuate unpredictably from one measurement to another.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 42,
+    "question_text": "____________ is an aprotic solvent used in non-aqueous titrations.",
+    "options": {
+      "A": "Toluene",
+      "B": "Hydrogen fluoride",
+      "C": "Sulphuric acid",
+      "D": "Acetic acid"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Toluene is an example of an aprotic, non-polar solvent frequently used in non-aqueous titrations.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 43,
+    "question_text": "The example of fractional precipitation is",
+    "options": {
+      "A": "Gay Lussac's method",
+      "B": "Adsorption indicator method",
+      "C": "Volhard's method",
+      "D": "Mohr's method"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Gay-Lussac's method is a classic example of analytical estimation by fractional precipitation (turbidimetry).",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 44,
+    "question_text": "____________ is a demasking agent used in complexometric titrations.",
+    "options": {
+      "A": "Cyanide",
+      "B": "Chloralhydrate",
+      "C": "Calcium",
+      "D": "Cadmium"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Chloral hydrate is used as a demasking agent to free specific metal ions so they can react with EDTA during complexometric titrations.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 45,
+    "question_text": "The water content of glacial ethanoic acid for non-aqueous titrations may be in the range",
+    "options": {
+      "A": "$0.5-2\\%$",
+      "B": "$1-2\\%$",
+      "C": "$0.1-1\\%$",
+      "D": "$0.2-5\\%$"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The acceptable water content in glacial acetic acid (ethanoic acid) for non-aqueous titrations typically ranges from $0.1\\%$ to $1\\%$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 46,
+    "question_text": "____________ is an indicator electrode used in potentiometric experiments.",
+    "options": {
+      "A": "Quinhydrone electrode",
+      "B": "Calomel electrode",
+      "C": "Silver-Silver chloride electrode",
+      "D": "Mercurous electrode"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The quinhydrone electrode is a common redox indicator electrode used for pH determinations and potentiometric titrations.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 47,
+    "question_text": "In polarography, the current which is directly proportional to concentration is",
+    "options": {
+      "A": "Migration current",
+      "B": "Kinetic current",
+      "C": "Diffusion current",
+      "D": "Limiting current"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "According to the Ilkovic equation, the diffusion current is directly proportional to the concentration of the electroactive species.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 48,
+    "question_text": "____________ is added in modified Volhard's method for determination of chlorides to form an insoluble layer over the precipitate.",
+    "options": {
+      "A": "Toluene",
+      "B": "Benzene",
+      "C": "Nitrobenzene",
+      "D": "Xylene"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Nitrobenzene is added in the modified Volhard method to coat the silver chloride precipitate and prevent its reaction with thiocyanate.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 49,
+    "question_text": "The colour change interval of Phenol red indicator is",
+    "options": {
+      "A": "$1.2-2.8$",
+      "B": "$3.4-4.4$",
+      "C": "$8.2-10$",
+      "D": "$6.8-8.4$"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Phenol red changes color over a pH range of approximately $6.8$ to $8.4$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 50,
+    "question_text": "The theory which states that the colour change of indicators are due to structural changes is",
+    "options": {
+      "A": "Quinonoid theory",
+      "B": "Oswald's theory",
+      "C": "Arrhenius theory",
+      "D": "Lewis theory"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The quinonoid theory proposes that acid-base indicators undergo structural changes between benzenoid and quinonoid forms, causing color changes.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Analyst gr 3"
+  },
+  {
+    "question_number": 51,
+    "question_text": "Presence or absence of functional group can be identified by the spectra:",
+    "options": {
+      "A": "Mass",
+      "B": "NMR",
+      "C": "Visible",
+      "D": "Infrared"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Infrared (IR) spectroscopy is primarily used to identify specific functional groups based on characteristic absorption frequencies.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Assistant Pharmacist 2015 116_15"
+  },
+  {
+    "question_number": 56,
+    "question_text": "An example of pM indicator:",
+    "options": {
+      "A": "Methyl orange",
+      "B": "Phenolphthalein",
+      "C": "Phenyl red",
+      "D": "Murexide"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Murexide is a classic metallochromic (pM) indicator used in complexometric titrations for metal ions like calcium.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Assistant Pharmacist 2015 116_15"
+  },
+  {
+    "question_number": 57,
+    "question_text": "Solvents have both protogenic & protophilic properties:",
+    "options": {
+      "A": "Levelling solvent",
+      "B": "Amphiprotic solvent",
+      "C": "Differentiating solvent",
+      "D": "Aprotic solvent"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Amphiprotic (or amphoteric) solvents can both donate and accept protons, exhibiting both protogenic and protophilic characteristics.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Assistant Pharmacist 2015 116_15"
+  },
+  {
+    "question_number": 58,
+    "question_text": "The principle in HPTLC is:",
+    "options": {
+      "A": "Absorption",
+      "B": "Elution",
+      "C": "Adsorption",
+      "D": "Purging"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "High-Performance Thin-Layer Chromatography (HPTLC) primarily operates on the principle of adsorption chromatography.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Assistant Pharmacist 2015 116_15"
+  },
+  {
+    "question_number": 74,
+    "question_text": "Citric acid is added in the limit test for iron to:",
+    "options": {
+      "A": "Provide an acidic medium",
+      "B": "To react with iron to produce a purple colour",
+      "C": "To form a complex with iron to prevent precipitation",
+      "D": "To react with acid radicals to prevent precipitation"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Citric acid forms a soluble complex with iron in ammoniacal solution, preventing its precipitation as iron hydroxide.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "Pharmacist Gr 2 health services 2015 200_15"
+  },
+  {
+    "question_number": 31,
+    "question_text": "When 100 mL of 0.1 M sodium hydroxide solution is added to 100 mL of 0.1 M acetic acid ($K_a = 1.82 \\times 10^{-5}$), pH of the solution will be _____ .",
+    "options": {
+      "A": "8.3",
+      "B": "7.0",
+      "C": "3.8",
+      "D": "8.7"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The neutralization of a weak acid with a strong base forms sodium acetate (salt of weak acid and strong base), resulting in a basic pH around 8.3 at equivalence point concentrations.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 32,
+    "question_text": "Match List I with List II for volumetric solutions and their primary standards: A. 0.1 M Iodine, B. 0.1 M Sodium thiosulphate, C. 0.1 M Sodium hydroxide, D. 0.1 M Perchloric acid.",
+    "options": {
+      "A": "A - IV, B - II, C - III, D - V",
+      "B": "A - IV, B - II, C - III, D - I",
+      "C": "A - I, B - IV, C - II, D - III",
+      "D": "A - III, B - II, C - IV, D - I"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Standardization of iodine uses arsenic trioxide, sodium thiosulphate uses potassium iodate, sodium hydroxide uses potassium hydrogen phthalate, and perchloric acid uses potassium hydrogen phthalate or similar primary standards.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 33,
+    "question_text": "Potential at the equivalence point for a redox reaction $a\\text{OX}_1 + b\\text{RED}_2 \\rightleftharpoons b\\text{OX}_2 + a\\text{RED}_1$ is given by the equation:",
+    "options": {
+      "A": "$E = (bE^0_1 + aE^0_2)/(a+b)$",
+      "B": "$E = E^0 + (0.0592/n) \\times \\log Q$",
+      "C": "$E = E^0 + (0.0592/n) \\times \\log (Red/Ox)$",
+      "D": "$E = (E^0_1 + E^0_2)/2$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "At the equivalence point in a redox titration, the potential is a weighted average of the standard reduction potentials of the two redox couples based on their stoichiometric coefficients: $E = (bE^0_1 + aE^0_2)/(a+b)$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 34,
+    "question_text": "Benzene theoretically can have ____ number of possible fundamental absorption bonds in the IR spectrum.",
+    "options": {
+      "A": "30",
+      "B": "15",
+      "C": "6",
+      "D": "0"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Benzene has 12 atoms, leading to $3N - 6 = 30$ normal modes of vibration, of which 15 are fundamental IR-active vibrational modes due to molecular symmetry.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 35,
+    "question_text": "Back-titration method is used for which of the following categories of substances?",
+    "options": {
+      "A": "A only",
+      "B": "A and C",
+      "C": "A, B and D",
+      "D": "A, B, C and D"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Back-titrations are suitable for volatile substances, insoluble substances, reactions requiring excess reagents for speed, and reactions needing heating where analyte/reagent loss could occur.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 36,
+    "question_text": "The titration of a strong acid with a strong base is represented by plot _____.",
+    "options": {
+      "A": "Plot 1 (standard sharp sigmoidal pH curve starting low and rising sharply around equivalence)",
+      "B": "Plot 2",
+      "C": "Plot 3",
+      "D": "Plot 4"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": true,
+    "explanation": "A strong acid-strong base titration curve exhibits a characteristic steep sigmoidal inflection centered at pH 7.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 37,
+    "question_text": "According to Mohr method, the silver nitrate solution can be standardized against primary-standard grade:",
+    "options": {
+      "A": "Sodium carbonate",
+      "B": "Sodium chloride",
+      "C": "Sodium hydrogen carbonate",
+      "D": "Sodium metabisulfite"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Mohr method determines chloride; thus, silver nitrate is standardized using primary standard-grade sodium chloride.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 38,
+    "question_text": "According to the n + 1 rule, what would be the multiplicities of the signals in the proton NMR spectrum of 1,1-dibromoethane?",
+    "options": {
+      "A": "Triplet and doublet",
+      "B": "Quartet and doublet",
+      "C": "Triplet and quartet",
+      "D": "Triplet and triplet"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "In 1,1-dibromoethane ($\\text{CH}_3\\text{CHBr}_2$), the methyl protons ($\\text{CH}_3$) have 1 adjacent proton, giving a doublet ($n+1 = 2$), while the methine proton ($\\text{CH}$) has 3 adjacent protons, giving a quartet ($n+1 = 4$).",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 15,
+    "question_text": "In atomic absorption spectroscopy, background correction performed using a single hollow cathode lamp pulsed first with a low current and then with a high current is called",
+    "options": {
+      "A": "Smith hieftje background correction",
+      "B": "Continuous source background correction",
+      "C": "Zeeman effect background correction",
+      "D": "Hollow cathode background correction"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Smith-Hieftje background correction technique uses self-absorption and self-reversal in a hollow cathode lamp operated alternately at low and high currents.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2023"
+  },
+  {
+    "question_number": 19,
+    "question_text": "All the following about back titration are true, EXCEPT",
+    "options": {
+      "A": "It is performed when the rate of reaction between the analyte and reagent is fast.",
+      "B": "It is performed when the rate of reaction between the analyte and reagent is slow.",
+      "C": "It is performed when the standard solution lacks stability.",
+      "D": "It is the process in which excess of standard solution used to react with an analyte is determined by titration with a second standard solution."
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Back titrations are specifically used when the reaction between the analyte and the reagent is slow, volatile, or involves a poorly soluble solid, not when it is fast.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2023"
+  },
+  {
+    "question_number": 11,
+    "question_text": "Which of the following molecular properties can be determined by Thermogravimetric Analysis?",
+    "options": {
+      "A": "Solubility",
+      "B": "Hygroscopicity",
+      "C": "Colour stability",
+      "D": "Hydrolysis"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Thermogravimetric Analysis (TGA) measures weight changes as a function of temperature, making it ideal for quantifying moisture content and hygroscopicity/solvates.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 5,
+    "question_text": "Salbutamol sulphate IP is assayed by",
+    "options": {
+      "A": "Direct titration with standard sodium hydroxide solution",
+      "B": "Direct titration with standard sodium hydrochloric acid",
+      "C": "A known amount of standard acid is added and excess is titrated with standard alkali",
+      "D": "Dissolve in glacial acetic acid and titrated with standard perchloric acid using oracet blue."
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Salbutamol sulphate is a basic amine salt, typically assayed by non-aqueous titration using perchloric acid.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1990"
+  },
+  {
+    "question_number": 11,
+    "question_text": "The UV- visible region in the electromagnetic spectrum of radiation is",
+    "options": {
+      "A": "$200 - 400\\text{ nm}$",
+      "B": "$300 - 660\\text{ nm}$",
+      "C": "$400 - 800\\text{ nm}$",
+      "D": "$200 - 800\\text{ nm}$"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The combined UV-Vis spectral region spans from $200\\text{ nm}$ to $800\\text{ nm}$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1990"
+  },
+  {
+    "question_number": 15,
+    "question_text": "Resolution of a spectrophotometer is",
+    "options": {
+      "A": "Its wave length range",
+      "B": "Its ability to distinguish adjacent absorption bands",
+      "C": "Its capacity for its continuous use",
+      "D": "Its power to gather light according to source"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Spectral resolution refers to the instrument's ability to separate closely spaced absorption peaks.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1990"
+  },
+  {
+    "question_number": 25,
+    "question_text": "Infra-red spectrometry is a convenient method for understanding of",
+    "options": {
+      "A": "Drug receptor interaction",
+      "B": "Functional group identification",
+      "C": "Physiochemical properties",
+      "D": "Conformational properties"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "IR spectroscopy measures bond vibrations, making it primarily useful for functional group identification.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1990"
+  },
+  {
+    "question_number": 30,
+    "question_text": "Wave number is the number of waves",
+    "options": {
+      "A": "Per second",
+      "B": "Per centimeter",
+      "C": "Per inch",
+      "D": "Per centimeter$^3$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Wavenumber is defined as the number of waves per unit distance, typically expressed in $\\text{cm}^{-1}$ (per centimeter).",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1990"
+  },
+  {
+    "question_number": 38,
+    "question_text": "One of the detectors used in gas chromatography",
+    "options": {
+      "A": "Bolometer",
+      "B": "Thermal conductivity detector",
+      "C": "Golay detectors",
+      "D": "Giger Counter"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Thermal Conductivity Detector (TCD) is a classic and widely used universal detector in gas chromatography.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1990"
+  },
+  {
+    "question_number": 7,
+    "question_text": "Sulfa drugs can be conveniently estimated using the reagent",
+    "options": {
+      "A": "4,4Dithiobis - (2-nitrobenzoic acid)",
+      "B": "Tris-(hydroxyl methyl) amino methane sodium nitrate",
+      "C": "N-(1-nepthyl) ethylene diamine",
+      "D": "N-ethylmakimide"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Primary aromatic amines like sulfas are commonly estimated via diazotization followed by coupling with N-(1-naphthyl)ethylenediamine (Bratton-Marshall method).",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 9,
+    "question_text": "Ehrlich's reagent is",
+    "options": {
+      "A": "Bismuth iodide solution",
+      "B": "p-dimethyl aniline solution in alcohol",
+      "C": "p-dimethyl amino benzaldehyde solution",
+      "D": "p-dimethyl aniline solution in alcohol"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Ehrlich's reagent consists of p-dimethylaminobenzaldehyde in acid and alcohol.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 13,
+    "question_text": "Resolution of monochromator is the ability to distinguish",
+    "options": {
+      "A": "As a separate entities adjacent spectral features",
+      "B": "Separation of different colours",
+      "C": "Separation of UV light and Visible light",
+      "D": "Dispersing characteristics"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Resolution refers to the monochromator's ability to separate closely spaced spectral lines or features.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 21,
+    "question_text": "The presence of unpaired electron in metal ion complx meant for special analysis is called",
+    "options": {
+      "A": "Paramagnetic",
+      "B": "Dimagnetic",
+      "C": "Bimagnetic",
+      "D": "Unimagnetic"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Species containing unpaired electrons exhibit paramagnetism.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 23,
+    "question_text": "The ilkovic equation in the polarographiac measurements is given by",
+    "options": {
+      "A": "$V = \\pi r^4 (\\Delta P / 8\\eta) . n$",
+      "B": "$i_d = 607 n C D^{1/2} m^{2/3} t^{1/6}$",
+      "C": "$V = \\frac{H^2 r^2}{2} \\frac{e}{m}$",
+      "D": "$P_0 - P = P_0(1 - e^{-abc})$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Ilkovic equation relates diffusion current to concentration in polarography: $i_d = 607nCD^{1/2}m^{2/3}t^{1/6}$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 30,
+    "question_text": "The stationary phase in TLC is",
+    "options": {
+      "A": "Adsorbent",
+      "B": "Liquid held between glass plate and adsorbent",
+      "C": "Glass plates",
+      "D": "None of the above"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Thin Layer Chromatography (TLC) uses a solid adsorbent coated onto a plate as the stationary phase.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 40,
+    "question_text": "Aprotic solvent have",
+    "options": {
+      "A": "Acidic properties",
+      "B": "Basic properties",
+      "C": "Both acidic and basic properties",
+      "D": "No acidic or basic properties"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Aprotic solvents (such as acetone or acetonitrile) do not donate protons and are generally neither acidic nor basic in the Brønsted sense.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 19,
+    "question_text": "Which one of the following indicators is used in Complexometric Titration?",
+    "options": {
+      "A": "Crystal Violet",
+      "B": "Murexide",
+      "C": "Eosin",
+      "D": "Methyl Orange"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Murexide is a classic metallochromic indicator frequently used in complexometric titrations, especially for calcium estimation.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1994"
+  },
+  {
+    "question_number": 7,
+    "question_text": "An interference filter consist of",
+    "options": {
+      "A": "An iron plate coated with selenium",
+      "B": "A layer of silver deposited on glass coated with $MG F_2$",
+      "C": "A Tungsten plated coated with silver oxide",
+      "D": "A solid sheet of glass coloured by pigment"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Interference filters use thin dielectric films like magnesium fluoride between semitransparent silver layers.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1996"
+  },
+  {
+    "question_number": 11,
+    "question_text": "A moiety of a molecule responsible for selective absorption of radiation in a specific range is called as",
+    "options": {
+      "A": "Auxochrome",
+      "B": "Catalyst",
+      "C": "Anti-tubercular agent",
+      "D": "Anti-arrhythmic drug"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Chromophores and auxochromes define radiation absorption characteristics.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-1996"
+  },
+  {
+    "question_number": 39,
+    "question_text": "Techniques mentioned in A to D used for the analysis of the following drugs: 1. Sulphamethoxazole I.P, 2. Piroxicam I.P",
+    "options": {
+      "A": "1-D, 2-B",
+      "B": "1-C, 2-D",
+      "C": "1-C, 2-A",
+      "D": "1-A, 2-D"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Sulphamethoxazole is typically assayed via non-aqueous titration, and piroxicam by HPLC.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2000"
+  },
+  {
+    "question_number": 40,
+    "question_text": "Match the correct formula for: 1. Molar absorption coefficient, 2. Frequency",
+    "options": {
+      "A": "1-B, 2-D",
+      "B": "1-C, 2-D",
+      "C": "1-C, 2-A",
+      "D": "1-A, 2-D"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Molar absorption coefficient can be expressed from Beer's law as $A/cl$, and frequency is given by $c/\\lambda$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2000"
+  },
+  {
+    "question_number": 41,
+    "question_text": "Match the values given with that of 1 and 2: 1. Potential of standard hydrogen electrode taken as, 2. Base peak in mass spectra",
+    "options": {
+      "A": "1-B, 2-A",
+      "B": "1-A, 2-B",
+      "C": "1-C, 2-A",
+      "D": "1-A, 2-D"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The standard hydrogen electrode potential is defined as Zero, and the base peak in mass spectrometry is assigned a relative abundance of 100.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2000"
+  },
+  {
+    "question_number": 23,
+    "question_text": "Staphylococcus aureus is used for the I.P. assay of",
+    "options": {
+      "A": "Doxycycline",
+      "B": "Bleomycin",
+      "C": "Kanamycin",
+      "D": "Carbenicillin"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Staphylococcus aureus is commonly specified in pharmacopeial microbial assays for determining the potency of aminoglycosides like kanamycin.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2001"
+  },
+  {
+    "question_number": 213,
+    "question_text": "Official method for the analysis of Ciprofloxacin is by",
+    "options": {
+      "A": "Potentiometry",
+      "B": "HPLC",
+      "C": "Gas Chromatography",
+      "D": "Non-aq. titration"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Ciprofloxacin bulk drug is officially assayed using non-aqueous titration due to its basic amine groups.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2001"
+  },
+  {
+    "question_number": 60,
+    "question_text": "Group I (IR Detectors) matched with Group II (Composition): (P) Thermocouple (Q) Pyroelectric Detector (R) Golay cells (S) Thermistor",
+    "options": {
+      "A": "P-4, Q-2, R-3, S-1",
+      "B": "P-3, Q-1, R-4, S-2",
+      "C": "P-1, Q-3, R-2, S-4",
+      "D": "P-2, Q-4, R-3, S-1"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Match IR detectors with their corresponding material composition.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 63,
+    "question_text": "Group I (Antibiotics) matched with Group II (Microorganism used in the I.P. assay): (P) Streptomycin (Q) Erythromycin (R) Gentamycin (S) Tetracycline",
+    "options": {
+      "A": "P-4, Q-3, R-1, S-2",
+      "B": "P-3, Q-4, R-2, S-1",
+      "C": "P-3, Q-2, R-3, S-4",
+      "D": "P-3, Q-4, R-1, S-2"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Antibiotic microbiological assay test organisms correspond correctly to the assigned pairs.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 74,
+    "question_text": "Calculate the $\\lambda$ max for the following compounds. Base value for Benzaldehyde in ethanol is 250nm. $\\lambda$ max of p-bromobenzaldehyde in nm is",
+    "options": {
+      "A": "265",
+      "B": "255",
+      "C": "275",
+      "D": "260"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Calculated using Woodward-Fieser rules for substituted benzaldehydes.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 75,
+    "question_text": "Calculate the $\\lambda$ max for the following compounds. Base value for Benzaldehyde in ethanol is 250nm. $\\lambda$ max of p-hydroxy benzaldehyde in nm is",
+    "options": {
+      "A": "253",
+      "B": "275",
+      "C": "261",
+      "D": "270"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Calculated using Woodward-Fieser rules for substituted benzaldehydes.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 76,
+    "question_text": "Calculate the $\\lambda$ max for the following compounds. Base value for Benzaldehyde in ethanol is 250nm. $\\lambda$ max of o-chlorobenzaldehyde in nm is",
+    "options": {
+      "A": "275",
+      "B": "265",
+      "C": "255",
+      "D": "250"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Calculated using Woodward-Fieser rules for substituted benzaldehydes.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 77,
+    "question_text": "In the assay of Folic acid I.P., a weighed quantity is dissolved in 0.1 M NaOH solution and subsequently treated with Zn and HCl. The resulting product is mixed with ammonium sulphate, kept for 2 minutes and a reagent is added to get final colored product whose absorbance is measured. Select the product obtained when folic acid is heated with Zn + HCl",
+    "options": {
+      "A": "Benzoic acid",
+      "B": "P-aminobenzoic",
+      "C": "Glutamic",
+      "D": "Succinic acid"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Reduction and cleavage of folic acid with zinc and hydrochloric acid yields p-aminobenzoyl-L-glutamic acid or p-aminobenzoic acid derivatives.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 78,
+    "question_text": "Select the reagent used for the development of color",
+    "options": {
+      "A": "N-1-naphthyl ethylene diamine dihydrochloride",
+      "B": "Ninhydrin reagent",
+      "C": "P-dimethyl amino benzaldehyde",
+      "D": "Phloroglucinol"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "N-1-naphthyl ethylenediamine dihydrochloride (Bratton-Marshall reagent) is typically used for diazotization and coupling in the assay of aromatic amines derived from folic acid.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2003"
+  },
+  {
+    "question_number": 64,
+    "question_text": "Group-I (Antibiotic): (P) Bleomycin, (Q) Nystatin, (R) Carbenicillin, (S) Streptomycin. Match with Group-II (Test organism for microbiological assay IP): (1) Pseudomonas areuginosa, (2) Mycobacterium segmatis, (3) Bacillus subtilis, (4) Saccharomyces cerevisiae.",
+    "options": {
+      "A": "P-2, Q-4, R-1, S-3",
+      "B": "P-4, Q-1, R-3, S-2",
+      "C": "P-3, Q-2, R-4, S-1",
+      "D": "P-3, Q-1, R-2, S-4"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2005"
+  },
+  {
+    "question_number": 71,
+    "question_text": "A compound 'X' with molecular formula $C_2H_4O$ exhibits a strong absorption band at $1730\\text{ cm}^{-1}$ in IR spectrum. On reduction it is converted into 'Y' which shows a strong band at $3640\\text{ cm}^{-1}$. Assign the band in X to:",
+    "options": {
+      "A": "CH3",
+      "B": "C=C",
+      "C": "C=O",
+      "D": "CH2=C"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2005"
+  },
+  {
+    "question_number": 72,
+    "question_text": "The strong band in Y is due to:",
+    "options": {
+      "A": "-C-C",
+      "B": "-C-O-C-",
+      "C": "=CH2",
+      "D": "-OH"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2005"
+  },
+  {
+    "question_number": 85,
+    "question_text": "An organic compound 'X' has an absorption maxima at $217\\text{ nm}$. Its $e_{\\max}$ is $16,000$. The absorbance is $0.64$ when the cell length is $1\\text{ cm}$. The molar concentration of 'X' is:",
+    "options": {
+      "A": "$5 \\times 10^{-5}$",
+      "B": "$4 \\times 10^{-5}$",
+      "C": "$4 \\times 10^{-4}$",
+      "D": "$5 \\times 10^{-2}$"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2005"
+  },
+  {
+    "question_number": 84,
+    "question_text": "$\\varepsilon$ and $A_{1\\text{cm}}^{1\\%}$ can be interconverted using a formula, from which its molar absorptivity or absorbance can be calculated. The formula is",
+    "options": {
+      "A": "$\\varepsilon \\text{ and } A_{1\\text{cm}}^{1\\%} \\times \\text{mol.wt} / 1000$",
+      "B": "$\\varepsilon \\text{ and } A_{1\\text{cm}}^{1\\%} \\times \\text{mol.wt} / 10$",
+      "C": "$\\varepsilon \\text{ and } A_{1\\text{cm}}^{1\\%} \\times \\text{mol.wt} / 1000$",
+      "D": "$\\varepsilon \\text{ and } A_{1\\text{cm}}^{1\\%} \\times \\text{mol.wt} / 100$"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Conversion between molar absorptivity and specific absorbance involves dividing by 10.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2007"
+  },
+  {
+    "question_number": 85,
+    "question_text": "A compound has a molecular weight of $297$; an equivalent weight of $148.5$ and an $A_{1\\text{cm}}^{1\\%}$ of $742$ at $309\\text{ nm}$. Its molar absorptivity is",
+    "options": {
+      "A": "$220.37$",
+      "B": "$1101.87$",
+      "C": "$110.18$",
+      "D": "$22037.5$"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "Calculated using the relation $\\varepsilon = (A_{1\\text{cm}}^{1\\%} \\times \\text{mol.wt}) / 10$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2007"
+  },
+  {
+    "question_number": 49,
+    "question_text": "Two reference electrodes are",
+    "options": {
+      "A": "P, Q",
+      "B": "Q, S",
+      "C": "R, S",
+      "D": "P, R"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Calomel electrodes (R) and Silver/silver-chloride electrodes (S) are standard reference electrodes.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 50,
+    "question_text": "Polarography can be used for the",
+    "options": {
+      "A": "P, S",
+      "B": "Q, S",
+      "C": "P, R",
+      "D": "P, Q"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Polarography is useful for simultaneous determination of several analytes and study of optical activity of organic compounds.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 66,
+    "question_text": "Match materials used in Group I with instrumental techniques in Group II: (P) Sodium chloride, (Q) Glass, (R) Quartz, (S) Potassium hydrogen phthalate.",
+    "options": {
+      "A": "P-1, Q-2, R-3, S-4",
+      "B": "P-4, Q-1, R-2, S-3",
+      "C": "P-3, Q-4, R-1, S-2",
+      "D": "P-2, Q-3, R-4, S-1"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "NaCl crystals are used in IR optics/spectrophotometry, glass in colorimetry, quartz in UV spectrophotometry, and potassium hydrogen phthalate as standard.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 67,
+    "question_text": "Match drugs in Group I with B.P. Assay methods in Group II: (P) Iopanoic acid, (Q) Cyclizine hydrochloride, (R) Chlorothiazide, (S) Chlorambucil.",
+    "options": {
+      "A": "P-1, Q-2, R-3, S-4",
+      "B": "P-2, Q-4, R-1, S-3",
+      "C": "P-4, Q-3, R-1, S-2",
+      "D": "P-3, Q-1, R-2, S-4"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Matches standard British Pharmacopoeia assay procedures for each compound.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 68,
+    "question_text": "Match techniques in Group I with related equations in Group II: (P) Potentiometry, (Q) Polarography, (R) Colorimetry, (S) Column chromatography.",
+    "options": {
+      "A": "P-1, Q-4, R-3, S-2",
+      "B": "P-3, Q-2, R-1, S-4",
+      "C": "P-3, Q-1, R-4, S-2",
+      "D": "P-2, Q-3, R-4, S-1"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Potentiometry uses Nernst equation, polarography uses Ilkovic equation, colorimetry uses Beer-Lambert law ($A=ebc$).",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 73,
+    "question_text": "The B.P. assay of Nifedipine is by a titration of a",
+    "options": {
+      "A": "Solution in anhydrous acetic acid with $0.1\\text{ N}$ perchloric acid",
+      "B": "Solution in previously neutralized acetone with $0.1\\text{ N}$ sodium hydroxide; end point by potentiometry",
+      "C": "Solution in previously neutralized acetone against standard potassium dichromate solution",
+      "D": "A solution in 2-methyl 2-propanol and perchloric acid with $0.1\\text{ M}$ cerium sulphate using ferroin as indicator"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 84,
+    "question_text": "As per the woodward-Fieser rule, the absorption maxima of the compound shown is calculated from the base value and the ring residue values. Base value is",
+    "options": {
+      "A": "$215\\text{ nm}$",
+      "B": "$233\\text{ nm}$",
+      "C": "$240\\text{ nm}$",
+      "D": "$217\\text{ nm}$"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 85,
+    "question_text": "Absorption maxima is",
+    "options": {
+      "A": "$273\\text{ nm}$",
+      "B": "$258\\text{ nm}$",
+      "C": "$265\\text{ nm}$",
+      "D": "$237\\text{ nm}$"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2008"
+  },
+  {
+    "question_number": 14,
+    "question_text": "A substance used for modification of silica gel for reversed-phase TLC is",
+    "options": {
+      "A": "Benzene",
+      "B": "Glycerine",
+      "C": "Silicone oil",
+      "D": "Ether"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Impregnating silica gel with silicone oil or paraffin creates a reversed-phase thin-layer chromatographic plate.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2009"
+  },
+  {
+    "question_number": 15,
+    "question_text": "In IR spectrum, the functional group region is from",
+    "options": {
+      "A": "$4000 \\text{ cm}^{-1} \\text{ to } 900 \\text{ cm}^{-1}$",
+      "B": "$4000 \\text{ cm}^{-1} \\text{ to } 1400 \\text{ cm}^{-1}$",
+      "C": "$1400 \\text{ cm}^{-1} \\text{ to } 900 \\text{ cm}^{-1}$",
+      "D": "$40000 \\text{ cm}^{-1} \\text{ to } 660 \\text{ cm}^{-1}$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The functional group region in an infrared (IR) spectrum typically spans from $4000 \\text{ cm}^{-1}$ to $1400 \\text{ cm}^{-1}$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2009"
+  },
+  {
+    "question_number": 16,
+    "question_text": "The equation $E = E^0 + \\frac{RT}{nF} \\ln a_{M^{n+}}$ is used to measure the",
+    "options": {
+      "A": "Conductance",
+      "B": "Potential difference",
+      "C": "Resistance",
+      "D": "Current"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Nernst equation calculates the cell potential or electrode potential difference.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2009"
+  },
+  {
+    "question_number": 30,
+    "question_text": "The deflection of positive ions formed in a mass spectrometer by electric and magnetic fields depends upon its",
+    "options": {
+      "A": "Mass",
+      "B": "Charge",
+      "C": "Velocity",
+      "D": "Mass, charge and velocity"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The trajectory and deflection of ions in combined electric and magnetic fields depend on mass, charge, and initial velocity parameters.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2009"
+  },
+  {
+    "question_number": 31,
+    "question_text": "Cyclohexane can be used as a solvent in UV spectrophotometric analysis because",
+    "options": {
+      "A": "It has a ring structure",
+      "B": "Energy requirement for $\\sigma - \\sigma^*$ is in the range of $120-200 \\text{ nm}$",
+      "C": "It is volatile",
+      "D": "It is immiscible with water"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Saturated hydrocarbons like cyclohexane absorb only in the vacuum UV region (below $200 \\text{ nm}$) due to high-energy $\\sigma - \\sigma^*$ transitions, making them transparent in the near-UV range.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2009"
+  },
+  {
+    "question_number": 46,
+    "question_text": "Match the symbol in Group I with description in Group II: Group I - (P) $v$, (Q) $id$, (R) $\\delta$, (S) $\\rho$. Group II - 1. Specific resistance, 2. Chemical shift, 3. Diffusion current, 4. Frequency.",
+    "options": {
+      "A": "P-3, Q-4, R-1, S-2",
+      "B": "P-2, Q-1, R-4, S-3",
+      "C": "P-4, Q-3, R-2, S-1",
+      "D": "P-1, Q-2, R-4, S-3"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2009"
+  },
+  {
+    "question_number": 54,
+    "question_text": "Captopril IP is assayed by titration:",
+    "options": {
+      "A": "Against 0.1N sodium hydroxide using phenolphthalein indicator",
+      "B": "Of a solution in dimethylformamide with 0.1M of tetrabutyl ammonium hydroxide",
+      "C": "Of a solution in anhydrous formic acid and acetic anhydride with 0.1N perchloric acid",
+      "D": "Of a solution containing 1.8M sulphuric acid and potassium iodide with 0.025M potassium iodate using starch solution"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2009"
+  },
+  {
+    "question_number": 57,
+    "question_text": "Quantification of minute quantity of a drug from a complex matrix, without prior separation can be done using one of the following techniques. Identify that.",
+    "options": {
+      "A": "Coulometry",
+      "B": "Potentiometry",
+      "C": "Fluorescence spectroscopy",
+      "D": "Radioimmunoassay"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Radioimmunoassay (RIA) provides extreme sensitivity and specificity for measuring trace analytes directly in complex biological fluids without prior extraction.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 58,
+    "question_text": "Which one of the following fragmentation pathways involves a double bond and hydrogen in mass spectrometry",
+    "options": {
+      "A": "$\\alpha$-Fission",
+      "B": "$\\beta_1$- Fission",
+      "C": "Mc-Lafferty rearrangement",
+      "D": "Retro-Diel's Alder rearrangement"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "McLafferty rearrangement is a characteristic mass spectral fragmentation involving a six-membered transition state with transfer of a $\\gamma$-hydrogen to a double bond heteroatom/carbonyl.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 59,
+    "question_text": "Read the following statements carefully about non-aqueous titrations:\n[P]: Acetate ion is the strongest base capable of existence in acetic acid.\n[Q]: Mixtures of bases of different strengths can be analyzed by selecting a differentiating solvent for the bases.\n[R]: Acetic acid acts as a leveling solvent for various acids like perchloric and hydrochloric acids.\n[S]: Mixtures of bases of different strengths can be analyzed by selecting a leveling solvent for the bases.\nChoose the correct answer.",
+    "options": {
+      "A": "P and Q are true and R and S are false",
+      "B": "P and S are true and R and Q are false",
+      "C": "R and Q are true and P and S are false",
+      "D": "R and S are true and P and Q are false"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Acetic acid levels strong acids, but acetate is its strongest base (leveling effect), and differentiating solvents are used to resolve bases of different strengths.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 60,
+    "question_text": "Read the following statements carefully about Volhards method:\n[P]: In Volhard's titration, silver ions are titrated with thiocyanates in acidic solution\n[Q]: Ferric ions act as indicator in Volhard's method, yielding reddish brown ferric thiocyanate\n[R]: Volhard's method is used to determine halides\n[S]: Volhard's method is a direct titration\nChoose the correct set of answers.",
+    "options": {
+      "A": "P, Q and R are true and S is false",
+      "B": "Q, R and S are true and P is false",
+      "C": "R, S and P true and Q is false",
+      "D": "P, Q, R and S all are true"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Volhard's method is an indirect (residual) titration, making statement S false while P, Q, and R are correct.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 75,
+    "question_text": "Some of the following statements describe the properties of Dropping Mercury Electrode (DME) correctly:\n[P]: Constant renewal of electrode surface eliminates poisoning effects.\n[Q]: Mercury makes many metal ions easily reducible.\n[R]: Mercury has large hydrogen over-voltage.\n[S]: The electrode can get oxidised with ease.\nIdentify the correct combination.",
+    "options": {
+      "A": "All statements P, Q, R and S are correct",
+      "B": "Statements P, Q and R only are correct",
+      "C": "Statements P, R and S only are correct",
+      "D": "Statements P, Q and S only are correct"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Mercury resists oxidation at negative potentials (making S incorrect, as it is difficult to oxidize compared to other metals). Thus P, Q, and R are correct.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 84,
+    "question_text": "Some statements are given about disodium edetate: [P] : Disodium edetate is a bidentate ligand [Q] : Disodium edetate is a complexing agent but not a chelating agent [R] : Disodium edetate can be used for the assay of lithium carbonate [S] : Disodium edetate can be used for the assay of zinc sulphate Choose the correct answer.",
+    "options": {
+      "A": "Q, R & S are true",
+      "B": "Q & S are true",
+      "C": "S only is true",
+      "D": "P, Q, R & S all are true"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Disodium edetate is a hexadentate chelating agent used in complexometric titrations for metal ions like zinc sulfate, making only statement S true among the given assertions.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 97,
+    "question_text": "In polarography, when the limiting current is achieved, one of the following processes takes place. Choose that.",
+    "options": {
+      "A": "The rate of electron transfer just matches the rate of mass transfer",
+      "B": "The rate of electron transfer is slower than the rate of mass transfer",
+      "C": "The rate of electron transfer becomes independent of the rate of mass transfer",
+      "D": "The rate of electron transfer far exceeds the rate of mass transfer"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "At the limiting current, the electroactive species is reduced/oxidized as soon as it reaches the electrode surface, making the rate of electron transfer far greater than the rate of mass transfer (diffusion-limited).",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 98,
+    "question_text": "Starch-iodide paste/paper is used as an external indicator in one of the following titrations. Identify that.",
+    "options": {
+      "A": "Iodometric titration of copper sulphate using sodium thiosulphate as titrant",
+      "B": "Iodimetric titration of ascorbic acid using iodine solution as titrant",
+      "C": "Diazotisation titration of sulphadiazine using Sodium nitrite as titrant",
+      "D": "Potassium dichromate titration using sodium thiosulphate as titrant"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Starch-iodide paper is famously used as an external indicator in diazotization titrations to detect the presence of excess nitrous acid.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 99,
+    "question_text": "For a dye to be used as metal indicator in complexometric titrations, some of the dye properties are listed below: [P] : The dye should have distinct colour than the dye-metal complex [Q] : The dye-metal complex should have a higher stability than the metal-chelate (titrant) complex [R] : The dye should be capable of complexing with the metal ions Choose the correct combination of statements for the dye to be used as an indicator in complexometric titrations.",
+    "options": {
+      "A": "P & Q are correct while R is not",
+      "B": "Q & R are correct while P is not",
+      "C": "P & Rare correct while Q is not",
+      "D": "P, Q & R all are correct"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A metal ion indicator must form a complex with the metal and show a distinct color change, but the dye-metal complex must have a lower stability than the titrant-metal (EDTA) complex so that EDTA can displace it at the endpoint.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 100,
+    "question_text": "In amperometry, rotating platinum electrode (RPE) is used as indicating electrode. It has certain advantages as well as disadvantages. Read the following statements about the use of rotating platinum electrode in amperometry: [P] : It causes large diffusion current due to rotation resulting in greater mass transfer [Q] : It causes greatly reduced residual current due to lack of condenser effect [R] : It has a low hydrogen over potential Choose the correct combination of statements.",
+    "options": {
+      "A": "P, Q & R are all advantages of using RPE in amperometry",
+      "B": "P & R are advantages of RPE while Q is a disadvantage",
+      "C": "Q & R are advantages of RPE while P is a disadvantage",
+      "D": "P & Q are advantages of RPE while R is a disadvantage"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Rotation increases mass transfer (enhancing diffusion current) and platinum has a low hydrogen overpotential, while residual current is not reduced due to lack of condenser effect.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2012"
+  },
+  {
+    "question_number": 69,
+    "question_text": "In absorption spectrometry, high values of absorbance values (greater than 1 or 2) tend to give poorer precision because",
+    "options": {
+      "A": "Too much light saturates the detector",
+      "B": "Little light reaches the detector",
+      "C": "Beer's law deviations are worse",
+      "D": "Monochromators work poorly under intense light"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 88,
+    "question_text": "Polarographic method of analysis to obtain indivisual amonuts of $\\text{Cu}^{2+}$ and $\\text{Cd}^{2+}$ in a given mixture of the ions ($\\text{Cu}^{2+}$ and $\\text{Cd}^{2+}$) is achieved by measuring their...........",
+    "options": {
+      "A": "Half way potentials",
+      "B": "Migration currents",
+      "C": "Decomposition potentials",
+      "D": "Diffusion currents"
+    },
+    "correct_answer": "D",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 95,
+    "question_text": "What is the main different between HPLC and UPLC",
+    "options": {
+      "A": "HPLC is reverse-phase whereas UPLC in normal-phase",
+      "B": "UPLC employs smaller stationary-phase particle size",
+      "C": "HPLC and UPLC employ different mobile phase",
+      "D": "HPLC and UPLC employ different detection methods"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 114,
+    "question_text": "Property exploited by electroanalytical technique of caulemetry is................",
+    "options": {
+      "A": "Electric potential",
+      "B": "Electrical charge",
+      "C": "Ekectrical current",
+      "D": "Electrical resistance"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 120,
+    "question_text": "What useful information can be found from a Van Deemter plot",
+    "options": {
+      "A": "Optimum selectivity factor",
+      "B": "Optimum mobile phase flow rate",
+      "C": "Optimum column temperature",
+      "D": "The capacity factor"
+    },
+    "correct_answer": "B",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 121,
+    "question_text": "Brockman activity Scale' is used in the characterization of ............",
+    "options": {
+      "A": "Stationary phase",
+      "B": "Mobile Phase",
+      "C": "Buffer System used",
+      "D": "Column specification"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 122,
+    "question_text": "The FDA allows a maximum of ............ salicylic acid in commercial aspirin tablets",
+    "options": {
+      "A": "0.05 %",
+      "B": "0.1 %",
+      "C": "0.15 %",
+      "D": "0.25 %"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2013"
+  },
+  {
+    "question_number": 63,
+    "question_text": "Which among the following rules about spin - spin coupling and bond multiplicities are correct with regard to NMR spectra",
+    "options": {
+      "A": "Coupling constant rarely exceeds 20 cps while chemical shifts are over 1000 cps",
+      "B": "Spin - Spin interactions are dependent of strength of the applied field",
+      "C": "Coupling constants increase with distance",
+      "D": "Equivalent nuclei interact with each other to show interaction"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Coupling constants ($J$ values) in 1H-NMR rarely exceed 20 Hz, whereas chemical shift ranges span much wider in Hz at high field strengths.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2017"
+  },
+  {
+    "question_number": 70,
+    "question_text": "Which among the following statements related to Ceric sulphate as oxidizing agent, as titrant are correct",
+    "options": {
+      "A": "Ce (IV) during reaction exists as an anionic complex in media of sulphuric acid",
+      "B": "Ionic equation is $Ce^{3+} \\rightarrow Ce^{2+} + e^{-}$",
+      "C": "Formal potential of Ce(III) Ce (II) couple is 1",
+      "D": "Ce (IV) does not permit use of HCl as reducing media"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "In sulfuric acid media, cerium(IV) exists as complex anions such as $[Ce(SO_4)_3]^{2-}$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2017"
+  },
+  {
+    "question_number": 77,
+    "question_text": "Which among the following electronic systems are not involved in the origin of UV spectrum",
+    "options": {
+      "A": "s and p shell electrons",
+      "B": "sigma and pi electrons",
+      "C": "Charge transfer electrons",
+      "D": "d and f shell electrons"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "UV-Vis spectroscopy typically involves valence electrons such as sigma, pi, n, and d/f electrons, rather than generic s and p shell designations.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2017"
+  },
+  {
+    "question_number": 91,
+    "question_text": "Which among the following statements on electro analytical methods are correct",
+    "options": {
+      "A": "Measures conductance between two electrodes with AC powered Wheatstone bridge",
+      "B": "Polarography involves plotting of conductance - voltage",
+      "C": "Potentiometry involves application of Ilkovic equation",
+      "D": "Coulometry involving application of Nernst law relating equivalence between quantity of electricity passed and amount of compound generated at electrodes"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Conductometric measurements use an AC Wheatstone bridge to measure solution conductance without faradaic polarization.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2017"
+  },
+  {
+    "question_number": 92,
+    "question_text": "Chemical interferences are common than spectral interferences due to",
+    "options": {
+      "A": "Formation of compounds of low volatility",
+      "B": "Ionization in flames",
+      "C": "Increase in rate of atomization",
+      "D": "No shift in ionization equilibrium"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Chemical interferences in atomic spectroscopy commonly arise from the formation of thermally stable, low-volatility compounds that resist atomization.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2017"
+  },
+  {
+    "question_number": 38,
+    "question_text": "What is the concentration of paracetamol in a $0.1\\text{ N}$ sodium hydroxide solution, whose absorption in a $1\\text{ cm}$ cell at its $\\lambda_{\\max}$, $257\\text{ nm}$, was found to be $0.825$? The $A (1\\%, 1\\text{ cm})$ in the IP monograph of paracetamol is given as $715$ at $257\\text{ nm}$",
+    "options": {
+      "A": "$1.1\\text{ g/100 ml}$",
+      "B": "$0.0011\\text{ mg/100 ml}$",
+      "C": "$0.0011\\text{ g/100 ml}$",
+      "D": "$0.0011\\text{ }\\mu\\text{g/100 ml}$"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Using $A = \\frac{A(1\\%, 1\\text{ cm}) \\times c}{100}$, concentration $c = \\frac{0.825 \\times 100}{715} = 0.115\\%$ or $0.0011\\text{ g/100 ml}$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2018"
+  },
+  {
+    "question_number": 39,
+    "question_text": "The unit for specific absorbance $A (1\\%, 1\\text{cm})$ is:-",
+    "options": {
+      "A": "$\\mu\\text{g/mL}$",
+      "B": "$\\text{mg/L}$",
+      "C": "$\\text{liter mole}^{-1}\\text{ cm}^{-1}$",
+      "D": "$\\text{dl g}^{-1}\\text{ cm}^{-1}$"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Specific absorbance $A(1\\%, 1\\text{ cm})$ uses concentration in $\\text{g/100 mL}$ (which is $\\text{g/dL}$) and path length in $\\text{cm}$, yielding $\\text{dl g}^{-1}\\text{ cm}^{-1}$.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2018"
+  },
+  {
+    "question_number": 43,
+    "question_text": "The difficulties of long elution time and poor resolution of complex mixtures are observed in elution analysis. These difficulties can be overcome by modification of elution analysis, known as:-",
+    "options": {
+      "A": "Isocratic-elution analysis",
+      "B": "Gradient-elution analysis",
+      "C": "Displacement analysis",
+      "D": "Frontal analysis"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Gradient elution varies the solvent strength over time, which shortens elution times for strongly retained components and improves resolution.",
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2018"
+  },
+  {
+    "question_number": 53,
+    "question_text": "Which of the following is not a Karl fisher reagent",
+    "options": {
+      "A": "Iodine",
+      "B": "Pyridine",
+      "C": "Pyrimidine",
+      "D": "Sulphur dioxide"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2025"
+  },
+  {
+    "question_number": 54,
+    "question_text": "In Ilkovic equation 'm' determine",
+    "options": {
+      "A": "Determine mass of analyte",
+      "B": "Determine mass of electron transfer",
+      "C": "Determine mass of mercury flow transfer",
+      "D": "Determine drop time"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2025"
+  },
+  {
+    "question_number": 56,
+    "question_text": "In conductometric titration in acetic acid with $0.1\\text{ N}$ Sodium hydroxide complete neutralization occurs. Further addition of titrant results in",
+    "options": {
+      "A": "Increase the conductance",
+      "B": "Decrease the conductance",
+      "C": "No change the conductance",
+      "D": "Colour change orange to red"
+    },
+    "correct_answer": "A",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Pharmaceutical Analysis",
+    "source_exam": "gpat-question-paper-2025"
+  }
+]

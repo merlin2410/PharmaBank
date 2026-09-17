@@ -1,0 +1,906 @@
+{
+  "exam_title": "gpat-question-paper-2009",
+  "total_questions": 60,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Different species of Ephedra can be identified by observing the nature of",
+      "options": {
+        "A": "Inner surface",
+        "B": "Outer surface",
+        "C": "Trichomes",
+        "D": "Scaly leaves"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ephedra species are morphologically identified by examining the characteristics of their outer surface and stem striations.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Indian Rhubarb can be distinguished from Rhapontic Rhubarb by the fluorescence it emits under UV light. Indian Rhubarb gives",
+      "options": {
+        "A": "Deep yellow",
+        "B": "Deep violet",
+        "C": "Orange",
+        "D": "Pale green"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Indian rhubarb exhibits a deep violet fluorescence under UV light, distinguishing it from rhapontic rhubarb.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Genetically modified species of Papaver namely Papaver bracteatum and Papaver orientale contain the predominant alkaloid",
+      "options": {
+        "A": "Morphine",
+        "B": "Codeine",
+        "C": "Thebaine",
+        "D": "Narcotine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Papaver bracteatum and Papaver orientale are well known to accumulate thebaine as their primary alkaloid instead of morphine.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Increased risk of atherosclerosis is associated with decreased serum levels of",
+      "options": {
+        "A": "LDL",
+        "B": "HDL",
+        "C": "Triglycerides",
+        "D": "VLDL"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HDL is known as 'good cholesterol' because it helps remove other forms of cholesterol from your bloodstream; low levels increase heart disease risk.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 5,
+      "question_text": "A peptide hormone which inhibits bone resorption and given as nasal spray is",
+      "options": {
+        "A": "Cortisol",
+        "B": "Alendronate",
+        "C": "Calcitonin",
+        "D": "Calcitriol"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Calcitonin is a peptide hormone that inhibits osteoclastic bone resorption and can be administered intranasally.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 6,
+      "question_text": "An inorganic ion which is used prophylactically in bipolar depression is",
+      "options": {
+        "A": "Valproate",
+        "B": "Lithium",
+        "C": "Chromium",
+        "D": "Valium"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lithium (as lithium carbonate) is the classic mood-stabilizing inorganic ion used for the prophylaxis and treatment of bipolar disorder.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 7,
+      "question_text": "A $\\beta$-lactamase inhibitor which contains an $1$-oxopenam structure is",
+      "options": {
+        "A": "Tazobactam sodium",
+        "B": "Clavulanate potassium",
+        "C": "Sulbactam sodium",
+        "D": "Thienamycin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clavulanate potassium contains an oxopenam core ring system (specifically 1-oxopenam).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Salbutamol is prepared from",
+      "options": {
+        "A": "OH-H2C-N-CH3 attached to a benzene ring",
+        "B": "HO-C6H4-CO-CH2OH derivative",
+        "C": "HO-C6H4-CN=O structure",
+        "D": "HO-C6H4-CHO with H2C-OH"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Salbutamol synthesis typically starts from 4-hydroxy-3-hydroxymethylacetophenone.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Antihypothrombinemic effect of one stereochemical form is two to five times more than others",
+      "options": {
+        "A": "(S)-(+)-Warfarin",
+        "B": "R-(-)-Warfarin",
+        "C": "(S)-(-)-Warfarin",
+        "D": "(RS)-Warfarin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "(S)-Warfarin is significantly more potent than (R)-warfarin as an anticoagulant.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Some of the organic reactions are catalysed by a product obtained from starch on treatment with amylase from Bacillus macerans. It is",
+      "options": {
+        "A": "Amylopectin",
+        "B": "Amylose",
+        "C": "Cellulose",
+        "D": "Cyclodextrin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cyclodextrins are produced by the action of cyclodextrin glycosyltransferase (derived from bacteria such as Bacillus macerans) on starch.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Florentine receiver is used to separate the liquids based on",
+      "options": {
+        "A": "Molecular weight",
+        "B": "Sedimentation rate",
+        "C": "Density",
+        "D": "Freezing point"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A Florentine receiver separates immiscible liquids of different densities, such as volatile oils from water in steam distillation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 12,
+      "question_text": "The official dissolution test apparatus contains cylindrical vessel and lower edge of the blade is positioned from inside bottom vessel at",
+      "options": {
+        "A": "$18 \\text{ to } 22 \\text{ mm}$",
+        "B": "$23 \\text{ to } 27 \\text{ mm}$",
+        "C": "$20 \\text{ to } 24 \\text{ mm}$",
+        "D": "$25 \\text{ to } 29 \\text{ mm}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to USP guidelines for dissolution apparatus 2 (paddle), the distance between the blade and the inside bottom of the vessel is $25 \\pm 2 \\text{ mm}$ ($23$ to $27 \\text{ mm}$).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 13,
+      "question_text": "As per Drugs and Cosmetics Act and Rules, the Good Manufacturing Practice is included under schedule",
+      "options": {
+        "A": "W",
+        "B": "P",
+        "C": "S",
+        "D": "M"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule M of the Drugs and Cosmetics Act covers GMP requirements for pharmaceutical manufacturing.",
+      "category": "General"
+    },
+    {
+      "question_number": 14,
+      "question_text": "A substance used for modification of silica gel for reversed-phase TLC is",
+      "options": {
+        "A": "Benzene",
+        "B": "Glycerine",
+        "C": "Silicone oil",
+        "D": "Ether"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Impregnating silica gel with silicone oil or paraffin creates a reversed-phase thin-layer chromatographic plate.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 15,
+      "question_text": "In IR spectrum, the functional group region is from",
+      "options": {
+        "A": "$4000 \\text{ cm}^{-1} \\text{ to } 900 \\text{ cm}^{-1}$",
+        "B": "$4000 \\text{ cm}^{-1} \\text{ to } 1400 \\text{ cm}^{-1}$",
+        "C": "$1400 \\text{ cm}^{-1} \\text{ to } 900 \\text{ cm}^{-1}$",
+        "D": "$40000 \\text{ cm}^{-1} \\text{ to } 660 \\text{ cm}^{-1}$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The functional group region in an infrared (IR) spectrum typically spans from $4000 \\text{ cm}^{-1}$ to $1400 \\text{ cm}^{-1}$.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 16,
+      "question_text": "The equation $E = E^0 + \\frac{RT}{nF} \\ln a_{M^{n+}}$ is used to measure the",
+      "options": {
+        "A": "Conductance",
+        "B": "Potential difference",
+        "C": "Resistance",
+        "D": "Current"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Nernst equation calculates the cell potential or electrode potential difference.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Intermediates in the biosynthesis of cholesterol are",
+      "options": {
+        "A": "Mevalonic acid and isopentenyl pyrophosphate",
+        "B": "Mevalonic acid and aldosterone",
+        "C": "Isoprenaline and aldosterone",
+        "D": "Isoprenaline and isopentenyl pyrophosphate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mevalonate and isopentenyl pyrophosphate (IPP) are key intermediates in the mevalonate pathway leading to cholesterol biosynthesis.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "A naturally occurring amino acid which does not have a chiral centre is",
+      "options": {
+        "A": "Glycine",
+        "B": "Alanine",
+        "C": "Tryptophan",
+        "D": "Tyrosine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glycine has two hydrogen atoms attached to its alpha carbon, making it achiral.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 19,
+      "question_text": "A given Gram-positive bacterium is differentiated from Gram-negative by Gram staining. This is because its cell wall contains",
+      "options": {
+        "A": "Lysozyme",
+        "B": "Teichoic acid",
+        "C": "Membrane proteins",
+        "D": "Lipid A"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gram-positive cell walls contain a thick peptidoglycan layer associated with teichoic acids, which helps retain the crystal violet-iodine complex.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "The drug which increases the plasma concentration of digoxin by a pharmacokinetic mechanism is",
+      "options": {
+        "A": "Lidocaine",
+        "B": "Captopril",
+        "C": "Quinidine",
+        "D": "Hydrochlorthiazide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Quinidine displaces digoxin from tissue binding sites and reduces its renal clearance, significantly increasing plasma digoxin concentration.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Microscopic characters of ginger rhizome are",
+      "options": {
+        "A": "Spindle shaped lignified fibers and sclereids",
+        "B": "Cluster crystals of calcium oxalate and sclereids",
+        "C": "Non-lignified vessels and sac shaped starch grains",
+        "D": "Non-lignified fibers and sclereids"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ginger rhizome histology typically shows abundant starch grains, oil cells, and non-lignified fibers, alongside cluster crystals of calcium oxalate and occasional sclereids.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Klunge's test is for the identification of",
+      "options": {
+        "A": "Barbaloin",
+        "B": "Isobarbaloin",
+        "C": "Aloxinosides",
+        "D": "Aloesin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Klunge's test is a specific chemical test used to identify isobarbaloin in aloes.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 23,
+      "question_text": "3,4 Benzpyrene present in cigarette smoke reduces the therapeutic activity of Diazepam by",
+      "options": {
+        "A": "Altering excretion",
+        "B": "Binding to plasma proteins",
+        "C": "Inhibiting metabolism",
+        "D": "Increasing the activity of liver microsomal enzymes"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Polycyclic aromatic hydrocarbons like 3,4-benzpyrene induce hepatic CYP enzymes (such as CYP1A2), increasing the metabolism and reducing the effectiveness of drugs like diazepam.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 24,
+      "question_text": "An NMDA antagonist introduced for treatment of Alzheimer's disease is",
+      "options": {
+        "A": "Dopamine",
+        "B": "Nor-epinephrine",
+        "C": "Serotonin",
+        "D": "Memantine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Memantine is a low-affinity uncompetitive NMDA receptor antagonist used for moderate-to-severe Alzheimer's disease.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Reaction: 2,4-dichloroquinazoline + Hydrazine hydrate (< 20°C for 1 hr in pyridine) -> Resulting product treated with NaOH at 100°C for 1 hr gave an effective product for the treatment of Gout. Identity",
+      "options": {
+        "A": "Structure with OH on quinazoline ring",
+        "B": "Structure with condensed triazole ring",
+        "C": "Structure with hydroxy group at position 4",
+        "D": "Structure with fused ring system"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The reaction sequence yields a fused triazoloquinazoline derivative useful in gout therapy (such as an analog or related xanthine oxidase inhibitor synthesis).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Phenol, an antiseptic when treated as follows: Phenol + C6H5COCl -> Phenyl benzoate (OCOC2H5 typo/analog) + AlCl3,CS2 -> gives two phenolic ketones. The reaction is",
+      "options": {
+        "A": "Hofmann rearrangement",
+        "B": "Fries Rearrangement",
+        "C": "Kolbe's reaction",
+        "D": "Reimer-Tiemann Reaction"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The conversion of a phenyl ester into an ortho- and/or para-hydroxyketone in the presence of a Lewis acid like AlCl3 is the Fries rearrangement.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 27,
+      "question_text": "The quantity of drug required to make a 2% w/w solution in 240ml of alcohol is (The density of alcohol is $0.816 \\text{ g/ml}$)",
+      "options": {
+        "A": "$1.632 \\text{ g}$",
+        "B": "$2.400 \\text{ g}$",
+        "C": "$4.000 \\text{ g}$",
+        "D": "$4.800 \\text{ g}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mass of alcohol = $240 \\text{ ml} \\times 0.816 \\text{ g/ml} = 195.84 \\text{ g}$. For a 2% w/w solution, mass of drug = $195.84 \\times 0.02 / 0.98 \\approx 4.0 \\text{ g}$ or directly taking $2\\% \\times 240 \\times 0.816 = 3.918 \\text{ g}$ close to $4 \\text{ g}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 28,
+      "question_text": "In multistation punching machine, the upper as well as lower punches are connected by",
+      "options": {
+        "A": "Cams",
+        "B": "Turrets",
+        "C": "Wire meshes",
+        "D": "Revolving belts"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In a rotary tablet press (multistation punching machine), the punches are held and guided by upper and lower turrets.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 29,
+      "question_text": "As per the Drugs and Cosmetics Act, the HEPA filters are required to filter the air in the pharmaceutical manufacturing unit. Grade A filter is used for",
+      "options": {
+        "A": "Aseptic preparation and filling",
+        "B": "Background room used for preliminary activities",
+        "C": "Filtering liquid preparations",
+        "D": "Handling of components after washing"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Grade A laminar airflow zones are used for high-risk operations such as aseptic connection and filling.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 30,
+      "question_text": "The deflection of positive ions formed in a mass spectrometer by electric and magnetic fields depends upon its",
+      "options": {
+        "A": "Mass",
+        "B": "Charge",
+        "C": "Velocity",
+        "D": "Mass, charge and velocity"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The trajectory and deflection of ions in combined electric and magnetic fields depend on mass, charge, and initial velocity parameters.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Cyclohexane can be used as a solvent in UV spectrophotometric analysis because",
+      "options": {
+        "A": "It has a ring structure",
+        "B": "Energy requirement for $\\sigma - \\sigma^*$ is in the range of $120-200 \\text{ nm}$",
+        "C": "It is volatile",
+        "D": "It is immiscible with water"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Saturated hydrocarbons like cyclohexane absorb only in the vacuum UV region (below $200 \\text{ nm}$) due to high-energy $\\sigma - \\sigma^*$ transitions, making them transparent in the near-UV range.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Quaternary structure in protein molecules refers to the",
+      "options": {
+        "A": "Arrangement of multiple domains in a single polypeptide chain",
+        "B": "Specific arrangement of multiple subunits in multi-subunit proteins",
+        "C": "Formation of molten globules",
+        "D": "Protein folding in single subunit proteins"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Quaternary structure describes the assembly and spatial arrangement of multiple polypeptide subunits in a multimeric protein.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Interleukins are",
+      "options": {
+        "A": "Polypeptide cytokines important in the inflammatory cascade",
+        "B": "Prostaglandins that account for gastrointestinal disorders",
+        "C": "Enkephalins which are specific for asthma",
+        "D": "Dipeptides which have antimicrobial properties"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Interleukins are a group of cytokine proteins that play crucial roles in the immune system and inflammatory pathways.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Phase I clinical studies of a drug under development is generally carried out on",
+      "options": {
+        "A": "At least 10,000 people from different ethnic communities and a wide range of age groups",
+        "B": "A medium sized group of 500-1000 patients suffering from the disease for which the drug is being developed",
+        "C": "A small group of 20-100 healthy male and female volunteers",
+        "D": "Reliable in-vitro cell-lines derived from people suffering with the disease"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phase I clinical trials primarily evaluate safety, pharmacokinetics, and tolerability in a small group of healthy volunteers (usually 20-100).",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 35,
+      "question_text": "A young patient complains that he gets severe shortness of breath whenever he takes aspirin for headache. Increased levels of a substance responsible for aspirin hypersensitivity is",
+      "options": {
+        "A": "Prednisone",
+        "B": "Prostacyclin",
+        "C": "Ibuprofen",
+        "D": "Leukotriene LTC4"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aspirin-induced asthma occurs because COX inhibition shunts arachidonic acid down the lipoxygenase pathway, leading to an overproduction of bronchoconstrictive leukotrienes (e.g., LTC4/LTD4).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Match group I with group II and identify the correct combinations: Group I (Glycoside: (P) Gentisin, (Q) Genistein, (R) Apigenin, (S) Quercetin) with Group II (Type: 1. Flavonol, 2. Flavone, 3. Xanthone, 4. Isoflavon)",
+      "options": {
+        "A": "P-4, Q-3, R-1, S-2",
+        "B": "P-1, Q-2, R-4, S-3",
+        "C": "P-3, Q-4, R-2, S-1",
+        "D": "P-2, Q-1, R-3, S-4"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gentisin is a xanthone (P-3), Genistein is an isoflavone (Q-4), Apigenin is a flavone (R-2), and Quercetin is a flavonol (S-1).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Match Group I (Bark Diagnostic: (P) Kurchi, (Q) Cascara, (R) Cinnamon, (S) Cinchona) with Group II (Microscopical Characters)",
+      "options": {
+        "A": "P-2, Q-1, R-4, S-3",
+        "B": "P-4, Q-3, R-1, S-2",
+        "C": "P-3, Q-4, R-2, S-1",
+        "D": "P-1, Q-2, R-3, S-4"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Matching the characteristic bark microscopy keys gives P-2, Q-1, R-4, S-3.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Match Group I (Drug: (P) Levofloxacin, (Q) Caspofungin, (R) Aztreonam, (S) Rifabutin) with Group II (Mechanism of action is by inhibition of)",
+      "options": {
+        "A": "P-2, Q-3, R-4, S-1",
+        "B": "P-3, Q-4, R-1, S-2",
+        "C": "P-4, Q-1, R-2, S-3",
+        "D": "P-1, Q-2, R-3, S-4"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Levofloxacin inhibits DNA gyrase/topoisomerase II (P-2), Caspofungin inhibits beta(1-2) glucan (Q-3), Aztreonam binds specific PBP (R-4), and Rifabutin inhibits DNA-dependent RNA polymerase (S-1).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Match Group I (Drug: (P) Granisetron, (Q) Pirenzepine, (R) Acebutalol, (S) Baclofen) with Group II (Receptor agonist/antagonist)",
+      "options": {
+        "A": "P-1, Q-2, R-3, S-4",
+        "B": "P-3, Q-4, R-1, S-2",
+        "C": "P-2, Q-3, R-4, S-1",
+        "D": "P-4, Q-1, R-2, S-3"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Granisetron is a 5-HT3 antagonist (P-3), Pirenzepine is an M1 antagonist (Q-4), Acebutolol is a beta-1 antagonist (R-1), and Baclofen is a GABA agonist (S-2).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Match Group I (Drug: (P) Chlorpromazine, (Q) Thioridazine, (R) Diazepam, (S) Thiopentone) with Group II (Biotransformation)",
+      "options": {
+        "A": "P-4, Q-1, R-2, S-3",
+        "B": "P-2, Q-3, R-4, S-1",
+        "C": "P-4, Q-3, R-2, S-1",
+        "D": "P-4, Q-2, R-3, S-1"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Matching primary biotransformation pathways for these CNS agents gives P-4, Q-1, R-2, S-3.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Match Group I (Drug: (P) Diprophylline, (Q) Ethophylline, (R) Etamiphylline, (S) Proxyphylline) with Group II (7-Substitution in 1,3-dimethyl xanthine structures)",
+      "options": {
+        "A": "P-3, Q-2, R-4, S-1",
+        "B": "P-2, Q-4, R-3, S-1",
+        "C": "P-1, Q-3, R-2, S-4",
+        "D": "P-1, Q-4, R-3, S-2"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diprophylline has a dihydroxypropyl substituent (1), Etamiphylline has an aminoethyl substituent (4), proxyphylline has another variant, matching to D.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Match the equipment in Group I with their intended determination in Group II: Group I - (P) Cascade Impactor, (Q) Tag Open Cup apparatus, (R) Pycnometer, (S) Rheometer. Group II - 1. Flash point, 2. Sedimentation rate, 3. Particle size, 4. Density of liquid.",
+      "options": {
+        "A": "P-3, Q-1, R-4, S-2",
+        "B": "P-1, Q-3, R-2, S-4",
+        "C": "P-4, Q-2, R-3, S-1",
+        "D": "P-2, Q-3, R-1, S-4"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Match the classification in Group I with penetration enhancers in Group II: Group I - (P) Ionic surfactant, (Q) Nonionic surfactant, (R) Non surfactant, (S) Chelating agent. Group II - 1. Terpenes, 2. Polyoxyethylene-20-cetyl ether, 3. Polyethylene-9-lauryl ether, 4. Citric acid.",
+      "options": {
+        "A": "P-3, Q-2, R-1, S-4",
+        "B": "P-2, Q-3, R-1, S-4",
+        "C": "P-3, Q-4, R-1, S-2",
+        "D": "P-4, Q-2, R-3, S-1"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Match the transdermal drug delivery system in Group I with the method of penetration in Group II: Group I - (P) Membrane modulated system, (Q) Diffusion controlled system, (R) Matrix dispersion system, (S) Microreservoir system. Group II - 1. Drug is homogenously dispersed in polymer and then moulded into a patch, 2. Drug reservoir is encapsulated in rate controlling polymer patch, 3. Drug is dispersed in hydrophilic polymer and then cross with lipophilic polymer by high shear mechanical force linked, 4. Drug is directly dispersed in polymer patch.",
+      "options": {
+        "A": "P-2, Q-4, R-1, S-3",
+        "B": "P-1, Q-2, R-3, S-4",
+        "C": "P-1, Q-4, R-2, S-3",
+        "D": "P-4, Q-1, R-3, S-2"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Match the term used in Group I with explanation in Group II: Group I - (P) Chromophore, (Q) Blue shift, (R) Auxochrome, (S) Red shift. Group II - 1. Amino group, 2. Increase in wavelength of absorption, 3. Decrease in wavelength of absorption, 4. Carbonyl group.",
+      "options": {
+        "A": "P-4, Q-3, R-1, S-2",
+        "B": "P-3, Q-1, R-2, S-4",
+        "C": "P-1, Q-2, R-3, S-4",
+        "D": "P-2, Q-4, R-3, S-1"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Match the symbol in Group I with description in Group II: Group I - (P) $v$, (Q) $id$, (R) $\\delta$, (S) $\\rho$. Group II - 1. Specific resistance, 2. Chemical shift, 3. Diffusion current, 4. Frequency.",
+      "options": {
+        "A": "P-3, Q-4, R-1, S-2",
+        "B": "P-2, Q-1, R-4, S-3",
+        "C": "P-4, Q-3, R-2, S-1",
+        "D": "P-1, Q-2, R-4, S-3"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Match the type of inhibitor in Group I with description in Group II: Group I - (P) Competitive inhibitors, (Q) Non-competitive inhibitors, (R) Uncompetitive inhibitors, (S) Suicide inhibitors. Group II - 1. Have affinity only for the [E-S] complex and not for the free [E], 2. Binding of the inhibitor and that of the natural substrate are mutually exclusive, 3. Ultimately binds covalently to the enzyme, 4. Binds with the same affinity to [E] and [E-S].",
+      "options": {
+        "A": "P-3, Q-2, R-1, S-4",
+        "B": "P-1, Q-3, R-2, S-4",
+        "C": "P-4, Q-1, R-3, S-2",
+        "D": "P-2, Q-4, R-1, S-3"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Match the process in Group I with required molecules in Group II: Group I - (P) Post translation modification, (Q) DNA repair, (R) Control of prokaryotic transcription, (S) Protein degradation. Group II - 1. Signal peptidase, 2. Sigma factor, 3. Proteasome complex, 4. Photolyase.",
+      "options": {
+        "A": "P-1, Q-4, R-2, S-3",
+        "B": "P-2, Q-3, R-1, S-4",
+        "C": "P-3, Q-2, R-4, S-1",
+        "D": "P-2, Q-1, R-3, S-2"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 49,
+      "question_text": "Match the microorganism in Group I with typical characteristics in Group II: Group I - (P) Corynebacterium diphtheriae, (Q) Streptococcus pyogenes, (R) Staphylococcus aureus, (S) Streptomyces viridochroma. Group II - 1. Cells divide in three planes in an irregular pattern, Producing 'bunches', 2. Cells are lined side by side like matchsticks and at angles to one another, 3. Long, branched, multinuclear filaments called 'hyphae', 4. Cells divide in one plane and remain attached to form chain.",
+      "options": {
+        "A": "P-3, Q-4, R-2, S-1",
+        "B": "P-4, Q-1, R-2, S-3",
+        "C": "P-2, Q-4, R-1, S-3",
+        "D": "P-3, Q-2, R-1, S-4"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Microbiology"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Match the condition in Group I with description in Group II: Group I - (P) Agranulocytosis, (Q) Anisocytosis, (R) Aplastic anemia, (S) Hemolytic anemia. Group II - 1. Reduced lifespan of erythrocytes, 2. Lack of neutrophils, 3. Abnormal variation in RBC size, 4. Depression of synthesis of all cell types in bone marrow.",
+      "options": {
+        "A": "P-2, Q-3, R-4, S-1",
+        "B": "P-2, Q-4, R-3, S-1",
+        "C": "P-1, Q-2, R-4, S-3",
+        "D": "P-4, Q-2, R-1, S-3"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Transgenic plants are developed by genetic engineering techniques. The method involves:",
+      "options": {
+        "A": "Individual genes from one species inserted into another; the offspring will contain copies of new gene.",
+        "B": "By crossing two species or varieties differing at least in one set of characters",
+        "C": "Exposing the plant tissue to radiation",
+        "D": "Bioproduction of natural compounds under aseptic conditions"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 52,
+      "question_text": "In the production of transgenic plants, the gene transfer is carried out by:",
+      "options": {
+        "A": "Induction of meristematic primordial",
+        "B": "Gel filtration",
+        "C": "Clonal propagation",
+        "D": "Silicon carbide whiskers"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 53,
+      "question_text": "In the design of Captopril, the",
+      "options": {
+        "A": "-COOH group is introduced in proline to enhance the binding capability at the receptor site",
+        "B": "-SH group is introduced to enhance the binding capability of the drug with cobalt ion of ACE",
+        "C": "-SH group is introduced to enhance the binding to the zinc ion of ACE",
+        "D": "-COOH and -SH groups to introduce hydrophilic pockets at the receptor site"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Captopril IP is assayed by titration:",
+      "options": {
+        "A": "Against 0.1N sodium hydroxide using phenolphthalein indicator",
+        "B": "Of a solution in dimethylformamide with 0.1M of tetrabutyl ammonium hydroxide",
+        "C": "Of a solution in anhydrous formic acid and acetic anhydride with 0.1N perchloric acid",
+        "D": "Of a solution containing 1.8M sulphuric acid and potassium iodide with 0.025M potassium iodate using starch solution"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Lysosomes are used as carriers for drugs and macromolecules in pharmaceutical formulations. They are:",
+      "options": {
+        "A": "Phospholipids dispersed gently in aqueous medium to obtain multilamellar vesicles",
+        "B": "Hydrophilic or lipophilic polymer matrix with a drug reservoir",
+        "C": "A shallow compartment moulded from a drug impermeable system and rate controlling polymeric membrane",
+        "D": "Microporous membrane made from ethylene / vinyl acetate polymer"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 56,
+      "question_text": "They can interact by different mechanisms:",
+      "options": {
+        "A": "Biological fluid diffuses into the matrix and causes erosion of polymer",
+        "B": "Endocytosis by phagocytic cells of the reticuloendothelial system such as macrophages and Neutrophils",
+        "C": "Magnetic beads dispersed throughout the polymer matrix. On exposure the drug is released slowly by diffusion",
+        "D": "Receptor binding mediated by the peptide"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 57,
+      "question_text": "A Chinese tree Camptotheca acuminate is useful in cancer chemotherapy. The camptothecin present in the plant and useful in treating ovarian cancer is:",
+      "options": {
+        "A": "Etoposide",
+        "B": "Vincristine",
+        "C": "Paclitaxel",
+        "D": "Topotecan"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 58,
+      "question_text": "The drug selected above acts by:",
+      "options": {
+        "A": "Inhibiting topoisomerase I",
+        "B": "Inhibiting topoisomerase II",
+        "C": "Inhibiting thymidylate synthase",
+        "D": "Forming hydrogen peroxide which generates free radicals"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 59,
+      "question_text": "The compound A combined with X to get converted into B, in the presence of an appropriate enzyme. The reaction can be described as:",
+      "options": {
+        "A": "Bioactivation",
+        "B": "Glucuronide conjugation",
+        "C": "Beta-Oxidation",
+        "D": "Stereospecific glycine conjugation"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 60,
+      "question_text": "The significance of the above reaction in drug therapy is that the reaction:",
+      "options": {
+        "A": "Converts water soluble compound into a lipid soluble compound, thereby increasing its potency",
+        "B": "Converts an uncharged species into a charged species, increasing the shelf life of the compound",
+        "C": "Adds an ionic hydrophilic moiety, facilitating its urinary elimination",
+        "D": "Adds a bulky substituent to convert it into an active compound"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "question_number": 77,
+    "question_text": "Concentration of alcohol most effective as bactericidal is:",
+    "options": {
+      "A": "$99\\%$",
+      "B": "$50\\%$",
+      "C": "$70\\%$",
+      "D": "$10\\%$"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "An aqueous solution of $70\\%$ ethanol/isopropanol provides optimal protein coagulation and bactericidal activity.",
+    "category": "Microbiology",
+    "source_exam": "Pharmacist Gr 2 health services 2015 200_15"
+  },
+  {
+    "question_number": 19,
+    "question_text": "Match the process of reproduction and genetic exchange under column I with the explanation under column II. List I: A. Binary Fission, B. Transformation, C. Transduction, D. Conjugation. List II: I. Transfer of genetic material from the donor to recipient bacterium through cell contact, II. Common vegetative reproduction, III. Transfer of genetic material in bacteria through virus, IV. Horizontal gene transfer by taking up of foreign genetic material (naked DNA).",
+    "options": {
+      "A": "A-I, B-III, C-IV, D-II",
+      "B": "A-III, B-I, C-IV, D-II",
+      "C": "A-II, B-IV, C-I, D-III",
+      "D": "A-II, B-IV, C-III, D-I"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Binary fission corresponds to common vegetative reproduction (II), Transformation to uptake of naked DNA (IV), Transduction to transfer via virus (III), and Conjugation to transfer through cell contact (I).",
+    "category": "Microbiology",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 22,
+    "question_text": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Exotoxins diffuse freely through the bacterial cell wall into the medium in which the organisms are growing. Reason R: They are water soluble and can pass into the surrounding medium.",
+    "options": {
+      "A": "Both A and R are true and R is the correct explanation of A",
+      "B": "Both A and R are true but R is NOT the correct explanation of A",
+      "C": "A is true but R is false",
+      "D": "A is false but R is true"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Exotoxins are soluble proteins secreted by bacteria, diffusing freely into the surrounding medium due to their water solubility.",
+    "category": "Microbiology",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 31,
+    "question_text": "Basic dyes are used in microbiological staining. Which of the following statement is wrong about mechanism of staining?",
+    "options": {
+      "A": "The positive ions on the surface of bacteria form a colored complex with the dye",
+      "B": "Ionic exchange between the negative charge on the bacteria and positive charge of dye takes place",
+      "C": "Ionic exchange between the positive charge on the bacteria and negative charge of dye takes place",
+      "D": "The neutral charge on the surface of bacteria forms a colored complex with the basic dye"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Basic dyes are positively charged (cationic) and bind to negatively charged bacterial surfaces, making option C factually incorrect regarding basic dyes.",
+    "category": "Microbiology",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 20,
+    "question_text": "R.W.C. is used to identify the strength on an",
+    "options": {
+      "A": "Antibiotics",
+      "B": "Antipyretics",
+      "C": "Antiseptic",
+      "D": "Antiinflammatory"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "R.W.C. stands for Rideal-Walker Coefficient, which evaluates the potency of antiseptics and disinfectants.",
+    "category": "Microbiology",
+    "source_exam": "gpat-question-paper-1990"
+  },
+  {
+    "question_number": 25,
+    "question_text": "Match the suitable test organism for assaying the antibiotics mentioned below: 1. Doxycycline, 2. Rifampicin, 3. Streptomycin, 4. Tetracycline",
+    "options": {
+      "A": "1-D, 2-A, 3-B, 4-C",
+      "B": "1-D, 2-D, 3-A, 4-B",
+      "C": "1-A, 2-B, 3-C, 4-D",
+      "D": "1-A, 2-C, 3-D, 4-C"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Antibiotic assay organisms follow standard microbiological assay protocols using specific test strains.",
+    "category": "Microbiology",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 49,
+    "question_text": "Match the microorganism in Group I with typical characteristics in Group II: Group I - (P) Corynebacterium diphtheriae, (Q) Streptococcus pyogenes, (R) Staphylococcus aureus, (S) Streptomyces viridochroma. Group II - 1. Cells divide in three planes in an irregular pattern, Producing 'bunches', 2. Cells are lined side by side like matchsticks and at angles to one another, 3. Long, branched, multinuclear filaments called 'hyphae', 4. Cells divide in one plane and remain attached to form chain.",
+    "options": {
+      "A": "P-3, Q-4, R-2, S-1",
+      "B": "P-4, Q-1, R-2, S-3",
+      "C": "P-2, Q-4, R-1, S-3",
+      "D": "P-3, Q-2, R-1, S-4"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": null,
+    "category": "Microbiology",
+    "source_exam": "gpat-question-paper-2009"
+  },
+  {
+    "question_number": 84,
+    "question_text": "Which of the following disinfectant effectively destroys vegetative bacterial cells including Gram positive and Gram negative bacteria, bacterial endospores, fungi, and viruses?",
+    "options": {
+      "A": "8% formaldehyde + 70% alcohol",
+      "B": "70% Alcohol",
+      "C": "0.1% Phenol aqueous",
+      "D": "0.1% Iodine aqueous"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "High-level disinfectants like concentrated formaldehyde combined with alcohol possess broad-spectrum activity against all microbes including spores.",
+    "category": "Microbiology",
+    "source_exam": "gpat-question-paper-2018"
+  },
+  {
+    "question_number": 85,
+    "question_text": "Which of the following are obligatory intracellular parasites? (P) Virus (Q) Fungus (R) Mycobacterium (S) Rickettsia",
+    "options": {
+      "A": "all",
+      "B": "(P), (Q) and (R)",
+      "C": "(R) and (S)",
+      "D": "(P) and (S)"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Viruses and Rickettsia are strictly obligate intracellular parasites.",
+    "category": "Microbiology",
+    "source_exam": "gpat-question-paper-2018"
+  }
+]

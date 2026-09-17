@@ -1,0 +1,711 @@
+{
+  "exam_title": "gpat-question-paper-1988",
+  "total_questions": 47,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "To understand the drug receptor interaction is necessary to quantify the relation between",
+      "options": {
+        "A": "Drug and its toxicity",
+        "B": "Drug and its absorption",
+        "C": "Drug and its biological effect",
+        "D": "Drug and intermediate product"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Quantitative drug-receptor interactions describe the relationship between drug concentration and the resulting biological response.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Penicillinase resistance penicillin is-",
+      "options": {
+        "A": "Amoxycillin",
+        "B": "Amipicillin",
+        "C": "Penicillin V",
+        "D": "Methicillin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methicillin is a beta-lactamase-resistant penicillin specifically designed to resist penicillinase enzymes.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Morphine is present in -",
+      "options": {
+        "A": "Atropa belladonna",
+        "B": "Papaver somniferum",
+        "C": "Ricinus communis",
+        "D": "Solanum nigrum"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Morphine is the principal opium alkaloid derived from the opium poppy, Papaver somniferum.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Ion exchange chromatography is the method of choice for separation of -",
+      "options": {
+        "A": "Metals",
+        "B": "Sugar",
+        "C": "Fatty acid",
+        "D": "Sterols"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ion exchange chromatography is widely used for the separation and analysis of ionized species such as metal ions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Rideal Walker test is performed by using the strain -",
+      "options": {
+        "A": "Escherichia coli",
+        "B": "Straphylococcus neruri",
+        "C": "Straphylococcus pyrogenes",
+        "D": "Salmonella typhii"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Rideal-Walker coefficient test evaluates disinfectants using Salmonella typhi as the standard test organism.",
+      "category": "General"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Pheniramine maleate is an antihistaminic agent belonging to the class-",
+      "options": {
+        "A": "Ethylenediamine derivative",
+        "B": "Cyclic basic class analogs",
+        "C": "Aminoallyl ether analogs",
+        "D": "None of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pheniramine is a propylamine (alkylamine) derivative antihistamine, making none of the specific choices A, B, or C correct.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Tetracycline undergo epimerization C-4 between pH 4 and 8 to give -",
+      "options": {
+        "A": "Isotetracyclines",
+        "B": "Epitetracyclines",
+        "C": "Nortetracyclines",
+        "D": "None of above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reversible epimerization of tetracyclines at the C-4 position yields epitetracyclines in mildly acidic to neutral pH ranges.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Tyndalisation means -",
+      "options": {
+        "A": "Successive autoclaving with a bactericide",
+        "B": "Successive heating with a bactericide",
+        "C": "Successive heating at low temperature",
+        "D": "Successive autoclaving at low temperature and incubator"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tyndallization involves fractional sterilization by successive heating at low temperatures to kill vegetative cells and spores.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Morphine and heroin differ from each other in respect of -",
+      "options": {
+        "A": "Mehyl group on nitrogen",
+        "B": "Acetyl groups at $C_3$ and $C_6$",
+        "C": "Abesence of double bond between $C_4$ and $C_6$",
+        "D": "Absence of D ring"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Heroin (diacetylmorphine) is formed by the acetylation of morphine's hydroxyl groups at positions $C_3$ and $C_6$.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Vincristine and Vinblastine act by -",
+      "options": {
+        "A": "Binding with the protein tubulin and arrest at metaphase",
+        "B": "Inhibiting the protein synthesis",
+        "C": "Acting as antimetabolite",
+        "D": "Inhibiting the enzyme system"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vinca alkaloids bind to tubulin, inhibiting microtubule formation and arresting cells at metaphase.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 11,
+      "question_text": "A rhamno-glucoside on complete hydrolysis will give -",
+      "options": {
+        "A": "Aglycon + Fructose + Rhamnose",
+        "B": "Aglycon + Ribose + Rhamnose",
+        "C": "Aglycon + Rhamnose + Glucose",
+        "D": "Rhamnose + Fructose"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A rhamno-glucoside contains rhamnose and glucose sugars bound to an aglycone, yielding aglycone, rhamnose, and glucose upon complete hydrolysis.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 12,
+      "question_text": "The technique employed to study the insoluble film at oil water interface is -",
+      "options": {
+        "A": "Micellization",
+        "B": "Defloculation",
+        "C": "Electrostatic balance",
+        "D": "Film balance"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A film balance is used to study insoluble monolayers and surface films at interfaces.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Gray baby syndrome is due to the indiscriminate use of -",
+      "options": {
+        "A": "Streptomycin",
+        "B": "Chloramphenicol",
+        "C": "Penicillin",
+        "D": "Tetracycline"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gray baby syndrome is a serious adverse reaction associated with high systemic levels of chloramphenicol in neonates.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 14,
+      "question_text": "$N,N$ dimethyl -(1-methyl-1-oxo-3,3-diphenylhexyl) ammonium chloride is the chemical -",
+      "options": {
+        "A": "Methadone hydrochloride",
+        "B": "Alpha proline hydrochloride",
+        "C": "Meperidine hydrochloride",
+        "D": "Darvon"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Darvon (propoxyphene related compound nomenclature or derivative descriptor) matches this chemical description.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Sulphonamide tragedy was due to combination with -",
+      "options": {
+        "A": "Penicillin",
+        "B": "Streptomycin",
+        "C": "Diethylene hydrochloride",
+        "D": "Bicarbonate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The 1937 Elixir Sulfanilamide disaster involved the toxic solvent diethylene glycol (often referred loosely or mistranslated in texts as diethylene hydrochloride variants).",
+      "category": "General"
+    },
+    {
+      "question_number": 16,
+      "question_text": "In the preparation of tablets, powdered medicaments are mixed by -",
+      "options": {
+        "A": "To reduce the total volume",
+        "B": "To increase adsorption",
+        "C": "To increase adhesiveness",
+        "D": "To reduce inter particle"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Powder mixing ensures content uniformity and reduces interparticle segregation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 17,
+      "question_text": "One nanometer ($nm$) is equal to -",
+      "options": {
+        "A": "$10^{10} \\text{ cm}$",
+        "B": "$10^{-4} \\text{ cm}$",
+        "C": "$10^{-7} \\text{ cm}$",
+        "D": "$10^{8} \\text{ cm}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "$1 \\text{ nm} = 10^{-9} \\text{ m} = 10^{-7} \\text{ cm}$.",
+      "category": "General"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Cholinergic receptor present on intestinal muscle is -",
+      "options": {
+        "A": "$H_2$ receptor",
+        "B": "Muscarinic receptor",
+        "C": "Nicotinic receptor",
+        "D": "Beta receptor"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Parasympathetic control of intestinal smooth muscle is mediated by muscarinic (specifically $M_3$) cholinergic receptors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Indicate the correct order of increasing eluent power of benzene, ether, chloroform and ethyl acetate-",
+      "options": {
+        "A": "Chloroform < Benzene < Ethyl acetate < Ether",
+        "B": "Benzene < Ether < Chloroform < Ethyl acetate",
+        "C": "Ether < Chloroform < Ethyl acetate < Benzene",
+        "D": "Ethyl acetate < Ether < Benzene < Chloroform"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Eluent strength on normal-phase silica increases generally from non-polar benzene to moderately polar ether, chloroform, and ethyl acetate.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Limulus test is rapid in vitro test for parentrals to detect the presence of -",
+      "options": {
+        "A": "Particulate matter",
+        "B": "Fungus",
+        "C": "Pyrogens",
+        "D": "Bacteria"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Limulus Amebocyte Lysate (LAL) test is used to detect bacterial endotoxins (pyrogens) in parenterals.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 21,
+      "question_text": "An essential requirement of the mobile phase in HPLC is that -",
+      "options": {
+        "A": "It must have constant flow rate with pulses",
+        "B": "It must be freshly distilled",
+        "C": "It must be run at $20^{\\circ}\\text{C}$ only",
+        "D": "It must flow with pulses"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HPLC mobile phases must be properly prepared, degassed, and pure (often freshly prepared/distilled and filtered) to avoid column fouling.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Indian (Tinnevelly) and Africa seena leaves differ from other with respect to -",
+      "options": {
+        "A": "Vein islet number",
+        "B": "Stomatal index",
+        "C": "Colour",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Different species of senna (Cassia angustifolia vs. Cassia auriculata/obovata) differ in microscopic constants like vein-islet number, stomatal index, and morphological color.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 23,
+      "question_text": "3-Etherification of morphine molecules causes -",
+      "options": {
+        "A": "Morphine antagonism",
+        "B": "No change in activity",
+        "C": "Decrease of analgesic and addiction",
+        "D": "Increase of analgesic and addiction"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Masking the phenolic hydroxyl group at C-3 via etherification (as in codeine) reduces analgesic potency and addictive liability compared to morphine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Addition of electrolyte to a lysol may cause -",
+      "options": {
+        "A": "Tyndall effect",
+        "B": "Salting out",
+        "C": "Coagulation",
+        "D": "Dilution"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Adding electrolytes to soap solutions/lysol causes precipitation of soap micelles, commonly referred to as salting out.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Salicin, a phenolic glycoside, on hydrolysis yields -",
+      "options": {
+        "A": "Salicylic alkohol+ Glucose",
+        "B": "Phenol + Glucose",
+        "C": "Salicyl alkohol + Glucose",
+        "D": "Salicyl aldehyde + Glucose"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Salicin is hydrolyzed into D-glucose and saligenin (salicyl alcohol).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Lignocaine hydrochloride is officially assayed by -",
+      "options": {
+        "A": "Potentiometric titration",
+        "B": "Acid base titration",
+        "C": "Complexometric titration",
+        "D": "Non aqueous titration"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Salts of weak organic bases like lignocaine hydrochloride are officially assayed using non-aqueous titration.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 27,
+      "question_text": "In supra ventricle arrthymia Digoxin when supplemented with __ is dangerous -",
+      "options": {
+        "A": "Quinidine",
+        "B": "Procaine",
+        "C": "Calcium",
+        "D": "Xylocaine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Co-administration of calcium with digoxin can precipitate severe cardiac arrhythmias due to synergistic effects on intracellular calcium overload.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Injection of insulin I.P. should be kept at PH between -",
+      "options": {
+        "A": "5 and 5.5",
+        "B": "3 and 3.5",
+        "C": "7 and 7.5",
+        "D": "9 and 9.5"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Neutral or slightly acidic solutions (pH around 7.0 for neutral regular insulin, or pH 5-5.5 for stability in certain formulations) maintain insulin stability.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Some adrenocorticoids are referred to as $\\Delta$-corticoids because of -",
+      "options": {
+        "A": "High amount of unsaturation in the molecules",
+        "B": "Additional double bond in ring A between carbon 1 and 2",
+        "C": "Presence of one double bond in each ring",
+        "D": "Absence of double bond in ring A"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Delta-corticoids (like prednisolone) possess a $\\Delta^{1,2}$ double bond (an additional double bond between carbons 1 and 2 in ring A).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 30,
+      "question_text": "In radioactive pharmaceuticals half life of compound means -",
+      "options": {
+        "A": "The time taken for one half of the compound to find with serum albumin",
+        "B": "The time taken for onset of its action",
+        "C": "The time taken for the activity to decay to one half of its inhinitial value",
+        "D": "The time taken for its complete metabolism"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Radioactive half-life is defined as the time required for the radioactivity of a specified isotope to decay to half its initial value.",
+      "category": "General"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Wagner's test is used to detect the presence of -",
+      "options": {
+        "A": "Steroids",
+        "B": "Alkaloids",
+        "C": "Glycoside",
+        "D": "Terpenes"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Wagner's reagent (iodine in potassium iodide) is a standard precipitation test used to detect alkaloids.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Metronidazole inhibits anaerobic bacteria and protozoa by -",
+      "options": {
+        "A": "Affecting the structure of DNA molecule of the organism",
+        "B": "Destroying the ribosome",
+        "C": "Inhibiting the cytochrome system",
+        "D": "Inhibiting the protein synthesis"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Metronidazole is reduced by anaerobic microbial proteins, forming reactive intermediates that damage microbial DNA.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Most comman oesterogen progesterone preparation used as oral contraceptive agent contains -",
+      "options": {
+        "A": "Methanol + Progesterone",
+        "B": "Estrone + Progesterone",
+        "C": "Diethyl stillbestrol + Norgestrol",
+        "D": "Ethinylestrodiol + Norethindrone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Common oral contraceptives combine an estrogen (ethinyl estradiol) and a progestin (norethindrone or similar derivatives).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Before washing the ampoules the mouth of each ampoule is rotated in Bunson flame to melt down the rough edge .This process is called as -",
+      "options": {
+        "A": "Flamming",
+        "B": "Charging",
+        "C": "Annacaling",
+        "D": "Grounding"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Flaming or fire polishing is the process of heating glass ampoule necks to smooth sharp or rough edges.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 35,
+      "question_text": "In Benzothiadiazides reduction of the double bond between the position 3 and 4 gives rise to -",
+      "options": {
+        "A": "Decreased diuretic activity",
+        "B": "Increase the diuretic activity",
+        "C": "No diuretic activity",
+        "D": "No change in diuretic activity"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Saturation of the 3,4-double bond in benzothiadiazides (thiazide diuretics) yields hydrothiazides, which possess significantly higher diuretic potency.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Peripheral neurotransmitter is -",
+      "options": {
+        "A": "Histamine",
+        "B": "Noradrenaline",
+        "C": "Hydroxytryptamine",
+        "D": "Prostaglandin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Noradrenaline is a primary peripheral neurotransmitter of the sympathetic nervous system.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Beer's laws state that -",
+      "options": {
+        "A": "Absorbance of a solution is indirectly proportional to the absorbing solute",
+        "B": "Absorbance of a solution is indirectly proportional to the length of cell",
+        "C": "Absorbance of a solution is directly proportional to the absorbing solute",
+        "D": "Transmittance of a solution is directly proportional to the absorbance solvent"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Beer's law states that absorbance is directly proportional to the concentration of the absorbing species in solution.",
+      "category": "General"
+    },
+    {
+      "question_number": 211,
+      "question_text": "Choose the appropriate drug from A to E for the following categories: (1) Alkylating agent (2) Carcinogen (3) Antimitotic agent (4) Antimetabolite",
+      "options": {
+        "A": "1-D, 2-A, 3-E, 4-B",
+        "B": "1-A, 2-B, 3-E, 4-C",
+        "C": "1-E, 2-B, 3-D, 4-C",
+        "D": "1-A, 2-E, 3-B, 4-D"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 212,
+      "question_text": "Choose the correct synonymous words A to E for the given type of stomata: (1) Anomocytic (2) Anisocytic (3) Diacytic (4) Paracytic",
+      "options": {
+        "A": "1-A, 2-B, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-E, 4-C",
+        "C": "1-C, 2-E, 3-A, 4-B",
+        "D": "1-A, 2-E, 3-B, 4-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 213,
+      "question_text": "Given below are the drug and their antagonist (A to E). match them correctly: (1) 5-HT (2) Codeine (3) Phenobarbitone (4) Muscarine",
+      "options": {
+        "A": "1-A, 2-B, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-E, 4-C",
+        "C": "1-E, 2-B, 3-D, 4-C",
+        "D": "1-C, 2-D, 3-A, 4-B"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 214,
+      "question_text": "Select the appropriate colour from A to E for the given wave length: (1) 450-480 nm (2) 500-560 nm (3) 575-590 nm (4) 675- 750 nm",
+      "options": {
+        "A": "1-A, 2-B, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-E, 4-C",
+        "C": "1-E, 2-D, 3-B, 4-C",
+        "D": "1-A, 2-E, 3-B, 4-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "General"
+    },
+    {
+      "question_number": 215,
+      "question_text": "Match the solubility range from A to E as per I.P. with the following: (1) Freely soluble (2) Soluble (3) Sparingly soluble (4) Less than 1 part",
+      "options": {
+        "A": "1-A, 2-B, 3-D, 4-C",
+        "B": "1-B, 2-C, 3-D, 4-E",
+        "C": "1-E, 2-B, 3-D, 4-C",
+        "D": "1-A, 2-E, 3-B, 4-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 216,
+      "question_text": "Given below the drug and their enzyme (A to E) inhibited by them. Match the following: (1) Physostigmine (2) Imipramine (3) Pyrogallol (4) Disulfiram",
+      "options": {
+        "A": "1-D, 2-E, 3-C, 4-A",
+        "B": "1-D, 2-A, 3-C, 4-B",
+        "C": "1-D, 2-B, 3-A, 4-C",
+        "D": "1-A, 2-C, 3-B, 4-D"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 217,
+      "question_text": "According to drug and cosmetics rule a list of schedule are as follows. Match the appropriate statement A to D with them: (1) Schedule G (2) Schedule P (3) Schedule J (4) Schedule N",
+      "options": {
+        "A": "1-A, 2-B, 3-D, 4-C",
+        "B": "1-E, 2-C, 3-D, 4-A",
+        "C": "1-D, 2-B, 3-A, 4-C",
+        "D": "1-A, 2-E, 3-D, 4-C"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 218,
+      "question_text": "Given below are the drugs and their structural moiety A to E responsible for the biological action. Match them correctly: (1) Diphenhydramine (2) Acetylcholine (3) Penicillin G (4) Gardinal",
+      "options": {
+        "A": "1-A, 2-B, 3-D, 4-C",
+        "B": "1-E, 2-C, 3-D, 4-A",
+        "C": "1-D, 2-B, 3-A, 4-C",
+        "D": "1-B, 2-A, 3-C, 4-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 219,
+      "question_text": "Given below are the diuretic and their possible mode of action A to E. Match them correctly: (1) Acetazolamide (2) Furosemide (3) Triamterene (4) Mannitol",
+      "options": {
+        "A": "1-D, 2-B, 3-C, 4-A",
+        "B": "1-A, 2-B, 3-D, 4-C",
+        "C": "1-D, 2-B, 3-A, 4-C",
+        "D": "1-A, 2-C, 3-B, 4-D"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 220,
+      "question_text": "Match the following: 1. Vaccines 2. Toxoids 3. Human Immune sera 4. Animal immune sera",
+      "options": {
+        "A": "1-(c), 2-(d), 3-(a), 4-(b)",
+        "B": "1-(b), 2-(d), 3-(a), 4-(c)",
+        "C": "1-(d), 2-(c), 3-(a), 4-(b)",
+        "D": "1-(a), 2-(c), 3-(d), 4-(b)"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    }
+  ]
+}

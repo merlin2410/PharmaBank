@@ -1,0 +1,306 @@
+{
+  "exam_title": "gpat-question-paper-1995",
+  "total_questions": 20,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "One of the drug is excreted primarily by renal tubular sections. Identify.",
+      "options": {
+        "A": "Gentamycin",
+        "B": "Kanamycin",
+        "C": "Tetracycline",
+        "D": "Carbenicillin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carbenicillin is excreted primarily by active renal tubular secretion compared to other options.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Identify one of the cancer chemotherapeutic agent which is an antimetabolite?",
+      "options": {
+        "A": "Flurouracil",
+        "B": "Nitrogen mustard",
+        "C": "Cyclophosphanide",
+        "D": "Chlorambucil"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "5-Fluorouracil is a well-known pyrimidine antimetabolite used in cancer chemotherapy.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Agents useful in the treatment of bronchial asthma usually",
+      "options": {
+        "A": "Block both alpha and beta adrenergic receptors",
+        "B": "Stimulate alpha receptors but block beta receptors",
+        "C": "Stimulate beta receptors but block alpha receptors",
+        "D": "Stimulate alpha and/or beta receptors"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Beta-2 agonists stimulate beta receptors to cause bronchodilation, while alpha-blockers can decrease congestion, making selective beta-2 stimulation crucial.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 4,
+      "question_text": "The antiarrhythmic drug Quinidine is:",
+      "options": {
+        "A": "(+) Stereoisomer of Quinine",
+        "B": "(-) Stereoisomer of Quinine",
+        "C": "(+) Racemic mixture of Quinine",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Quinidine is the dextro-rotatory diastereomer (stereoisomer) of quinine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Beta-Carboline ring system is present in",
+      "options": {
+        "A": "Emetine alkaloid",
+        "B": "Cortisone acetate",
+        "C": "Deserpidine molecule",
+        "D": "Atropine alkaloid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Deserpidine and related Rauwolfia alkaloids contain the beta-carboline ring system.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Licence for wholesale of drugs specified in schedule C and $C_1$ are issued in form",
+      "options": {
+        "A": "20 A",
+        "B": "20 B",
+        "C": "21 B",
+        "D": "22 A"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 21B is issued for the wholesale of drugs specified in Schedule C and C1.",
+      "category": "General"
+    },
+    {
+      "question_number": 7,
+      "question_text": "The principal constituents Anethole (50-60%) and Fenchone (18-20%) are present in the volatile oil obtained from",
+      "options": {
+        "A": "Fruits of Ammi visnaga-Linn",
+        "B": "Fruits of Foeniculum capillaceum G (F. vulgare)",
+        "C": "Fruits of Carum carvi-Linn",
+        "D": "Fruits of Anethoum graveolens-Linn"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fennel oil (Foeniculum vulgare) contains anethole and fenchone as its major constituents.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Caffeine on oxidation with $KClO_3 / HCl$ gives :-",
+      "options": {
+        "A": "Trimethylalloxan and urea",
+        "B": "Methlylalloxan and dimethyl urea",
+        "C": "Diemthylalloxan and methyl urea",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oxidation of caffeine with potassium chlorate and hydrochloric acid yields methylalloxan and dimethylurea (the murexide test degradation pathway).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 9,
+      "question_text": "One of the following types of adverse drug reactions is not believed to be dose related phenomena",
+      "options": {
+        "A": "Side effects and toxic reactions",
+        "B": "Toxic reactions and hypersensitivity",
+        "C": "Side effects and hypersensitivity",
+        "D": "Hypersensitivity and idiosyncrasy"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hypersensitivity and idiosyncrasy are Type B (bizarre) reactions which are unpredictable and generally not dose-related.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Green bones are used for the preparation of a gelatin of the type",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "A and B"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Type A gelatin is typically derived from acid-treated precursor (often pork skin or green bones).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "In capsules, ROTOFIL is used for filling:",
+      "options": {
+        "A": "Powders",
+        "B": "Pellets",
+        "C": "Liquids",
+        "D": "Corrosive liquids"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rotofil is a specialized machine used for filling liquids or pastes into hard gelatin capsules.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Gelatin and glycerin are used for the preparation of lamellae in a specified ratio. Identify the correct ratio",
+      "options": {
+        "A": "1 : 1",
+        "B": "5 : 1",
+        "C": "9 : 1",
+        "D": "10 : 1"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lamellae formulations typically use a gelatin to glycerin ratio around 9:1.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 13,
+      "question_text": "The Shick test is used to determine susceptibility to",
+      "options": {
+        "A": "Measles",
+        "B": "Diphtheria",
+        "C": "Polio",
+        "D": "Typhoid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Schick test is a clinical test used to determine whether a person is susceptible to diphtheria.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 14,
+      "question_text": "One of the following general characteristics is not true for alkaloids?",
+      "options": {
+        "A": "Nitrogen in the hetrocyclic nucleus",
+        "B": "Good solubility in organic solvents",
+        "C": "$pK_a$ less than 7",
+        "D": "Exhibit optical activity"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Alkaloids are basic nitrogenous compounds, typically having a pKa greater than 7 (usually between 7 and 11).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Silver/Silver chloride electrode consists of",
+      "options": {
+        "A": "Metallic silver coated with a layer of silver chloride",
+        "B": "Polished platinum wire coated with silver chloride",
+        "C": "Silver wire dipped in a saturated solution of silver chloride",
+        "D": "Two electrodes one of silver and other of silver chloride"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A silver-silver chloride electrode is formed by coating a silver metal element with a layer of silver chloride.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 16,
+      "question_text": "In gel permeation chromatography molecules are separated on the basis of their",
+      "options": {
+        "A": "Chemical nature",
+        "B": "Size and shape",
+        "C": "Adsorptive properties",
+        "D": "Partition coefficient"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gel permeation (size-exclusion) chromatography separates molecules according to their size and hydrodynamic volume.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "According to Pauli exclusion principle, spins of two electrons in the same orbital are",
+      "options": {
+        "A": "Parallel to one another",
+        "B": "Perpendicular to one another",
+        "C": "Opposite to one another",
+        "D": "Supporting one another"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pauli exclusion principle states that two electrons in the same orbital must have opposite spins (+1/2 and -1/2).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Vaccines and toxoids are precipitated and absorbed on to aluminium hydroxide or other suitable media. This process results in a dosage form that in comparison to fluid forms",
+      "options": {
+        "A": "More effective orally",
+        "B": "Absorbed slowly",
+        "C": "Stability is increased",
+        "D": "Irritation is lost"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Adsorbed (depot) vaccines release the antigen slowly, thereby prolonging and enhancing the immune response.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 19,
+      "question_text": "In order to produce characteristic pharmacological action, a drug must always",
+      "options": {
+        "A": "Reach high blood vessels",
+        "B": "Absorbed from GIT readily",
+        "C": "Achieve adequate concentration at the site of action",
+        "D": "Excrete unchanged in urine."
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A drug must achieve an effective therapeutic concentration at its specific site of action to elicit its pharmacological response.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 20,
+      "question_text": "The Wurster process can be used to",
+      "options": {
+        "A": "Coat tablets",
+        "B": "Determine the disintegration time",
+        "C": "Gas sterilize parenteral solutions",
+        "D": "Automatic filling of capsules"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Wurster process is an air-suspension coating technique widely used for microencapsulation of particles and coating tablets/pellets.",
+      "category": "Pharmaceutics"
+    }
+  ]
+}

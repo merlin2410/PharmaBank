@@ -1,0 +1,50 @@
+[
+  {
+    "question_number": 7,
+    "question_text": "Under which of the following conditions in-vitro-in-vivo correlation for a drug fails?",
+    "options": {
+      "A": "When the drug is highly soluble",
+      "B": "When the drug's absorption takes place by a complex process",
+      "C": "When the dissolution medium is adequately simulated",
+      "D": "When the drug is highly permeable but poorly soluble"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Complex absorption processes (e.g., active transport or carrier-mediated influx/efflux) complicate the relationship between simple in vitro dissolution and in vivo absorption.",
+    "category": "Biopharmaceutics",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 12,
+    "question_text": "Which of the following levels of IVIVC is represented by \"the relationship between one dissolution time point (e.g. t 50%) and one mean pharmacokinetic parameter, such as AUC, $T_{max}$ or $C_{max}$\"?",
+    "options": {
+      "A": "Level A",
+      "B": "Level B",
+      "C": "Level C",
+      "D": "Level D"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Level C IVIVC establishes a single-point relationship between a dissolution parameter and a pharmacokinetic parameter.",
+    "category": "Biopharmaceutics",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 83,
+    "question_text": "During determination of absorption rate constant by method of residual, flip-flop phenomenon occurs when ($K_a$ absorption rate constant and $K_E$ overall elimination rate constant).",
+    "options": {
+      "A": "$K_E / K_a \\ge 3$",
+      "B": "$K_a / K_E \\ge 3$",
+      "C": "$K_E / K_a \\le 3$",
+      "D": "$K_a / K_E \\le 3$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The flip-flop phenomenon occurs when the apparent absorption rate constant is actually the elimination rate constant, which happens when $K_E / K_a$ is significantly large ($K_E / K_a \\ge 3$).",
+    "category": "Biopharmaceutics",
+    "source_exam": "gpat-question-paper-2018"
+  }
+]

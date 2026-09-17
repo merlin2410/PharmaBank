@@ -1,0 +1,50 @@
+[
+  {
+    "question_number": 41,
+    "question_text": "The second law of thermodynamics states that 'whenever a spontaneous process takes place, it is accompanied by an increase in the total energy of the universe.' The equation that satisfies the above law is :",
+    "options": {
+      "A": "$\\Delta S_{\\text{universe}} = S_{\\text{system}} - \\Delta S_{\\text{surrounding}}$",
+      "B": "$\\Delta S_{\\text{universe}} = S_{\\text{surrounding}} - \\Delta S_{\\text{system}}$",
+      "C": "$S_{\\text{system}} = \\Delta S_{\\text{universe}} + \\Delta S_{\\text{surrounding}}$",
+      "D": "$\\Delta S_{\\text{universe}} = \\Delta S_{\\text{system}} + \\Delta S_{\\text{surrounding}}$"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The total entropy change of the universe for any spontaneous process is the sum of entropy changes of the system and surroundings, which must be greater than zero.",
+    "category": "Physical Pharmaceutics",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 42,
+    "question_text": "When adhesive attractions between molecules of different species exceeds cohesive attraction between like molecules, the deviation according to Raoult's law is said to be :",
+    "options": {
+      "A": "Partial",
+      "B": "Negative",
+      "C": "Positive",
+      "D": "Neutral"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Stronger adhesive forces between different molecules reduce escaping tendency, leading to negative deviation from Raoult's law.",
+    "category": "Physical Pharmaceutics",
+    "source_exam": "gpat 2020_2"
+  },
+  {
+    "question_number": 43,
+    "question_text": "Molar heat capacity of a system is defined as :",
+    "options": {
+      "A": "The amount of heat required to raise temperature of one mole of the system by one Kelvin",
+      "B": "The amount of heat required to decrease temperature of one mole of the system by one Kelvin",
+      "C": "The amount of heat required to raise temperature of one mole of the system by one Fahrenheit",
+      "D": "The amount of heat required to decrease temperature of one mole of the system by one Fahrenheit"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Molar heat capacity is the heat capacity of one mole of a substance, defined as the energy needed to raise the temperature of one mole by 1 Kelvin.",
+    "category": "Physical Pharmaceutics",
+    "source_exam": "gpat 2020_2"
+  }
+]

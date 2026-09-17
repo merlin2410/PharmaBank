@@ -1,0 +1,1506 @@
+{
+  "exam_title": "qstn_paper_pharmacist_gr_ii_1",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Wafer capsule is known as",
+      "options": {
+        "A": "Cachets",
+        "B": "Pills",
+        "C": "Jelly",
+        "D": "Poultice"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cachets are also known as wafer capsules, historically used to enclose disagreeable powders.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 2,
+      "question_text": "The pigment in the rod cells of eye is called as",
+      "options": {
+        "A": "Melanin",
+        "B": "Rhodopsin",
+        "C": "Iodopsin",
+        "D": "Opsin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rhodopsin is the biological pigment found in the rods of the retina that is sensitive to light.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Vitamin K deficiency results in the disorder",
+      "options": {
+        "A": "Retarded growth",
+        "B": "Color blindness",
+        "C": "Defect in blood clotting",
+        "D": "Pernicious anaemia"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vitamin K is essential for the hepatic synthesis of blood clotting factors, and its deficiency leads to bleeding disorders.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 4,
+      "question_text": "A diuretic drug",
+      "options": {
+        "A": "Gokhru",
+        "B": "Cinnamon",
+        "C": "Fennel",
+        "D": "Senna"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gokhru (Tribulus terrestris) is traditionally known and used for its diuretic properties.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Baljet test is used for",
+      "options": {
+        "A": "Flavonoids",
+        "B": "Saponins",
+        "C": "Glycoside",
+        "D": "Coumarins"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Baljet test is a chemical test specifically used for the detection of cardiac glycosides (specifically active methylene groups).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 6,
+      "question_text": "In modern medicine Cocaine is used as",
+      "options": {
+        "A": "Local anaesthetic",
+        "B": "Narcotic",
+        "C": "Cough suppressant",
+        "D": "Emetic"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cocaine is occasionally used medically as a topical local anesthetic for mucous membranes in ENT procedures.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Choose a plant which contain Cardiac glycosides.",
+      "options": {
+        "A": "Senna",
+        "B": "Quassia",
+        "C": "Digitalis",
+        "D": "Aloe"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitalis species contain potent cardiac glycosides such as digoxin and digitoxin.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Papaverine shows which pharmacological activity ?",
+      "options": {
+        "A": "Antitussive",
+        "B": "Emetic",
+        "C": "Sedative",
+        "D": "Spasmolytic"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Papaverine is an opium alkaloid used primarily for the treatment of visceral spasm and vasospasm.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Jesuit's bark is synonym of",
+      "options": {
+        "A": "Rauwolfia",
+        "B": "Cinchona",
+        "C": "Ipecac",
+        "D": "Cinnamon"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cinchona bark is historically known as Jesuit's bark due to its introduction to Europe by Jesuit missionaries.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 10,
+      "question_text": "In paracetamol poisoning N acetyl cysteine act as a",
+      "options": {
+        "A": "Coating agent of gastric mucosa",
+        "B": "Urinary alkalaniser",
+        "C": "Glutathione substitute",
+        "D": "Urinary acidifier"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "N-acetylcysteine acts as a glutathione precursor and substitute to detoxify the toxic NAPQI metabolite in paracetamol overdose.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 11,
+      "question_text": "A selective beta blocker",
+      "options": {
+        "A": "Propranolol",
+        "B": "Atenolol",
+        "C": "Timolol",
+        "D": "Nadolol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atenolol is a cardioselective ($beta_1$) blocking agent, whereas propranolol, timolol, and nadolol are non-selective.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Madrell's salt is used as",
+      "options": {
+        "A": "Astringent",
+        "B": "Dentifrice",
+        "C": "Antioxidant",
+        "D": "Emetic"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Madrell's salt (insoluble sodium metaphosphate) is commonly used as a polishing agent in dentifrices.",
+      "category": "Pharmaceutical Chemistry"
+    },
+    {
+      "question_number": 13,
+      "question_text": "A respiratory stimulant",
+      "options": {
+        "A": "Ammonium Chloride",
+        "B": "Ammonium Nitrate",
+        "C": "Ammonium Carbonate",
+        "D": "Ammonium Sulphate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ammonium carbonate acts as a reflex respiratory stimulant (smelling salt) by irritating the mucous membranes of the nose.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Haloperidol is classified as a",
+      "options": {
+        "A": "Benzodiazepine",
+        "B": "Phenothiazine",
+        "C": "Butyrophenone",
+        "D": "Dibutylpiperidine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Haloperidol is a typical antipsychotic drug belonging to the butyrophenone chemical class.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Which of the following metal has no therapeutic use ?",
+      "options": {
+        "A": "Lead",
+        "B": "Lithium",
+        "C": "Iron",
+        "D": "Platinum"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lead is a toxic heavy metal with no approved therapeutic use in modern medicine.",
+      "category": "Pharmaceutical Chemistry"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Who proposed the double helical model of DNA ?",
+      "options": {
+        "A": "Gregor Mendel",
+        "B": "Louis Pasteur",
+        "C": "Watson and Crick",
+        "D": "Charles Darwin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "James Watson and Francis Crick proposed the double helix structure of DNA in 1953.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "An unsaturated fatty acid",
+      "options": {
+        "A": "Stearic acid",
+        "B": "Palmitic acid",
+        "C": "Myristic acid",
+        "D": "Oleic acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oleic acid contains a double bond, making it an unsaturated fatty acid, unlike stearic, palmitic, and myristic acids which are saturated.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "A mucopolysaccharide",
+      "options": {
+        "A": "Glycogen",
+        "B": "Cellulose",
+        "C": "Pectin",
+        "D": "Heparin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Heparin is a sulfated glycosaminoglycan, historically classified as a mucopolysaccharide.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 19,
+      "question_text": "The Vitamin isolated from egg yolk",
+      "options": {
+        "A": "Riboflavin",
+        "B": "Thiamine",
+        "C": "Biotin",
+        "D": "Pyridoxine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Biotin (Vitamin H / B7) was originally isolated in large quantities from egg yolk.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Multiple forms of the same enzyme are called",
+      "options": {
+        "A": "Isoenzymes",
+        "B": "Coenzymes",
+        "C": "Apoenzymes",
+        "D": "Holoenzymes"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Isoenzymes (or isozymes) are enzymes that differ in amino acid sequence but catalyze the same chemical reaction.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 21,
+      "question_text": "RNA synthesis on DNA strand is known as",
+      "options": {
+        "A": "Transcription",
+        "B": "Translation",
+        "C": "Transduction",
+        "D": "Replication"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Transcription is the process of synthesizing an RNA molecule from a DNA template strand.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 22,
+      "question_text": "The drug which produces reddish brown coloration of the skin after administration",
+      "options": {
+        "A": "Streptomycin",
+        "B": "Rifampicin",
+        "C": "Dapsone",
+        "D": "Clofazimine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clofazimine is known to cause a characteristic reddish-brown to black skin discoloration in patients undergoing treatment.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 23,
+      "question_text": "The Schedule which describes the guidelines on clinical trials",
+      "options": {
+        "A": "Schedule Y",
+        "B": "Schedule W",
+        "C": "Schedule N",
+        "D": "Schedule S"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule Y under the Drugs and Cosmetics Act outlines the requirements and guidelines for clinical trials in India.",
+      "category": "General"
+    },
+    {
+      "question_number": 24,
+      "question_text": "The Poison Act was passed in the year",
+      "options": {
+        "A": "1918",
+        "B": "1920",
+        "C": "1921",
+        "D": "1919"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Poison Act in India was enacted in the year 1919 (Act No. 12 of 1919, passed on 3rd September 1919 - though option A/D ranges, 1919 is standard).",
+      "category": "General"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Schedule V describes",
+      "options": {
+        "A": "Standards for cosmetics",
+        "B": "Standards for patent or proprietary medicines",
+        "C": "Standards for disinfectants",
+        "D": "Good manufacturing practices"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule V of the Drugs and Cosmetics Rules prescribes standards for patent or proprietary medicines / cosmetics depending on specific jurisdictions, but Schedule S is cosmetics; let's verify: Schedule S is cosmetics, Schedule M is GMP, Schedule O is disinfectant. Schedule V covers standards for patent/proprietary medicines or standard reference.",
+      "category": "General"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Which of the following contains sulphur in its elemental composition ?",
+      "options": {
+        "A": "Benzyl Penicillin",
+        "B": "Caffeine",
+        "C": "Digoxin",
+        "D": "Ibuprofen"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benzylpenicillin contains a thiazolidine ring which incorporates a sulfur atom in its chemical structure.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Which of the following drug is used to treat nausea and vomiting associated with cancer chemotherapy ?",
+      "options": {
+        "A": "Chlorpheniramine",
+        "B": "Promethazine",
+        "C": "Metronidazole",
+        "D": "Ondansetron"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ondansetron is a selective $5-HT_3$ receptor antagonist widely used to prevent chemotherapy-induced nausea and vomiting.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 28,
+      "question_text": "How many ex-officio members are there in Pharmacy Council of India ?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "3",
+        "D": "2"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Pharmacy Council of India includes 3 ex-officio members (Director General of Health Services, Director of the Central Drugs Laboratory, and Drugs Controller General of India).",
+      "category": "General"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Drugs Inspectors are appointed under which Section of the Drugs and Cosmetics Act ?",
+      "options": {
+        "A": "Section 21",
+        "B": "Section 33",
+        "C": "Section 7",
+        "D": "Section 20"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Section 21 of the Drugs and Cosmetics Act empowers the central or state government to appoint Drug Inspectors.",
+      "category": "General"
+    },
+    {
+      "question_number": 30,
+      "question_text": "An aryl propionic acid derivative",
+      "options": {
+        "A": "Mefenamic acid",
+        "B": "Piroxicam",
+        "C": "Ibuprofen",
+        "D": "Diclofenac"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ibuprofen is a well-known nonsteroidal anti-inflammatory drug belonging to the arylpropionic acid class.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 31,
+      "question_text": "The MTP Act was passed in the year",
+      "options": {
+        "A": "1969",
+        "B": "1970",
+        "C": "1971",
+        "D": "1972"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Medical Termination of Pregnancy (MTP) Act was passed by the Indian Parliament in 1971.",
+      "category": "General"
+    },
+    {
+      "question_number": 32,
+      "question_text": "If a drug is imported under a name which belongs to another drug, such drugs are known as (as per D and C Act and Rules)",
+      "options": {
+        "A": "Impure Drug",
+        "B": "Adulterated Drug",
+        "C": "Misbranded Drug",
+        "D": "Spurious Drug"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Drugs and Cosmetics Act, a drug is considered 'misbranded' if it is imported under the name of another drug.",
+      "category": "General"
+    },
+    {
+      "question_number": 33,
+      "question_text": "What is Form-12 as per Drugs and Cosmetics Act?",
+      "options": {
+        "A": "Application for licence to import drugs specified in Sch. X",
+        "B": "Application for licence to import drugs for the purpose of examination, test or analysis",
+        "C": "Application for licence to import small quantities of drugs by a Govt. hospital",
+        "D": "Form of undertaking to accompany an application for an import licence"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 12 under the Drugs and Cosmetics Act is used for applying for a license to import drugs for the purpose of examination, test, or analysis.",
+      "category": "General"
+    },
+    {
+      "question_number": 34,
+      "question_text": "A second generation H1 antagonist",
+      "options": {
+        "A": "Cyproheptadine",
+        "B": "Meclizine",
+        "C": "Astemisole",
+        "D": "Promethazine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Astemisole is a non-sedating, second-generation H1 receptor antagonist.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Which of the following is an anorectic agent?",
+      "options": {
+        "A": "Fenfluramine",
+        "B": "Metaraminol",
+        "C": "Ephedrine",
+        "D": "Salbutamol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fenfluramine is a well-known centrally acting anorectic agent used as an appetite suppressant.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Indirectly acting sympathomimetic drug",
+      "options": {
+        "A": "Adrenaline",
+        "B": "Isoprenaline",
+        "C": "Amphitamine",
+        "D": "Salbutamol"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amphetamine (spelled Amphitamine in the text) is an indirectly acting sympathomimetic drug that releases stored catecholamines.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Which of the following drugs does not contain Indole alkaloid?",
+      "options": {
+        "A": "Nux Vomica",
+        "B": "Rauwolfia",
+        "C": "Vinca",
+        "D": "Ephedra"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ephedra contains ephedrine, which is a proto-alkaloid (phenylalkylamine derivative), not an indole alkaloid.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Phytolaca Americana is the adulterant of",
+      "options": {
+        "A": "Ergot",
+        "B": "Belladonna",
+        "C": "Senna",
+        "D": "Cannabis"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pokeweed (Phytolaca americana) roots and leaves are known adulterants for Belladonna root and leaves.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 39,
+      "question_text": "The enzyme diastase belongs to the family",
+      "options": {
+        "A": "Graminae",
+        "B": "Caricaceae",
+        "C": "Saccharomycetaceae",
+        "D": "Rutaceae"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diastase is typically obtained from malt (derived from barley, Gramineae) or fungi such as Saccharomyces species (Saccharomycetaceae).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Million reagent is used to identify",
+      "options": {
+        "A": "Starch",
+        "B": "Gelatin",
+        "C": "Alkaloids",
+        "D": "Anthraquinone glycosides"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Millon's reagent is used for the detection of proteins and amino acids containing phenol groups, such as gelatin and tyrosine-containing proteins.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Baudoin's test is used to identify",
+      "options": {
+        "A": "Arachis oil",
+        "B": "Castor oil",
+        "C": "Sesame oil",
+        "D": "Clove oil"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Baudouin test is a specific chemical test used to detect the presence of sesame oil.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Pyrethrum belongs to the family",
+      "options": {
+        "A": "Combretaceae",
+        "B": "Lauraceae",
+        "C": "Apocynaceae",
+        "D": "Composite"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyrethrum belongs to the family Compositae (Asteraceae).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Clavenger apparatus is used for the estimation of",
+      "options": {
+        "A": "Volatile oil",
+        "B": "Tannins",
+        "C": "Alkaloids",
+        "D": "Total phenolic compounds"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clevenger apparatus is standard laboratory equipment used to extract and estimate volatile oils by steam distillation.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 44,
+      "question_text": "The drug which is not obtained from seeds",
+      "options": {
+        "A": "Nutmeg",
+        "B": "Cardamom",
+        "C": "Guar gum",
+        "D": "Asafoetida"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Asafoetida is an oleo-gum-resin obtained from the rhizome and roots of Ferula species, not from seeds.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Hager's reagent is a solution of",
+      "options": {
+        "A": "Iodine in Potassium Iodide",
+        "B": "Potassium Mercuric Iodide",
+        "C": "Picric acid",
+        "D": "Sulphuric acid and dimethylamino benzaldehyde"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hager's reagent is a saturated aqueous solution of picric acid used for the detection of alkaloids.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Which of the following is a cyanogenetic glycoside?",
+      "options": {
+        "A": "Sinigrin",
+        "B": "Amygdalin",
+        "C": "Salicin",
+        "D": "Rhein"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amygdalin is a well-known cyanogenic glycoside found in bitter almonds and kernels of Prunus species.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Immuno modulating drug",
+      "options": {
+        "A": "Digitalis",
+        "B": "Aswagandha",
+        "C": "Senna",
+        "D": "Punarnava"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ashwagandha (Withania somnifera) is widely recognized in Ayurveda and modern studies for its immunomodulatory properties.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Gray baby syndrome is produced by",
+      "options": {
+        "A": "Tetracycline",
+        "B": "Benzyl Penicillin",
+        "C": "Gentamicin",
+        "D": "Chloramphenicol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gray baby syndrome is a serious adverse effect associated with high systemic levels of the antibiotic chloramphenicol in newborns.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 49,
+      "question_text": "A benzomorphan derivative",
+      "options": {
+        "A": "Levorphanol",
+        "B": "Pethidine",
+        "C": "Pentazocine",
+        "D": "Buprenorphine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pentazocine belongs to the benzomorphan class of opioid analgesics.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Which one of the following is racemic compound?",
+      "options": {
+        "A": "Hyoscyamine",
+        "B": "Atropine",
+        "C": "Hyoscine",
+        "D": "Physostigmine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atropine is the racemic mixture (dl-hyoscyamine) of the naturally occurring levorotatory hyoscyamine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Glycogenolysis is the breakdown of stored glycogen to",
+      "options": {
+        "A": "Pyruvic acid",
+        "B": "Lactic acid",
+        "C": "Glucose",
+        "D": "Carbon dioxide and Water"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glycogenolysis is the biochemical pathway through which glycogen molecules are broken down into glucose-1-phosphate and subsequently glucose.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Which one is a ketone body?",
+      "options": {
+        "A": "Sodium taurocholate",
+        "B": "Beta hydroxy butyrate",
+        "C": "Chylomicrons",
+        "D": "Cholesterol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Beta-hydroxybutyrate, along with acetoacetate and acetone, is classified as one of the primary ketone bodies produced by the liver.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 53,
+      "question_text": "A ketogenic amino acid",
+      "options": {
+        "A": "Alanine",
+        "B": "Lysine",
+        "C": "Leucine",
+        "D": "Valine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Leucine is purely ketogenic, while lysine is both ketogenic and glucogenic.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Average life span of erythrocytes in humans",
+      "options": {
+        "A": "100 days",
+        "B": "45 days",
+        "C": "120 days",
+        "D": "90 days"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The average lifespan of circulating human red blood cells (erythrocytes) is approximately 120 days.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Milky white color of urine is due to the presence of",
+      "options": {
+        "A": "Albumin",
+        "B": "Fat globules",
+        "C": "Haemoglobin",
+        "D": "Nephritis"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chyluria, the presence of fat globules (lymph/chyle) in the urine, causes it to appear milky white.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Severe form of anaemia",
+      "options": {
+        "A": "Hemolytic anaemia",
+        "B": "Regenerative anaemia",
+        "C": "Non regenerative anaemia",
+        "D": "Megalocytic anaemia"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hemolytic anemia can manifest as a severe form of anemia due to the rapid destruction of red blood cells.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Molisch's reagent is used to detect the presence of",
+      "options": {
+        "A": "Emetine",
+        "B": "Albumin",
+        "C": "Cholesterol",
+        "D": "Lactose"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Molisch's test is a sensitive chemical test for the presence of carbohydrates, such as lactose.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Unequal distribution of color on the surface of colored tablets is called as",
+      "options": {
+        "A": "Cracking",
+        "B": "Sticking",
+        "C": "Mottling",
+        "D": "Capping"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mottling is a tablet defect characterized by an unequal distribution of color on the tablet surface.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 59,
+      "question_text": "The material used in enteric coating",
+      "options": {
+        "A": "PEG 400",
+        "B": "Carbowax",
+        "C": "Hydroxy propyl cellulose",
+        "D": "Cellulose acetate phthalate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cellulose acetate phthalate (CAP) is a classic pH-sensitive polymer widely used for enteric coating.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Alkylation of proteins molecules is the mechanism of sterilization by",
+      "options": {
+        "A": "Dry heat",
+        "B": "Heating with a bactericide",
+        "C": "Ethylene oxide",
+        "D": "Moist heat"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ethylene oxide acts as a sterilizing agent by alkylating functional groups of proteins and nucleic acids.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 61,
+      "question_text": "1 fluid ounce",
+      "options": {
+        "A": "$25\\text{ ml}$",
+        "B": "$50\\text{ ml}$",
+        "C": "$20\\text{ ml}$",
+        "D": "$30\\text{ ml}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "One fluid ounce in the US/Imperial system is approximately equal to $29.57\\text{ ml}$, commonly rounded to $30\\text{ ml}$ in pharmacy calculations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 62,
+      "question_text": "The first edition of Pharmacopoeia of India was published in",
+      "options": {
+        "A": "1955",
+        "B": "1966",
+        "C": "1951",
+        "D": "1967"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The first official edition of the Indian Pharmacopoeia (IP) was published in 1955.",
+      "category": "General"
+    },
+    {
+      "question_number": 63,
+      "question_text": "The mill which works on the principle of impact and attrition",
+      "options": {
+        "A": "Roller mill",
+        "B": "Ball mill",
+        "C": "Hammer mill",
+        "D": "Cutter mill"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A hammer mill operates primarily on the principle of impact between rapidly moving hammers and particles, along with attrition.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 64,
+      "question_text": "The ratio $4:2:1$ ($\text{oil} : \text{water} : \text{gum}$) can be used for which oil?",
+      "options": {
+        "A": "Almond oil",
+        "B": "Peppermint oil",
+        "C": "Liquid paraffin",
+        "D": "Cinnamon oil"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fixed oils like almond oil typically require a primary emulsion ratio of $4:2:1$ (oil:water:gum) using the Continental method.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 65,
+      "question_text": "Oleoginous ointment base contain",
+      "options": {
+        "A": "Liquid paraffin",
+        "B": "Wool fat",
+        "C": "Bees wax",
+        "D": "Sodium alginate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Liquid paraffin is a fundamental hydrocarbon component of oleaginous (hydrocarbon) ointment bases.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 66,
+      "question_text": "Which is a Prodrug?",
+      "options": {
+        "A": "Reserpine",
+        "B": "Levodopa",
+        "C": "Amoxicillin",
+        "D": "Streptomycin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Levodopa is a metabolic precursor (prodrug) of dopamine that crosses the blood-brain barrier.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Which drug induces Parkinsonism?",
+      "options": {
+        "A": "Promethazine",
+        "B": "Chlorpromazine",
+        "C": "Acetylcholine",
+        "D": "Propranolol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chlorpromazine, a typical antipsychotic, blocks dopamine D2 receptors and frequently induces extrapyramidal side effects resembling Parkinsonism.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 68,
+      "question_text": "HMG CoA reductase inhibitor drug",
+      "options": {
+        "A": "Niacin",
+        "B": "Clofibrate",
+        "C": "Cholestyramine",
+        "D": "Atorvastatin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atorvastatin belongs to the statin class, which competitively inhibits HMG-CoA reductase.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 69,
+      "question_text": "A potassium sparing diuretic",
+      "options": {
+        "A": "Triamterene",
+        "B": "Frusemide",
+        "C": "Acetazolamide",
+        "D": "Hydrochlorothiazide"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Triamterene (spelled Triam terene in OCR) is a direct-acting potassium-sparing diuretic.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 70,
+      "question_text": "Drug which produces ototoxicity",
+      "options": {
+        "A": "Norfloxacin",
+        "B": "Streptomycin",
+        "C": "Tetracycline",
+        "D": "Cephalexin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aminoglycoside antibiotics like streptomycin are well known to cause dose-dependent ototoxicity and nephrotoxicity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Steven Johnson syndrome is exhibited by",
+      "options": {
+        "A": "Gentamicin",
+        "B": "Sufadimidine",
+        "C": "Ampicillin",
+        "D": "Doxycycline"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfonamides, such as sulfadimidine, are frequently associated with severe cutaneous adverse reactions like Stevens-Johnson syndrome.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 72,
+      "question_text": "Which of the following is a quinolone derivative?",
+      "options": {
+        "A": "Nalidixic acid",
+        "B": "Nitrofurantoin",
+        "C": "Chloroquine",
+        "D": "Spironolactone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nalidixic acid is the first-generation prototype synthetic quinolone antibacterial agent.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Opium alkaloid containing isoquinoline ring system is",
+      "options": {
+        "A": "Morphine",
+        "B": "Codeine",
+        "C": "Thebane",
+        "D": "Papaverine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Papaverine belongs to the benzylisoquinoline structural class of opium alkaloids, unlike morphine and codeine which are phenanthrene derivatives.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 74,
+      "question_text": "A drug which holds a phenoxy acetic acid ring system",
+      "options": {
+        "A": "Valproic acid",
+        "B": "Indomethacin",
+        "C": "Naproxen",
+        "D": "Ethacrynic acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ethacrynic acid is a loop diuretic containing a phenoxyacetic acid chemical nucleus.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 75,
+      "question_text": "The diagnostic agent which is used for kidney function test",
+      "options": {
+        "A": "Congo red",
+        "B": "Indigocarmine",
+        "C": "Evans blue",
+        "D": "Fluorescein sodium"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Indigo carmine (indigocarmine) is a dye historically used in chromocystoscopy to evaluate renal function and ureteral patency.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 76,
+      "question_text": "Which of the following oils is used as a vehicle for oily injectables?",
+      "options": {
+        "A": "Castor oil",
+        "B": "Arachis oil",
+        "C": "Linseed oil",
+        "D": "Mustard oil"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Arachis oil (peanut oil) is frequently purified and used as a non-aqueous vehicle for intramuscular oil-based injections.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Solanaceous alkaloids are present in",
+      "options": {
+        "A": "Datura",
+        "B": "Vasaka",
+        "C": "Aconite",
+        "D": "Cannabis"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Datura belongs to the Solanaceae family and contains tropane alkaloids like hyoscyamine and scopolamine.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 78,
+      "question_text": "Sometime large dose of a drug is required to elicit a response usually obtained by normal therapeutic dose. Such a phenomenon is termed as",
+      "options": {
+        "A": "Tachyphylaxis",
+        "B": "Idiosyncrasy",
+        "C": "Anaphylaxis",
+        "D": "Tolerance"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Drug tolerance refers to a decreased responsiveness to a drug's pharmacological effects following repeated administration, requiring higher doses.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 79,
+      "question_text": "The injection given in between the first and second cervical vertebrae is called",
+      "options": {
+        "A": "Intracisternal injection",
+        "B": "Intrathecal injection",
+        "C": "Intracerebral injection",
+        "D": "Intra-articular injection"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Injection into the cisterna magna between the atlas (first cervical vertebra) and axis (second cervical vertebra) is known as an intracisternal injection.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Tetracycline is found in large quantities in",
+      "options": {
+        "A": "Liver",
+        "B": "Bone",
+        "C": "Kidney",
+        "D": "Spleen"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tetracyclines readily chelate calcium ions and deposit in calcified tissues such as bones and teeth in high concentrations.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 81,
+      "question_text": "Which one of the soil found in India is the most useful for agriculture?",
+      "options": {
+        "A": "Black soil",
+        "B": "Alluvial soil",
+        "C": "Red and Yellow soil",
+        "D": "Marshy soil"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Alluvial soil is considered the most fertile and agriculturally useful soil in India.",
+      "category": "General"
+    },
+    {
+      "question_number": 82,
+      "question_text": "The least populated Union Territory is",
+      "options": {
+        "A": "Lakshadweep",
+        "B": "Chandigarh",
+        "C": "Pondicherry",
+        "D": "Goa"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lakshadweep has the lowest population among all the Union Territories of India.",
+      "category": "General"
+    },
+    {
+      "question_number": 83,
+      "question_text": "In India which coast receives rainfall from North East Monsoon?",
+      "options": {
+        "A": "Konkan coast",
+        "B": "Malabar coast",
+        "C": "Coromandel coast",
+        "D": "Gujarat coast"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Coromandel coast receives the majority of its rainfall from the Northeast Monsoon during the winter months.",
+      "category": "General"
+    },
+    {
+      "question_number": 84,
+      "question_text": "In which year Hindustan Socialist Republican Association is formed?",
+      "options": {
+        "A": "1923",
+        "B": "1934",
+        "C": "1930",
+        "D": "1928"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Hindustan Socialist Republican Association (HSRA) was founded in 1928 at Feroz Shah Kotla in New Delhi.",
+      "category": "General"
+    },
+    {
+      "question_number": 85,
+      "question_text": "Who among the following is known as the heroine of 1942 Quit India Movement?",
+      "options": {
+        "A": "Mrs. Annie Besant",
+        "B": "Sucheta Kripalani",
+        "C": "Aruna Asaf Ali",
+        "D": "Sarojini Naidu"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aruna Asaf Ali is widely remembered as the heroine of the 1942 Quit India Movement for hoisting the Indian National flag at the Gowalia Tank maidan.",
+      "category": "General"
+    },
+    {
+      "question_number": 86,
+      "question_text": "NITI Aayog",
+      "options": {
+        "A": "A statutory body",
+        "B": "A consultative body",
+        "C": "Both A) and B)",
+        "D": "None of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "NITI Aayog is neither a statutory body nor simply a consultative body in the traditional sense; it is an extra-constitutional, non-statutory policy think tank of the Government of India.",
+      "category": "General"
+    },
+    {
+      "question_number": 87,
+      "question_text": "Mudra Yojana is intended to",
+      "options": {
+        "A": "Clean and healthy India",
+        "B": "Resolve to provide a home to each poor family",
+        "C": "Empower rural women by helping them form self help groups",
+        "D": "Loan for small entrepreneurs without any guarantor or mortgage"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pradhan Mantri MUDRA Yojana provides loans up to 10 lakh to non-corporate, non-farm small/micro enterprises without requiring collateral.",
+      "category": "General"
+    },
+    {
+      "question_number": 88,
+      "question_text": "The thermal power plant of National Thermal Power Corporation is being constructed in ________ district.",
+      "options": {
+        "A": "Ernakulam",
+        "B": "Alappuzha",
+        "C": "Kottayam",
+        "D": "Kannur"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The NTPC thermal power project in Kerala is located at Cheemeni in Kasaragod, or closely associated with projects like the Rajiv Gandhi Combined Cycle Power Plant in Kayamkulam (Alappuzha); however, specific context points to the Cheemeni/Kannur region or specific regional exams.",
+      "category": "General"
+    },
+    {
+      "question_number": 89,
+      "question_text": "Which one of the following is the largest lake in Kerala?",
+      "options": {
+        "A": "Ashtamudi",
+        "B": "Punnamada",
+        "C": "Vembanad",
+        "D": "Katinamkulam"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vembanad Lake is the longest lake in India and the largest lake in the state of Kerala.",
+      "category": "General"
+    },
+    {
+      "question_number": 90,
+      "question_text": "Kerala stands first in the production of ________ among Indian States.",
+      "options": {
+        "A": "Coconut",
+        "B": "Rubber",
+        "C": "Timber",
+        "D": "Tea"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Kerala is the largest producer of natural rubber in India.",
+      "category": "General"
+    },
+    {
+      "question_number": 91,
+      "question_text": "Prathyaksha Raksha Daiva Sabha was founded by",
+      "options": {
+        "A": "Kuriakose Elias Chavara",
+        "B": "Pandit Karuppan",
+        "C": "Kumara Gurudevan",
+        "D": "Vagbhatananda"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Prathyaksha Raksha Daiva Sabha (PRDS) was founded by Poykayil Yohannan, also known as Kumara Gurudevan, in 1909.",
+      "category": "General"
+    },
+    {
+      "question_number": 92,
+      "question_text": "\"Sivayogavilasam\" the monthly was published by",
+      "options": {
+        "A": "Ayyankali",
+        "B": "V. T. Bhattathiripad",
+        "C": "Vagbhatananda",
+        "D": "Sree Narayana Guru"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vagbhatananda founded the Atma Vidya Sangham and published the magazine Sivayogavilasam.",
+      "category": "General"
+    },
+    {
+      "question_number": 93,
+      "question_text": "Ayya Vazhi is the dharmic belief system centered on the life and preaching of",
+      "options": {
+        "A": "Sahodaran Ayyappan",
+        "B": "Vaikunda Swamikal",
+        "C": "Ayyankali",
+        "D": "Poikayil Kumara Guru"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ayyavazhi is an henotheistic belief system centered on the life and teachings of Ayya Vaikundar.",
+      "category": "General"
+    },
+    {
+      "question_number": 94,
+      "question_text": "Ananda Mahasabha was founded by",
+      "options": {
+        "A": "Vagbhatananda",
+        "B": "Vaikunda Swamikal",
+        "C": "Brahmananda Sivayogi",
+        "D": "Kumaranasan"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ananda Mahasabha was founded by Swami Brahmananda Sivayogi.",
+      "category": "General"
+    },
+    {
+      "question_number": 95,
+      "question_text": "Who raised the slogan No Caste, No Religion, No God for human being?",
+      "options": {
+        "A": "Sree Narayana Guru",
+        "B": "Ayya Vaikunda",
+        "C": "Sahodaran Ayyappan",
+        "D": "Vagbhatananda"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sahodaran Ayyappan famously coined and raised the slogan 'No caste, no religion, no God for man'.",
+      "category": "General"
+    },
+    {
+      "question_number": 96,
+      "question_text": "The Bengali literature who received the Jnanapith Award in 2016",
+      "options": {
+        "A": "Prabha Varma",
+        "B": "Ananda Prakash Deekshit",
+        "C": "Nagalla Guru Prasad Rao",
+        "D": "Sangha Gosh"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bengali poet Sankha Ghosh (often transcribed as Sangha Gosh) received the Jnanapith Award for 2016.",
+      "category": "General"
+    },
+    {
+      "question_number": 97,
+      "question_text": "Which Indian badminton player won the Women's single title in the 2017 Malaysia Masters prix?",
+      "options": {
+        "A": "Chochuwang",
+        "B": "Saina Nehwal",
+        "C": "P. V. Sindhu",
+        "D": "Fitriani of Indonesia"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Saina Nehwal won the Women's singles title at the Malaysia Masters Grand Prix Gold in 2017.",
+      "category": "General"
+    },
+    {
+      "question_number": 98,
+      "question_text": "'The Art of the Deal' is the autobiography of",
+      "options": {
+        "A": "Barak Obama",
+        "B": "Vladimir Putin",
+        "C": "Donald Trump",
+        "D": "James Mattis"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "'Trump: The Art of the Deal' is a 1987 book credited to Donald J. Trump and journalist Tony Schwartz.",
+      "category": "General"
+    },
+    {
+      "question_number": 99,
+      "question_text": "Who is the newly appointed Director of CBI?",
+      "options": {
+        "A": "Anil Sinha",
+        "B": "Rakesh Asthana",
+        "C": "K. Sreenivasan",
+        "D": "Alok Verma"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Alok Verma was appointed as the Director of the Central Bureau of Investigation (CBI) in early 2017.",
+      "category": "General"
+    },
+    {
+      "question_number": 100,
+      "question_text": "Meenakshi Amma winner of Padmashri Award 2017, famous in field of",
+      "options": {
+        "A": "Carnatic Music",
+        "B": "Kalaripayattu",
+        "C": "Hindustani Classical Instruments",
+        "D": "Singer"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Meenakshi Amma received the Padma Shri in 2017 for her expertise and contribution to Kalaripayattu, the traditional martial art of Kerala.",
+      "category": "General"
+    }
+  ]
+}

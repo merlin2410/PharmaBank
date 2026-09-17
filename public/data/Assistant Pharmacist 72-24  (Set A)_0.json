@@ -1,0 +1,1506 @@
+{
+  "exam_title": "Assistant Pharmacist 72-24  (Set A)_0",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "A process that removes infection potentials by destroying microorganisms",
+      "options": {
+        "A": "Granulation",
+        "B": "Sterilization",
+        "C": "Clarification",
+        "D": "Disinfection"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sterilization is the complete destruction or removal of all forms of microorganisms.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 2,
+      "question_text": "The holding temperature and minimum time using for moist heat sterilization in an autoclave",
+      "options": {
+        "A": "$115^\\circ\\text{C}$ to $116^\\circ\\text{C}$ for 30 minutes",
+        "B": "$100^\\circ\\text{C}$ to $111^\\circ\\text{C}$ for 60 minutes",
+        "C": "$115^\\circ\\text{C}$ to $118^\\circ\\text{C}$ for 60 minutes",
+        "D": "$121^\\circ\\text{C}$ to $124^\\circ\\text{C}$ for 30 minutes"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Standard autoclave conditions for moist heat sterilization are typically $121^\\circ\\text{C}$ to $124^\\circ\\text{C}$ for 15-30 minutes under pressure.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Which of the following filter is not a bacteria proof one ?",
+      "options": {
+        "A": "Ceramic filter",
+        "B": "Membrane filter",
+        "C": "Seitz filter",
+        "D": "Filter cloth"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Filter cloth has large pores and is used for coarse filtration, not retaining bacteria.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Tablets which are designed to place under the tongue for disintegration/dissolution and absorption directly are called",
+      "options": {
+        "A": "Buccal tablets",
+        "B": "Chewable tablets",
+        "C": "Sublingual tablets",
+        "D": "Dispensing tablets"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sublingual tablets are placed under the tongue for rapid systemic absorption.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Substances that reduce inter particular friction during compression of granules and friction between tablet and die wall during the ejection of tablets",
+      "options": {
+        "A": "Glidants",
+        "B": "Lubricants",
+        "C": "Adsorbents",
+        "D": "Diluents"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lubricants decrease friction at the interface between the tablet's surface and the die wall during ejection.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 6,
+      "question_text": "The property of an ideal enteric coating material, which is used for tablet coating is",
+      "options": {
+        "A": "Resistance to gastric fluid",
+        "B": "Resistance to intestinal fluid",
+        "C": "Liable to cracking and chipping",
+        "D": "Water proof coating is required prior to coating"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Enteric coating materials are designed to resist the acidic environment of the stomach and dissolve in the intestine.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Cellulose acetate phthalate is a tablet coating material using for",
+      "options": {
+        "A": "Sugar coating",
+        "B": "Syrup coating",
+        "C": "Enteric coating",
+        "D": "Film coating"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cellulose acetate phthalate (CAP) is a well-known pH-sensitive polymer used for enteric coatings.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Coacervation technique is used for",
+      "options": {
+        "A": "Dry granulation",
+        "B": "Sterilization by mechanical method",
+        "C": "Microencapsulation",
+        "D": "Testing mechanical strength of tablets"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Coacervation-phase separation is a primary chemical method used for microencapsulation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "What is the use of Sorbitol in soft gelatin capsules ?",
+      "options": {
+        "A": "As a preservative",
+        "B": "As an opacifying agent",
+        "C": "As a sweetening agent",
+        "D": "As a plasticizer"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sorbitol is frequently used alongside glycerol as a plasticizer in soft gelatin capsule shells.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 10,
+      "question_text": "The time specified for the disintegration of soft gelatin capsules as per Indian Pharmacopoeia",
+      "options": {
+        "A": "30 minutes",
+        "B": "60 minutes",
+        "C": "90 minutes",
+        "D": "45 minutes"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to the Indian Pharmacopoeia, soft gelatin capsules usually have a disintegration time limit of 60 minutes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Compound Tragacanth powder is using in suspension containing indiffusible solids as a",
+      "options": {
+        "A": "Protective colloid",
+        "B": "Colouring agent",
+        "C": "Flavouring agent",
+        "D": "Humectant"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Compound Tragacanth powder acts as a suspending agent and protective colloid to stabilize suspensions of indiffusible solids.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 12,
+      "question_text": "The pharmaceutical substance light magnesium carbonate is a",
+      "options": {
+        "A": "Soluble solid",
+        "B": "Indiffusible solid",
+        "C": "Diffusible solid",
+        "D": "Potent drug"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Light magnesium carbonate is classified as a diffusible solid in pharmacy compounding.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 13,
+      "question_text": "What is the ratio of phenol and purified water for preparing liquefied phenol as per IP ?",
+      "options": {
+        "A": "10 : 90",
+        "B": "80 : 20",
+        "C": "50 : 50",
+        "D": "70 : 30"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Liquefied phenol IP contains 80% w/w phenol, which corresponds to 80g of phenol and 20g of water (ratio 80 : 20).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 14,
+      "question_text": "The Hydrophilic-Lipophilic-Balance (H.L.B.) range of o/w type emulsion forming emulgents is",
+      "options": {
+        "A": "15 – 18",
+        "B": "7 – 9",
+        "C": "8 – 18",
+        "D": "13 – 15"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Emulsifying agents that form oil-in-water (o/w) emulsions generally have an HLB value ranging from 8 to 16, typically 13-15.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "In case of temporary or permanent renal failure, the removal of waste products and the maintenance of electrolyte balance, is done by",
+      "options": {
+        "A": "Haemodialysis",
+        "B": "Filtration",
+        "C": "Radiation",
+        "D": "Infusion"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Haemodialysis is the clinical process used to remove metabolic waste products and maintain electrolyte balance in renal failure.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Cosmetic products which are used to reduce the sweat formation and body odour",
+      "options": {
+        "A": "Antiperspirants and deodorants",
+        "B": "Shampoos",
+        "C": "Depilatory agent",
+        "D": "Cleansing creams"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Antiperspirants reduce sweat formation, and deodorants mask or reduce body odor.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Type of injections are given between the duramater and the inner aspects of the vertebra-route are",
+      "options": {
+        "A": "Intrathecal injections",
+        "B": "Intracisternal injections",
+        "C": "Intra-articular injections",
+        "D": "Peridural injections"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Peridural (epidural) injections are administered into the epidural space, between the dura mater and the vertebral canal wall.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 18,
+      "question_text": "The animal which is used to perform pyrogen test in injections",
+      "options": {
+        "A": "Dog",
+        "B": "Cat",
+        "C": "Rabbit",
+        "D": "Horse"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rabbits are traditionally used in the classic in vivo pyrogen test (USP/IP).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Filter which is using for making the air in the aseptic area free from fibres, dust and microorganism",
+      "options": {
+        "A": "High efficiency particulate air filters",
+        "B": "Meta filters",
+        "C": "Filter candles",
+        "D": "Sintered filters"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HEPA (High Efficiency Particulate Air) filters are used to purify air in cleanrooms and aseptic areas.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 20,
+      "question_text": "The base which is not suitable for the preparation of eye ointment base",
+      "options": {
+        "A": "Yellow soft paraffin",
+        "B": "White soft paraffin",
+        "C": "Liquid paraffin",
+        "D": "Wool fat"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Yellow soft paraffin contains natural impurities and coloring matter, making white soft paraffin or purified bases preferred for ophthalmic use.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Which of the following statement is correct about hydrochloric acid IP ?",
+      "options": {
+        "A": "It is an aqueous solution of hydrogen chloride in water and of purity not less than 35% w/w and not more than 38% w/w of HCl",
+        "B": "It is an aqueous solution of hydrogen chloride in water and of purity not less than 38% w/w and not more than 40% w/w of HCl",
+        "C": "It is a concentrated solution of hydrochloric acid of purity not less than 97% w/w and not more than 102% w/w of HCl",
+        "D": "It is a concentrated solution of hydrochloric acid of purity not less than 95% w/w and not more than 100% w/w of HCl"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Concentrated hydrochloric acid IP contains about 35% to 38% w/w of HCl.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Dilute hydrochloric should have purity and specific gravity _______ and _______ as per IP.",
+      "options": {
+        "A": "Purity 9.8 to 10.8% w/w and specific gravity 1.04 – 1.05 g/ml",
+        "B": "Purity 8.5 to 10.5% w/w and specific gravity 1.34 – 1.15 g/ml",
+        "C": "Purity 8.5 to 10.5% w/w and specific gravity 1.04 – 1.25 g/ml",
+        "D": "Purity 9.5 to 10.5% w/w and specific gravity 1.04 – 1.05 g/ml"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dilute hydrochloric acid IP contains 9.5% to 10.5% w/w HCl with a specific gravity of approximately 1.046 g/ml.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Which one among the given options is not the natural source of boric acid ?",
+      "options": {
+        "A": "Borocalcite",
+        "B": "Leucite",
+        "C": "Colemanite",
+        "D": "Borax"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Leucite is a potassium aluminum silicate mineral, not a borate source, whereas borocalcite, colemanite, and borax are natural borate minerals.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Which of the following statement is correct about strong ammonium hydroxide solution ?",
+      "options": {
+        "A": "It is an aqueous solution of ammonia of purity not less than 27% w/v and not more than 30% w/v of ammonia",
+        "B": "It is an aqueous solution of ammonia of purity not less than 37% w/v and not more than 42% w/v of ammonia",
+        "C": "It is an aqueous solution of ammonia of purity not less than 32% w/v and not more than 38% w/v of ammonia",
+        "D": "It is an aqueous solution of ammonia of purity not less than 27% w/v and not more than 32% w/v of ammonia"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Strong ammonium hydroxide solution contains 27% to 30% or up to 32% w/w depending on the pharmacopoeia, typically 27-32% w/v.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Thiamine hydrochloride is sensitive to a pH over 5, hence thiamine hydrochloride injection B.P. is maintained at a pH",
+      "options": {
+        "A": "3 – 4.5",
+        "B": "1.1 – 4.5",
+        "C": "2.8 – 3.4",
+        "D": "1.5 – 3.9"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiamine hydrochloride injection is maintained at an acidic pH of 3 to 4.5 to prevent degradation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Limit test for chlorides in potassium permanganate is performed by first decolorizing it by treating with",
+      "options": {
+        "A": "Bleaching powder",
+        "B": "Acetone",
+        "C": "Ethanol",
+        "D": "Acetic acid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ethanol is commonly used to reduce and decolorize potassium permanganate in limit tests so that chloride impurities can be measured.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Iodine tincture contains ___________ percentage of iodine.",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "2.5",
+        "D": "10"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Weak iodine solution (iodine tincture) typically contains 2.5% w/v of iodine.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Borax is",
+      "options": {
+        "A": "Disodium pentaborate",
+        "B": "Disodium tetraborate",
+        "C": "Monosodium hexaborate",
+        "D": "Monosodium heptanoate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Borax chemically is sodium tetraborate decahydrate (disodium tetraborate).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Twenty volume hydrogen peroxide aqueous solution should contain not less than ____________ $H_2O_2$.",
+      "options": {
+        "A": "4%",
+        "B": "8%",
+        "C": "10%",
+        "D": "6%"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A 20-volume hydrogen peroxide solution releases 20 times its volume of oxygen, corresponding to approximately 6% w/v $H_2O_2$.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Which statement is/are true about ammonium chloride? i) Ammonium chloride is assayed by Volhard's method. ii) Ammonium chloride is assayed by acid-base titration. iii) Ammonium chloride is a reflux expectorant. iv) Ammonium chloride is an antidote for cyanide poisoning.",
+      "options": {
+        "A": "Only iv",
+        "B": "Only i and ii",
+        "C": "Only i, ii and iii",
+        "D": "Only iii"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ammonium chloride is assayed by acid-base titration (back titration), used as an expectorant, and can be assayed via methods including modified approaches, while cyanide uses specific antidotes like sodium nitrite.",
+      "category": "Pharmaceutical Chemistry"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Proflavine is an acridine derivative having two amino groups at positions",
+      "options": {
+        "A": "3 and 6",
+        "B": "2 and 8",
+        "C": "4 and 7",
+        "D": "9 and 4"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Proflavine is 3,6-diaminoacridine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "___________ is a long-acting sulphonamide.",
+      "options": {
+        "A": "Sulphaguanidine",
+        "B": "Pthalyl Sulphathiazole",
+        "C": "Sulphadimethoxine",
+        "D": "Sulphacetamide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulphadimethoxine is classified as a long-acting sulfonamide.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 33,
+      "question_text": "___________ is an antibiotic having hydronaphthalene ring.",
+      "options": {
+        "A": "Benzyl Penicillin",
+        "B": "Tetracycline",
+        "C": "Cloxacillin",
+        "D": "Chloramphenicol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tetracyclines possess a characteristic octahydrotetracene-carboxamide (hydronaphthalene-based) ring system.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Beta-lactum ring is having double bond between __________ which maintains the strained ring system and increases beta-lactamase resistance.",
+      "options": {
+        "A": "Carbon 1 and Carbon 2",
+        "B": "Carbon 3 and Carbon 4",
+        "C": "Carbon 2 and Carbon 3",
+        "D": "Carbon 4 and Carbon 5"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In certain modified beta-lactams or related fused rings, unsaturation positions contribute to stability and resistance profiles.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Which antimalarial drug given below is a fully substituted pyrimidine?",
+      "options": {
+        "A": "Proguanil",
+        "B": "Primaquine",
+        "C": "Pyrimethamine",
+        "D": "Pamaquine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyrimethamine is a diaminopyrimidine derivative acting as a dihydrofolate reductase inhibitor.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Chlorpromazine has the following biological actions except __________ action. Select the exception from the options.",
+      "options": {
+        "A": "Anticancer",
+        "B": "Sedative",
+        "C": "Anti-emetic",
+        "D": "Antipruritic"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chlorpromazine is a typical antipsychotic with sedative, anti-emetic, and antipruritic properties, but it is not used as an anticancer drug.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 37,
+      "question_text": "The drug which is not a catecholamine is",
+      "options": {
+        "A": "Adrenaline",
+        "B": "Nor Adrenaline",
+        "C": "Dopamine",
+        "D": "Ephedrine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ephedrine lacks the catechol (3,4-dihydroxyphenyl) nucleus, unlike adrenaline, noradrenaline, and dopamine.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Atropine has the following uses except ___________. Select the exception from the options.",
+      "options": {
+        "A": "Symptomatic treatment of Parkinsonism",
+        "B": "Used as Pre-anesthetic medication",
+        "C": "Used as Antispasmodic in radiological examination of gut",
+        "D": "Used to treat urinary tract obstruction"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atropine causes urinary retention, so it is not used to treat urinary tract obstruction.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 39,
+      "question_text": "___________ is a loop diuretic.",
+      "options": {
+        "A": "Chlorothiazide",
+        "B": "Furosemide",
+        "C": "Urea",
+        "D": "Mannitol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Furosemide is a high-ceiling loop diuretic acting on the ascending limb of the loop of Henle.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 40,
+      "question_text": "__________ is the anticancer drug which acts as antimetabolite of folic acid.",
+      "options": {
+        "A": "Chlorambucil",
+        "B": "Methotrexate",
+        "C": "Busulphan",
+        "D": "Azathioprine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methotrexate is a well-known antifolate drug used in cancer chemotherapy.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Aloe emodin present in aloe is detected by",
+      "options": {
+        "A": "Modified Borntrager's test",
+        "B": "Cupraloin test",
+        "C": "Borax test",
+        "D": "Nitric acid test"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Modified Borntrager's test is used to detect C-glyycosides and emodins present in drugs like Aloe.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 42,
+      "question_text": "The aroma of ginger is due to the presence of",
+      "options": {
+        "A": "Zingerone",
+        "B": "Gingerol",
+        "C": "Zingiberene",
+        "D": "Citral"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Zingiberene is the primary sesquiterpene responsible for the characteristic aroma/odor of ginger.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Vanillin is synthesized from",
+      "options": {
+        "A": "Euginol",
+        "B": "Linalool",
+        "C": "Menthol",
+        "D": "Fenchone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Commercial synthesis of vanillin is frequently achieved using eugenol as a starting material.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Which of the following drug is used as cardiac depressant?",
+      "options": {
+        "A": "Belladonna",
+        "B": "Punarnava",
+        "C": "Cinchona",
+        "D": "Ergot"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cinchona alkaloids like quinidine act as cardiac depressants (antiarrhythmics).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Which crude drug is known as St. Antony's fire?",
+      "options": {
+        "A": "Digitalis",
+        "B": "Ergot",
+        "C": "Opium",
+        "D": "Ephedra"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ergotism, caused by ergot alkaloids, was historically known as St. Anthony's fire.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 46,
+      "question_text": "The saponin glycoside present in digitalis is",
+      "options": {
+        "A": "Gitaloxin",
+        "B": "Digitonin",
+        "C": "Digitoxose",
+        "D": "Gitoxin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitonin is a well-known saponin glycoside found in Digitalis purpurea.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Which of the following is the source of citral?",
+      "options": {
+        "A": "Lemongrass oil",
+        "B": "Arachis oil",
+        "C": "Sandalwood oil",
+        "D": "Castor oil"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lemongrass oil is a rich natural source of the aldehyde citral.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Paracytic stomata is present in",
+      "options": {
+        "A": "Vasaka leaves",
+        "B": "Digitalis leaves",
+        "C": "Senna leaves",
+        "D": "Belladonna leaves"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Senna leaves characteristically exhibit paracytic (rubiaceous) stomata.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 49,
+      "question_text": "The euginol content of clove oil is",
+      "options": {
+        "A": "16 – 21%",
+        "B": "8 – 10%",
+        "C": "3 – 4%",
+        "D": "85 – 90%"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clove oil typically contains between 85% to 90% eugenol.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Papain is used as",
+      "options": {
+        "A": "Anti-diabetic",
+        "B": "Anti-hypertensive",
+        "C": "Anti-inflammatory",
+        "D": "Cardiac tonic"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Papain is a proteolytic enzyme used principally for its anti-inflammatory and digestive properties.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Which among the following is not an atypical antipsychotic agent?",
+      "options": {
+        "A": "Risperidone",
+        "B": "Olanzapine",
+        "C": "Bupropion",
+        "D": "Zotepine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bupropion is an antidepressant (NDRI), whereas risperidone, olanzapine, and zotepine are atypical antipsychotics.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 52,
+      "question_text": "___________ is a vasicoselective anticholinergic agent.",
+      "options": {
+        "A": "Dicyclomine",
+        "B": "Flavoxate",
+        "C": "Atropine",
+        "D": "Benzhexol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Flavoxate is a urinary antispasmodic known for its selective action on the urinary bladder (vasicoselective).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Compound used in the treatment of morphine addiction is",
+      "options": {
+        "A": "Methadone",
+        "B": "Naloxone",
+        "C": "Tramadol",
+        "D": "Nalorphine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methadone is a long-acting synthetic opioid used in substitution therapy for opioid/morphine addiction.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Antihypertensive agent safely used in pregnancy",
+      "options": {
+        "A": "Enalapril",
+        "B": "Losartan",
+        "C": "Atenolol",
+        "D": "Alpha methyl dopa"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methyldopa is a standard, safe choice for treating hypertension during pregnancy.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Drug effective in petitmal epilepsy",
+      "options": {
+        "A": "Phenytoin",
+        "B": "Ethosuximide",
+        "C": "Phenobarbitone",
+        "D": "Clobazam"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ethosuximide is the drug of choice for absence (petit mal) seizures.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 56,
+      "question_text": "A protease inhibitor used in the treatment of AIDS",
+      "options": {
+        "A": "Indinavir",
+        "B": "Nevirapine",
+        "C": "Zidovudine",
+        "D": "Tenofovir"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Indinavir is an antiretroviral drug of the protease inhibitor class.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Which among the following is a source of nitric oxide?",
+      "options": {
+        "A": "Nifedipine",
+        "B": "Verapamil",
+        "C": "Glyceryl trinitrate",
+        "D": "Nicorandil"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glyceryl trinitrate (nitroglycerin) is a classic nitric oxide donor used for angina.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Malignant hyperthermia is associated with which among the following drug?",
+      "options": {
+        "A": "Streptomycin",
+        "B": "Clonazepam",
+        "C": "Atenolol",
+        "D": "Halothane"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Halothane, along with succinylcholine, can trigger malignant hyperthermia in susceptible individuals.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Which among the following is an example for drug synergism?",
+      "options": {
+        "A": "Cotrimoxazole",
+        "B": "INH-Pyridoxine",
+        "C": "Haloperidol-Benzhexol",
+        "D": "Clotrimazole"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cotrimoxazole (sulfamethoxazole + trimethoprim) demonstrates potentiation/synergism in antibacterial action.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Urinary infection is common with which among the following antidiabetic agent?",
+      "options": {
+        "A": "Vildagliptin",
+        "B": "Canagliflozin",
+        "C": "Acarbose",
+        "D": "Glipizide"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "SGLT2 inhibitors like canagliflozin promote glucosuria, which increases the incidence of urinary tract infections.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 61,
+      "question_text": "The date in which the Narcotic Drugs and Psychotropic Substances Act and Rules, 1985 came into force in India on",
+      "options": {
+        "A": "1 January 1986",
+        "B": "14 November 1985",
+        "C": "14 December 1985",
+        "D": "1 January 1985"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The NDPS Act came into force on November 14, 1985.",
+      "category": "General"
+    },
+    {
+      "question_number": 62,
+      "question_text": "According to Narcotic Drugs and Psychotropic Substances Act, 1985, poppy straw is defined as",
+      "options": {
+        "A": "All parts of the opium poppy after harvesting",
+        "B": "All parts (except the seeds) of the opium poppy after harvesting whether in their original form",
+        "C": "All parts (except the leaves and stem) after harvesting of the plant opium poppy",
+        "D": "Juice from the seeds and leaves of opium poppy after harvesting"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Poppy straw is legally defined under the NDPS Act as all parts (except the seeds) of the opium poppy after harvesting whether in their original form or cut, crushed, or powdered.",
+      "category": "General"
+    },
+    {
+      "question_number": 63,
+      "question_text": "The minimum number of registered pharmacist normally nominated by the state government to the state pharmacy council",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Pharmacy Act, the state government nominates 5 members, of whom at least 3 must be registered pharmacists.",
+      "category": "General"
+    },
+    {
+      "question_number": 64,
+      "question_text": "The trial for the offences under Drugs and Magic Remedies Act and Rules, 1955 can be carried out only in",
+      "options": {
+        "A": "Special court for drugs",
+        "B": "Chief judicial magistrate court",
+        "C": "Magistrate of first class",
+        "D": "Sessions court"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Offences under the Drugs and Magic Remedies Act are tried by a Presidency Magistrate or a Magistrate of the first class.",
+      "category": "General"
+    },
+    {
+      "question_number": 65,
+      "question_text": "The punishment for a subsequent violation of Drugs and Magic Remedies Act and Rules, 1955 is",
+      "options": {
+        "A": "Imprisonment upto 3 months or with fine or both",
+        "B": "Imprisonment upto 6 months or with fine or both",
+        "C": "Imprisonment upto 12 months or with fine or both",
+        "D": "Imprisonment upto 24 months or with fine or both"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Subsequent conviction under the Drugs and Magic Remedies Act carries imprisonment up to 6 months, with fine, or both.",
+      "category": "General"
+    },
+    {
+      "question_number": 66,
+      "question_text": "Which of the following statement is correct about spurious drugs?",
+      "options": {
+        "A": "Drugs not labelled in the prescribed manner",
+        "B": "Drugs which bear names of other drugs",
+        "C": "Drugs containing color other than those prescribed",
+        "D": "Drugs packed in containers composed of poisonous or deleterious substance"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A drug is deemed spurious if it is imported under a name of another drug or mimics another drug deceptively.",
+      "category": "General"
+    },
+    {
+      "question_number": 67,
+      "question_text": "The license for retail sale of Schedule X drugs is issued in",
+      "options": {
+        "A": "Form 19",
+        "B": "Form 20",
+        "C": "Form 20F",
+        "D": "Form 21"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 20F is prescribed for the issue of a license to sell, stock, or exhibit for sale Schedule X drugs by retail.",
+      "category": "General"
+    },
+    {
+      "question_number": 68,
+      "question_text": "The sample taken by a drugs inspector from a drug manufacturing premise is divided into",
+      "options": {
+        "A": "2 portions",
+        "B": "3 portions",
+        "C": "4 portions",
+        "D": "5 portions"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Drugs and Cosmetics Act rules, samples taken for test or analysis are typically divided into 4 portions.",
+      "category": "General"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Which among the given drugs belong to Schedule C1 class?",
+      "options": {
+        "A": "Insulin injection",
+        "B": "Tetanus toxoid",
+        "C": "BCG vaccine",
+        "D": "Oral polio vaccine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Insulin injection is listed under Schedule C1 biological and special products.",
+      "category": "General"
+    },
+    {
+      "question_number": 70,
+      "question_text": "As per Schedule P of the Drugs and Cosmetic Act and Rules 1945, store in a cool place refers to the temperature",
+      "options": {
+        "A": "2°C – 8°C",
+        "B": "8°C – 15°C",
+        "C": "10°C – 25°C",
+        "D": "10°C – 35°C"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule P defines 'cool place' as a temperature between 8°C and 15°C.",
+      "category": "General"
+    },
+    {
+      "question_number": 71,
+      "question_text": "The minimum desirable area to open a combined wholesale and retail drug store is",
+      "options": {
+        "A": "$5\\text{ m}^2$",
+        "B": "$10\\text{ m}^2$",
+        "C": "$15\\text{ m}^2$",
+        "D": "$20\\text{ m}^2$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A combined wholesale and retail pharmacy requires a minimum area of 20 square meters.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 72,
+      "question_text": "In the combination codification system to arrange the items in a pharmacy drug store, which codes are combined together?",
+      "options": {
+        "A": "Alphabetical and Numerical method",
+        "B": "Numerical and Location method",
+        "C": "Alphabetical and Mnemonic method",
+        "D": "Numerical and Mnemonic method"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Combination codification systems typically integrate alphabetical and numerical methods.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 73,
+      "question_text": "For materials like menthol, which are subject to wastage during storage, the pricing method commonly used",
+      "options": {
+        "A": "Replacement price method",
+        "B": "Last in first out method",
+        "C": "Inflated price method",
+        "D": "First in first out method"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Materials subject to loss or shrinkage during storage (like sublimation in menthol) are often priced using an inflated price method to cover the wastage.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 74,
+      "question_text": "The perpetual inventory system comprises of",
+      "options": {
+        "A": "Bin card, stores ledger and periodic report",
+        "B": "Bin card, periodic report and moving ratios",
+        "C": "Bin card, stores ledger and continuous stock taking",
+        "D": "Bin card, moving ratios and vital items"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A perpetual inventory system relies on bin cards, stores ledgers, and continuous stock taking to maintain real-time inventory control.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 75,
+      "question_text": "The equation used for calculating maximum stock level is",
+      "options": {
+        "A": "Re-order quantity – Re-order level + Minimum consumption",
+        "B": "Re-order quantity + Re-order level – Maximum consumption",
+        "C": "Re-order quantity + Re-order level – Minimum consumption",
+        "D": "Re-order quantity × Re-order level – Maximum consumption"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Maximum stock level = Re-order level + Re-order quantity - (Minimum consumption $\\times$ Minimum lead time), simplified as Re-order quantity + Re-order level - Minimum consumption.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 76,
+      "question_text": "Which among the following is a social quality needed for a salesman?",
+      "options": {
+        "A": "good voice with nice tone",
+        "B": "good memory with product knowledge",
+        "C": "polite and courteous",
+        "D": "good intelligence with imaginative power"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Being polite and courteous represents an essential social quality for customer interaction.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Which is the main method used for advertising ethical pharmaceutical products?",
+      "options": {
+        "A": "Newspaper",
+        "B": "Television",
+        "C": "Detailing",
+        "D": "Electric sign"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Detailing (personal selling to physicians by medical representatives) is the primary method for promoting ethical prescription drugs.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 78,
+      "question_text": "Which bank is mainly promoting export-import business in India ?",
+      "options": {
+        "A": "SBI",
+        "B": "IDBI",
+        "C": "IOB",
+        "D": "EXIM"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Export-Import Bank of India (EXIM Bank) is the premier export finance institution in the country.",
+      "category": "General"
+    },
+    {
+      "question_number": 79,
+      "question_text": "The working capital required by a business is normally not used for",
+      "options": {
+        "A": "Purchase of raw material",
+        "B": "Payment of salary",
+        "C": "Purchase of machinery",
+        "D": "Payment of rent"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Working capital is used for short-term operational expenses, whereas the purchase of machinery is a capital expenditure.",
+      "category": "General"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Which application form (as per Drugs and Cosmetics Rules, 1945) is used to apply for a retail drug store license ?",
+      "options": {
+        "A": "19",
+        "B": "19A",
+        "C": "20",
+        "D": "21"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 20 is the application form for a license to sell, stock, or exhibit for sale drugs other than those specified in Schedule C, C(1) and X (retail drug store license).",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 81,
+      "question_text": "Name the instrument used to fix surgical towels in place during surgery.",
+      "options": {
+        "A": "Horsley’s type clip",
+        "B": "Bobcock’s untoothed tissue forceps",
+        "C": "Gray’s type clip",
+        "D": "Haemostatic forceps"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Horsley's type clip and towel clips are commonly used to secure surgical drapes and towels.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Which is the health accessory used by the patient to promote proper body alignment ?",
+      "options": {
+        "A": "Canes",
+        "B": "Orthopaedic braces",
+        "C": "Rib belts",
+        "D": "Knee caps"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Orthopaedic braces are designed to support and align body parts correctly.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 83,
+      "question_text": "The first scientific Hospital Formulary in India was published in which year ?",
+      "options": {
+        "A": "1985",
+        "B": "2002",
+        "C": "1997",
+        "D": "1968"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The first hospital formulary in India was published in 1968 by the昌 All India Institute of Medical Sciences (AIIMS).",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 84,
+      "question_text": "Which of the statement is true for Beta propiolactone as an non-inflammable liquid to sterilize things in CSSD ?",
+      "options": {
+        "A": "Irritant to eyes",
+        "B": "May cause shortness of breath",
+        "C": "Carcinogenic to skin",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Beta-propiolactone is a sterilizing agent that is a known irritant, can cause respiratory issues, and is a suspected carcinogen.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 85,
+      "question_text": "What is the use of diffuser in a sterile manufacturing area in a hospital ?",
+      "options": {
+        "A": "Used to throw the particles towards the corner",
+        "B": "To clean the aseptic area",
+        "C": "Used environmental control",
+        "D": "To increase the visibility of manufacturing unit"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diffusers help regulate airflow and maintain environmental control in cleanrooms.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 86,
+      "question_text": "Name the test which is employed to find out leakage in thermolabile products in hospital manufacturing.",
+      "options": {
+        "A": "Visual method",
+        "B": "Light blocking method",
+        "C": "Spark detector method",
+        "D": "Coulter counter method"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The spark detector method or high-voltage test is used to detect pinholes and cracks in ampoules without thermal stress.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 87,
+      "question_text": "Which one is the computer based database used to predict Pharmacokinetic parameters in a hospital set up ?",
+      "options": {
+        "A": "NONLIN",
+        "B": "MEDIPHOR",
+        "C": "BIOSIS",
+        "D": "PAD"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "MEDIPHOR is a well-known computer-based monitoring system used in hospital pharmacy for drug data and pharmacokinetics.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 88,
+      "question_text": "What are the components present in the IV set, except ?",
+      "options": {
+        "A": "Plastic spike",
+        "B": "IV admixture",
+        "C": "Flow regulator",
+        "D": "Drip chamber"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "An IV set includes a plastic spike, drip chamber, and flow regulator, while the IV admixture is the fluid/drug mixture added to the system.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 89,
+      "question_text": "Dissertations are comes under which type of source of information ?",
+      "options": {
+        "A": "Tertiary source",
+        "B": "Secondary source",
+        "C": "Primary source",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dissertations and theses contain original research data, classifying them as primary sources.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 90,
+      "question_text": "“Mobile dispensing unit” is mainly adopted to give medicines to patients comes under which type of drug distribution system ?",
+      "options": {
+        "A": "Complete floor stock system",
+        "B": "Unit dose dispensing system",
+        "C": "Individual prescription order system",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mobile dispensing units are frequently utilized in unit dose drug distribution systems within hospitals.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 91,
+      "question_text": "Which drug causes the ADR cleft palate ?",
+      "options": {
+        "A": "Thalidomide",
+        "B": "Methotrexate",
+        "C": "Insulin",
+        "D": "Phenytoin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phenytoin is well known to cause fetal hydantoin syndrome, which frequently includes cleft lip and palate.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 92,
+      "question_text": "“Cheese reaction” is an example of which type of interaction ?",
+      "options": {
+        "A": "Drug – drug interaction",
+        "B": "Drug – food interaction",
+        "C": "Drug – laboratory test interaction",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The cheese reaction occurs due to the interaction between MAOIs and tyramine-rich foods like aged cheese.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 93,
+      "question_text": "The interaction of barbiturates and MAOIs causes",
+      "options": {
+        "A": "Prolonged action",
+        "B": "Haemorrhage",
+        "C": "Cataract",
+        "D": "Alopecia"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "MAOIs inhibit the metabolism of barbiturates, leading to prolonged central nervous system depression.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 94,
+      "question_text": "Which is used as an antidote for acute iron toxicity ?",
+      "options": {
+        "A": "Atropine sulphate",
+        "B": "Desferrioxamine",
+        "C": "EDTA",
+        "D": "Tannic acid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Desferrioxamine is a specific chelating agent used as an antidote for iron poisoning.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 95,
+      "question_text": "Name the method used to stimulate respiration in a poisoned person.",
+      "options": {
+        "A": "Anal stretch",
+        "B": "Universal antidote administration",
+        "C": "Gastric lavage",
+        "D": "Purgation"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Anal stretch (known as Laborde or other historical resuscitation techniques) was historically cited in toxicology texts to stimulate respiration.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 96,
+      "question_text": "Which chemical agent can be used for alkalinisation of urine in barbiturate poisoning ?",
+      "options": {
+        "A": "Sodium nitrate",
+        "B": "Potassium citrate",
+        "C": "Sodium bicarbonate",
+        "D": "Sodium lactate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium bicarbonate is administered intravenously to alkalinize the urine, enhancing the renal elimination of weak acids like barbiturates.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 97,
+      "question_text": "As a Clinical Pharmacist, what drug would you recommend to relieve morning sickness in first trimester of pregnancy ?",
+      "options": {
+        "A": "Thalidomide",
+        "B": "Phenytoin",
+        "C": "Dicyclomine",
+        "D": "Pyridoxine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyridoxine (Vitamin B6) is widely recommended and safe for treating nausea and vomiting in pregnancy.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 98,
+      "question_text": "“Gooseflesh” is one of the withdrawal symptoms of which type of drug use ?",
+      "options": {
+        "A": "Barbiturates",
+        "B": "Alcohol",
+        "C": "Narcotics",
+        "D": "LSD"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Piloerection, commonly known as 'gooseflesh', is a classic withdrawal symptom of opioid/narcotic dependence.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 99,
+      "question_text": "Name the condition which explains “is a state of periodic or chronic intoxication produced by the repeated consumption of a drug”.",
+      "options": {
+        "A": "Drug tolerance",
+        "B": "Drug misuse",
+        "C": "Detoxification",
+        "D": "Drug addiction"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Drug addiction is defined by WHO as a state of periodic or chronic intoxication produced by the repeated consumption of a drug.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 100,
+      "question_text": "Azoturia is a clinical manifestation for the disease",
+      "options": {
+        "A": "Hepatitis",
+        "B": "Diabetes mellitus",
+        "C": "Tuberculosis",
+        "D": "Peptic ulcer"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Azoturia (excess nitrogen compounds in urine) can be seen in metabolic conditions like severe diabetes mellitus involving protein catabolism.",
+      "category": "Biochemistry"
+    }
+  ]
+}

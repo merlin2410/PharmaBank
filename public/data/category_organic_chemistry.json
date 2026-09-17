@@ -1,0 +1,338 @@
+[
+  {
+    "question_number": 71,
+    "question_text": "$0.10\\text{ mole}$ of a carbohydrate with empirical formula $\\text{CH}_2\\text{O}$ contains $1\\text{ g}$ of hydrogen. Its molecular formula will be:",
+    "options": {
+      "A": "$\\text{C}_5\\text{H}_{10}\\text{O}_5$",
+      "B": "$\\text{C}_6\\text{H}_{12}\\text{O}_6$",
+      "C": "$\\text{C}_4\\text{H}_8\\text{O}_4$",
+      "D": "$\\text{C}_3\\text{H}_6\\text{O}_3$"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Moles of H atoms = $1\\text{ g} / 1\\text{ g/mol} = 1\\text{ mol}$. In $0.10\\text{ mol}$ of carbohydrate, total moles of H = $1$, so per mole of carbohydrate there are $10$ H atoms, giving $\\text{C}_5\\text{H}_{10}\\text{O}_5$.",
+    "category": "Organic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 81,
+    "question_text": "The reduction product of Citral with $\\text{Na(Hg)}/\\text{Alcohol}$ is:",
+    "options": {
+      "A": "p-Cymene",
+      "B": "Geraniol",
+      "C": "Geranic acid",
+      "D": "Levulinic acid"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Reduction of the aldehyde group in citral using sodium amalgam and alcohol yields geraniol.",
+    "category": "Organic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 85,
+    "question_text": "Arrange the following nucleophiles in the decreasing order of their nucleophilicity: $\\text{NH}_2^-, \\text{NH}_3, \\text{C}_2\\text{H}_5-\\text{NH}_2, \\text{C}_6\\text{H}_5-\\text{NH}_2$",
+    "options": {
+      "A": "$\\text{NH}_2^- > \\text{NH}_3 > \\text{C}_2\\text{H}_5-\\text{NH}_2 > \\text{C}_6\\text{H}_5-\\text{NH}_2$",
+      "B": "$\\text{NH}_2^- > \\text{C}_2\\text{H}_5-\\text{NH}_2 > \\text{NH}_3 > \\text{C}_6\\text{H}_5-\\text{NH}_2$",
+      "C": "$\\text{NH}_2^- > \\text{NH}_3 > \\text{C}_6\\text{H}_5-\\text{NH}_2 > \\text{C}_2\\text{H}_5-\\text{NH}_2$",
+      "D": "$\\text{NH}_2^- > \\text{C}_2\\text{H}_5-\\text{NH}_2 > \\text{C}_6\\text{H}_5-\\text{NH}_2 > \\text{NH}_3$"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Negative charge makes $\\text{NH}_2^-$ the strongest. Ethylamine is more basic than ammonia due to $+I$ effect, and aniline is least basic due to resonance delocalization.",
+    "category": "Organic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 86,
+    "question_text": "$\\text{S}_\\text{N}1$ mechanism operates in the hydrolysis of:",
+    "options": {
+      "A": "t-Butyl chloride",
+      "B": "methyl chloride",
+      "C": "ethyl chloride",
+      "D": "iso-Propyl chloride"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Tertiary alkyl halides like t-butyl chloride undergo hydrolysis predominantly via stable carbocation formation in an $\\text{S}_\\text{N}1$ pathway.",
+    "category": "Organic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 96,
+    "question_text": "Iodoform cannot be prepared from:",
+    "options": {
+      "A": "$\\text{CH}_3\\text{CHO}$",
+      "B": "$\\text{CH}_3\\text{CH}_2\\text{OH}$",
+      "C": "$\\text{CH}_3\\text{OH}$",
+      "D": "$\\text{CH}_3\\text{CH}(\\text{OH})\\text{CH}_3$"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Iodoform test requires a methyl ketone or a secondary/primary alcohol containing the $\\text{CH}_3\\text{CH}(\\text{OH})-$ group (like ethanol, acetaldehyde, isopropanol). Methanol lacks this grouping.",
+    "category": "Organic Chemistry",
+    "source_exam": "Technical Assistant Drugs control 124_15"
+  },
+  {
+    "question_number": 12,
+    "question_text": "Isobutane upon bromination under the influence of ultraviolet light at 127 °C affords the following major product:",
+    "options": {
+      "A": "N-Butyl bromide",
+      "B": "Isobutyl bromide",
+      "C": "sec-Butyl bromide",
+      "D": "ter-Butyl bromide"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Bromination is highly regioselective for tertiary hydrogens due to the stability of tertiary free radicals, forming tert-butyl bromide as the major product.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 13,
+    "question_text": "Identify the functional groups from the below mentioned options that lead to weakening of benzoic acid: A. -OH, B. -Cl, C. -NH2, D. -NO2",
+    "options": {
+      "A": "A and B",
+      "B": "A and C",
+      "C": "B and C",
+      "D": "A and D"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Electron-donating groups like -OH and -NH2 via resonance increase electron density on the ring, destabilizing the benzoate anion and thus decreasing/weakening the acidity of benzoic acid.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 14,
+    "question_text": "Phenol upon treatment with bromine in the presence of carbondisulphide at 0 °C yields:",
+    "options": {
+      "A": "4-Bromophenol",
+      "B": "2-Bromophenol",
+      "C": "2,4-Dibromophenol",
+      "D": "2,4,6-Tribromophenol"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "In non-polar solvents like CS2 at low temperatures, phenol undergoes monobromination predominantly yielding the para-isomer (4-bromophenol) as the major product.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 15,
+    "question_text": "In the determination of configuration of glucose, Fischer subjected (-) arabinose to Ruff's degradation. The four-carbon sugar obtained by the degradation process was:",
+    "options": {
+      "A": "(-) Threose",
+      "B": "(+) Threose",
+      "C": "(-) Erythrose",
+      "D": "(+) Erythrose"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Ruff degradation of (-) arabinose shortens the carbon chain by one carbon atom, yielding (-) erythrose.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 16,
+    "question_text": "Insertion of a oxygen in a carbonyl compound to form an ester is known as:",
+    "options": {
+      "A": "Baeyer Villiger oxidation",
+      "B": "Sharpless epoxidation",
+      "C": "Prevost oxidation",
+      "D": "Lossen rearrangement"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Baeyer-Villiger oxidation is an organic reaction that oxidizes a ketone to an ester by inserting an oxygen atom adjacent to the carbonyl group.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 17,
+    "question_text": "Controlled alkylation of a ketone via an enamine intermediate is named as:",
+    "options": {
+      "A": "Mannich reaction",
+      "B": "Robinson annulation",
+      "C": "Stork reaction",
+      "D": "Bamford Stevens reaction"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Stork enamine alkylation is a chemical reaction used to alkylate ketones or aldehydes via an enamine intermediate.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 18,
+    "question_text": "Among the following organic compounds, the one that is non-aromatic is: [Diagram representing cyclic hydrocarbon rings with varying electron and charge patterns]",
+    "options": {
+      "A": "C1=CC=CC=C1",
+      "B": "[C-]1C=CC=C1",
+      "C": "C1=CC=CC=C1C1=CC=CC=C1",
+      "D": "Cyclooctatetraene variant"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Cyclopentadienyl anion is aromatic (6 pi electrons), whereas non-aromatic cyclic systems lack continuous cyclic conjugation or planarity.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 19,
+    "question_text": "The major product formed in the above reaction (Diels-Alder cycloaddition) is:",
+    "options": {
+      "A": "Tricyclic fused ring system 1",
+      "B": "Tricyclic fused ring system 2",
+      "C": "Tricyclic fused ring system 3",
+      "D": "Epoxy fused adduct 4"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Diels-Alder reaction of furan and maleic anhydride typically yields the endo-adduct as the major kinetic product.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 20,
+    "question_text": "The major product formed in the above acid-catalyzed reaction is:",
+    "options": {
+      "A": "Amide isomer 1",
+      "B": "Amide isomer 2",
+      "C": "Amide isomer 3",
+      "D": "Amide isomer 4"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Acid-catalyzed condensation/substitution yields the corresponding stable anilide derivative.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 21,
+    "question_text": "The set of specific reagents used in the above-mentioned synthesis of m-(n-Butyl)toluene from n-propyl m-tolyl ketone is:",
+    "options": {
+      "A": "Zn(Hg), HCl",
+      "B": "NaBH4, CH3OH",
+      "C": "NH2NH2, NaOH",
+      "D": "SnCl2, CH3OH"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "The Wolff-Kishner reduction (using hydrazine and base like NaOH) reduces the ketone carbonyl to a methylene group.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 22,
+    "question_text": "The major product formed in the above-given Knorr synthesis is:",
+    "options": {
+      "A": "Pyrrole derivative 1",
+      "B": "Pyrrole derivative 2",
+      "C": "Pyrrole derivative 3",
+      "D": "Pyrrole derivative 4"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Knorr pyrrole synthesis involves the reaction of an alpha-amino ketone with an active methylene compound to yield substituted pyrroles.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat 2022"
+  },
+  {
+    "question_number": 107,
+    "question_text": "Arrange the following Lowry-Bronsted acids into their decreasing order of acidity (highest to lowest) [P] $\\text{C}_2\\text{H}_5\\text{OH}$ [Q] $\\text{H}_3\\text{C}-\\text{C}\\equiv\\text{CH}$ [R] $\\text{H}_2\\text{O}$ [S] $\\text{CH}_3\\text{NH}_2$",
+    "options": {
+      "A": "R>P>Q>S",
+      "B": "P>R>Q>S",
+      "C": "P>Q>R>S",
+      "D": "R>Q>P>S"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Acidity order of conjugate acids: $\\text{H}_2\\text{O} > \\text{RC}\\equiv\\text{CH} > \\text{ROH} > \\text{RNH}_2$. Thus $\\text{H}_2\\text{O} (R) > \\text{propyne} (Q) > \\text{ethanol} (P) > \\text{methylamine} (S)$.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 108,
+    "question_text": "Alkenes show typical electrophilic addition reactions. If an electron withdrawing group is attached to one of the carbons bearing the double bond, what will happen to the mechanism of the addition reaction",
+    "options": {
+      "A": "It remains electrophilic",
+      "B": "It becomes free radical addition",
+      "C": "It becomes pericyclic reaction",
+      "D": "It becomes nucleophilic"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Strong electron-withdrawing groups on an alkene deplete electron density, shifting the pathway toward nucleophilic addition reactions.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 109,
+    "question_text": "Aprotic polar solvents increase the rate of SN2 reactions manifold. Enhancement in the rate of such reactions is due to which one of the following effects",
+    "options": {
+      "A": "Solvation of the anion by the solvent leaving the cation unaffected",
+      "B": "Solvation of both of the ionic species",
+      "C": "Desolvation of the cation and solvation of the anion",
+      "D": "Solvation of the cation by the solvent leaving the anion unaffected"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Polar aprotic solvents selectively solvate cations while leaving nucleophilic anions bare (unsolvated), greatly enhancing their nucleophilicity in SN2 reactions.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 110,
+    "question_text": "Five-membered heteroaromatic compounds show a much higher rate of electrophilic aromatic substitution reactions than the six-membered ones. This is due to which one of the following reasons?",
+    "options": {
+      "A": "Five-membered heteroaromatic compounds have higher circulating electron density in the ring than the six-membered ones",
+      "B": "Five-membered heteroaromatic compounds have lower circulating electron density in the ring than the six-membered ones",
+      "C": "Five-membered rings are smaller in size than the six membered ones which affects their reaction rates",
+      "D": "Six membered heteroaromatic rings are flat while the five-membered ones are puckered"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Five-membered heteroaromatic rings have 6 $\\pi$ electrons distributed over 5 atoms, giving them a higher electron density per carbon compared to six-membered rings.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat-question-paper-2011"
+  },
+  {
+    "question_number": 111,
+    "question_text": "Pyridine is more basic than pyrrole. This is due to which of the following facts",
+    "options": {
+      "A": "Lone pair of electrons on N in pyrrole is localized",
+      "B": "Lone pair of electrons on N in pyridine is localized",
+      "C": "Nitrogen of pyrrole has one hydrogen atom attached to it while pyridine does not haveany",
+      "D": "Pyridine has three double bonds while pyrrole has only two"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "In pyridine, the nitrogen lone pair resides in an $sp^2$ orbital perpendicular to the aromatic $\\pi$ system and is localized (available for protonation), whereas pyrrole's lone pair is part of the aromatic sextet.",
+    "category": "Organic Chemistry",
+    "source_exam": "gpat-question-paper-2011"
+  }
+]

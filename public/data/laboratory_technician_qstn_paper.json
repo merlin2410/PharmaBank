@@ -1,0 +1,1506 @@
+{
+  "exam_title": "laboratory_technician_qstn_paper",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which among the following processes is not involved in the preparation of absorbent cotton wool I.P. ?",
+      "options": {
+        "A": "Ginning",
+        "B": "Defattening",
+        "C": "Bleaching",
+        "D": "Percolation"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Percolation is an extraction process used for tinctures and extracts, not for preparing absorbent cotton wool.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Antidote for organophosphorus poisoning",
+      "options": {
+        "A": "Atropine",
+        "B": "Hydrated ferric oxide",
+        "C": "Desferroxime",
+        "D": "N-acetyl cysteine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atropine is a competitive antagonist at muscarinic acetylcholine receptors and is the primary antidote for organophosphate poisoning.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Choose the topical formulation from the following.",
+      "options": {
+        "A": "Collodions",
+        "B": "Draughts",
+        "C": "Elixirs",
+        "D": "Cachets"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Collodions are liquid preparations containing pyroxylin applied externally to the skin.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Metric equivalent of 1 gallon",
+      "options": {
+        "A": "1000 Lit.",
+        "B": "2.21 Lit.",
+        "C": "4.5 Lit.",
+        "D": "160 Lit."
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "One Imperial gallon is approximately equivalent to 4.546 liters (commonly cited as 4.5 Lit.).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Which among the following cannot be used as a propellant in aerosols ?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Ethylene Oxide",
+        "C": "Dichlorofluromethane",
+        "D": "Nitrogen"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ethylene oxide is a sterilizing and alkylating agent, highly toxic and flammable, and not used as an aerosol propellant.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 6,
+      "question_text": "A ball mill works on the principle of",
+      "options": {
+        "A": "Impact and attrition",
+        "B": "Impact alone",
+        "C": "Compression",
+        "D": "Cutting and compression"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ball mills reduce particle size through a combination of impact (falling balls) and attrition (sliding and rolling of balls).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 7,
+      "question_text": "A 22/60 powder is",
+      "options": {
+        "A": "Coarse powder",
+        "B": "Moderately coarse powder",
+        "C": "Moderately fine powder",
+        "D": "Very fine powder"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A powder where all particles pass through sieve number 22 and not more than 40% through sieve number 60 is classified as a moderately coarse powder.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which among the following is a liquid mixer ?",
+      "options": {
+        "A": "Propeller mixer",
+        "B": "Drum mixer",
+        "C": "Sigma mixer",
+        "D": "Ribbon mixer"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Propeller mixers are designed for mixing liquids and low-viscosity solutions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Orange tincture is prepared by",
+      "options": {
+        "A": "Infusion",
+        "B": "Digestion",
+        "C": "Maceration",
+        "D": "Hot continuous percolation"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fresh orange peel tincture is officially prepared by simple maceration.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Exsiccation is",
+      "options": {
+        "A": "Removal of water of crystallisation from hydrated crystalline substances",
+        "B": "Conversion of anhydrous substance to its hydrated form",
+        "C": "Conversion of solid directly to its vapour",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Exsiccation involves heating a hydrated crystalline substance to remove its water of crystallization.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "In the distillation still for the preparation of water for injection, the purpose of fitting baffles is",
+      "options": {
+        "A": "To prevent excessive concentration of salts",
+        "B": "To remove sulphur dioxide",
+        "C": "To make it free from carbon dioxide",
+        "D": "To prevent the entry of pyrogens in the distillate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Baffles trap water droplets and pyrogens, preventing them from being carried over into the final distillate.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Disadvantage of vacuum filter",
+      "options": {
+        "A": "Not suitable for thermo labile materials",
+        "B": "Solvent recovery is not possible",
+        "C": "Product formed is nonporous",
+        "D": "Frequent cleaning of filter is required"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Standard simple vacuum filtration setups typically lose volatile solvents through vaporization under reduced pressure unless specialized condensers are used, meaning solvent recovery is difficult or not possible.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 13,
+      "question_text": "In dry heat sterilisation, microorganisms are destroyed by",
+      "options": {
+        "A": "Oxidation",
+        "B": "Coagulation",
+        "C": "Ionisation",
+        "D": "Alkylation"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dry heat sterilization destroys microorganisms through oxidative processes of cellular components.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Uneven colour distribution in tablets is",
+      "options": {
+        "A": "Orange peel effect",
+        "B": "Blooming",
+        "C": "Mottling",
+        "D": "Blistering"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mottling is a tablet defect characterized by an uneven distribution of color on the tablet surface.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "As per I.P., the weight variation limit for a 500 mg tablet is",
+      "options": {
+        "A": "$\\pm 10\\%$",
+        "B": "$\\pm 7.5\\%$",
+        "C": "$\\pm 5\\%$",
+        "D": "$\\pm 15\\%$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to the Indian Pharmacopoeia, the percentage weight variation limit for un-coated or film-coated tablets weighing between 250 mg and more is $\\pm 7.5\\%$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 16,
+      "question_text": "As per I.P. the Disintegration time for a hard gelatin capsule should be within",
+      "options": {
+        "A": "15 min.",
+        "B": "30 min.",
+        "C": "3 min.",
+        "D": "1 hour"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hard gelatin capsules typically have a disintegration time limit of 15 minutes unless specified otherwise.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Which among the following is a dead bacterial vaccine ?",
+      "options": {
+        "A": "BCG Vaccine",
+        "B": "Cholera Vaccine",
+        "C": "Small pox Vaccine",
+        "D": "Polio Vaccine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cholera vaccine is prepared from killed (inactivated/dead) bacteria, whereas BCG and smallpox are live attenuated vaccines.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Mantoux test is a diagnostic test for",
+      "options": {
+        "A": "Diphtheria",
+        "B": "Typhoid",
+        "C": "Dengue fever",
+        "D": "Tuberculosis"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Mantoux test is a standardized intradermal skin test used to screen for tuberculosis infection.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 19,
+      "question_text": "In a prescription, subscription means",
+      "options": {
+        "A": "Prescriber’s Direction to the pharmacist",
+        "B": "Names and quantities of prescribed ingredients",
+        "C": "Instruction to the patient for drug administration",
+        "D": "Prescription symbol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Subscription consists of directions given by the prescriber to the dispenser regarding how to compound or prepare the medication.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Child dose is calculated on the basis of child’s body weight in",
+      "options": {
+        "A": "Young’s formula",
+        "B": "Dilling formula",
+        "C": "Clark formula",
+        "D": "Darcy’s formula"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clark's formula calculates the pediatric dose based on the child's body weight in pounds.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Gregory’s powder is a",
+      "options": {
+        "A": "Bulk powder",
+        "B": "Insufflation",
+        "C": "Dentifrice",
+        "D": "Effervescent powder"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gregory's powder (Compound Rhubarb Powder) is traditionally dispensed as a bulk powder.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Bentonite is an ingredient in",
+      "options": {
+        "A": "Turpentine liniment I.P.",
+        "B": "ALBA Mixture",
+        "C": "Seidlitz powder",
+        "D": "Calamine lotion I.P"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bentonite magma is used as a suspending agent in Calamine Lotion I.P.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Which among the following is a nonessential amino acid ?",
+      "options": {
+        "A": "Glycine",
+        "B": "Valine",
+        "C": "Lysine",
+        "D": "Leucine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glycine can be synthesized by the human body, making it a nonessential amino acid, whereas valine, lysine, and leucine are essential.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Find the anionic emulsifying agent.",
+      "options": {
+        "A": "Lanolin",
+        "B": "Sodium lauryl sulphate",
+        "C": "Cetrimide",
+        "D": "Glyceryl monostearate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium lauryl sulphate is a classic anionic surfactant widely used as an emulsifying agent.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Wool fat is",
+      "options": {
+        "A": "Absorption base",
+        "B": "Oleogenous base",
+        "C": "Water soluble base",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Wool fat (anhydrous lanolin) acts as an absorption base because it can absorb water to form water-in-oil emulsions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Unnas paste is",
+      "options": {
+        "A": "Resorcinol jelly",
+        "B": "Zinc gelatin jelly",
+        "C": "Ichthamnol jelly",
+        "D": "Salicylic acid gelatin jelly"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Unna's paste is formulated as a zinc gelatin paste/jelly used in dermatological treatments.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Which among the following is not applicable to theobroma oil suppository bases ?",
+      "options": {
+        "A": "Exhibits polymorphism",
+        "B": "Melts at body temperature",
+        "C": "Dissolves in body fluids",
+        "D": "May leak from body cavities"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Theobroma oil (cocoa butter) melts at body temperature rather than dissolving in body fluids.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Find the depilating agent.",
+      "options": {
+        "A": "Barium sulphide",
+        "B": "Poly vinyl alcohol",
+        "C": "Hexachlorophene",
+        "D": "Triethanol amine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Barium sulphide is a chemical depilatory agent used for removing hair.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Which among the following is not a correct statement ?",
+      "options": {
+        "A": "Chlorocresol can be used as an antibacterial agent in multi dose parenteral preparations",
+        "B": "Intra thecal injections are given in to the sub arachnoid space",
+        "C": "Pyrogens can be destroyed by heating up to 100°C",
+        "D": "Large volume parenteral preparations should not contain any preservatives"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyrogens are heat-stable and are not destroyed by boiling at 100°C; they require temperatures above 250°C for destruction.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Eye ointment base B.P. does not contain",
+      "options": {
+        "A": "White soft paraffin",
+        "B": "Yellow soft paraffin",
+        "C": "Wool fat",
+        "D": "Liquid paraffin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Eye ointment base B.P. typically contains liquid paraffin, wool fat, and white soft paraffin (avoiding colored or less refined bases like yellow soft paraffin).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Which among the following is not used in the limit test for iron ?",
+      "options": {
+        "A": "Iron free citric acid",
+        "B": "Iron free mercuric chloride",
+        "C": "Iron free ammonia",
+        "D": "Thioglycollic acid"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mercuric chloride is used in the limit test for arsenic, not for iron.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Which among the following is not correct about Barium Sulphate reagent ?",
+      "options": {
+        "A": "It is used in the limit test for sulphate",
+        "B": "Must be freshly prepared",
+        "C": "It contains Barium chloride, water, sulphate free alcohol and Potassium sulphate",
+        "D": "It is not used in the limit test for sulphate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Statement D claims it is not used in the limit test for sulphate, which contradicts the standard use of barium sulfate reagent/turbidity method for sulphate limit tests.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Glycerol is used in the essay of Boric acid because",
+      "options": {
+        "A": "Presence of glycerol causes Boric acid to behave as a strong mono protic acid",
+        "B": "Glycerol promotes the solubility of the indicator",
+        "C": "It acts as a buffer",
+        "D": "It is an exothermic reaction"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Boric acid is a very weak acid, but in the presence of glycerol, it forms a complex acid that behaves as a strong monoprotic acid capable of being titrated with sodium hydroxide.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Among the following which buffer system is having the highest pH value ?",
+      "options": {
+        "A": "Acetic ammonia buffer ethanolic",
+        "B": "Ammonia buffer",
+        "C": "Phosphate buffer",
+        "D": "Imidazole buffer"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ammonia buffer systems generally maintain alkaline pH ranges typically between 8.3 and 10.2, which is higher than the typical ranges for acetic acid, phosphate, or imidazole buffers.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Oil of vitriol is",
+      "options": {
+        "A": "Atropine",
+        "B": "Ferrous sulphate",
+        "C": "Copper sulphate",
+        "D": "Sulphuric acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oil of vitriol is the historical name for concentrated sulfuric acid ($H_2SO_4$).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Talc is",
+      "options": {
+        "A": "Purified natural hydrous Magnesium silicate containing small amount of Aluminium silicate and iron",
+        "B": "Hydrated mixtures of Chlorotrimethylsilane",
+        "C": "Colloidal hydrated Aluminium silicate",
+        "D": "Fumed silica gel"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Talc is a purified natural hydrous magnesium silicate with small amounts of aluminum and iron silicates.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Sublimed sulphur is used for",
+      "options": {
+        "A": "Prevention of dental caries",
+        "B": "Emetic action",
+        "C": "Scabicide action",
+        "D": "Protection adsorbent effect"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sublimed sulfur is classically employed as a scabicide and keratolytic agent in dermatology.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Sodium chloride injection I.P. contains",
+      "options": {
+        "A": "270 millimoles per Lit. of sodium and chloride ions",
+        "B": "150 millimoles/Lit. of sodium and chloride ions",
+        "C": "150 millimoles of sodium and 270 millimoles of chloride ions/Lit.",
+        "D": "270 millimoles of sodium and 150 millimoles of chloride ions/Lit."
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Normal saline (0.9% w/v NaCl) contains approximately 150 mmol/L of both sodium and chloride ions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 39,
+      "question_text": "The colour code for Oxygen cylinder is",
+      "options": {
+        "A": "Cylinder shoulder painted white and the rest painted black",
+        "B": "Cylinder shoulder painted black and the rest painted white",
+        "C": "Cylinder shoulder painted grey and the rest painted blue",
+        "D": "Cylinder shoulder painted blue and the rest painted grey"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under standard medical gas color coding (such as Indian/British standards), oxygen cylinders have a white shoulder with the rest of the body painted black.",
+      "category": "General"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Benzocaine is",
+      "options": {
+        "A": "Diethyl paramino benzoate",
+        "B": "Ethyl 4 amino benzoate",
+        "C": "Methyl benzoyl acetate",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benzocaine is chemically ethyl 4-aminobenzoate (ethyl p-aminobenzoate).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Which among the following is not a liquid in its pure form ?",
+      "options": {
+        "A": "Chloral hydrate",
+        "B": "Glyceryl trinitrate",
+        "C": "Sorbitol",
+        "D": "Chloroform"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chloral hydrate is a crystalline solid at room temperature.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Which among the following is not an antiseptic ?",
+      "options": {
+        "A": "Hexachlorophene",
+        "B": "Crystal violet",
+        "C": "Thiomersal",
+        "D": "Lactic acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lactic acid is an organic acid used as an acidulant or keratolytic, whereas the others are established antiseptics/disinfectants.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Proguanil is",
+      "options": {
+        "A": "An antimalarial drug",
+        "B": "Hypoglycemic agent",
+        "C": "Anticoagulant",
+        "D": "Diuretic"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Proguanil is a biguanide derivative used as an antimalarial drug.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Which among the following is not a xanthine derivative ?",
+      "options": {
+        "A": "Caffeine",
+        "B": "Thiamine",
+        "C": "Theophylline",
+        "D": "Theobromine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiamine is Vitamin B1, whereas caffeine, theophylline, and theobromine are methylxanthines.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Penicillin G is",
+      "options": {
+        "A": "Benzathine Penicillin",
+        "B": "Phenoxy methyl Penicillin",
+        "C": "Benzyl Penicillin",
+        "D": "6-amino penicillanic acid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Penicillin G is the international non-proprietary name for Benzyl Penicillin.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Vitamin K is",
+      "options": {
+        "A": "Phytomenadione",
+        "B": "Tocopherol",
+        "C": "Retinol",
+        "D": "Cholecalciferol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phytomenadione (phytonadione) is vitamin K1.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Which among the following is a glucocorticoid ?",
+      "options": {
+        "A": "Desoxycortone",
+        "B": "Aldosterone",
+        "C": "Testosterone",
+        "D": "Hydrocortisone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hydrocortisone (cortisol) is a primary endogenous glucocorticoid.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Isoniazid is a derivative of",
+      "options": {
+        "A": "Thiazole",
+        "B": "Pyridine",
+        "C": "Piperidine",
+        "D": "Pyrimidine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Isoniazid is isonicotinic acid hydrazide, a pyridine derivative.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 49,
+      "question_text": "Which among the following is an antimetabolite of folic acid ?",
+      "options": {
+        "A": "Cyclophosphamide",
+        "B": "Tamoxiphen",
+        "C": "Methotrexate",
+        "D": "Chlorambucil"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methotrexate is a classic folic acid antagonist acting as an antimetabolite.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 50,
+      "question_text": "The drug used in the treatment of glaucoma",
+      "options": {
+        "A": "Physostigmine",
+        "B": "Ethopropazine",
+        "C": "Tropicamide",
+        "D": "Dicyclomin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Physostigmine is an anticholinesterase used to reduce intraocular pressure in glaucoma.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 51,
+      "question_text": "The sign of Belladonna poisoning",
+      "options": {
+        "A": "Dry mouth",
+        "B": "Difficulty in micturition",
+        "C": "Dilated pupil",
+        "D": "All the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Belladonna (atropine/anticholinergic) poisoning causes classic anti-muscarinic symptoms: dry mouth, urinary retention (difficulty in micturition), and mydriasis (dilated pupils).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 52,
+      "question_text": "The drug included in the Dope test for athletes",
+      "options": {
+        "A": "Cyclophosphamide",
+        "B": "Amphetamine",
+        "C": "Phentolamine",
+        "D": "Butoxamine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amphetamines are central nervous system stimulants commonly banned and tested for in sports doping controls.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Which drug among the following is a beta adrenergic blocker ?",
+      "options": {
+        "A": "Prazosin",
+        "B": "Dobutamine",
+        "C": "Propranolol",
+        "D": "Yohimbine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Propranolol is a non-selective beta-adrenergic blocking agent.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Peripherally acting muscle relaxant among the following",
+      "options": {
+        "A": "D-Tubocurarine",
+        "B": "Mephenesin",
+        "C": "Diazepam",
+        "D": "Baclophen"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "D-Tubocurarine is a non-depolarizing neuromuscular blocker acting peripherally at the skeletal neuromuscular junction.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Ranitidine is",
+      "options": {
+        "A": "$H_1$ agonist",
+        "B": "$H_2$ antagonist",
+        "C": "$H_2$ agonist",
+        "D": "$H_1$ antagonist"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ranitidine is a histamine $H_2$ receptor antagonist used to reduce stomach acid secretion.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 56,
+      "question_text": "The mechanism of the anti-tubercular action of Rifampicin is",
+      "options": {
+        "A": "Inhibits mycolic acid synthesis",
+        "B": "Interference in mycolic acid incorporation in mycobacterial cell wall",
+        "C": "Inhibition of folic acid synthesis",
+        "D": "Inhibits DNA dependant RNA synthesis"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rifampicin inhibits bacterial DNA-dependent RNA polymerase, thereby blocking RNA synthesis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Viagra is",
+      "options": {
+        "A": "Sildenafil citrate",
+        "B": "Finasteride citrate",
+        "C": "Tadalafil citrate",
+        "D": "Testosterone propionate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Viagra is the brand name for sildenafil citrate.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Which among the following is an ultra-short acting barbiturate ?",
+      "options": {
+        "A": "Phenobarbitone",
+        "B": "Thiopental",
+        "C": "Amobarbitone",
+        "D": "Pentobarbitone"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiopental is an ultra-short-acting barbiturate commonly used for anesthesia induction.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Which among the following is an ACE inhibitor ?",
+      "options": {
+        "A": "Nifedipine",
+        "B": "Carvedilol",
+        "C": "Captopril",
+        "D": "Mionxidil"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Captopril is an angiotensin-converting enzyme (ACE) inhibitor.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Which drug among the following is potassium sparing diuretic ?",
+      "options": {
+        "A": "Frusemide",
+        "B": "Acetazolamide",
+        "C": "Chlorthalidone",
+        "D": "Spironolactone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Spironolactone is a potassium-sparing diuretic acting as an aldosterone receptor antagonist.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 61,
+      "question_text": "The Pharmacy Act was passed in the year",
+      "options": {
+        "A": "1948",
+        "B": "1950",
+        "C": "1966",
+        "D": "1982"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Pharmacy Act in India was passed in the year 1948.",
+      "category": "General"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Who among the following is an Ex Officio member of the Pharmacy Council of India ?",
+      "options": {
+        "A": "Chairman, U.G.C.",
+        "B": "Chairman, A.I.C.T.E.",
+        "C": "Minister of States for Petrochemicals",
+        "D": "Director General of Health Service"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Director General of Health Services is designated as an ex officio member of the Pharmacy Council of India.",
+      "category": "General"
+    },
+    {
+      "question_number": 63,
+      "question_text": "A drug that is powdered to conceal damage will be a",
+      "options": {
+        "A": "Spurious drug",
+        "B": "Misbranded drug",
+        "C": "Adulterated drug",
+        "D": "Bogus drug"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under drug regulations, if a drug is colored, coated, powdered, or polished to conceal damage or inferiority, it is classified as an adulterated drug.",
+      "category": "General"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Good Manufacturing Practices are given in",
+      "options": {
+        "A": "Schedule Q",
+        "B": "Schedule Y",
+        "C": "Schedule M",
+        "D": "Schedule G"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule M of the Drugs and Cosmetics Rules outlines Good Manufacturing Practices (GMP) for pharmaceutical products.",
+      "category": "General"
+    },
+    {
+      "question_number": 65,
+      "question_text": "Schedule P is concerned with",
+      "options": {
+        "A": "Standards for disinfectant fluids",
+        "B": "List of permitted colours",
+        "C": "Life period of drugs",
+        "D": "Standards for Cosmetics"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule P pertains to the life period (expiry/shelf-life) of drugs and storage conditions.",
+      "category": "General"
+    },
+    {
+      "question_number": 66,
+      "question_text": "Central Drugs Laboratory is situated in",
+      "options": {
+        "A": "Calcutta",
+        "B": "Ghaziabad",
+        "C": "Indore",
+        "D": "Itanagar"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The premier Central Drugs Laboratory (CDL) in India is located in Calcutta (Kolkata).",
+      "category": "General"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Osazone test is not answered by",
+      "options": {
+        "A": "Glucose",
+        "B": "Lactose",
+        "C": "Fructose",
+        "D": "Sucrose"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sucrose is a non-reducing disaccharide with blocked glycosidic hydroxyl groups and does not form osazone crystals.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 68,
+      "question_text": "If sublimed Sulphur sprinkled in urine sinks to the bottom, it indicate the presence of",
+      "options": {
+        "A": "Blood cells",
+        "B": "Bile salts",
+        "C": "Ketone bodies",
+        "D": "Proteins"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hay's sulfur test relies on the lowering of surface tension by bile salts, causing sprinkled sulfur to sink rather than float.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Which among the following is not a bark drug ?",
+      "options": {
+        "A": "Arjuna",
+        "B": "Cinchona",
+        "C": "Cinnamon",
+        "D": "Dill"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dill is a fruit/seed drug, whereas Arjuna, Cinchona, and Cinnamon are official bark drugs.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 70,
+      "question_text": "Which among the following tests is not answered by Digitalis ?",
+      "options": {
+        "A": "Keller Killiani test",
+        "B": "Baljet test",
+        "C": "Legal test",
+        "D": "Bontragers test"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bontrager's test is specific for anthraquinone glycosides, whereas Digitalis contains cardiac glycosides.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Therapeutic use of Chaulmoogra oil",
+      "options": {
+        "A": "Local anaesthetic",
+        "B": "Treatment of Leprosy",
+        "C": "Cerebral stimulant",
+        "D": "Cardiotonic"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chaulmoogra oil has historically been used in the indigenous treatment of leprosy.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 72,
+      "question_text": "Clove stalk adulterant in clove powder can be detected by",
+      "options": {
+        "A": "Microchemical test for starch",
+        "B": "Yellow colour with Con HCl",
+        "C": "Presence of Calcium oxalate prisms and stone cells",
+        "D": "Violet colour with Con HCl"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clove stalks contain characteristic clusters of stone cells and calcium oxalate prisms that are typically absent or distinct in pure clove buds.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 73,
+      "question_text": "The drug Ergot is obtained from the plant",
+      "options": {
+        "A": "Claviceps purpuria",
+        "B": "Pinus longifolia",
+        "C": "Asparagus racemosus",
+        "D": "Picrasma excels"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ergot is the dried sclerotium of the fungus Claviceps purpurea.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 74,
+      "question_text": "Cinnamomum zeylanicum belongs to family",
+      "options": {
+        "A": "Rubiaceae",
+        "B": "Rutaceae",
+        "C": "Lauraceae",
+        "D": "Zingiberaceae"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cinnamomum zeylanicum (cinnamon) belongs to the family Lauraceae.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 75,
+      "question_text": "The active constituent in Datura",
+      "options": {
+        "A": "Tropane alkaloids",
+        "B": "Cardenolides",
+        "C": "Bufadienolides",
+        "D": "Anthraquinone glycosides"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Datura species are rich in tropane alkaloids such as hyoscyamine and scopolamine.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 76,
+      "question_text": "Beriberi is caused by deficiency of",
+      "options": {
+        "A": "Thiamine",
+        "B": "Riboflavin",
+        "C": "Niacin",
+        "D": "Pyridoxine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Beriberi is the classical deficiency disease associated with vitamin B1 (thiamine).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Body Mass Index is calculated by",
+      "options": {
+        "A": "Weight in Kg $\\div$ (Height in Metre)$^2$",
+        "B": "(Weight in Kg)$^2$ $\\div$ (Height in Metre)",
+        "C": "Weight in Kg $\\div$ (Body Surface area in cm$^2$)",
+        "D": "(Weight in Kg)$^2$ $\\div$ (Body Surface area in cm$^2$)"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Body Mass Index (BMI) is defined as weight in kilograms divided by the square of height in meters ($kg/m^2$).",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 78,
+      "question_text": "Horrock's apparatus is used",
+      "options": {
+        "A": "To estimate nutritional requirement in children",
+        "B": "To determine the extent of air pollution",
+        "C": "To estimate the quantity of bleaching powder to disinfect water",
+        "D": "To ascertain the quality of milk"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Horrock's apparatus is a field test kit used to calculate the breakpoint chlorination and bleaching powder required for water disinfection.",
+      "category": "General"
+    },
+    {
+      "question_number": 79,
+      "question_text": "Dettol contains",
+      "options": {
+        "A": "Chlorhexidine",
+        "B": "Chlorxylenol",
+        "C": "Carbolic acid",
+        "D": "Phenyl Mercuric acetate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The active antiseptic ingredient in Dettol is chloroxylenol (PCMX).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Causative parasite in filariasis",
+      "options": {
+        "A": "Ancylostoma duodenale",
+        "B": "Plasmodium vivax",
+        "C": "Ascaris lumbricoides",
+        "D": "Wuchereria Bancrofti"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lymphatic filariasis is caused by parasitic filarial worms, predominantly Wuchereria bancrofti.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 81,
+      "question_text": "The person who suggested the term “Congress for Indian National Congress” ?",
+      "options": {
+        "A": "Mahathma Gandhi",
+        "B": "Dadabhai Naoroji",
+        "C": "Lala Lajapath Rai",
+        "D": "Subhash Chandra Bose"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dadabhai Naoroji suggested changing the name of the Indian National Union to the Indian National Congress.",
+      "category": "General"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Mousindram located in which mountain region ?",
+      "options": {
+        "A": "Quasi",
+        "B": "Garo",
+        "C": "Miso",
+        "D": "Patkay"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mawsynram is located in the Garo-Khasi-Jaintia hills region of Meghalaya.",
+      "category": "General"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Jawahar Rozgar Yojana re-named on first April 1999 as",
+      "options": {
+        "A": "Balika Samridhi Yojana",
+        "B": "Swarna Jayanthi Samridhi Yojana",
+        "C": "Jawahar Gram Samridhi Yojana",
+        "D": "Mahila Samridhi Yojana"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Jawahar Rozgar Yojana was restructured and renamed as Jawahar Gram Samridhi Yojana (JGSY) on 1st April 1999.",
+      "category": "General"
+    },
+    {
+      "question_number": 84,
+      "question_text": "Dharma Poshini Sabha is related to which social reformer ?",
+      "options": {
+        "A": "Chattambi Swami",
+        "B": "Ayyankali",
+        "C": "Sir Sayyid Ahmad Khan",
+        "D": "Vakkam Abdul Kadhar Moulavi"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ayyankali founded the Sadhu Jana Paripalana Sangam and was closely associated with social initiatives like Dharma Poshini Sabha.",
+      "category": "General"
+    },
+    {
+      "question_number": 85,
+      "question_text": "The social reformer who is known as “Father of Kerala Literacy” ?",
+      "options": {
+        "A": "Poyikayil Yohannan",
+        "B": "Kuriakose Elias Chavara",
+        "C": "Pandit Karuppan",
+        "D": "Dr. Palpu"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Saint Kuriakose Elias Chavara is known as the Father of Kerala Literacy for initiating free education for all through the 'a school along with every church' mandate.",
+      "category": "General"
+    },
+    {
+      "question_number": 86,
+      "question_text": "Brand Ambassador of ‘Haritha Kerala Scheme’ of Kerala Government",
+      "options": {
+        "A": "K. J. Yesudas",
+        "B": "Mohan Lal",
+        "C": "Mammotti",
+        "D": "Manju Varier"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Actor Mammootty was chosen as the brand ambassador of the Haritha Kerala Mission.",
+      "category": "General"
+    },
+    {
+      "question_number": 87,
+      "question_text": "The present UN Secretary General Antonio Gutturus was the former Prime Minister of",
+      "options": {
+        "A": "Spain",
+        "B": "Germany",
+        "C": "Portugal",
+        "D": "Brazil"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "António Guterres served as the Prime Minister of Portugal from 1995 to 2002.",
+      "category": "General"
+    },
+    {
+      "question_number": 88,
+      "question_text": "BRICS Summit held 2016 at",
+      "options": {
+        "A": "Benoli in Goa",
+        "B": "Ufa in Russia",
+        "C": "Fortalesa in Brazil",
+        "D": "Cairo in Egypt"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The 8th BRICS summit was held in Benaulim, Goa, India in 2016.",
+      "category": "General"
+    },
+    {
+      "question_number": 89,
+      "question_text": "The Author of “Fragrance of Peace”",
+      "options": {
+        "A": "Medha Patkar",
+        "B": "Irom Sharmila",
+        "C": "Sundar Lal Bahuguna",
+        "D": "Menaka Gandhi"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Irom Chanu Sharmila is the author of the book 'Fragrance of Peace'.",
+      "category": "General"
+    },
+    {
+      "question_number": 90,
+      "question_text": "Gandhiji intervent in a labour dispute in 1918 at",
+      "options": {
+        "A": "Ahmadabad",
+        "B": "Kheda",
+        "C": "Champaran",
+        "D": "Rajkot"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mahatma Gandhi intervened in the Ahmedabad mill strike involving textile mill workers in 1918.",
+      "category": "General"
+    },
+    {
+      "question_number": 91,
+      "question_text": "Athma Upadesha Shathakam is related to",
+      "options": {
+        "A": "Kumaranashan",
+        "B": "Thycaud Ayya",
+        "C": "Sree Narayana Guru",
+        "D": "Sahodharan Ayyappan"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atmopadesa Satakam is a famous philosophical Malayalam poem written by Sree Narayana Guru.",
+      "category": "General"
+    },
+    {
+      "question_number": 92,
+      "question_text": "Edakka Cave in Wayanad is located in which hill ?",
+      "options": {
+        "A": "Ambu Kuthi hill",
+        "B": "Towara hill",
+        "C": "Chembra hill",
+        "D": "Panam Kutti hill"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Edakkal Caves are situated on Ambukuthi Mala in Wayanad, Kerala.",
+      "category": "General"
+    },
+    {
+      "question_number": 93,
+      "question_text": "The Pension Scheme introduced by Kerala Government for farmers",
+      "options": {
+        "A": "Kisan Sree",
+        "B": "Kisan Credit Card",
+        "C": "Green Card",
+        "D": "Kisan Abhiman"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Kisan Sree is the pension scheme introduced by the Kerala government for farmers.",
+      "category": "General"
+    },
+    {
+      "question_number": 94,
+      "question_text": "The first ruler who introduced Agricultural Department in Thiruvithakoor ?",
+      "options": {
+        "A": "Sree Moolam Thirunal",
+        "B": "Swathi Thirunal",
+        "C": "Vishagam Thirunal",
+        "D": "Avittam Thirunal"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sree Moolam Thirunal established the Department of Agriculture in Travancore.",
+      "category": "General"
+    },
+    {
+      "question_number": 95,
+      "question_text": "The operation done by Indian Army for the re-establishment of Peace in Kashmir is known as",
+      "options": {
+        "A": "Operation Vijay",
+        "B": "Operation Calm down",
+        "C": "Operation Meghadooth",
+        "D": "Operation Megha Rahath"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Operation Vijay was associated with operations in Kashmir/Kargil.",
+      "category": "General"
+    },
+    {
+      "question_number": 96,
+      "question_text": "The Trophical Wind that suitable to the coffee plantation in Karnataka",
+      "options": {
+        "A": "Mango Shower",
+        "B": "Nor Wester",
+        "C": "Loo",
+        "D": "Cherry Blossom"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cherry Blossom showers (or coffee showers) are pre-monsoon showers helpful for coffee plantations in Karnataka.",
+      "category": "General"
+    },
+    {
+      "question_number": 97,
+      "question_text": "The country which became the venue of the World Environmental Day of 2016 ?",
+      "options": {
+        "A": "Angola",
+        "B": "India",
+        "C": "China",
+        "D": "Japan"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Angola was the global host nation for World Environment Day 2016.",
+      "category": "General"
+    },
+    {
+      "question_number": 98,
+      "question_text": "The Nightingale of Kashmir who passed away recently ?",
+      "options": {
+        "A": "Raj Beegum",
+        "B": "Gulbathan Beegum",
+        "C": "Jahanara",
+        "D": "Rosnara"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Raj Begum was famously known as the Nightingale of Kashmir.",
+      "category": "General"
+    },
+    {
+      "question_number": 99,
+      "question_text": "The Congress Session accept separate electorate for Muslims",
+      "options": {
+        "A": "Soorat Session of 1907",
+        "B": "Lucknow Session of 1916",
+        "C": "Lahore Session of 1929",
+        "D": "Calcutta Session of 1940"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Lucknow Session of the Indian National Congress in 1916 accepted the separate electorates for Muslims through the Lucknow Pact.",
+      "category": "General"
+    },
+    {
+      "question_number": 100,
+      "question_text": "The Round Table Conference attended by Indian National Congress",
+      "options": {
+        "A": "First Round Table Conference",
+        "B": "Second Round Table Conference",
+        "C": "Third Round Table Conference",
+        "D": "Fourth Round Table Conference"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mahatma Gandhi attended the Second Round Table Conference as the sole official representative of the Indian National Congress.",
+      "category": "General"
+    }
+  ]
+}

@@ -1,0 +1,816 @@
+{
+  "exam_title": "gpat-question-paper-1990",
+  "total_questions": 54,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Reserpine on hydrolysis gives :",
+      "options": {
+        "A": "Reserpic acid + Methyl alcohol + Trimethoxy cinnamic acid",
+        "B": "Reserpic acid + Acetic acid + Trimethoxy benzaldehyde",
+        "C": "Reserpic acid + Methyl alcohol + Trimethoxy benzoic acid",
+        "D": "Reserpic acid + Methyl alcohol + Trimethoxy cinnamaldehyde"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hydrolysis of reserpine yields reserpic acid, trimethoxybenzoic acid, and methanol.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Papaverine is",
+      "options": {
+        "A": "6,7 - dimethoxy -1- (3',4' - dimethoxy benzyl) isoquinoline",
+        "B": "6,7 - dimethoxy -1- (3',4' - dimethyl benzyl) isoquinoline",
+        "C": "6,7 - dimethoxy -1- (3',4' - dimethoxy benzyl) quinolone",
+        "D": "6,7 - dimethoxy -1- (3',4' - dimethyl benzyl) quinolone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Papaverine is an isoquinoline alkaloid containing 6,7-dimethoxy and 3',4'-dimethoxybenzyl substituents.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Titanium dioxide is commonly present in",
+      "options": {
+        "A": "Vanishing cream",
+        "B": "Sunscreen cream",
+        "C": "Aqueous calamine cream",
+        "D": "Opthalmic cream"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Titanium dioxide acts as a physical UV blocker and is widely used in sunscreen creams.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Powder ergot when treated with sodium hydroxide solution develops",
+      "options": {
+        "A": "A strong odour of ammonia",
+        "B": "A strong odour of trimethyl amine",
+        "C": "A strong odour of indol",
+        "D": "A strong odour of urea"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ergot alkaloids treated with alkali liberate volatile amines such as ammonia.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Salbutamol sulphate IP is assayed by",
+      "options": {
+        "A": "Direct titration with standard sodium hydroxide solution",
+        "B": "Direct titration with standard sodium hydrochloric acid",
+        "C": "A known amount of standard acid is added and excess is titrated with standard alkali",
+        "D": "Dissolve in glacial acetic acid and titrated with standard perchloric acid using oracet blue."
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Salbutamol sulphate is a basic amine salt, typically assayed by non-aqueous titration using perchloric acid.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Heparin prevent blood coagulation by",
+      "options": {
+        "A": "Inhibiting thrombin catalysed conversion of fibrinogen to fibrin",
+        "B": "Precipitate blood cakium thereby prevent coagulation reactions",
+        "C": "Inhibiting enzyme reactions",
+        "D": "Converting ionized calcium into chelation"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Heparin potentiates antithrombin III, which inhibits thrombin and prevents the conversion of fibrinogen to fibrin.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 7,
+      "question_text": "For the registration of pharmacist in the various states, the Pharmacy Act provide for the constitution of:",
+      "options": {
+        "A": "Registration of tribunals",
+        "B": "Registrar of Co-operative societies",
+        "C": "Registrar of state pharmacy council",
+        "D": "Registrar of central pharmacy council"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Pharmacy Act provides for the establishment of State Pharmacy Councils for pharmacist registration.",
+      "category": "General"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Powdered digitalis is dried at temperature :",
+      "options": {
+        "A": "Not exceeded $60^{\\circ}\\text{C}$",
+        "B": "$65^{\\circ}\\text{C}$",
+        "C": "$75^{\\circ}\\text{C}$",
+        "D": "$100^{\\circ}\\text{C}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitalis leaves are dried at temperatures not exceeding $60^{\\circ}\\text{C}$ to prevent enzymatic degradation of cardiac glycosides.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Prazepam differ in structure from diazepam by",
+      "options": {
+        "A": "N- methyl group",
+        "B": "N -cyclopropyl group",
+        "C": "N-cyclopropyl methyl group",
+        "D": "N-propyl group"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Prazepam has a cyclopropylmethyl group at position 1 of the benzodiazepine ring, whereas diazepam has a methyl group.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "The mechanism of action of rifampicin involve",
+      "options": {
+        "A": "Inhibition of bacterial DNA directed RNA polymerase",
+        "B": "Inhibition of mycolic acid synthesis",
+        "C": "Inhibition of protein synthesis",
+        "D": "Inhibition of transpeptidase"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rifampicin inhibits bacterial RNA synthesis by binding to the beta subunit of DNA-dependent RNA polymerase.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 11,
+      "question_text": "The UV- visible region in the electromagnetic spectrum of radiation is",
+      "options": {
+        "A": "$200 - 400\\text{ nm}$",
+        "B": "$300 - 660\\text{ nm}$",
+        "C": "$400 - 800\\text{ nm}$",
+        "D": "$200 - 800\\text{ nm}$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The combined UV-Vis spectral region spans from $200\\text{ nm}$ to $800\\text{ nm}$.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 12,
+      "question_text": "The Mantoux test uses",
+      "options": {
+        "A": "Old tuberculin",
+        "B": "Diptheria toxins",
+        "C": "Serum antigens",
+        "D": "Polysaccharide antigens"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Mantoux tuberculin skin test uses purified protein derivative (PPD) or old tuberculin.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Rotosort is a machine used to sort out :",
+      "options": {
+        "A": "Coated tablets",
+        "B": "Filled capsule",
+        "C": "Sealed ampoules",
+        "D": "Sealed containers"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rotosort is a sorting device designed for inspecting and sorting filled hard gelatin capsules.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 14,
+      "question_text": "The volume of distribution of drugs is",
+      "options": {
+        "A": "An expression of total body volume",
+        "B": "A measure of total fluid volume",
+        "C": "A relationship between the total amount of drug in the body and the concentration of the drug in the blood",
+        "D": "Proportional to bioavailability of the drug"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Volume of distribution ($V_d$) relates the total amount of drug in the body to its concentration in the plasma.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Resolution of a spectrophotometer is",
+      "options": {
+        "A": "Its wave length range",
+        "B": "Its ability to distinguish adjacent absorption bands",
+        "C": "Its capacity for its continuous use",
+        "D": "Its power to gather light according to source"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Spectral resolution refers to the instrument's ability to separate closely spaced absorption peaks.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Heloperidol is a major tranquillizer. It belongs to the class of",
+      "options": {
+        "A": "Carbamates",
+        "B": "Propanediol",
+        "C": "Butarophenone",
+        "D": "Phenothiazine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Haloperidol is a typical antipsychotic belonging to the butyrophenone chemical class.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Glandular hair growing having a unicellular or occasionally a short uniserate pedicel with a unicellular or bicellular terminal gland is characteristics of",
+      "options": {
+        "A": "Senna leaves",
+        "B": "Belladonna leaves",
+        "C": "Datura stramonium leaves",
+        "D": "Digitalis Purpurea leaves"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Belladonna leaves characteristically possess glandular hairs with unicellular or short uniseriate pedicels and unicellular/bicellular glands.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Skeletal muscle relation produced by the drug ......is effectively antagonized by neostigmine",
+      "options": {
+        "A": "Diazepam",
+        "B": "Succinylcholine",
+        "C": "Tubocurarine",
+        "D": "Aminophylline"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Neostigmine is an acetylcholinesterase inhibitor that reverses the non-depolarizing neuromuscular blockade caused by tubocurarine.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Vitamin $D_2$ is",
+      "options": {
+        "A": "22,23-dihydro -5,6 cis -ergocakiferol",
+        "B": "5,6 cis- chlorcalciferol",
+        "C": "7- dehydrocholesterol",
+        "D": "21,24 - dihydro 5,6 cis cholecalciferol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Vitamin D2 (ergocalciferol) is chemically 22,23-dihydro-5,6-cis-ergocalciferol (or related ergosterol derivative structure).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "R.W.C. is used to identify the strength on an",
+      "options": {
+        "A": "Antibiotics",
+        "B": "Antipyretics",
+        "C": "Antiseptic",
+        "D": "Antiinflammatory"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "R.W.C. stands for Rideal-Walker Coefficient, which evaluates the potency of antiseptics and disinfectants.",
+      "category": "Microbiology"
+    },
+    {
+      "question_number": 21,
+      "question_text": "The colligative property of a solution is related to the",
+      "options": {
+        "A": "Total number of solute particles",
+        "B": "pH",
+        "C": "Number of ions",
+        "D": "Number of ingredients"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Colligative properties depend solely on the total number of dissolved solute particles in a given amount of solvent.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 22,
+      "question_text": "The essential structural unit for the anthelmintics activity of mebendazole is",
+      "options": {
+        "A": "Benzoyl group",
+        "B": "Benzimidazole",
+        "C": "Methyl carbamates",
+        "D": "Imidazole"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mebendazole and related broad-spectrum anthelmintics feature a benzimidazole core essential for binding tubulin.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 23,
+      "question_text": "The anticoagulant activity of heparin sodium injection IP is estimated byusing :",
+      "options": {
+        "A": "Female rats",
+        "B": "Male rats",
+        "C": "Rabbits",
+        "D": "Sheep"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Assay of heparin is officially performed using rabbits by biological blood clotting time methods.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 24,
+      "question_text": "The biological half-life of a drug (first order kinetics) is represented by",
+      "options": {
+        "A": "$1/K$",
+        "B": "$\\log K$",
+        "C": "$0.693 / K$",
+        "D": "$2.303 / K$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "For first-order elimination, half-life is calculated as $t_{1/2} = \\ln(2) / K \\approx 0.693 / K$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Infra-red spectrometry is a convenient method for understanding of",
+      "options": {
+        "A": "Drug receptor interaction",
+        "B": "Functional group identification",
+        "C": "Physiochemical properties",
+        "D": "Conformational properties"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "IR spectroscopy measures bond vibrations, making it primarily useful for functional group identification.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Most commonly used antimicrobial agent for intraperitoneal dialysis fluid is",
+      "options": {
+        "A": "Chlorocresol",
+        "B": "Benzalkonium chloride",
+        "C": "Isopropyl alcohol",
+        "D": "None of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Intraperitoneal dialysis fluids are typically formulated without added antimicrobial preservatives due to toxicity risks.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 27,
+      "question_text": "In the steroid nucleus, there are",
+      "options": {
+        "A": "Six chiral center with nucleus i.e. 5,8,9,10,13, and 14",
+        "B": "Seven chiral center with nucleus i.e. 3,8,9,10,11, 12 and 14",
+        "C": "Six chiral center with nucleus i.e. 3,8,9,10,11, and 12",
+        "D": "Six chiral center with nucleus i.e. 5,7,9,10,13, and 16"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The standard gonane steroid nucleus possesses six asymmetric carbons at positions 5, 8, 9, 10, 13, and 14.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Thermokabile immiscible liquid can be separated by",
+      "options": {
+        "A": "Decantation",
+        "B": "Dilution",
+        "C": "Capacity centrifugation",
+        "D": "Counter current distribution"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Immiscible liquids that are thermolabile can be simply separated via decantation based on density differences.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Sulphomethoxazole is an antibacterial drug. It is a",
+      "options": {
+        "A": "Short acting drug",
+        "B": "Short and intermediate acting drugs",
+        "C": "Long acting drugs",
+        "D": "Mixed acting drugs"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfamethoxazole is categorized as an intermediate-acting sulfonamide.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Wave number is the number of waves",
+      "options": {
+        "A": "Per second",
+        "B": "Per centimeter",
+        "C": "Per inch",
+        "D": "Per centimeter$^3$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Wavenumber is defined as the number of waves per unit distance, typically expressed in $\\text{cm}^{-1}$ (per centimeter).",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 31,
+      "question_text": "The raw material for the synthesis of propranolol is",
+      "options": {
+        "A": "$\\alpha$ - naphthylamine",
+        "B": "$\\beta$ naphthol",
+        "C": "$\\alpha$ naphthol",
+        "D": "1- nepthaklehyde"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Propranolol is synthesized by reacting 1-naphthol ($\\beta$-naphthol) with epichlorohydrin followed by isopropylamine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "All the statement mentioned below about choral hydrate is true EXCEPT that it",
+      "options": {
+        "A": "Produces hypnosis",
+        "B": "Produces analgesia",
+        "C": "Produce dependence",
+        "D": "Irritate gastric mucosa"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chloral hydrate is a sedative-hypnotic agent and does not possess significant analgesic properties.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 33,
+      "question_text": "In drug and cosmetics act and rules thereunder, list of substances that should be sold by retail only on prescription of registered medical practitioner is given in",
+      "options": {
+        "A": "Schedule H",
+        "B": "Schedule V",
+        "C": "Schedule X",
+        "D": "Schedule Q"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule H of the Drugs and Cosmetics Act lists prescription drugs.",
+      "category": "General"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Which is ideal combination for testing the solubility of an enteric coated capsule in alkaline medium ?",
+      "options": {
+        "A": "Sodium bicarbonnate + Potassium hydroxide + Pepsin",
+        "B": "Sodium bicarbonnate + Sodium tauroglycocholate + Papain",
+        "C": "Sodium bicarbonate + Pancreatin + Sodium tauroglycocholate",
+        "D": "Sodium bicarbonate + Billirubin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Enteric-coated dissolution testing in alkaline medium simulates intestinal fluid using sodium bicarbonate and pancreatic enzymes like pancreatin alongside bile salts.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Oxazepam is used in relief of psychoneurosis. It has lower incidents of side effects and reduced toxicity due to",
+      "options": {
+        "A": "N-demethylation",
+        "B": "Ring oxidation",
+        "C": "Aromatic hydroxylation",
+        "D": "Conjugation of 3- hydroxyl group"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oxazepam already possesses a 3-hydroxy group and is directly conjugated (glucuronidation), avoiding active intermediates formed by other benzodiazepines.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 36,
+      "question_text": "The rate of diffusion of drug across biological membrane is",
+      "options": {
+        "A": "Directly proportional to the concentration gradients",
+        "B": "Dependant on route of administration",
+        "C": "Indirectly proportional to membrane thickness",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to Fick's first law, passive diffusion rate is directly proportional to the concentration gradient across the membrane.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 37,
+      "question_text": "In sugar coating of tablets subcoating is done",
+      "options": {
+        "A": "To prevent moisture deposition",
+        "B": "To round the edge and build tablet size",
+        "C": "To smoothen the surface",
+        "D": "To prevent the tablet from breaking due to vibration"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Subcoating in sugar coating processes is performed to round off tablet edges and rapidly build up tablet weight and size.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 38,
+      "question_text": "One of the detectors used in gas chromatography",
+      "options": {
+        "A": "Bolometer",
+        "B": "Thermal conductivity detector",
+        "C": "Golay detectors",
+        "D": "Giger Counter"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thermal Conductivity Detector (TCD) is a classic and widely used universal detector in gas chromatography.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Alkaloids in cinchona bark are detected by",
+      "options": {
+        "A": "Iodine test",
+        "B": "Thalleoquin test",
+        "C": "Liebermann -Burchard test",
+        "D": "Nessler's test"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cinchona alkaloids like quinine are famously identified using the Thalleoquin test.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 40,
+      "question_text": "2- amino -5-chorbenzophenone is the convenient starting material for the synthesis of",
+      "options": {
+        "A": "Nitrazepam",
+        "B": "Diazepam",
+        "C": "Choramphenicol",
+        "D": "Trimethoprim"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "2-amino-5-chlorobenzophenone is the key intermediate for synthesizing 1,4-benzodiazepines such as diazepam.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Listed below are the instruments used for measuring the factors given in A to E. match them: 1. Rotational viscometer, 2. Penetrometer, 3. Hansen-paddle equipment, 4. Glass electrode semisolids. Factors: A. Shear rate, B. Melting point, C. For consistency and hardness of relatively rigid, D. Dissolution of granules and tablets, E. pH indicating electrode",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-A, 2-C, 3-D, 4-E",
+        "C": "1-E, 2-B, 3-C, 4-A",
+        "D": "1-C, 2-E, 3-B, 4-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Rotational viscometer measures shear rate, penetrometer measures consistency/hardness, Hansen-paddle is for dissolution, and glass electrode is for pH.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Symptoms for the following diseases are indicated from A to E. match them: 1. Cushing's syndrome, 2. Addison's disease, 3. Grave's disease, 4. Crohn's disease. Symptoms: A. Hyperthyrodism, B. Inflammatory bowel, C. Decreases production of cortisol, D. Increased production of cortisol",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-E, 2-C, 3-A, 4-B",
+        "D": "1-C, 2-A, 3-B, 4-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Cushing's syndrome is increased cortisol, Addison's disease is decreased cortisol, Grave's disease is hyperthyroidism, and Crohn's disease is inflammatory bowel.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Some possible causes are mentioned in A to E for the following defects during the film coating of tablets, match them: 1. Chipping, 2. Cracking, 3. Orange peel, 4. Blistering. Causes: A. Poor spreading of sprayed droplets, B. Overheating during spraying, C. High internal stresses in film, D. Excess coating process, E. Precipitate of polymer due to high temperatureor poor solvent",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-E, 2-B, 3-C, 4-A",
+        "D": "1-D, 2-C, 3-A, 4-B"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Defects in film coating correspond to specific mechanical and thermal process parameters.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 210,
+      "question_text": "Match the biological activity listed under A to E for following drugs: 1. $o$-2-naphthyl-$m,N$-dimethylthio carbanilaste, 2. Trans-1,4,5,6-tetrahydro-1-methyl-2[2-(2-thienyl)vinyl]Pyrimidine, 3. 2,4-diamino-5-(p-chlorophenyl)-6-ethylpyrimidine, 4. p-(di-2-choroethyl)aminophenyl butyric acid. Activities: A. Antineoplastic, B. Anthelmentic, C. Antimalarial, D. Antifungal",
+      "options": {
+        "A": "1-D, 2-B, 3-C, 4-A",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-D, 2-B, 3-C, 4-A",
+        "D": "1-C, 2-A, 3-B, 4-D"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Structural classification links these specific derivatives to their pharmacological targets such as antineoplastic and antimalarial activities.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 211,
+      "question_text": "Match the correct method of sterilization listed A to E for the following drugs: 1. Tetracycline injection, 2. Insulin injection, 3. Quinine injection, 4. Morphine injection. Methods: A. Sterilized by dry heat, B. Sterilized by heating with bactericide, C. Sterilized by bacterial filtration, D. Sterilized by aseptic method, E. Sterilized by heating in an autoclave",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-E, 2-B, 3-C, 4-A",
+        "D": "1-D, 2-C, 3-E, 4-B"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Thermolabile or sensitive injectables require appropriate non-thermal or specialized terminal sterilization methods.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 212,
+      "question_text": "Given below are the receptors and their antagonists. match them correctly: 1. GABA receptors, 2. Histmainine $GH_2$ receptors, 3. Opiate receptors, 4. $\\beta$-adernergic receptors. Antagonists: A. Buprenorphine, B. Diazepam, C. Ranitidine, D. Nifedipine, E. Atenolol",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-B, 2-C, 3-A, 4-E",
+        "C": "1-E, 2-B, 3-C, 4-A",
+        "D": "1-C, 2-E, 3-B, 4-D"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Diazepam acts at GABA receptors, ranitidine at H2 receptors, buprenorphine is related to opiate receptors, and atenolol is a beta-adrenergic blocker.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 213,
+      "question_text": "The names of equations for various expression are given below. match them correctly: 1. $i_d = 607NCD^{1/2}m^{2/3}t^{1/6}$, 2. $V = \\frac{\\pi r^4 \\Delta P}{8ln}$, 3. $[\\eta] = KM_a$, 4. $T_g = (0.5 - 0.67) T_m$. Equations: A. Mark-Houwink, B. Likovic, C. Poiseuille, D. Boyer-Beaman, E. Beer-lambert",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-B, 2-C, 3-A, 4-D",
+        "D": "1-C, 2-A, 3-B, 4-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Likovic equation (Ilkovic equation variant), Poiseuille's law, Mark-Houwink equation, and Boyer-Beaman rule.",
+      "category": "General"
+    },
+    {
+      "question_number": 214,
+      "question_text": "The various equipments are used for size reduction of material of different nature. Match them correctly: 1. Rod mill, 2. Fluid energy mill, 3. Cutting mill, 4. Revolving mill. Materials: A. Sticky material, B. Abrasive material, C. Thermolabile material, D. Fibrous material, E. Thermostable material",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-A, 2-C, 3-D, 4-B",
+        "D": "1-C, 2-E, 3-B, 4-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Rod mills handle abrasive materials, fluid energy mills handle thermolabile materials, cutting mills handle fibrous materials, and revolving mills handle various other substances.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 215,
+      "question_text": "Match the drugs in A to E which inhibit the following enzymes: 1. Carbonic anhydrase, 2. Dihydrofolatesynthtase, 3. $\\beta$-lactumase, 4. Acetylcholinesterase. Inhibitors: A. Dicloxacillin, B. Physostigmine, C. Acetazolamide, D. Sulphanilamide, E. Ibuprofen",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-E, 2-B, 3-C, 4-A",
+        "D": "1-C, 2-D, 3-A, 4-B"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Acetazolamide inhibits carbonic anhydrase, sulphanilamide inhibits dihydropteroate synthase, dicloxacillin inhibits beta-lactamase, and physostigmine inhibits acetylcholinesterase.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 216,
+      "question_text": "Given below are some of the important drugs. appropriate tests are listed in A to E. match them correctly: 1. Cardiac glycoside, 2. Ergot alkaloids, 3. Quinidine sulphate, 4. Camphor. Tests: A. p-dimethylaminobenzaldehyde, B. Fluorescence test, C. Liebermann Burchard test, D. 2,4 dinitrophenyl hydrazine, E. Benedict's test",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-E, 2-C, 3-E, 4-B",
+        "D": "1-C, 2-E, 3-B, 4-D"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Liebermann-Burchard for cardiac glycosides, PDAB for ergot alkaloids, fluorescence test for quinidine, and DNPH for camphor.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 217,
+      "question_text": "The undesirable effects of the antibiotics are listed in A to E. match them: 1. Tetracycline, 2. Strptomycin, 3. Chloramphenicol, 4. Rifampicin. Effects: A. Gray-baby syndrome, B. Discolouration of teech, C. Jaundice, D. Obesity, E. Ototoxicity",
+      "options": {
+        "A": "1-B, 2-E, 3-A, 4-C",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-E, 2-B, 3-C, 4-A",
+        "D": "1-D, 2-C, 3-E, 4-B"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Tetracycline causes tooth discoloration, streptomycin causes ototoxicity, chloramphenicol causes gray-baby syndrome, and rifampicin causes jaundice/hepatotoxicity.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 218,
+      "question_text": "Choose the most appropriate strating material listed in A to E for the synthesis of the following: 1. Riboflavin, 2. Progesterone, 3. Isoniazide, 4. Indomethacin. Materials: A. p-antisidine, B. 3,4 diemthyl aniline and D- ribose, C. Diosgenin, D. \\gamma-picoline, E. Lumiflavine",
+      "options": {
+        "A": "1-B, 2-C, 3-D, 4-A",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-E, 2-B, 3-C, 4-A",
+        "D": "1-C, 2-E, 3-B, 4-D"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Riboflavin synthesis uses 3,4-dimethylaniline and D-ribose, progesterone uses diosgenin, isoniazid uses gamma-picoline, and indomethacin uses p-anisidine derivatives.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 219,
+      "question_text": "Absorption frequency ($cm^{-1}$) in IR spectroscopy for carbonyl group are given in A to E match them: 1. -COCl, 2. -O-C(=O)-, 3. -CHO, 4. -CONH2. Frequencies: A. 1720, B. 1735, C. 1750, D. 1776, E. 1812",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-D, 2-E, 3-B, 4-A",
+        "D": "1-C, 2-E, 3-B, 4-D"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Acid chlorides have higher carbonyl stretching frequencies (~1812 cm^-1) due to inductive effects, esters around 1735, aldehydes around 1750, and amides around 1720.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 220,
+      "question_text": "Following are the prefixes used in nomenclature which signifies as indicated from A to E match them: 1. Levo, 2. Ortho, 3. Poly, 4. Hetero. Meanings: A. Not all the same atom, B. Rotate the plain polarized light to the left, C. Made up of many group, D. Signifies the 1,2 position in benzene ring, E. Three-configuration",
+      "options": {
+        "A": "1-B, 2-A, 3-D, 4-C",
+        "B": "1-A, 2-B, 3-C, 4-D",
+        "C": "1-E, 2-B, 3-C, 4-A",
+        "D": "1-B, 2-D, 3-C, 4-A"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": "Levo means rotation to the left, ortho means 1,2-disposition, poly means many groups/units, and hetero means not all the same atom.",
+      "category": "General"
+    }
+  ]
+}

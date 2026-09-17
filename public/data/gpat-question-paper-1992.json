@@ -1,0 +1,906 @@
+{
+  "exam_title": "gpat-question-paper-1992",
+  "total_questions": 60,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Simethicone is a component of several antacid formulations. Chemically it is",
+      "options": {
+        "A": "Wax",
+        "B": "Fat",
+        "C": "Aldehyde",
+        "D": "Silicon"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Simethicone is a mixture of simethicone containing polydimethylsiloxane and silica.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 2,
+      "question_text": "The pharmacy Council of India is constituted by the",
+      "options": {
+        "A": "Central Government",
+        "B": "State Government",
+        "C": "Parliament",
+        "D": "Legislative Assembly"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Pharmacy Council of India (PCI) is constituted by the Central Government under Section 3 of the Pharmacy Act, 1948.",
+      "category": "General"
+    },
+    {
+      "question_number": 3,
+      "question_text": "All of the following physicochemical constants are useful in predicting the solubility of a drug except",
+      "options": {
+        "A": "Dielectric constants",
+        "B": "pH of a solution",
+        "C": "pK_a of the drug",
+        "D": "Valency"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Valency does not typically predict the solubility of organic drug molecules compared to dielectric constant, pH, and pKa.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Sigma blade mixers are commonly used in",
+      "options": {
+        "A": "Wet granulation",
+        "B": "Dry granulation",
+        "C": "Powder mixing",
+        "D": "Crude fibre mixing"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sigma blade mixers provide intensive shearing action suitable for mixing viscous masses typical in wet granulation.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "The 5 beta-pregnane is said to have a",
+      "options": {
+        "A": "Trans-anti-trans-anti-trans backbone",
+        "B": "Cis-anti-trans-anti-trans backbone",
+        "C": "Cis-syn-trans-syn-trans backbone",
+        "D": "Trans-anti-cis-anti-cis backbone"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The 5 beta steroid series features a cis A/B ring junction, resulting in a cis-syn-trans-syn-trans configuration.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Many drugs are chiral. In a synthesis of chiral drug molecules in a symmetric environment",
+      "options": {
+        "A": "Always one enantiomer is obtained",
+        "B": "Always both enantiomers is obtained in equal amounts",
+        "C": "Always both enantiomers is obtained in unequal amounts",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A reaction in a symmetric environment without a chiral auxiliary yields a racemic mixture (equal amounts of both enantiomers).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Poorly manufactured tablets may have small pinholes on the surface. This phenomenon is known as",
+      "options": {
+        "A": "Picking",
+        "B": "Mottling",
+        "C": "Leaching",
+        "D": "Cracking"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Picking is the tablet defect where a small portion of tablet material sticks to and is removed from the surface by a punch face.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Ascorbic acid exists in nature",
+      "options": {
+        "A": "Only in the reduced form which has only biological activity",
+        "B": "Only in the oxidized form which has only biological activity",
+        "C": "In both reduced and the oxidized forms in the state of reversible equilibrium which has biological activity",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ascorbic acid and dehydroascorbic acid exist in a reversible redox equilibrium in biological systems, both contributing to activity.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 9,
+      "question_text": "In the stable conformation of 5 alpha-pregnane",
+      "options": {
+        "A": "Rings A, B, C are in boat conformation",
+        "B": "Rings A and B are in boat while C in chair conformation",
+        "C": "Ring A is in boat while B and C in chair conformation",
+        "D": "All the three rings are in chair conformation"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Steroid rings in their stable configurations predominantly adopt the chair conformation.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Among the following preparations, which one will be the most irritating to the eye?",
+      "options": {
+        "A": "Purified water",
+        "B": "$0.7\\%$ NaCl solution",
+        "C": "$0.9\\%$ NaCl solution",
+        "D": "$1\\%$ NaCl solution"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Purified water is completely hypotonic to eye fluids, causing high osmotic irritation, whereas $0.9\\%$ NaCl is isotonic.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 11,
+      "question_text": "In case of hypothyroidism, the preferred thyroid preparation is",
+      "options": {
+        "A": "Levothyroxine",
+        "B": "Dextrothyroxine",
+        "C": "Leothyroxine",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Levothyroxine (synthetic T4) is the drug of choice for the treatment of hypothyroidism.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 12,
+      "question_text": "D-Fructose on simple reduction gives",
+      "options": {
+        "A": "L-Fructose",
+        "B": "Only Sorbitol",
+        "C": "Mannitol",
+        "D": "Mixture of Mannitol and Sorbitol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reduction of D-fructose creates a new chiral center at C-2, producing a mixture of two hexitols: D-glucitol (sorbitol) and D-mannitol.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Lugol's solution contains $5\\%$ of iodine. How much of Lugol's solution is administered to a patient thrice daily to provide $60\\text{ mg}$ of iodine daily?",
+      "options": {
+        "A": "$0.2\\text{ ml}$",
+        "B": "$0.3\\text{ ml}$",
+        "C": "$0.4\\text{ ml}$",
+        "D": "$0.5\\text{ ml}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Daily dose is $60\\text{ mg}$. Since Lugol's has $5\\text{ g}$ per $100\\text{ ml}$ ($50\\text{ mg/ml}$), total daily volume needed is $60/50 = 1.2\\text{ ml}$, divided by three times daily gives $0.4\\text{ ml}$ per dose.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 14,
+      "question_text": "The anticoagulant Heparin is obtained from",
+      "options": {
+        "A": "Sheep's lung",
+        "B": "Dog's kidney",
+        "C": "Rabit's heart",
+        "D": "Rat's uterus"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Commercial heparin is traditionally extracted from bovine lung or porcine intestinal mucosa, but historically and classically from sheep or bovine lung.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Which one of the following types of adverse drug reactions are not believed to be dose-related phenomenon?",
+      "options": {
+        "A": "Side effects and toxic reactions",
+        "B": "Toxic reactions and hypersensitivity",
+        "C": "Side effects and hypersensitivity",
+        "D": "Hypersensitivity and idiosyncrasy"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Type B (bizarre) reactions like hypersensitivity and idiosyncrasy are unpredictable and generally not dose-related.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 16,
+      "question_text": "The structure of a drug having an asymmetric center is: structure with a phenyl ring attached to a CH(CH3) group, which is attached to a CH(COOH) group with an H wedge. Using the IUPAC system, the configuration will be",
+      "options": {
+        "A": "R",
+        "B": "S",
+        "C": "alpha",
+        "D": "beta"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Determining priority according to Cahn-Ingold-Prelog rules yields the R configuration for this ibuprofen-like intermediate.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Cryoscopic method is familiar in the calculations of isotonic solutions. This method is based on",
+      "options": {
+        "A": "Freezing point depression of the drug",
+        "B": "Molecular concentration of the drug",
+        "C": "pH of the drug",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cryoscopy is the branch of physics dealing with freezing point depression, used to calculate tonicity.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 18,
+      "question_text": "One thousand nanogram equal to one",
+      "options": {
+        "A": "Centrigram",
+        "B": "Gram",
+        "C": "Kilogram",
+        "D": "Microgram"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "$1000\\text{ ng} = 1\\text{ microgram}$ ($1\\mu\\text{g}$).",
+      "category": "General"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Biological role of thiamine is because of facile formation of",
+      "options": {
+        "A": "Thiamine hydrochloride",
+        "B": "Thiamine pyrophosphate",
+        "C": "Thiamine sulphate",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiamine pyrophosphate (TPP) is the active coenzyme form of vitamin B1 involved in decarboxylation reactions.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Infected blood products may produce serum hepatitis due to the presence of",
+      "options": {
+        "A": "Hepatitis A virus",
+        "B": "Hepatitis B virus",
+        "C": "Hepatitis C virus",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Serum hepatitis is historically synonymous with Hepatitis B virus transmitted via blood products.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 21,
+      "question_text": "pH of a buffer system can be calculated by using",
+      "options": {
+        "A": "pH partition theory",
+        "B": "Noyes-Whitney law",
+        "C": "Henderson-Hasselbalch equation",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Henderson-Hasselbalch equation relates pH to pKa and the ratio of buffer ion concentrations.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Osmolality measures the total number of particles dissolved in a ........ of water and depends on the electrolytic nature of the solute.",
+      "options": {
+        "A": "Kilogram",
+        "B": "Kilolitre",
+        "C": "Litre",
+        "D": "Specified quantity"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Osmolality is expressed as the number of osmoles of solute per kilogram of solvent (water).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Ergot is the sclerotium of",
+      "options": {
+        "A": "Fungus Claviceps purpurea",
+        "B": "Fungus Claviceps notatum",
+        "C": "Strychnos Mixpotatorm",
+        "D": "Fungus Pencillium chrysogenum"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ergot is the dried sclerotium of the fungus Claviceps purpurea.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 24,
+      "question_text": "A highly sensitive semiquantitative method of detecting microbial antigen in biological fluid is done by",
+      "options": {
+        "A": "Radioimmuno electrophoresis",
+        "B": "Counter immunoelectrophoresis",
+        "C": "H.P.L.C",
+        "D": "Freeze dried centrifugal method"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Counter-immunoelectrophoresis (CIE) is a standard sensitive serological test used for rapid detection of microbial antigens.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 25,
+      "question_text": "The glass electrode used in pH measurements is",
+      "options": {
+        "A": "Metal-metaloxide electrode",
+        "B": "A membrane electrode",
+        "C": "Ion selective electrode",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A glass electrode is a type of ion-selective electrode made of a doped glass membrane that is sensitive to hydrogen ions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 26,
+      "question_text": "In phenothiazine tranquillizing agents, replacement of C-2 hydrogen by chlorine",
+      "options": {
+        "A": "Decreases activity",
+        "B": "Increases activity",
+        "C": "Activity unaffected",
+        "D": "Leads to decreased penetration into the CNS"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Substitution of an electron-withdrawing group like chlorine at position 2 of phenothiazines increases antipsychotic potency.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 27,
+      "question_text": "The loading dose of a drug is based upon the",
+      "options": {
+        "A": "Time taken for complete elimination",
+        "B": "Percentage of drug excreted unchanged in urine",
+        "C": "Percentage of drug bound to plasma protein",
+        "D": "Apparent volume of distribution and the desired drug concentration in plasma"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Loading dose = (Target concentration * Volume of distribution) / Bioavailability.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Conformation of drugs is commonly determined by",
+      "options": {
+        "A": "NMR",
+        "B": "NMI",
+        "C": "Mass spectrometry",
+        "D": "pH determination"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nuclear Magnetic Resonance (NMR) spectroscopy is a primary tool for determining 3D molecular conformation.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Aminophylline solutions on exposure to air may develop",
+      "options": {
+        "A": "Crystals of theophylline",
+        "B": "Precipitate of aminophylline",
+        "C": "Precipitate of ethylenediamine",
+        "D": "Straw colour"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aminophylline absorbs carbon dioxide from the air, releasing free theophylline which can precipitate out of solution.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 30,
+      "question_text": "The hypotensive effect of clonidine is due to its action on",
+      "options": {
+        "A": "Beta-adrenergic receptor",
+        "B": "Alpha-adrenergic receptor",
+        "C": "H2-receptor",
+        "D": "H2 receptor"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clonidine is a central alpha-2 adrenergic agonist that lowers blood pressure by decreasing sympathetic outflow.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 31,
+      "question_text": "A step in Vitamin A synthesis is: A cyclohexenyl ring with a side chain containing a carbonyl group (C1=CC(C)=CC1C=O) + NaC#CH in liquid NH3 yields a product. The product obtained will be",
+      "options": {
+        "A": "3-hydroxy-3-methyl-1-pentene-4-yne",
+        "B": "hex-1-yn-5-one",
+        "C": "3-amino-3-methyl-1-pentene-4-yne",
+        "D": "None of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The reaction involves ethynylation of a C15 ketone intermediate yielding a C20 acetylenic carbinol intermediate in vitamin A synthesis.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Sodium nitroprusside is one of the most potent blood-pressure lowering drugs. Its use is limited because of",
+      "options": {
+        "A": "Its short duration of action",
+        "B": "Very long duration of action",
+        "C": "Ineffective of oral route",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium nitroprusside requires continuous IV infusion due to its very short duration of action (minutes), limiting routine use.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Cocaine is a monoacid tertiary base which on treatment with hot dilute acids gives",
+      "options": {
+        "A": "Ecogonine, methyl alcohol and scopic acid",
+        "B": "Ecogonine, methyl alcohol and cinnamic acid",
+        "C": "Ecogonine, methyl alcohol and benzoic acid",
+        "D": "Ecogonine, ethyl alcohol and benzoic acid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hydrolysis of cocaine breaks down the ester linkages to yield ecgonine, benzoic acid, and methanol.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Use of Isoniazid is restricted due to",
+      "options": {
+        "A": "Ototoxicity",
+        "B": "Hepatotoxicity",
+        "C": "Neutrotoxicity",
+        "D": "Bone marrow depression"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Isoniazid therapy is closely monitored primarily due to the risk of drug-induced hepatitis (hepatotoxicity).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Diosgenin is",
+      "options": {
+        "A": "An alkaloid obtained from dioscorea",
+        "B": "A carbohydrate obtained from disscorea",
+        "C": "A glycoside obtained from dioscorea",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diosgenin is a steroidal sapogenin obtained as a glycoside from Dioscorea species, used as a precursor for steroid hormones.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 36,
+      "question_text": "The IUPAC nomenclature of the sulindac analogue shown in the structure (indene derivative with CH2COOH and CH3 groups) is",
+      "options": {
+        "A": "(Z)-5-Fluoro-2-methyl-1-phenylmethylene-1H-indene-3-acetic acid",
+        "B": "(E)-5-Fluoro-2-methyl-1-phenylmethylene-1H-indene-3-acetic acid",
+        "C": "5-Fluoro-2-methyl-1-phenylmethylene-1H-indene-3-acetic acid",
+        "D": "(R)-5-Fluoro-2-methyl-1-phenylmethylene-1H-indene-3-acetic acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulindac and its active analogs feature the (Z)-configuration across the exocyclic double bond.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Bubble point test is done to determine",
+      "options": {
+        "A": "The surface tension of the liquid in capillary tubes",
+        "B": "The viscosity of the liquid in ampoules",
+        "C": "The pH of a $1\\%$ solution",
+        "D": "The volume of the solution stored in a specified container"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The bubble point test measures the maximum pore size of membrane filters based on capillary forces and liquid surface tension.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 38,
+      "question_text": "The \"Hemiacetal\" form of aldosterone is between",
+      "options": {
+        "A": "C-11, beta -hydroxyl and C-20 carbonyl",
+        "B": "C-11, beta -hydroxyl and C-21 hydroxy",
+        "C": "C-11, beta -hydroxyl and C-18 carbonyl",
+        "D": "C-21, hydroxyl and C-20 carbonyl"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In aqueous solution, aldosterone forms a cyclic hemiacetal linkage between the 11-beta-hydroxyl group and the 18-aldehyde group.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Surfactants are characterized by the presence of",
+      "options": {
+        "A": "Water solubilizing and fat solubilizing groups in the same molecule",
+        "B": "Only negative charges",
+        "C": "Only positive charges",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Surfactants are amphiphilic molecules possessing both hydrophilic (water-solubilizing) and lipophilic (fat-solubilizing) domains.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Acetous perchloric acid solution a common titrant in non-aqueous titrimetry is standardized by",
+      "options": {
+        "A": "Standard alcoholic KOH solution",
+        "B": "N/10 Potassium permanganate",
+        "C": "Potassium hydrogen phthalate solution in glacial acetic acid",
+        "D": "Mercuric acetate in glacial acetic acid"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Potassium hydrogen phthalate is widely used as a primary standard for standardizing perchloric acid in glacial acetic acid.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 41,
+      "question_text": "The antibiotics mentioned below are obtained from the organisms listed from A to E. Match them: (1) Neomycin, (2) Gentamycin, (3) Bacitracin, (4) Tobramycin with (A) Streptomyces fradiae, (B) Micromonospora purpurea, (C) Streptomyces tenebrarius, (D) Bacillus subtilis, (E) Bacillus polymyxa.",
+      "options": {
+        "A": "1-A, 2-C, 3-B, 4-D",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Neomycin comes from S. fradiae, Gentamycin from M. purpurea, Bacitracin from B. subtilis, and Tobramycin from S. tenebrarius (Matches 1-A, 2-B, 3-D, 4-C).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Given below is a list of medicinal plants. Match them correctly with the list of constituents given in A to E: (1) Holarrhenaa ntidsyenterica, (2) Cymbopogan flexuous, (3) Urginea indica, (4) Linum usitatissimum with (A) Conessine, (B) Citral, (C) Mucilage, (D) Cocaine, (E) Scillarenin.",
+      "options": {
+        "A": "1-A, 2-C, 3-B, 4-D",
+        "B": "1-A, 2-B, 3-E, 4-C",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Holarrhena contains conessine, Cymbopogon contains citral, Urginea contains scillarenin, and Linum contains mucilage.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 43,
+      "question_text": "The following drugs are included under the schedules listed in A to E. Match them: (1) Meprobamate, (2) Poisonous drugs, (3) Ophthalmic preparations, (4) Biological and special products with (A) Schedule E, (B) Schedule FF, (C) Schedule C and C, (D) Schedule X, (E) Schedule Q.",
+      "options": {
+        "A": "1-D, 2-A, 3-B, 4-C",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Meprobamate is a psychotropic drug under Schedule X, Poisonous drugs under Schedule E, Ophthalmic under FF, and Biologicals under C/C1.",
+      "category": "General"
+    },
+    {
+      "question_number": 2,
+      "question_text": "2.4. Following drugs contain 2 hydroxyl groups each. Nature of these hydroxyl groups are indicated in A to E. Match them correctly. (1) Morphine (2) Chloramphenicol (3) Apomorphine (4) Cortisone",
+      "options": {
+        "A": "1-A, 2-C, 3-B, 4-D",
+        "B": "1-D, 2-A, 3-C, 4-E",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Morphine has one phenolic and one alcoholic OH group (1-D), chloramphenicol has alcoholic OH groups (2-A), apomorphine has two phenolic OH groups (3-C), and cortisone has alcoholic and other groups.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 5,
+      "question_text": "2.5. The following drug molecules contain heterocyclic rings listed in A to E. match them correctly. (1) Haloperidol (2) Sulphadiazine (3) Amiloride (4) Pheniramine",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Haloperidol contains piperidine (1-C), sulphadiazine contains pyrimidine (2-A), amiloride contains pyrazine/guanidine related structures, and pheniramine contains pyridine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 6,
+      "question_text": "2.6. Following drugs exhibit their action by enzyme inhibition. Enzymes are listed in A to E. Match them correctly. (1) Captopril (2) Clavulanic acid (3) Pargyline (4) Methozolamide",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-E, 2-A, 3-B, 4-D",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Captopril inhibits ACE (1-E), clavulanic acid inhibits $\\beta$-lactamase (2-A), pargyline inhibits MAO (3-B), and methazolamide inhibits carbonic anhydrase (4-D).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 7,
+      "question_text": "2.7. Following preparations are assayed by biological techniques using the animal or its parts listed in A to E. match them correctly. (1) Cod liver oil (2) Heparin injection (3) Oxytocin injection (4) Insulin injection",
+      "options": {
+        "A": "1-D, 2-A, 3-C, 4-B",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cod liver oil is assayed using rats/chickens for vitamins, heparin using sheep blood, oxytocin using rat uterus, and insulin using rabbit blood sugar reduction.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 8,
+      "question_text": "2.8. Following I.P. assays involve the principles in A to E. Match them. (1) Sodium chloride injection (2) Trimethoprim (3) Analgin tablets (4) Ascorbic acid",
+      "options": {
+        "A": "Titration with N/10 iodine",
+        "B": "Oxidation involving $2:6$ dichlorophenol indophenol",
+        "C": "Argentometry",
+        "D": "Non-aqueous titration"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium chloride injection is assayed by argentometry (Mohr's or Volhard's method).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "2.9. Given below are some antihypertensive mechanisms. Drugs which are closely associated with these mechanisms of action are listed in A to E. Match them correctly? (1) Ganglion blocking (2) Catecholamine depletor (3) False neurotransmitter (4) Direct action on arterioles",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-D, 2-C, 3-A, 4-B"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ganglion blockers include mecamylamine, catecholamine depletors include reserpine, false neurotransmitters include methyldopa, and direct arteriolar dilators include hydralazine.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 10,
+      "question_text": "2.10. Listed are Vitamins. Their associations with certain coenzymes are well known. The names of coenzymes are given in A to E. match them correctly. (1) Thiamine (2) Riboflavin (3) Panothenic acid (4) Nicotinamide",
+      "options": {
+        "A": "1-A, 2-D, 3-B, 4-C",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiamine forms TPP (co-carboxylase), riboflavin forms FAD, pantothenic acid forms coenzyme A, and nicotinamide forms NAD.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 11,
+      "question_text": "2.11. Listed are some of the crude drugs which are tested for the active constituents by the tests mentioned in A to E. Match them correctly. (1) Cinchona Bark (2) Nux vomica seeds (3) Digitalis leaves (4) Senna leaves",
+      "options": {
+        "A": "1-A, 2-D, 3-B, 4-C",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cinchona uses fluorescence test (quinine fluorescence), Nux vomica uses Mayer's test, Digitalis uses Keller-Killiani test, and Senna uses Borntrager's test.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 12,
+      "question_text": "2.12. Listed are some of the common volatile oils. Their active constituents are given in A to E. match them correctly. (1) Peppermint oil (2) Turpentine oil (3) Eucalyptus oil (4) Lemon oil",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-D, 2-C, 3-B, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Peppermint oil contains menthol (D), turpentine oil contains pinene (C), eucalyptus oil contains cineole (B), and lemon oil contains limonene (A).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 13,
+      "question_text": "2.13. Match each pair with the type of a structural relationship they exhibit. (1) (R) and (S) Naproxen (2) Dilactim and Monolactim (3) Quinine and Quinidine (4) Eclipsed and staggered form",
+      "options": {
+        "A": "1-C, 2-A, 3-B, 4-E",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "R/S isomers are enantiomers (non-superimposable mirror images), dilactim/monolactim are tautomers, quinine/quinidine are diastereomers, and eclipsed/staggered are conformational isomers.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 14,
+      "question_text": "2.14. Various polymers used in pharmacy are given. Match with the respective monomers A to E. (1) Carbopol (2) Eudragits (3) Polyethylene (4) Polycarbonate",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-E, 2-A, 3-B, 4-D"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Carbopol uses acrylic acid (E), Eudragits use methacrylate esters (A), polyethylene uses ethylene (B), and polycarbonate uses bisphenol + phosgene (D).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "2.15. Following are some naturally occurring substances. They are classified under different categories which are listed in A to E. match them correctly. (1) Prostaglandins (2) Codeine (3) Angiotensin II (4) Strophanthidin",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-B, 2-A, 3-D, 4-E",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Prostaglandins are eicosanoids (1-B), codeine is an opioid (2-A), angiotensin II is a peptide (3-D), and strophanthidin is a cardenolide (4-E).",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 16,
+      "question_text": "2.16. Following are some of the analytical instruments. Their important components are listed in A to E. Match them correctly. (1) HPLC (2) IR double beam spectrophotometer (3) Karl-Fischer titrator (4) Polarograph",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-C, 2-A, 3-D, 4-B",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HPLC uses an isocratic/gradient pump (1-C), IR uses a monochromator (2-A), polarograph uses a dropping mercury electrode (4-B).",
+      "category": "General"
+    },
+    {
+      "question_number": 17,
+      "question_text": "2.17. The hard gelatin capsule sizes are mentioned in their number. Their approximate capacity are listed in A to E. Match their correct volume. (1) 0 (2) 1 (3) 3 (4) 5",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-A, 2-B, 3-D, 4-C",
+        "D": "1-D, 2-E, 3-C, 4-B"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Standard capsule size volumes are: size 0 is ~0.68-0.8 ml (approx 0.55-0.75 range), size 5 is the smallest (~0.13 ml), matching standard pharmacopeial volume tables.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 18,
+      "question_text": "2.18. Listed are some of the commonly used drugs. Their pharmacological actions are listed in A to E. match them. (1) Aspirin (2) Acetaminophen (3) Phenylbutazone (4) Probenacid",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-D, 2-C, 3-B, 4-E",
+        "D": "1-B, 2-C, 3-B, 4-E"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aspirin is a non-steroidal anti-inflammatory analgesic, acetaminophen is non-opioid analgesic, phenylbutazone is anti-inflammatory, probenecid increases uric acid excretion (uricosuric).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 19,
+      "question_text": "2.19. Match the preservations/antioxidants listed in A to E for the preparations mentioned below. (1) Anaesthetic ether (2) Formaldehyde (3) Injection of Adrenaline (4) Injection of Aminophylline",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-E, 2-C, 3-D, 4-B",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ether uses alcohol as preservative, formaldehyde uses paraformaldehyde/stabilizers, adrenaline uses sodium bisulphate as antioxidant, and aminophylline uses ethylenediamine.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 20,
+      "question_text": "2.20. In communition, certain type of materials listed in A to E are not suitable for the mills mentioned below. Match them. (1) Cutter mill (2) Hammer mill (3) Revolving mill (4) Fluid energy mill",
+      "options": {
+        "A": "1-C, 2-A, 3-D, 4-B",
+        "B": "1-B, 2-D, 3-C, 4-A",
+        "C": "1-E, 2-C, 3-D, 4-B",
+        "D": "1-B, 2-E, 3-C, 4-A"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cutter mills handle fibrous/soft materials, hammer mills handle brittle/friable, fluid energy mills avoid sticky/abrasive materials depending on specific equipment limitations.",
+      "category": "Pharmaceutics"
+    }
+  ]
+}

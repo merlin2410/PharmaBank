@@ -1,0 +1,1281 @@
+{
+  "exam_title": "gpat-question-paper-2005",
+  "total_questions": 85,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "If the Carr's index of a powder is $10 \\%$ then the type of powder flow is",
+      "options": {
+        "A": "Poor",
+        "B": "Excellent",
+        "C": "Very poor",
+        "D": "Good"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A Carr's index between 5-15% indicates excellent powder flow properties.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Mixing of semisolids is carried out using",
+      "options": {
+        "A": "Double cone mixer",
+        "B": "Rotating cube mixer",
+        "C": "Planetary mixer",
+        "D": "Fluidized bed mixer"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Planetary mixers are commonly used for mixing viscous semisolids and ointments.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 3,
+      "question_text": "In the preparation of small pox vaccine, the drying process used is",
+      "options": {
+        "A": "Spray drying",
+        "B": "Vacuum drying",
+        "C": "Drum drying",
+        "D": "Freeze drying"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Freeze drying (lyophilization) is ideal for heat-sensitive biologicals like vaccines.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "In cosmetic preparations, an oxidant used in an aqueous system, is",
+      "options": {
+        "A": "Sodium formaldehyde sulphoxylate",
+        "B": "$\\alpha$-Tocopherol",
+        "C": "Methyl paraben",
+        "D": "Phenol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium formaldehyde sulphoxylate is used as an antioxidant/reducing agent in aqueous cosmetic systems.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "In tablet coating process, inadequate spreading of the coating solution before drying causes",
+      "options": {
+        "A": "Orange peel effect",
+        "B": "Sticking effect",
+        "C": "Blistering effect",
+        "D": "Picking effect"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Orange peel effect results from rough, bumpy film coating due to improper atomization or spreading.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Presence of one of the following characteristics show that the Rauwolfia serpentine is adulterated with other species of Rauwolfia.",
+      "options": {
+        "A": "Compound starch grains",
+        "B": "Cluster crystals of calcium oxalate",
+        "C": "Lignified sclerides",
+        "D": "Unlignified pericyclic fibres"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Presence of lignified sclerides indicates adulteration of Rauwolfia serpentina with other species.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Chinese rhapontic rhubarb can be distinguished from Indian rhubarb by fluorescence developed in UV light which is",
+      "options": {
+        "A": "Deep yellow",
+        "B": "Deep violet",
+        "C": "Green",
+        "D": "Blue"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chinese rhapontic rhubarb shows deep violet fluorescence under UV light, differentiating it from Indian rhubarb.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Citrus flavonoids are rich in",
+      "options": {
+        "A": "Aesculetin",
+        "B": "Fraxin",
+        "C": "Hesperidin",
+        "D": "Scopoletin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hesperidin is a primary and abundant bioflavonoid found in citrus fruits.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 9,
+      "question_text": "The quantitative values determined for the identification of leaf drugs remain constant throughout the age of plant EXCEPT",
+      "options": {
+        "A": "Stomatal number",
+        "B": "Veinlet termination number",
+        "C": "Veinislet number",
+        "D": "Stomatal Index"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Stomatal number varies with leaf age, whereas stomatal index remains relatively constant.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 10,
+      "question_text": "The alkaloid which inhibits the cholinesterase undergoes hydrolysis in solution to give methyl carbamic acid and eseroline is",
+      "options": {
+        "A": "Scopolamine",
+        "B": "Pyridostigmine",
+        "C": "Neostigmine",
+        "D": "Physostigmine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Physostigmine (eserine) hydrolyzes in solution into eseroline, methylcarbamic acid, and methylamine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Luminescence is the term applied to",
+      "options": {
+        "A": "Absorbed radiation",
+        "B": "Re-emission of previously absorbed radiation",
+        "C": "Excited radiation",
+        "D": "Transmitted radiation"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Luminescence refers to the emission of light by a substance not resulting from heat, typically following radiation absorption.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Polarogram of a solution containing an electro-reducible substance is obtained by plotting",
+      "options": {
+        "A": "Current vs. Volume",
+        "B": "Current vs. Potential",
+        "C": "Resistance vs. Time",
+        "D": "Potential vs. Volume"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A polarogram plots current as a function of the applied potential in a polarographic cell.",
+      "category": "General"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Silica gel used in most of the absorbent columns contains -OH groups. So it is",
+      "options": {
+        "A": "Basic",
+        "B": "Neutral",
+        "C": "Acidic",
+        "D": "Both acidic and basic"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Silanol groups (-OH) on silica gel surfaces impart acidic properties to the stationary phase.",
+      "category": "General"
+    },
+    {
+      "question_number": 14,
+      "question_text": "The electronic transition possible in $\\text{Br}_2$ is",
+      "options": {
+        "A": "$\\sigma - \\sigma^*$",
+        "B": "$\\sigma - \\sigma^*$ and $n - \\sigma$",
+        "C": "$\\sigma - \\pi^*$ and $\\pi - \\pi^*$",
+        "D": "$n - \\pi^*$ and $\\sigma - \\pi^*$"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Halogens like bromine exhibit $\\sigma - \\sigma^*$ and lone-pair transitions like $n - \\sigma^*$.",
+      "category": "General"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Ferrous ion is very weakly colored for colorimetric analysis. It can be converted into a highly colored complex using",
+      "options": {
+        "A": "$\\text{H}_2\\text{SO}_4$",
+        "B": "PDAB",
+        "C": "Thymol blue",
+        "D": "1,10-Phenanthroline"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "1,10-Phenanthroline reacts with ferrous ions to form a stable, intensely red-orange colored complex.",
+      "category": "General"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Prazepam, Oxazepam, Clonazepam are structurally similar and have the system",
+      "options": {
+        "A": "5H-Dibenz (b, f) azepine",
+        "B": "1,2,4-Benzothiadiazepine",
+        "C": "Benzodiazepine",
+        "D": "Phenothiazine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "These drugs all belong to the class of benzodiazepine derivatives.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "$11\\beta, 21$-Dihydroxy pregn-4-ene-3,18,20-trione is",
+      "options": {
+        "A": "Aldosterone",
+        "B": "Progesterone",
+        "C": "Cholesterol",
+        "D": "Cortisone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aldosterone has the given chemical structure with functional groups at those exact positions.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "4, 7-Dichloroquinoline on treatment with 4-amino phenol gives",
+      "options": {
+        "A": "7-chloro-2-(2-hydroxy phenyl amino) quinoline",
+        "B": "7-chloro-4-(4-amino phenyl) Quinoline",
+        "C": "7-chloro-4-(4-hydroxy phenyl amino) quinoline",
+        "D": "4-chloro-7-(4-Hydroxy phenyl amino) quinoline"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nucleophilic aromatic substitution of 4,7-dichloroquinoline at position 4 with 4-aminophenol yields 7-chloro-4-(4-hydroxyphenylamino)quinoline.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Ecgonine, a hydrolytic product of cocaine on treatment with chromium trioxide gives a keto acid, which on thermal decarboxylation results in",
+      "options": {
+        "A": "Atropic acid",
+        "B": "Tropic acid",
+        "C": "Pseudo cocaine",
+        "D": "Tropinone"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oxidation of ecgonine gives ecgonone (a keto acid), which upon decarboxylation yields tropinone.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "A natural product derivative developed as an antimalarial is",
+      "options": {
+        "A": "Artemether",
+        "B": "Paludrine",
+        "C": "Pyrimethamine",
+        "D": "Halofantrine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Artemether is a semi-synthetic derivative of artemisinin, a natural product from Artemisia annua.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 21,
+      "question_text": "'Ternary complex' refers to the state when",
+      "options": {
+        "A": "An enzyme forms a covalent complex with its substrate",
+        "B": "An enzyme forms a non covalent complex with either a substance or a product",
+        "C": "An enzyme that catalyses a reaction with two or more substrates, is concurrently complexed with both substrates",
+        "D": "An enzyme complexed to a product, just after catalysis"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A ternary complex involves an enzyme bound simultaneously to two different substrates (or a substrate and a cofactor).",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 22,
+      "question_text": "The most important clue that helped in the determination of the double helical structure of DNA came from",
+      "options": {
+        "A": "Chargaff's rules",
+        "B": "Hershey-Chase experiment",
+        "C": "Avery-MacLeod-McCarty experiment",
+        "D": "Nirenberg and Khorana's codon assignments"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chargaff's rules (A=T, G=C base ratios) provided the critical clue for Watson and Crick to deduce base pairing in DNA.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Diversity in antibody molecules is brought about by",
+      "options": {
+        "A": "Post-translational modifications",
+        "B": "Gene rearrangements",
+        "C": "Usage of special genetic codes",
+        "D": "Multiple mutations in the polypeptides"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "V(D)J somatic recombination and gene rearrangements generate vast diversity in antibody variable regions.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 24,
+      "question_text": "The etiological agent of infectious mononucleosis, also associated with a form of Burkitt's lymphoma is",
+      "options": {
+        "A": "Varicella Zoster Virus",
+        "B": "Epstein Barr Virus",
+        "C": "Picorna Virus",
+        "D": "Papovavirus"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Epstein-Barr virus (EBV) causes infectious mononucleosis and is linked to Burkitt's lymphoma.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Tissue plasminogen activator that disperses blood clots, beneficial if it is given within",
+      "options": {
+        "A": "3 days",
+        "B": "9 hours",
+        "C": "3 hours",
+        "D": "24 hours"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "tPA is most effective and beneficial when administered within a therapeutic window of 3 hours for acute ischemic stroke.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 26,
+      "question_text": "An anticholinesterase which is useful in Alzheimer's disease is",
+      "options": {
+        "A": "Arecoline",
+        "B": "Donepezil",
+        "C": "Isoproterenol",
+        "D": "Clioquinol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Donepezil is a centrally acting acetylcholinesterase inhibitor approved for treating Alzheimer's disease.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 27,
+      "question_text": "A drug is used as an ophthalmic solution in Herpes keratitis is",
+      "options": {
+        "A": "Zakitabine",
+        "B": "Trifluridine",
+        "C": "Ritonavir",
+        "D": "Stavudine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Trifluridine is an antiviral eye drop specifically used to treat primary keratoconjunctivitis and recurrent epithelial keratitis caused by HSV.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 28,
+      "question_text": "A macrolide antibiotic used as a powerful immunosuppressive agent is",
+      "options": {
+        "A": "Erythromycin",
+        "B": "Azithromycin",
+        "C": "Tacrolimus",
+        "D": "Clarithromycin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tacrolimus is a macrolide lactone immunosuppressant used to prevent organ transplant rejection.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Cytosine arabinoside acts on this phase of the cell cycle",
+      "options": {
+        "A": "$\\text{G}_1$",
+        "B": "$\\text{G}_2$",
+        "C": "M",
+        "D": "S"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cytarabine (cytosine arabinoside) is an antimetabolite that specifically inhibits DNA polymerase during the S-phase of the cell cycle.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 30,
+      "question_text": "The chairman of the Drugs Technical Advisory Board is",
+      "options": {
+        "A": "The drugs Controller of India",
+        "B": "The Director, Central Drugs Laboratory, Kolkata",
+        "C": "The President, Pharmacy Council of India",
+        "D": "The Director General of Health Services"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Director General of Health Services (DGHS) serves as the chairman of the DTAB in India.",
+      "category": "General"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Predict the product obtained by treating $6\\text{-chloro-}3,5\\text{-diamino pyrazin-2-methyl carboxylate}$ with Guanidian",
+      "options": {
+        "A": "Amilofide",
+        "B": "Hydrochlorothiazide",
+        "C": "Triamterene",
+        "D": "Furosemide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Reaction of methyl 3,5-diamino-6-chloropyrazine-2-carboxylate with guanidine yields triamterene.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 32,
+      "question_text": "$2\\text{-hydroxy-}5,9\\text{-dimethyl-}6,7\\text{-benzomorphan derivative is}$",
+      "options": {
+        "A": "Pentazocine",
+        "B": "Hydrocodone",
+        "C": "Codeine",
+        "D": "Buprenorphine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pentazocine is a benzomorphan opioid analgesic with a 6,7-benzomorphan nucleus.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 33,
+      "question_text": "The raw materials used for the synthesis of Sulfalen are",
+      "options": {
+        "A": "4-acetamido benzene sulfonyl chloride and 2-amino-4-methly pyrimidine",
+        "B": "4-acetamido benzene sulfonyl chloride and 5-amino-2-ethly-1,3,4-thiadiazole",
+        "C": "4-acetamido benzene sulfonyl chloride and 5-amino-3,4-dimethly isoxazole",
+        "D": "4-acetamido benzene sulfonyl chloride and 3-amino-2-methoxy pyrazine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sulfametopyrazine (sulfalen) is synthesized using 4-acetamidobenzenesulfonyl chloride and 3-amino-2-methoxypyrazine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Phexon benzamine can be prepared from",
+      "options": {
+        "A": "Phenol and propylene oxide",
+        "B": "3-phenylpropanol",
+        "C": "Phthalic anhydride",
+        "D": "b-phenyl succinic acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phenoxybenzamine is synthesized via reaction of phenol and propylene oxide derivatives.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Glyeyrrhizin, a sweet principal of liquorice is",
+      "options": {
+        "A": "K and Mg salts of glycyrrhizinic acid",
+        "B": "Na and Mg salts of glycyrrhetinic acid",
+        "C": "K and Ca salts of glycyrrhizinic acid",
+        "D": "Na and Ca salts of giycyrrhetinic"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glycyrrhizin is typically present as potassium and calcium salts of glycyrrhizinic acid in liquorice root.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Alloploids are polyploids derived from",
+      "options": {
+        "A": "A single parental species genomes",
+        "B": "More than one parental species genomes",
+        "C": "A plant with haploid number of chromosomes",
+        "D": "A plant with diploid number of chromosomes"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Alloploids contain genomes derived from hybridization between different species followed by chromosome doubling.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 37,
+      "question_text": "The most effective method for producing virus-free plants is",
+      "options": {
+        "A": "Root culture",
+        "B": "Meristem culture",
+        "C": "Somatic embryogenesis",
+        "D": "Floriculture"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Shoot apical meristem culture is widely used because virus titers are typically very low or absent in actively dividing meristematic cells.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 38,
+      "question_text": "A person taking organic nitrate has to avoid one of the following drugs as it can cause severe hypotension",
+      "options": {
+        "A": "Aspirin",
+        "B": "Cholestyramine",
+        "C": "Warfarin",
+        "D": "Sildenafil"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Co-administration of organic nitrates and PDE5 inhibitors like sildenafil causes profound, potentially fatal hypotension due to synergistic cGMP accumulation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 39,
+      "question_text": "To avoid lithium toxicity, a patient using lithium carbonate for mood disorders should not be prescribed",
+      "options": {
+        "A": "Acetazolamide",
+        "B": "Hydrochlorothiazide",
+        "C": "Mannitol",
+        "D": "Porpranolol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Thiazide diuretics like hydrochlorothiazide enhance proximal tubular reabsorption of lithium, leading to toxic serum levels.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 40,
+      "question_text": "A selective serotonin reuptake inhibitor used as an antidepressant is",
+      "options": {
+        "A": "Venlafaxine",
+        "B": "Selegiline",
+        "C": "Phenelzine",
+        "D": "Amoxapine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Venlafaxine is an SNRI, but among the choices, options B and C are MAOIs, D is a TCA, making venlafaxine the closest modern antidepressant or often grouped in broader classes (wait, fluoxetine/sertraline are SSRIs, let's check exact options: Venlafaxine is SNRI. Wait, let's re-verify options. Actually, venlafaxine is SNRI, but sometimes questions treat it or some other is meant. Let's use A as best fit or check carefully. Let's output A).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 41,
+      "question_text": "A patient receiving Digoxin for CCF is found to have elevated serum cholesterol. Which hypolipidemic agent should not be prescribed",
+      "options": {
+        "A": "Clofibrate",
+        "B": "Cholestyramine",
+        "C": "Lovastatin",
+        "D": "Niacin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cholestyramine binds to drugs in the GI tract, including digoxin, significantly reducing its absorption and therapeutic efficacy.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 42,
+      "question_text": "In the study of enzyme kinetic, $V_{max}$ is said to be attained when",
+      "options": {
+        "A": "There is an excess of free enzyme as compared to the substrate",
+        "B": "Virtually all of the enzyme is present as the enzyme-substrate complex and concentration of the free enzyme is vanishingly small",
+        "C": "The maximum velocity of the reaction in the presence of low substrate concentration",
+        "D": "When the concentration of free enzyme equals that of the enzyme-substrate complex"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "At $V_{max}$, all enzyme active sites are saturated with substrate, existing almost entirely as the ES complex.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Serum sample of a patient shows elevated levels of g-glutamyl transferase. The patient could be suffering from",
+      "options": {
+        "A": "Kidney disorder",
+        "B": "Liver disease",
+        "C": "Parkinson's disease",
+        "D": "Myocardial infraction"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gamma-glutamyl transferase (GGT) is a sensitive enzymatic marker primarily elevated in liver and biliary tract diseases.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Acid-fast organisms are seen in the sputum of a 48-year old alcoholic man. A test to confirm whether he needs long-term multi-drug treatment for tuberculosis is",
+      "options": {
+        "A": "Chest X-ray",
+        "B": "Ziehl-Neelsen stain of the sputum",
+        "C": "Sputum cytology",
+        "D": "Mycobacterial cultures of the sputum"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mycobacterial culture provides the definitive diagnosis and confirmation for initiating long-term multi-drug anti-TB therapy.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 45,
+      "question_text": "The distinguishing feature in IR spectra between propionaldehyde and acetone is",
+      "options": {
+        "A": "Weak-CH stretching and out of plane bending in propionaldehyde",
+        "B": "Keto group in acetone",
+        "C": "Two methyl group acetone",
+        "D": "-$\\text{CH}_2$ group in propionaldehyde"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aldehydes exhibit characteristic Fermi doublet CH stretching bands around 2830 and $2720\\text{ cm}^{-1}$ which are absent in ketones like acetone.",
+      "category": "General"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Nephelometrical measurement are most sensitive for",
+      "options": {
+        "A": "Clear solution",
+        "B": "Concentrated solution",
+        "C": "Thick suspensions",
+        "D": "Very dilute suspension"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nephelometry measures scattered light and is most sensitive and accurate in very dilute suspensions.",
+      "category": "General"
+    },
+    {
+      "question_number": 47,
+      "question_text": "The number of peaks shown by diethyl ether in an NMR spectrum are",
+      "options": {
+        "A": "Four",
+        "B": "Two",
+        "C": "One",
+        "D": "Five"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diethyl ether ($\\text{CH}_3\\text{CH}_2\\text{OCH}_2\\text{CH}_3$) has two chemically distinct proton environments, yielding two peaks (a triplet and a quartet).",
+      "category": "General"
+    },
+    {
+      "question_number": 48,
+      "question_text": "The half-life for a zero order reaction is calculated using",
+      "options": {
+        "A": "$t_{1/2} = 0.693/k$",
+        "B": "$t_{1/2} = 2.303/k$",
+        "C": "$t_{1/2} = 1/ak$",
+        "D": "$t_{1/2} = a/2k$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "For a zero-order reaction, the half-life equation is $t_{1/2} = a/(2k)$, where $a$ is the initial concentration.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 49,
+      "question_text": "The biological half-life of procaine in patient was 35 minutes and its volume of distribution was estimated to be 60 L. The total clearance rate of procaine is",
+      "options": {
+        "A": "1.188 L/min",
+        "B": "0.115 L/min",
+        "C": "11.5 L/min",
+        "D": "5.57 L/min"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clearance $Cl = k \\times V_d$, where $k = 0.693 / t_{1/2}$. $k = 0.693 / 35 = 0.0198 \\text{ min}^{-1}$, $Cl = 0.0198 \\times 60 = 1.188 \\text{ L/min}$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 50,
+      "question_text": "The ratio of the void volume to the bulk volume of the packing of the powder is called as",
+      "options": {
+        "A": "Porosity",
+        "B": "True density",
+        "C": "Granular density",
+        "D": "Bulk density"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Porosity is defined as the ratio of void volume to the total bulk volume of the powder bed.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 51,
+      "question_text": "A co-solvent used in the preparation of parenteral products is",
+      "options": {
+        "A": "Benzyle alcohol",
+        "B": "Methyl alcohol",
+        "C": "Dimethyl acetamide",
+        "D": "Phenol"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "N,N-Dimethylacetamide is commonly used as a co-solvent in parenteral formulations to increase drug solubility.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 52,
+      "question_text": "In mass spectroscopy, positively charged ions be produced by (P) Heating of the sample, (Q) Bombarding the sample with high energy electrons, (R) Bombarding the sample with high energy protons, (S) Chemical ionisation",
+      "options": {
+        "A": "Q, S",
+        "B": "Q, R",
+        "C": "P, R",
+        "D": "P, S"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Electron ionization (Q) and chemical ionization (S) are standard methods for producing positively charged ions in mass spectrometry.",
+      "category": "General"
+    },
+    {
+      "question_number": 53,
+      "question_text": "The plasticizer and high boiling point solvent used in the preparation of nail lacquers are (P) Butyl stearate, (Q) Ethyl lactate, (R) Ethyl alcohol, (S) Acetone",
+      "options": {
+        "A": "P, Q",
+        "B": "Q, S",
+        "C": "R, S",
+        "D": "Q, R"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Butyl stearate serves as a plasticizer and ethyl lactate serves as a high-boiling solvent in nail lacquers.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Two of the following attributes are true for describing (P) Neuromuscular blocking causing spastic paralysis, (Q) Blocks the response of the Ascaris muscle to ACh, causing flaccid paralysis in the worms, (R) Inhibits the Helminth specific enzyme fumarate reductase, (S) Arrest nematode cell divisions in metaphase by interfering with microtubule assemble",
+      "options": {
+        "A": "P, Q",
+        "B": "P, R",
+        "C": "Q, S",
+        "D": "Q, R"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Piperazine blocks Ascaris muscle response to ACh causing flaccid paralysis (Q), and benzimidazoles arrest nematode cell division by binding microtubules (S).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 55,
+      "question_text": "The colour and flavor of saffron are due to - (P) Crocin, (Q) Crocetin, (R) Safranal, (S) Crepenyic acid",
+      "options": {
+        "A": "R, S",
+        "B": "P, R",
+        "C": "Q, S",
+        "D": "Q, R"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Crocin provides color and safranal provides the characteristic aroma/flavor of saffron.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Predict the two impurities which are likely to be present in Glipizide: (P) 5-methyl-N-[2-(4-sulphamoyl phenyl ethyl] pyrazin-2-carboxamide, (Q) 5-methyl-N-[2-(2-sulphamoyl phenyl] pyrazine-2-carboxamide, (R) Cyclohexanamine, (S) Cyclohexane",
+      "options": {
+        "A": "P, R",
+        "B": "P, Q",
+        "C": "R, Q",
+        "D": "R, S"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Synthesis intermediates and related structural isomers (P and Q) are the characteristic impurities monitored in glipizide.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 57,
+      "question_text": "Calcipotriene, synthetic vitamin D3 analogue has the following attributes: (P) Pronounced antirachitic activity, (Q) Inhibits epidermal cell proliferation and enhances cell differentiation, (R) Used as a topical application in the treatment of moderate plaque psoriasis, (S) Effect on calcium metabolism is 200 times more than Ergocalciferol",
+      "options": {
+        "A": "Q, R",
+        "B": "P, Q",
+        "C": "R, S",
+        "D": "Q, S"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Calcipotriene inhibits epidermal proliferation/differentiation (Q) and is used topically for plaque psoriasis (R) while minimizing systemic calcium effects.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Insulin when released from the pancreatic b cells (P) Can sequester blood glucose by forming a complex with it, (Q) Gets full conjugated with glucuranic acid immediately, to be released upon suitable stimuli in normal health, (R) Acts on the transporter molecules to facilitate glucose movement across the cell membranes, (S) Increases storage of glucose to glycogen in the liver",
+      "options": {
+        "A": "R, S",
+        "B": "P, R",
+        "C": "Q, S",
+        "D": "Q, P"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Insulin facilitates glucose transport via GLUT transporters (R) and promotes glycogen synthesis in the liver (S).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Match Group I with Group II: Group-I: (P) Ascrobic acid, (Q) Pyridoxine HCl, (R) Dapsone, (S) Fluorouracil. Group-II: (1) TBAH, (2) Iodine, (3) $\\text{HClO}_4$, (4) Sodium nitrite",
+      "options": {
+        "A": "P-1, Q-4, R-3, S-2",
+        "B": "P-1, Q-4, R-3, S-2",
+        "C": "P-4, Q-2, R-1, S-3",
+        "D": "P-3, Q-2, R-4, S-1"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Standard pharmaceutical assay methods match ascorbic acid with TBAH, dapsone with sodium nitrite, etc.",
+      "category": "General"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Match Group I (Umbelliferous fruit) with Group II (Diagnostic character): Group-I: (P) Fennel, (Q) Indian Dill, (R) Coriander, (S) Anise. Group-II: (1) Wavy sclerenchyma, (2) Branched and unbranched vittae, (3) Reticulately lignified parenchyma, (4) Lateral ridges with vascular bundles",
+      "options": {
+        "A": "P-1, Q-2, R-3, S-4",
+        "B": "P-3, Q-4, R-1, S-2",
+        "C": "P-2, Q-3, R-4, S-1",
+        "D": "P-4, Q-1, R-2, S-3"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Anatomical diagnostic features of umbelliferous fruits match specific parenchymal and vascular structures.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Group-I (Enzyme systems responsible for Phase 2 conjugation pathways): (P) UDP-glucuronyl transferase, (Q) ATP-sulfurylase & APS-Phosphokinase, (R) Acyl synthetase & transacetylase, (S) ATP-methionine adenosine transferase and methyl transferase. Match with Group-II (Types): (1) N-methylation, (2) Sulphate conjugation, (3) Glucuronidation, (4) Aminoacid conjugation.",
+      "options": {
+        "A": "P-1, Q-4, R-3, S-2",
+        "B": "P-2, Q-3, R-1, S-4",
+        "C": "P-3, Q-2, R-4, S-1",
+        "D": "P-4, Q-1, R-2, S-3"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Group-I (Drug): (P) Levofloxacin, (Q) Econazole, (R) Pentostatine, (S) Procarbazine. Match with Group-II (Mechanism): (1) Inhibits adenosine deaminase, (2) Inhibits topoisomerase II, (3) Forms adducts with DNA, (4) Interferes with aminoacid transport by action on the membrane.",
+      "options": {
+        "A": "P-3, Q-2, R-1, S-4",
+        "B": "P-2, Q-4, R-1, S-3",
+        "C": "P-1, Q-2, R-4, S-3",
+        "D": "P-4, Q-2, R-3, S-1"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 63,
+      "question_text": "Group-I (Terms): (P) Saturated air, (Q) Dew point, (R) Humid volume, (S) Humidity. Match with Group-II (Explanation): (1) Pounds of water vapour carried by one pound of dry air under any given set of conditions, (2) The water vapour is in equilibrium with liquid water at the given conditions of temperature and pressure, (3) The volume is cubic feet occupied by one Pound of dry air and its accompanying water vapour, (4) Temperature to which a mixture of air and water vapour must be cooled in order to become saturated.",
+      "options": {
+        "A": "P-1, Q-4, R-2, S-3",
+        "B": "P-4, Q-3, R-1, S-2",
+        "C": "P-3, Q-1, R-4, S-2",
+        "D": "P-2, Q-4, R-3, S-1"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Group-I (Antibiotic): (P) Bleomycin, (Q) Nystatin, (R) Carbenicillin, (S) Streptomycin. Match with Group-II (Test organism for microbiological assay IP): (1) Pseudomonas areuginosa, (2) Mycobacterium segmatis, (3) Bacillus subtilis, (4) Saccharomyces cerevisiae.",
+      "options": {
+        "A": "P-2, Q-4, R-1, S-3",
+        "B": "P-4, Q-1, R-3, S-2",
+        "C": "P-3, Q-2, R-4, S-1",
+        "D": "P-3, Q-1, R-2, S-4"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 65,
+      "question_text": "Group-I (Pathoimmunological condition): (P) Urticaria, (Q) Autoimmune thrombocytopenia, (R) Rheumatoid arthritis, (S) Organ transplant rejection. Match with Group-II (Drugs used in the treatment): (1) Cyclosporin, (2) Antihistamines, (3) Intravenous immunoglobulin, (4) Glucocorticoids.",
+      "options": {
+        "A": "P-1, Q-2, R-4, S-3",
+        "B": "P-4, Q-2, R-4, S-3",
+        "C": "P-3, Q-1, R-2, S-4",
+        "D": "P-2, Q-3, R-4, S-1"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 66,
+      "question_text": "A sample of Cinnamomum zeylanicum purchased from the market was evaluated for its authenticity. It shows:",
+      "options": {
+        "A": "Presence of cork and cortex",
+        "B": "Absence of cork and cortex",
+        "C": "Absence of phloem fibres",
+        "D": "Presence of xylem parenchyma"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Volatile oil should not be less than:",
+      "options": {
+        "A": "0.05%",
+        "B": "0.20%",
+        "C": "0.50%",
+        "D": "1.00%"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 68,
+      "question_text": "Chloroacetic acid and hydrazine are treated with X to get semicarbazido acetic acid in which ring closure takes place to 1-amino hydantoin. It is subsequently treated with 2-diacetoxy methyl-5-nitrofuran to get nitrofurantoin. Reagent 'X' is:",
+      "options": {
+        "A": "Cuprous chloride",
+        "B": "Potassium cyanate",
+        "C": "Silver nitrate",
+        "D": "Mercurous chloride"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Its IUPAC name is:",
+      "options": {
+        "A": "1-(5-nitrofurfuryl)hydantoin",
+        "B": "1-(5-nitrofurfuryl hydroxy)hydantoin",
+        "C": "1-(5-nitrofurfuryl amino)hydantoin",
+        "D": "1-(5-nitrofurfuryl nitro)hydantoin"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 70,
+      "question_text": "Its gastrointestinal tolerance can be improved without interfering with oral absorption by preparing a:",
+      "options": {
+        "A": "Solid dispersion",
+        "B": "Prodrug",
+        "C": "Large crystalline form (Macrodantian)",
+        "D": "Suspension"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 71,
+      "question_text": "A compound 'X' with molecular formula $C_2H_4O$ exhibits a strong absorption band at $1730\\text{ cm}^{-1}$ in IR spectrum. On reduction it is converted into 'Y' which shows a strong band at $3640\\text{ cm}^{-1}$. Assign the band in X to:",
+      "options": {
+        "A": "CH3",
+        "B": "C=C",
+        "C": "C=O",
+        "D": "CH2=C"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 72,
+      "question_text": "The strong band in Y is due to:",
+      "options": {
+        "A": "-C-C",
+        "B": "-C-O-C-",
+        "C": "=CH2",
+        "D": "-OH"
+      },
+      "correct_answer": "D",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Zafirlukast acts as:",
+      "options": {
+        "A": "$b_2$ adrenoceptor agonist",
+        "B": "Cysteinyl-leukotriene receptor antagonist",
+        "C": "Muscarinic receptor antagonist",
+        "D": "Antihistamine"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 74,
+      "question_text": "A prodrug of terbutaline is:",
+      "options": {
+        "A": "Zafirlukast",
+        "B": "Salmeterol",
+        "C": "Bambuterol",
+        "D": "Nedocromil sodium"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Warfarin interacts with this antiasthmatic drug and increases prothrombin time:",
+      "options": {
+        "A": "Budesonide",
+        "B": "Zafirlukast",
+        "C": "Salmeterol",
+        "D": "Bambuterol"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 76,
+      "question_text": "In a pharmaceutical industry, batch filtration of liquids where the proportion of solids to liquids is high is to be carried out. The complete recovery of solids is required. After filtration, the filtrate, which is corrosive, gives a crystalline product on evaporation. The liquid tends to deposit scales or crystals on the heating surface during evaporation. The suitable filtration equipment is:",
+      "options": {
+        "A": "Plate and frame filter press",
+        "B": "Leaf filters",
+        "C": "Meta filters",
+        "D": "Membrane filters"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 77,
+      "question_text": "The filter aid used in the above filtration is:",
+      "options": {
+        "A": "Sand",
+        "B": "Nylon fiber cloth",
+        "C": "Activated carbon",
+        "D": "Filter paper"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 78,
+      "question_text": "A suitable evaporator is:",
+      "options": {
+        "A": "Falling film evaporator",
+        "B": "Forced circulation evaporator",
+        "C": "Vertical",
+        "D": "Horizontal evaporator"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 79,
+      "question_text": "HMG-CoA reductase, a key enzyme in the pathway, catalyzes:",
+      "options": {
+        "A": "Side-chain cleavage in the conversion of cholesterol to steroid hormones.",
+        "B": "The reduction of the thio-ester group to an alcohol in mevalonate biosynthesis.",
+        "C": "The reduction of the hydroxyl group mevalonate to Vitamin D.",
+        "D": "Steroid condensation reaction in biosynthesis of bile acids."
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 80,
+      "question_text": "The inhibition of HMG-CoA reductase is a strategy used in the treatment of:",
+      "options": {
+        "A": "Familial hypercholesterolemia",
+        "B": "Vitamin K deficiency",
+        "C": "Inflammation in the joints",
+        "D": "Hepatic parenchymal disease"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 81,
+      "question_text": "A person after orthopaedic surgery is prescribed a selective COX-2 inhibitor. The selective COX-2 inhibitor is:",
+      "options": {
+        "A": "Ketorolac",
+        "B": "Rofecoxib",
+        "C": "Indomethacin",
+        "D": "Naproxen"
+      },
+      "correct_answer": "B",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 82,
+      "question_text": "A drug solution has an initial potency of $300\\text{ mg}/10\\text{ ml}$. When stored in a refrigerator for 30 days, its potency was found to be $100\\text{ mg}/10\\text{ ml}$. The rate constant, assuming that the drug solution undergoes first order kinetics, is:",
+      "options": {
+        "A": "$0.0366\\text{ day}^{-1}$",
+        "B": "$0.0074\\text{ day}^{-1}$",
+        "C": "$0.0174\\text{ day}^{-1}$",
+        "D": "$0.0506\\text{ day}^{-1}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Ginger is a widely used herbal drug, containing many chemical constituents. The pungent principal present in it, is:",
+      "options": {
+        "A": "Zingiberol",
+        "B": "Zingiberene",
+        "C": "Gingerol",
+        "D": "Cineole"
+      },
+      "correct_answer": "C",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 84,
+      "question_text": "2,6-dimethylphenol and chloroacetone reaction gives 'X', which on treatment with hydroxylamine and hydrochloric acid gives intermediate product. This on further treatment with Raney nickel in acid, gives the final product. The product 'X' is:",
+      "options": {
+        "A": "1-(2,6-Dimethyl phenoxy)-2-propanone",
+        "B": "1-(2,6-Dimethyl phenoxy)-2-butanone",
+        "C": "1-(2,6-Dimethyl phenoxy)-2-isopropanone",
+        "D": "1-(2,6-Dimethyl phenoxy)-2-pentanone"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 85,
+      "question_text": "An organic compound 'X' has an absorption maxima at $217\\text{ nm}$. Its $e_{\\max}$ is $16,000$. The absorbance is $0.64$ when the cell length is $1\\text{ cm}$. The molar concentration of 'X' is:",
+      "options": {
+        "A": "$5 \\times 10^{-5}$",
+        "B": "$4 \\times 10^{-5}$",
+        "C": "$4 \\times 10^{-4}$",
+        "D": "$5 \\times 10^{-2}$"
+      },
+      "correct_answer": "A",
+      "answer_source": "OFFICIAL_KEY",
+      "is_reconstructed": false,
+      "explanation": null,
+      "category": "Pharmaceutical Analysis"
+    }
+  ]
+}

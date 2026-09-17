@@ -1,0 +1,1506 @@
+{
+  "exam_title": "Pharmacist gr 2 health services and medical education 2020",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Caustic soda is",
+      "options": {
+        "A": "Sodium hydroxide",
+        "B": "Sodium chloride",
+        "C": "Sodium carbonate",
+        "D": "Sodium bicarbonate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Caustic soda is the common chemical name for sodium hydroxide ($NaOH$).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which among the following preparation is used as a source of iodine in iodine deficiency ?",
+      "options": {
+        "A": "Weak iodine solution",
+        "B": "Strong iodine solution",
+        "C": "Aqueous iodine solution",
+        "D": "Iodine tincture"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Weak iodine solution (USP) contains 2% iodine and is traditionally used for iodine supplementation and antisepsis.",
+      "category": "Pharmaceuticals"
+    },
+    {
+      "question_number": 3,
+      "question_text": "In the assay of boric acid, glycerin is added to boric acid to",
+      "options": {
+        "A": "Dissolve boric acid",
+        "B": "Increase basicity",
+        "C": "Increase acidity",
+        "D": "Decrease acidity"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glycerin forms a complex with boric acid which behaves as a stronger monobasic acid, allowing it to be titrated accurately with sodium hydroxide.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 4,
+      "question_text": "In cyanide poisoning, sodium nitrite is used as an antidote along with which compound ?",
+      "options": {
+        "A": "Sodium metabisulphite",
+        "B": "Sodium thiocyanate",
+        "C": "Potassium iodide",
+        "D": "Sodium thiosulphate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium nitrite induces methemoglobinemia to bind cyanide, and sodium thiosulfate converts cyanide to harmless thiocyanate via rhodanese.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 5,
+      "question_text": "An antiseptic solution generally used for cleaning wounds and ears is",
+      "options": {
+        "A": "Hydrogen peroxide solution",
+        "B": "Lugol’s solution",
+        "C": "Ammonia solution",
+        "D": "Potassium permanganate solution"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hydrogen peroxide releases oxygen and is widely used for mild wound cleaning and earwax removal.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Drugs which help in eliminating exudations from bronchi are known as",
+      "options": {
+        "A": "Emetics",
+        "B": "Expectorants",
+        "C": "Astringents",
+        "D": "Cathartics"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Expectorants assist in the expulsion of mucus and bronchial exudations.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Calcium gluconate is assayed by",
+      "options": {
+        "A": "Acid – base titration",
+        "B": "Redox titration",
+        "C": "Complexometric titration",
+        "D": "Non-aqueous titration"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Calcium gluconate contains calcium ions which are typically quantified using EDTA complexometric titration.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Chlorinated lime and boric acid solution is known as",
+      "options": {
+        "A": "Eusol",
+        "B": "Lysol",
+        "C": "Lugol’s solution",
+        "D": "Dakin’s solution"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Eusol stands for Edinburgh University Solution of Antiseptic, which contains chlorinated lime and boric acid.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Bleaching powder is",
+      "options": {
+        "A": "Chlorinated lime",
+        "B": "Soda lime",
+        "C": "Sodium bicarbonate",
+        "D": "Calcium carbonate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Bleaching powder is primarily composed of calcium oxychloride, commonly referred to as chlorinated lime.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Nutritional deficiency of calcium leads to",
+      "options": {
+        "A": "Hypercalcaemia",
+        "B": "Hypokalemia",
+        "C": "Hypocalcaemia",
+        "D": "Hyponatremia"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Deficiency of calcium in nutrition causes hypocalcemia.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 11,
+      "question_text": "In radiation sterilization, the gamma rays were obtained from",
+      "options": {
+        "A": "Cobalt – 60",
+        "B": "Iodine – 131",
+        "C": "Gold – 198",
+        "D": "Selenium – 80"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cobalt-60 is the standard radioisotope used for gamma irradiation sterilization.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Which among the following method is used for the sterilization of surgical dressings ?",
+      "options": {
+        "A": "Dry heat sterilization",
+        "B": "Moist heat sterilization",
+        "C": "Gaseous sterilization",
+        "D": "Radiation sterilization"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Surgical dressings and fabrics are effectively sterilized using steam under pressure (moist heat sterilization/autoclaving).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Which among the following method represent the chemical cold sterilization method ?",
+      "options": {
+        "A": "Sterilization using gases",
+        "B": "Sterilization by filtration",
+        "C": "Sterilization using radiation",
+        "D": "Sterilization using moist heat"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gaseous agents such as ethylene oxide provide chemical cold sterilization without heat.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 14,
+      "question_text": "The membrane filters used for sterilization has the pore size of",
+      "options": {
+        "A": "0.02 \\pm 0.01 \\mu m",
+        "B": "0.22 \\pm 0.02 \\mu m",
+        "C": "0.11 \\pm 0.01 \\mu m",
+        "D": "0.65 \\pm 0.02 \\mu m"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Standard membrane filters for pharmaceutical sterilization typically have a pore size of $0.22 \\mu m$.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 15,
+      "question_text": "The optimum moisture content of the capsule shell is ranged between",
+      "options": {
+        "A": "12 – 15%",
+        "B": "2 – 6%",
+        "C": "8 – 12%",
+        "D": "18 – 22%"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hard gelatin capsule shells typically maintain an optimum moisture content of 12% to 15% to prevent brittleness or softening.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 16,
+      "question_text": "The unequal distribution of colour on the surface of the tablet is known as",
+      "options": {
+        "A": "Orange-peel effect",
+        "B": "Twinning",
+        "C": "Bloom",
+        "D": "Mottling"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mottling is a tablet coating defect characterized by unequal color distribution.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Which among the following material is used for enteric coating of tablet ?",
+      "options": {
+        "A": "Cellulose acetate phthalate",
+        "B": "Hydroxypropyl methyl cellulose",
+        "C": "Methylhydroxy ethyl cellulose",
+        "D": "Polyethylene glycols"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cellulose acetate phthalate (CAP) is a classic pH-sensitive polymer used for enteric coating.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 18,
+      "question_text": "The flow properties of the granules from hopper to die of the tablet machine is improved by the addition of",
+      "options": {
+        "A": "Disintegrants",
+        "B": "Binders",
+        "C": "Glidants",
+        "D": "Diluents"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glidants are added to formulations to improve the flow characteristics of granules or powders.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Which among the following capsule number represent the maximum capacity of the capsule ?",
+      "options": {
+        "A": "000",
+        "B": "5",
+        "C": "4",
+        "D": "0"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Capsule size 000 is the largest standard hard gelatin capsule size, hence holding the maximum capacity.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 20,
+      "question_text": "The plasticizer used in capsule shell is",
+      "options": {
+        "A": "Silicones",
+        "B": "Glycol ester",
+        "C": "Talc",
+        "D": "Glycerol"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glycerol (or glycerin) is commonly used as a plasticizer for gelatin shells to impart flexibility.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Cupraloin test is used for the identification of",
+      "options": {
+        "A": "Aloe emodin",
+        "B": "Arabinose",
+        "C": "Aloesin",
+        "D": "Isobarbaloin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Cupraloin test specifically distinguishes isobarbaloin from other constituents in aloes.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Give an example of Antidiabetic drug.",
+      "options": {
+        "A": "Picrorhiza",
+        "B": "Pterocarpus",
+        "C": "Punarnava",
+        "D": "Ipecac"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pterocarpus marsupium (malabar kino) is well known in traditional and herbal medicine for its antidiabetic properties.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Reagent used in Ergotoxine test",
+      "options": {
+        "A": "Paramethyl amino benzaldehyde, sulphuric acid and ferric chloride",
+        "B": "Amino ethyl benzaldehyde, sulphuric acid and ferric chloride",
+        "C": "Paradimethyl amino benzaldehyde, sulphuric acid and ferric chloride",
+        "D": "Diethyl amino benzaldehyde, sulphuric acid and ferric chloride"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Van Urk's reagent, containing p-dimethylaminobenzaldehyde, sulfuric acid, and traces of ferric chloride, is used for ergot alkaloid testing.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Rhubarb belongs to the family",
+      "options": {
+        "A": "Rhamnaceae",
+        "B": "Polygonaceae",
+        "C": "Rosaceae",
+        "D": "Combretaceae"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rhubarb belongs to the family Polygonaceae.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Steroid found in the flowers and leaves of Digitalis purpurea",
+      "options": {
+        "A": "Digoxigenin",
+        "B": "Digitoxose",
+        "C": "Digitalose",
+        "D": "None of the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digitalis purpurea contains cardiac glycosides like digitoxin and gitoxin containing genins such as digitoxigenin and gitoxigenin, whereas digoxigenin is characteristic of Digitalis lanata.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 26,
+      "question_text": "Which of the following is the substitute of cinchona bark ?",
+      "options": {
+        "A": "Cuprea bark",
+        "B": "Peruvian bark",
+        "C": "Jesuits bark",
+        "D": "Countess bark"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cuprea bark (Remijia cuprea) is a well-known commercial substitute for Cinchona bark.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Senna consists of the",
+      "options": {
+        "A": "Dried leaflets of Cassia auriculata belongs to the family Liliaceae",
+        "B": "Dried leaflets of Cassia acutifolia belongs to the family Leguminosae",
+        "C": "Dried leaflets of Cassia fistula belongs to the family Liliaceae",
+        "D": "Dried leaflets of Cassia auriculata belongs to the family Leguminosae"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Senna consists of dried leaflets of Cassia acutifolia (and Cassia angustifolia) belonging to the family Leguminosae.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Gum resin derived from incision given on the stem of Commophora mukul is",
+      "options": {
+        "A": "Myrrh",
+        "B": "Benzoin",
+        "C": "Tolu",
+        "D": "Guggul"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Guggul is the oleo-gum resin obtained from the stem of Commiphora mukul.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Which of the following is the purest form of Asafoetida ? i) Paste ii) Mass iii) Tear",
+      "options": {
+        "A": "Only ii and iii",
+        "B": "Only i and ii",
+        "C": "Only i and iii",
+        "D": "All of the above i, ii and iii"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tear and mass are recognized as natural forms of asafoetida, with tears being the purest resin form collected directly.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Raw opium that has been treated to render it for smoking and that contains about eight percent of morphine is known as",
+      "options": {
+        "A": "Poppy straw",
+        "B": "Hemp",
+        "C": "Opium residue",
+        "D": "Prepared opium"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Prepared opium is raw opium processed and prepared for smoking purposes.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Surfactants having HLB values between seven and nine ($7 - 9$) are",
+      "options": {
+        "A": "Antifoaming agents",
+        "B": "W/O emulsifying agents",
+        "C": "Wetting agents",
+        "D": "Detergents"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Surfactants with an HLB value of 7 to 9 typically function as wetting and spreading agents.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Water attack test is used for the detection of",
+      "options": {
+        "A": "Type II glass",
+        "B": "Type I glass",
+        "C": "Type III glass",
+        "D": "Type NP glass"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The water attack test is specifically designed to evaluate the chemical resistance of treated soda-lime glass (Type II glass).",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Give an example of indiffusible solid.",
+      "options": {
+        "A": "Light Kaolin",
+        "B": "Phenolphthalein",
+        "C": "Aromatic chalk powder",
+        "D": "Light magnesium carbonate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Light kaolin is insoluble and does not readily mix or diffuse in water, making it an indiffusible solid.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Green colour cap coding is used for packing of ophthalmic products containing",
+      "options": {
+        "A": "Non-steroids",
+        "B": "Steroids",
+        "C": "Mydriatics",
+        "D": "Miotics"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ophthalmic products containing steroids typically use a green color cap for identification according to standard regulatory conventions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Give an example of Cryoprotectants used in Parenterals.",
+      "options": {
+        "A": "Tween 80",
+        "B": "Polyethylene glycol",
+        "C": "Propyl para hydroxyl benzoate",
+        "D": "Span 20"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Polyethylene glycol and various sugars/polyols like mannitol are common cryoprotectants used to protect parenterals during freeze-drying.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 36,
+      "question_text": "The sediment consists of loosely packed particles possessing a scaffolding like structure is seen in",
+      "options": {
+        "A": "Flocculated suspension",
+        "B": "Newtonian suspensions",
+        "C": "Non-flocculated suspension",
+        "D": "All of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Flocculated suspensions form a loose, network-like (scaffolding) structure of sediment that is easy to redisperse.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Which of the following is used as an antiperspirant ?",
+      "options": {
+        "A": "Selenium sulphide",
+        "B": "Aluminium chlorohydrate",
+        "C": "Sodium lauryl sulphate",
+        "D": "Triethanolamine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aluminium chlorohydrate is a widely used active ingredient in antiperspirants to reduce sweating.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Example for a cationic emulsifying agent",
+      "options": {
+        "A": "Dioctyl sodium sulphosuccinate",
+        "B": "Polyoxyethylene sorbitan mono-oleate",
+        "C": "Cetyl trimethyl ammonium bromide",
+        "D": "Sodium carboxymethyl cellulose"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cetyl trimethyl ammonium bromide (CTAB) is a well-known quaternary ammonium cationic surfactant.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Intravenous administration of calories, nitrogen and other nutrients in sufficient quantities to achieve tissue synthesis is called",
+      "options": {
+        "A": "I.V. admixtures",
+        "B": "I.V. fluids",
+        "C": "Total oral nutrition",
+        "D": "Total parenteral nutrition"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Total parenteral nutrition (TPN) refers to the intravenous provision of all essential nutrients required for tissue growth and maintenance.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Depilatories are used as",
+      "options": {
+        "A": "Hair removers",
+        "B": "Hair waving preparations",
+        "C": "Hair dressings",
+        "D": "Brilliantines"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Depilatories are cosmetic preparations used to remove unwanted body hair.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 41,
+      "question_text": "The stabilising agent used in making formaldehyde solution",
+      "options": {
+        "A": "Methanol",
+        "B": "Ethanol",
+        "C": "Propanol",
+        "D": "Ascorbic acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methanol (typically 10-15%) is added to formalin to prevent the polymerization and precipitation of formaldehyde.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Which chemical is given in conjugation with Isoniazid to avoid its neurotoxicity ?",
+      "options": {
+        "A": "Ascorbic acid",
+        "B": "Riboflavin",
+        "C": "Pyridoxine",
+        "D": "Thiamine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyridoxine (Vitamin $B_6$) is co-administered with isoniazid to prevent peripheral neuropathy caused by pyridoxine depletion.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Which therapeutic inactive compound is formed when beta lactamase hydrolyses the beta lactum ring ?",
+      "options": {
+        "A": "Penicillic acid",
+        "B": "Penicillinase",
+        "C": "Penicillamine",
+        "D": "Phenethicillin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hydrolysis of the beta-lactam ring by beta-lactamases yields microbiologically inactive penicilloic acid derivatives (often grouped generally with penicillic/penicilloic degradation products).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Which of the following is a polyene antifungal antibiotic ?",
+      "options": {
+        "A": "Amphotericin",
+        "B": "Tolnaftate",
+        "C": "Undecylenic acid",
+        "D": "Cephalothin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amphotericin B is a classic polyene macrolide antifungal antibiotic.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Fully substituted pyrimidine nucleus is found in",
+      "options": {
+        "A": "Chloroquine",
+        "B": "Primaquine",
+        "C": "Proguanil",
+        "D": "Pyrimethamine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pyrimethamine contains a 2,4-diaminopyrimidine ring, representing a substituted pyrimidine nucleus.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Which butyrophenone compound with therapeutic actions and uses are similar to phenothiazine ?",
+      "options": {
+        "A": "Haloperidol",
+        "B": "Chlorpromazine",
+        "C": "Diazepam",
+        "D": "Lorazepam"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Haloperidol is a potent butyrophenone antipsychotic with actions and uses similar to phenothiazines.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Which form of adrenaline is having maximum biological activity ?",
+      "options": {
+        "A": "Dextro",
+        "B": "Levo",
+        "C": "Cis",
+        "D": "Trans"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The naturally occurring levo-isomer (L-adrenaline) possesses significantly higher biological activity than the dextro-isomer.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 48,
+      "question_text": "Which salt of hyoscine is most stable and popularly accepted ?",
+      "options": {
+        "A": "Methonitrate",
+        "B": "Butylbromide",
+        "C": "Hydrobromide",
+        "D": "Methobromide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hyoscine hydrobromide is the most commonly used and stable salt form of hyoscine (scopolamine).",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 49,
+      "question_text": "The substitute position of chlorine in chlorthiazide diuretic is",
+      "options": {
+        "A": "6",
+        "B": "5",
+        "C": "7",
+        "D": "3"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In chlorothiazide, the chlorine substituent is situated at position 6 of the benzothiadiazine ring system.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 50,
+      "question_text": "The antineoplastic drug containing pyrimidine nucleus",
+      "options": {
+        "A": "Cisplatin",
+        "B": "Busulphan",
+        "C": "Mitomycin",
+        "D": "Fluorouracil"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Fluorouracil (5-FU) is a pyrimidine analog antineoplastic agent containing a fluorinated pyrimidine nucleus.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Paracetamol overdosage is treated with",
+      "options": {
+        "A": "N-Acetyl Cysteine",
+        "B": "Calcium Disodium EDTA",
+        "C": "d-Penicillamine",
+        "D": "Dimercaprol"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "N-acetylcysteine (NAC) is the specific antidote used to treat paracetamol (acetaminophen) toxicity by replenishing glutathione stores.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Inhibition of GABA transaminase enzyme is mainly done by",
+      "options": {
+        "A": "Sodium valproate",
+        "B": "Phenobarbitone",
+        "C": "Phenytoin",
+        "D": "Carbamazepine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium valproate increases brain GABA levels partly by inhibiting GABA transaminase and succinic aldehyde dehydrogenase.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 53,
+      "question_text": "The antiviral agent also used in treatment of Parkinsonism",
+      "options": {
+        "A": "Levodopa",
+        "B": "Amantadine",
+        "C": "Selegiline",
+        "D": "Carbidopa"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Amantadine is an antiviral medication that also has dopaminergic properties, making it useful in Parkinson's disease treatment.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Diagnostic agent used in Myasthenia gravis",
+      "options": {
+        "A": "Pralidoxime",
+        "B": "Neostigmine",
+        "C": "Physostigmine",
+        "D": "Edrophonium"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Edrophonium is a short-acting acetylcholinesterase inhibitor used in the Tensilon test to diagnose Myasthenia gravis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 55,
+      "question_text": "The most potent mydriatic agent with longest duration of action",
+      "options": {
+        "A": "Homatropine",
+        "B": "Tropicamide",
+        "C": "Atropine",
+        "D": "Cyclopentolate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Atropine is the most potent anticholinergic mydriatic with the longest duration of action (up to a week or more).",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Which of the following is not a second generation Antihistamine ?",
+      "options": {
+        "A": "Astemizole",
+        "B": "Promethazine",
+        "C": "Cetrizine",
+        "D": "Loratidine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Promethazine is a first-generation antihistamine with pronounced sedative properties, unlike the non-sedating second-generation agents.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 57,
+      "question_text": "The cardiac glycoside commonly given by parenteral route in emergency",
+      "options": {
+        "A": "Ouabaine",
+        "B": "Digitoxin",
+        "C": "Digoxin",
+        "D": "Milrinone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ouabain (strophanthin-G) has a rapid onset and was historically used parenterally in acute cardiac emergencies.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 58,
+      "question_text": "The angiotensin receptor antagonist used in hypertension",
+      "options": {
+        "A": "Captopril",
+        "B": "Enalapril",
+        "C": "Losartan",
+        "D": "Nifedipine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Losartan is an angiotensin II receptor blocker (ARB), whereas captopril and enalapril are ACE inhibitors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Insulin is usually given to diabetic patients by which route ?",
+      "options": {
+        "A": "Oral",
+        "B": "Intravenous",
+        "C": "Intraspinal",
+        "D": "Subcutaneous"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Insulin is a peptide hormone that is degraded in the gastrointestinal tract, so it is typically administered via the subcutaneous route.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 60,
+      "question_text": "The drug of choice for treatment of Typhoid fever is",
+      "options": {
+        "A": "Erythromycin",
+        "B": "Amoxycillin",
+        "C": "Chloramphenicol",
+        "D": "Nafcillin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Historically and classically, chloramphenicol has been recognized as the quintessential drug of choice for treating typhoid fever.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 61,
+      "question_text": "The licence for wholesale of drugs specified in Schedule X is issued in",
+      "options": {
+        "A": "Form 20 A",
+        "B": "Form 20 B",
+        "C": "Form 20 F",
+        "D": "Form 20 G"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Drugs and Cosmetics Rules, Form 20G is used for issuing a license to sell, stock, or exhibit for sale by wholesale drugs specified in Schedule X.",
+      "category": "General"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Anyone who contravenes any provision of the Drugs and Magic Remedies Act shall on first conviction be liable to",
+      "options": {
+        "A": "1 month of imprisonment or fine or both",
+        "B": "3 months of imprisonment or fine or both",
+        "C": "6 months of imprisonment or fine or both",
+        "D": "1 year of imprisonment or fine or both"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "First conviction under the Drugs and Magic Remedies (Objectionable Advertisements) Act carries imprisonment up to 6 months, or fine, or both.",
+      "category": "General"
+    },
+    {
+      "question_number": 63,
+      "question_text": "Offences committed under NDPS Act, 1985 shall be triable by the Special Court constituted under the Act, where the punishment is",
+      "options": {
+        "A": "More than 5 years",
+        "B": "More than 3 years",
+        "C": "More than 2 years",
+        "D": "More than 1 year"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the NDPS Act, offences carrying a punishment of imprisonment for more than 3 years are triable by a Special Court.",
+      "category": "General"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Intra-uterine devices are tested at",
+      "options": {
+        "A": "Central Research Institute, Kasauli",
+        "B": "Central Drugs Testing Laboratory, Thane",
+        "C": "Central Drugs Laboratory, Calcutta",
+        "D": "Indian Pharmacopoeial Laboratory, Ghaziabad"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Intra-uterine devices (IUDs) and condoms are tested for quality at the Indian Pharmacopoeial Laboratory (IPL) in Ghaziabad.",
+      "category": "General"
+    },
+    {
+      "question_number": 65,
+      "question_text": "Loan licence is issued under Drugs and Cosmetics Act for the manufacture of drugs other than those specified in",
+      "options": {
+        "A": "Schedule C",
+        "B": "Schedule C1",
+        "C": "Schedule X",
+        "D": "All of the above"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Loan licenses cannot be issued for drugs specified in Schedule X due to their strict psychotropic and narcotic control requirements.",
+      "category": "General"
+    },
+    {
+      "question_number": 66,
+      "question_text": "Drug inspectors should intimate the purpose of taking drug samples to the person concerned in",
+      "options": {
+        "A": "Form 15",
+        "B": "Form 16",
+        "C": "Form 17",
+        "D": "Form 18"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 17 is the formal document used by Drug Inspectors to disclose the purpose and receipt of taking drug samples for analysis.",
+      "category": "General"
+    },
+    {
+      "question_number": 67,
+      "question_text": "The first Central Council was constituted by the Central Government in",
+      "options": {
+        "A": "1947",
+        "B": "1948",
+        "C": "1949",
+        "D": "1950"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The first Pharmacy Council of India (Central Council) was constituted in the year 1949 under the Pharmacy Act, 1948.",
+      "category": "General"
+    },
+    {
+      "question_number": 68,
+      "question_text": "The Narcotic Drugs and Psychotropic Substances Order came into force in",
+      "options": {
+        "A": "1983",
+        "B": "1985",
+        "C": "1993",
+        "D": "1995"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Narcotic Drugs and Psychotropic Substances (NDPS) Control, Regulation and Review Order came into force in 1993.",
+      "category": "General"
+    },
+    {
+      "question_number": 69,
+      "question_text": "If a drug contains any harmful or toxic substance, which may render it injurious to health, it is called",
+      "options": {
+        "A": "Adulterated drug",
+        "B": "Spurious drug",
+        "C": "Misbranded drug",
+        "D": "Not of standard quality drug"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Drugs and Cosmetics Act, a drug containing any filthy, putrid, or decomposed substance, or any harmful/toxic ingredient rendering it injurious to health, is deemed an adulterated drug.",
+      "category": "General"
+    },
+    {
+      "question_number": 70,
+      "question_text": "The number of nominated members to the State Pharmacy Council are",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "State Pharmacy Councils consist of 6 members nominated by the State Government under Section 19 of the Pharmacy Act.",
+      "category": "General"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Inventories moving temporarily because of seasonal production are called",
+      "options": {
+        "A": "Obsolete items",
+        "B": "Surplus items",
+        "C": "Dormant items",
+        "D": "Scrap items"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Surplus or seasonal inventory refers to items that accumulate temporarily due to seasonal production fluctuations.",
+      "category": "General"
+    },
+    {
+      "question_number": 72,
+      "question_text": "A modern drug store should fulfil all minimum requirements as specified in ___________ of the Drugs and Cosmetics Act, 1940 and Rules 1945.",
+      "options": {
+        "A": "Schedule M",
+        "B": "Schedule N",
+        "C": "Schedule P",
+        "D": "Schedule S"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Schedule N outlines the minimum requirements for the efficient running of a pharmacy or modern drug store.",
+      "category": "General"
+    },
+    {
+      "question_number": 73,
+      "question_text": "One among the following is not a source of secondary data for market research",
+      "options": {
+        "A": "Sales turnover",
+        "B": "Annual report",
+        "C": "Trade journals",
+        "D": "Market research"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sales turnover represents primary internal company data rather than external or published secondary data.",
+      "category": "General"
+    },
+    {
+      "question_number": 74,
+      "question_text": "The method in which a code is assigned to stored items for easy identification is called",
+      "options": {
+        "A": "Block method",
+        "B": "Mnemonic method",
+        "C": "Combination method",
+        "D": "Alphanumeric method"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Mnemonic coding uses letters and abbreviations to help easily remember and identify stored items.",
+      "category": "General"
+    },
+    {
+      "question_number": 75,
+      "question_text": "The inventory carrying cost is represented by items like (i) Cost of insurance (ii) Cost of paper work (iii) Cost of taxes (iv) Cost of posting",
+      "options": {
+        "A": "(i) and (ii)",
+        "B": "(i) and (iii)",
+        "C": "(ii) and (iii)",
+        "D": "(ii) and (iv)"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Cost of insurance and taxes are direct holding/carrying costs associated with storing inventory.",
+      "category": "General"
+    },
+    {
+      "question_number": 76,
+      "question_text": "The capital necessary to maintain a minimum level of stock and for payment of regular expenses is called",
+      "options": {
+        "A": "Fixed capital",
+        "B": "Revolving capital",
+        "C": "Temporary working capital",
+        "D": "Permanent working capital"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Permanent working capital represents the minimum amount of liquid capital required continuously to maintain essential stock and operations.",
+      "category": "General"
+    },
+    {
+      "question_number": 77,
+      "question_text": "The bank launched in India for promoting the export and import of goods and services is",
+      "options": {
+        "A": "SBI",
+        "B": "IFCI",
+        "C": "IDBI",
+        "D": "Exim Bank"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Export-Import Bank of India (Exim Bank) was established for promoting international trade and financing exports/imports.",
+      "category": "General"
+    },
+    {
+      "question_number": 78,
+      "question_text": "The lower limit below which the stock of any item, should not normally be allowed to fall is",
+      "options": {
+        "A": "Lead stock",
+        "B": "Average stock",
+        "C": "Buffer stock",
+        "D": "Reorder stock"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Buffer stock (or safety stock) is the minimum reserve level maintained to prevent stockouts.",
+      "category": "General"
+    },
+    {
+      "question_number": 79,
+      "question_text": "The items which consume 70% of the total budget of inventories, but represent only 10% of the total inventory are called",
+      "options": {
+        "A": "A items",
+        "B": "B items",
+        "C": "C items",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In ABC analysis, 'A' items account for the highest value consumption (~70%) despite making up a small percentage (~10%) of total items.",
+      "category": "General"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Pre-determined scrap is refered to as",
+      "options": {
+        "A": "Anticipated scrap",
+        "B": "Administrative scrap",
+        "C": "Legitimate scrap",
+        "D": "Defective scrap"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Anticipated or planned scrap is estimated in advance before manufacturing or processing begins.",
+      "category": "General"
+    },
+    {
+      "question_number": 81,
+      "question_text": "The efficiency of HEPA filter can be tested using",
+      "options": {
+        "A": "Sterility test",
+        "B": "Clarity test",
+        "C": "Dioctyl phthalate smoke test",
+        "D": "Particle counter"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The DOP (dioctyl phthalate) smoke test is a standard method used to test the integrity and efficiency of HEPA filters.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Pharmacy and Therapeutic Committee has role except in",
+      "options": {
+        "A": "ADR monitoring and reporting",
+        "B": "Preparation of drug list and emergency supplies",
+        "C": "Medical record services",
+        "D": "Drug utilization review"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Medical record services are managed by the health information management department, not the Pharmacy and Therapeutics (P&T) committee.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 83,
+      "question_text": "MEDLINE is a drug information resource categorised under",
+      "options": {
+        "A": "Primary resource",
+        "B": "Secondary resource",
+        "C": "Tertiary resource",
+        "D": "Primary literature"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "MEDLINE is a bibliographic database indexing biomedical literature, making it a secondary literature resource.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 84,
+      "question_text": "Test for water holding capacity is stated in Indian Pharmacopoeia for",
+      "options": {
+        "A": "Adhesive tape",
+        "B": "Elastic bandage",
+        "C": "Crepe bandage",
+        "D": "Absorbent cotton wool"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Absorbent cotton wool is tested for its water holding capacity according to pharmacopoeial standards.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 85,
+      "question_text": "‘Clean room area’ means",
+      "options": {
+        "A": "Socially clean area free from particulate matter",
+        "B": "Socially clean area",
+        "C": "Aseptic area",
+        "D": "Area with high standards of cleanliness and hygiene"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A clean room is defined as a socially clean area controlled for airborne particulate matter and environmental parameters.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 86,
+      "question_text": "Satellite pharmacy a mode of drug distribution system under",
+      "options": {
+        "A": "Charge floor stock system",
+        "B": "Centralised unit dose dispensing system",
+        "C": "Decentralised unit dose dispensing system",
+        "D": "Individual prescription system"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Satellite pharmacies operate as decentralized units to dispense medications close to nursing units, typically in decentralized unit dose systems.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 87,
+      "question_text": "Automatic stop order is used for",
+      "options": {
+        "A": "OTC drugs",
+        "B": "Dangerous drugs",
+        "C": "Orphan drugs",
+        "D": "Counterfeit drugs"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Automatic stop orders are policies applied to dangerous or controlled drugs (such as narcotics and sedatives) to limit prolonged unmonitored use.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 88,
+      "question_text": "Absorbable suture is",
+      "options": {
+        "A": "Nylon suture 2/0 (revere cutting)",
+        "B": "Silk suture braided 2/0",
+        "C": "Cotton",
+        "D": "Catgut chromic 2/0"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chromic catgut is a natural absorbable surgical suture, unlike nylon, silk, and cotton which are non-absorbable.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 89,
+      "question_text": "Tuberculin syringe is available in",
+      "options": {
+        "A": "1 ml",
+        "B": "2 ml",
+        "C": "3 ml",
+        "D": "5 ml"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tuberculin syringes are small-volume syringes typically designed with a capacity of 1 ml for accurate intradermal administration.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 90,
+      "question_text": "Which one is used for aspiration of stomach contents ?",
+      "options": {
+        "A": "Endotracheal tube",
+        "B": "Ryle’s tube",
+        "C": "Metal catheter",
+        "D": "Rubber catheter"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ryle's tube (nasogastric tube) is inserted through the nose into the stomach for feeding or aspiration of gastric contents.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 91,
+      "question_text": "Withdrawal symptoms of opioids can be managed with",
+      "options": {
+        "A": "Oxycodone",
+        "B": "Meperidine",
+        "C": "Methadone",
+        "D": "Heroin"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Methadone is a long-acting mu-opioid receptor agonist used for detoxification and maintenance therapy in opioid dependence.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 92,
+      "question_text": "Bioavailability increases when drugs are in",
+      "options": {
+        "A": "non-ionised form",
+        "B": "ionised form",
+        "C": "crystalline form",
+        "D": "hydrated form"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Non-ionized drugs are lipophilic and can easily cross biological lipid membranes, thus increasing absorption and bioavailability.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 93,
+      "question_text": "Insulin induced hypoglycaemia is classified under",
+      "options": {
+        "A": "Type A Adverse Drug Reaction",
+        "B": "Type B Adverse Drug Reaction",
+        "C": "Type C Adverse Drug Reaction",
+        "D": "Type D Adverse Drug Reaction"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Type A ADRs are dose-dependent, predictable extensions of a drug's pharmacological action, such as hypoglycemia caused by insulin.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 94,
+      "question_text": "A method to improve patient compliance is",
+      "options": {
+        "A": "Patient counselling",
+        "B": "Proper packaging and labelling",
+        "C": "Simplification of medication regimens",
+        "D": "All the above"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "All listed methods (counselling, proper labeling, and regimen simplification) effectively enhance patient medication adherence.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 95,
+      "question_text": "Serum sodium level is",
+      "options": {
+        "A": "3.4 – 4.5 mmol/L",
+        "B": "2.2 – 2.6 mmol",
+        "C": "135 – 145 mmol/L",
+        "D": "110 – 120 mmol/L"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The normal physiological reference range for serum sodium in humans is approximately 135 to 145 mmol/L.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 96,
+      "question_text": "Metoclopramide if given with paracetamol",
+      "options": {
+        "A": "Increase metabolism of paracetamol",
+        "B": "Decrease analgesic effect",
+        "C": "Decrease onset time for analgesia",
+        "D": "Combination is pharmacologically inactive"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Metoclopramide accelerates gastric emptying, thereby increasing the rate of absorption and decreasing the onset time of analgesia for paracetamol.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 97,
+      "question_text": "Fatigue, weight loss, chronic cough, night sweats, chest pain are clinical symptoms of",
+      "options": {
+        "A": "Angina pectoris",
+        "B": "Tuberculosis",
+        "C": "Hypertension",
+        "D": "Diabetes mellitus"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chronic cough, night sweats, fatigue, and weight loss are classic hallmark symptoms of pulmonary tuberculosis.",
+      "category": "Clinical Pharmacy"
+    },
+    {
+      "question_number": 98,
+      "question_text": "HBsAg testing is done to detect the presence of",
+      "options": {
+        "A": "Hepatitis A virus",
+        "B": "Chickenpox virus",
+        "C": "Hepatitis B virus",
+        "D": "Hepatitis C virus"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "HBsAg (Hepatitis B surface antigen) is a serological marker specifically used to screen for Hepatitis B virus infection.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 99,
+      "question_text": "Amphetamine poisoning can be treated with",
+      "options": {
+        "A": "Thiamine",
+        "B": "Ascorbic acid",
+        "C": "Sodium bicarbonate",
+        "D": "Ammonia"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Sodium bicarbonate alkalinizes the urine, which ionizes amphetamines and enhances their renal excretion during overdose.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 100,
+      "question_text": "If two or more dosage forms of same drug contain same labelled quantities of the drug, they are",
+      "options": {
+        "A": "Therapeutic equivalent",
+        "B": "Chemical equivalent",
+        "C": "Clinical equivalent",
+        "D": "None of these"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Products that contain the same active ingredients in the exact same labeled quantities are defined as chemical equivalents.",
+      "category": "Pharmaceutics"
+    }
+  ]
+}

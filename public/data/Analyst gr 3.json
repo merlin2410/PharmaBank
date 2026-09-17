@@ -1,0 +1,1506 @@
+{
+  "exam_title": "Analyst gr 3",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which of the following disease is treated with Penicillamine ?",
+      "options": {
+        "A": "Crohn's disease",
+        "B": "Alzheimer's disease",
+        "C": "Wilson's disease",
+        "D": "Carrion's disease"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Penicillamine is a chelating agent used to remove excess copper in Wilson's disease.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Aluminium hydroxide gel is assayed by",
+      "options": {
+        "A": "Iodimetric titration",
+        "B": "Complexometric titration",
+        "C": "Redox titration",
+        "D": "Non-aqueous titration"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Aluminium hydroxide is typically assayed using complexometric titration with EDTA.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 3,
+      "question_text": "An important ingredient used in commercial sun-tan preparation is",
+      "options": {
+        "A": "Titanium dioxide",
+        "B": "Zinc oxide",
+        "C": "Magnesium oxide",
+        "D": "Calcium oxide"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Zinc oxide and titanium dioxide are widely used physical UV blockers in sunscreens.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Which of the following drug is used in cough mixtures ?",
+      "options": {
+        "A": "Potassium iodide",
+        "B": "Potassium bromide",
+        "C": "Sodium bromide",
+        "D": "Magnesium sulphate"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Potassium iodide is used as an expectorant in cough mixtures.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Gutzeit test is used for the limit test for",
+      "options": {
+        "A": "Lead",
+        "B": "Chloride",
+        "C": "Iron",
+        "D": "Arsenic"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Gutzeit test is a specific chemical test used for the limit test of arsenic.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Alkaline potassium mercuric iodide is known as",
+      "options": {
+        "A": "Hager's reagent",
+        "B": "Nessler's reagent",
+        "C": "Wagner's reagent",
+        "D": "Marqui's reagent"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nessler's reagent is an alkaline solution of potassium mercuric iodide used to detect ammonia.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Which of the following is used in antidandruff preparations ?",
+      "options": {
+        "A": "Bentonite",
+        "B": "Calamine",
+        "C": "Selenium sulphide",
+        "D": "Cetrimide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Selenium sulphide is a common active ingredient in antidandruff shampoos.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 8,
+      "question_text": "The reddish purple colour formed in limit test for iron is",
+      "options": {
+        "A": "Ferroin",
+        "B": "Ferric thioglycollate",
+        "C": "Ferric ferrocyanide",
+        "D": "Ferrous thioglycollate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "In the limit test for iron, iron reacts with thioglycollic acid in the presence of citric acid to form a reddish-purple ferric thioglycollate complex.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 9,
+      "question_text": "What is Epsom salt ?",
+      "options": {
+        "A": "Ferrous sulphate",
+        "B": "Magnesium sulphate",
+        "C": "Copper sulphate",
+        "D": "Barium sulphate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Epsom salt is chemically known as magnesium sulphate heptahydrate.",
+      "category": "Pharmaceutical Chemistry"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which of the following drug is used as antidote in arsenic poisoning ?",
+      "options": {
+        "A": "Dimercaprol",
+        "B": "Penicillamine",
+        "C": "Pralidoxime",
+        "D": "Desferrioxamine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dimercaprol (BAL) is a classic chelating agent used as an antidote for arsenic, mercury, and lead poisoning.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Which of the following is a tropane alkaloid ?",
+      "options": {
+        "A": "Hyoscyamine",
+        "B": "Physostigmine",
+        "C": "Quinine",
+        "D": "Vincristine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hyoscyamine possesses a tropane ring structure and belongs to the tropane alkaloid class.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Which of the opium alkaloid is used to suppress unproductive cough ?",
+      "options": {
+        "A": "Thebaine",
+        "B": "Morphine",
+        "C": "Papaverine",
+        "D": "Codeine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Codeine is widely used as an antitussive to suppress dry, unproductive coughs.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Chemical name of Heroin is",
+      "options": {
+        "A": "Dimethyl morphine",
+        "B": "Diethyl morphine",
+        "C": "Diacetyl morphine",
+        "D": "Dimethoxy morphine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Heroin is chemically known as diacetylmorphine or diamorphine.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Artemisinin is a",
+      "options": {
+        "A": "Diterpene lactone",
+        "B": "Sesquiterpene lactone",
+        "C": "Triterpene lactone",
+        "D": "Tetraterpene lactone"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Artemisinin contains an endoperoxide bridge and is classified as a sesquiterpene lactone.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 15,
+      "question_text": "An example for indole alkaloid is",
+      "options": {
+        "A": "Quinine",
+        "B": "Atropine",
+        "C": "Ephedrine",
+        "D": "Strychnine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Strychnine is a well-known indole alkaloid found in Strychnos nux-vomica.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Cholesterol on Oppenauer oxidation gives",
+      "options": {
+        "A": "Cholest-4-en-2-one",
+        "B": "Cholest-4-en-3-ol",
+        "C": "Cholest-4-en-3-one",
+        "D": "Cholest-4-en-2-ol"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Oppenauer oxidation of cholesterol selectively oxidizes the 3-beta-hydroxyl group to a 3-keto group, yielding cholest-4-en-3-one.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Which of the following is the starting material for the synthesis of Vitamin A ?",
+      "options": {
+        "A": "Menthol",
+        "B": "Citral",
+        "C": "Thymol",
+        "D": "Eugenol"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Citral is commonly used as a key starting material in the industrial synthesis of Vitamin A.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Which of the following xanthine derivative has bronchodilator action ?",
+      "options": {
+        "A": "Theophylline",
+        "B": "Theobromine",
+        "C": "Caffeine",
+        "D": "1-Methyl xanthine"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Theophylline is a methylxanthine derivative primarily used for its bronchodilatory effects in asthma and COPD.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Major blood sugar in insects is",
+      "options": {
+        "A": "Maltose",
+        "B": "Sucrose",
+        "C": "Trehalose",
+        "D": "Raffinose"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Trehalose is the primary circulating disaccharide (blood sugar) found in the hemolymph of insects.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 20,
+      "question_text": "An example for an aromatic amino acid is",
+      "options": {
+        "A": "Cysteine",
+        "B": "Valine",
+        "C": "Methionine",
+        "D": "Tryptophan"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tryptophan, along with phenylalanine and tyrosine, contains an aromatic ring side chain.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 21,
+      "question_text": "Which of the following is used as stabilizer in diethyl ether ?",
+      "options": {
+        "A": "Chlorocresol",
+        "B": "Propyl gallate",
+        "C": "Phenyl mercuric nitrate",
+        "D": "Sodium metabisulphate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phenyl mercuric nitrate or ethanol is often added to diethyl ether to prevent the formation of explosive peroxides.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 22,
+      "question_text": "An example for halogenated hydrocarbon type of general anaesthetic drug is",
+      "options": {
+        "A": "Halothane",
+        "B": "Diethyl ether",
+        "C": "Cyclopropane",
+        "D": "Thiopentone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Halothane is a halogenated alkane used as a general inhalation anesthetic.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Which of the following drug is an amide type of local anaesthetic ?",
+      "options": {
+        "A": "Cocaine",
+        "B": "Procaine",
+        "C": "Benzocaine",
+        "D": "Lignocaine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lignocaine (lidocaine) contains an amide linkage, unlike procaine and cocaine which are ester anesthetics.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Toxic effects of isoniazid can be minimized by administering with",
+      "options": {
+        "A": "Pyridoxine",
+        "B": "Folic acid",
+        "C": "Nicotinic acid",
+        "D": "Pantothenic acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Isoniazid induces Vitamin B6 deficiency, which can cause peripheral neuropathy; co-administration of pyridoxine (Vitamin B6) prevents this.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Benzodiazepine overdosage is treated with",
+      "options": {
+        "A": "Flumazenil",
+        "B": "Fluophenazine",
+        "C": "Fluopenthixol",
+        "D": "Fludrocortisone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Flumazenil is a specific competitive antagonist at the benzodiazepine binding site on the GABA_A receptor used to reverse overdose.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 26,
+      "question_text": "In which category of the antipsychotic drugs chlorpromazine belongs to ?",
+      "options": {
+        "A": "Butyrophenone",
+        "B": "Phenothiazine",
+        "C": "Thoxanthene",
+        "D": "Indole derivative"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chlorpromazine is the prototype aliphatic phenothiazine antipsychotic agent.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Drug used to treat filariasis is",
+      "options": {
+        "A": "Albendazole",
+        "B": "Mebendazole",
+        "C": "Thiabendazole",
+        "D": "Diethyl carbamazine citrate"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Diethylcarbamazine citrate is the drug of choice for the treatment of lymphatic filariasis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 28,
+      "question_text": "An alkaloidal drug used as anticholinesterase agent is",
+      "options": {
+        "A": "Pyridostigmine",
+        "B": "Neostigmine",
+        "C": "Physostigmine",
+        "D": "Edrophonium"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Physostigmine is a naturally occurring alkaloid that acts as a reversible acetylcholinesterase inhibitor.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Which vitamin is used to treat beriberi ?",
+      "options": {
+        "A": "Pyridoxine",
+        "B": "Riboflavin",
+        "C": "Nicotinic acid",
+        "D": "Thiamine"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Beriberi is caused by a deficiency in Vitamin B1, known as thiamine.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 30,
+      "question_text": "An example for 8-aminoquinoline derivative used as antimalarial drug is",
+      "options": {
+        "A": "Chloroquine",
+        "B": "Primaquine",
+        "C": "Proguanil",
+        "D": "Amodiaquine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Primaquine is an 8-aminoquinoline antimalarial drug effective against liver-stage parasites.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Activation of TLC plates is the process in which ____________ is done.",
+      "options": {
+        "A": "Dipping in developing solvent",
+        "B": "Increasing the chirality",
+        "C": "Heating at high temperature",
+        "D": "Adding fluorescent dye"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Activation of TLC plates involves heating them at an elevated temperature to remove adsorbed moisture.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 32,
+      "question_text": "____________ are used in qualitative analysis to find out whether the compounds belong to homologous series.",
+      "options": {
+        "A": "R_x values",
+        "B": "R_m values",
+        "C": "R_f values",
+        "D": "R_a values"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "R_m values (from chromatography) show a linear relationship with the number of carbon atoms in homologous series.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 33,
+      "question_text": "The visualizing reagent for cardiac glycosides is",
+      "options": {
+        "A": "Ferric chloride",
+        "B": "2, 4 Dinitro phenyl hydrazine",
+        "C": "Ninhydrin",
+        "D": "3, 5 Dinitro benzoic acid"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Kedde's reagent (3,5-dinitrobenzoic acid in alkali) is used to visualize cardiac glycosides on TLC.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 34,
+      "question_text": "The non-polar stationary phase used in gas-liquid chromatography is",
+      "options": {
+        "A": "Poly dimethyl siloxane",
+        "B": "Poly ethylene glycol",
+        "C": "Poly propylene glycol",
+        "D": "Poly vinyl pyrrolidone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Polydimethylsiloxane is a standard non-polar stationary phase in gas-liquid chromatography.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 35,
+      "question_text": "____________ is a hypothetical functional unit of a column in gas chromatography.",
+      "options": {
+        "A": "Stationary phase",
+        "B": "Theoretical plate",
+        "C": "Mobile phase",
+        "D": "Activated plate"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The theoretical plate is a hypothetical concept used to measure column efficiency in chromatography.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 36,
+      "question_text": "The fingerprint region of IR spectroscopy is",
+      "options": {
+        "A": "$100\\ \\text{cm}^{-1}$ to $150\\ \\text{cm}^{-1}$",
+        "B": "$4000\\ \\text{cm}^{-1}$ to $1600\\ \\text{cm}^{-1}$",
+        "C": "$1500\\ \\text{cm}^{-1}$ to $400\\ \\text{cm}^{-1}$",
+        "D": "$6000\\ \\text{cm}^{-1}$ to $4000\\ \\text{cm}^{-1}$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The fingerprint region in infrared spectroscopy generally spans from $1500\\ \\text{cm}^{-1}$ to $400\\ \\text{cm}^{-1}$.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 37,
+      "question_text": "____________ is the father of quality circles, a voluntary group of employees who work on similar tasks.",
+      "options": {
+        "A": "Joseph M. Juran",
+        "B": "Philip Crosby",
+        "C": "Edwards Deming",
+        "D": "Kaoro Ishikawa"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Kaoru Ishikawa is widely recognized as the father of quality circles and pioneer of quality management.",
+      "category": "General"
+    },
+    {
+      "question_number": 38,
+      "question_text": "International Conference on Harmonization (ICH) Q 1B guidelines describes",
+      "options": {
+        "A": "Pharmacopoeial harmonization",
+        "B": "Photostability testing of new drug substances",
+        "C": "Evaluation of stability data",
+        "D": "Quality risk management"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "ICH Q1B guideline specifically outlines the requirements for photostability testing of new drug substances and products.",
+      "category": "Pharmaceutical Jurisprudence"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Hollow Cathode Lamp is a source in ____________ spectroscopy.",
+      "options": {
+        "A": "Atomic absorption spectroscopy",
+        "B": "Flame photometry",
+        "C": "Infrared spectroscopy",
+        "D": "Ultra-violet spectroscopy"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "A hollow cathode lamp is the standard radiation source used in atomic absorption spectroscopy.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Potassium metal when excited in a flame emits ____________ colour.",
+      "options": {
+        "A": "Red",
+        "B": "Green",
+        "C": "Lilac",
+        "D": "Orange"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "When potassium salts are heated in a flame, they emit a characteristic lilac or violet color.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Indeterminate errors are also called as",
+      "options": {
+        "A": "Systemic errors",
+        "B": "Random errors",
+        "C": "Additive errors",
+        "D": "Personal errors"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Indeterminate errors are random errors that fluctuate unpredictably from one measurement to another.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 42,
+      "question_text": "____________ is an aprotic solvent used in non-aqueous titrations.",
+      "options": {
+        "A": "Toluene",
+        "B": "Hydrogen fluoride",
+        "C": "Sulphuric acid",
+        "D": "Acetic acid"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Toluene is an example of an aprotic, non-polar solvent frequently used in non-aqueous titrations.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 43,
+      "question_text": "The example of fractional precipitation is",
+      "options": {
+        "A": "Gay Lussac's method",
+        "B": "Adsorption indicator method",
+        "C": "Volhard's method",
+        "D": "Mohr's method"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Gay-Lussac's method is a classic example of analytical estimation by fractional precipitation (turbidimetry).",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 44,
+      "question_text": "____________ is a demasking agent used in complexometric titrations.",
+      "options": {
+        "A": "Cyanide",
+        "B": "Chloralhydrate",
+        "C": "Calcium",
+        "D": "Cadmium"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Chloral hydrate is used as a demasking agent to free specific metal ions so they can react with EDTA during complexometric titrations.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 45,
+      "question_text": "The water content of glacial ethanoic acid for non-aqueous titrations may be in the range",
+      "options": {
+        "A": "$0.5-2\\%$",
+        "B": "$1-2\\%$",
+        "C": "$0.1-1\\%$",
+        "D": "$0.2-5\\%$"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The acceptable water content in glacial acetic acid (ethanoic acid) for non-aqueous titrations typically ranges from $0.1\\%$ to $1\\%$.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 46,
+      "question_text": "____________ is an indicator electrode used in potentiometric experiments.",
+      "options": {
+        "A": "Quinhydrone electrode",
+        "B": "Calomel electrode",
+        "C": "Silver-Silver chloride electrode",
+        "D": "Mercurous electrode"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The quinhydrone electrode is a common redox indicator electrode used for pH determinations and potentiometric titrations.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 47,
+      "question_text": "In polarography, the current which is directly proportional to concentration is",
+      "options": {
+        "A": "Migration current",
+        "B": "Kinetic current",
+        "C": "Diffusion current",
+        "D": "Limiting current"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "According to the Ilkovic equation, the diffusion current is directly proportional to the concentration of the electroactive species.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 48,
+      "question_text": "____________ is added in modified Volhard's method for determination of chlorides to form an insoluble layer over the precipitate.",
+      "options": {
+        "A": "Toluene",
+        "B": "Benzene",
+        "C": "Nitrobenzene",
+        "D": "Xylene"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nitrobenzene is added in the modified Volhard method to coat the silver chloride precipitate and prevent its reaction with thiocyanate.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 49,
+      "question_text": "The colour change interval of Phenol red indicator is",
+      "options": {
+        "A": "$1.2-2.8$",
+        "B": "$3.4-4.4$",
+        "C": "$8.2-10$",
+        "D": "$6.8-8.4$"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Phenol red changes color over a pH range of approximately $6.8$ to $8.4$.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 50,
+      "question_text": "The theory which states that the colour change of indicators are due to structural changes is",
+      "options": {
+        "A": "Quinonoid theory",
+        "B": "Oswald's theory",
+        "C": "Arrhenius theory",
+        "D": "Lewis theory"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The quinonoid theory proposes that acid-base indicators undergo structural changes between benzenoid and quinonoid forms, causing color changes.",
+      "category": "Pharmaceutical Analysis"
+    },
+    {
+      "question_number": 51,
+      "question_text": "The alkaloid containing imidazole ring structure",
+      "options": {
+        "A": "Hygrine",
+        "B": "Arecoline",
+        "C": "Pilocarpine",
+        "D": "Cocaine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Pilocarpine is a plant-derived alkaloid that contains an imidazole ring in its chemical structure.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 52,
+      "question_text": "The alkaloid which is derived from phenyl alanine is",
+      "options": {
+        "A": "Papaverine",
+        "B": "Codeine",
+        "C": "Ephedrine",
+        "D": "Atropine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ephedrine is a protoalkaloid derived biosynthetically from the amino acid phenylalanine.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Anthopleurim is found in the aneural branchial hearts of Pacific Hog Fish used as potent cardiac stimulant.",
+      "options": {
+        "A": "Eptatretin",
+        "B": "Laminine",
+        "C": "Saxitoxin",
+        "D": "Anthopleurim"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": true,
+      "explanation": "Anthopleurim is a peptide isolated from sea anemones known to act as a cardiac stimulant.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Variablin is the antibiotic principle obtained from Red algae.",
+      "options": {
+        "A": "Variablin",
+        "B": "Ircinin",
+        "C": "Cycloeudesmol",
+        "D": "Artemisinin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": true,
+      "explanation": "Variablin is a known marine-derived antimicrobial compound found in marine organisms.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Probiotics are living micro-organisms when taken, improve the intestinal microbial balance.",
+      "options": {
+        "A": "Antibiotics",
+        "B": "Probiotics",
+        "C": "Antioxidants",
+        "D": "Polyunsaturated acids"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": true,
+      "explanation": "Probiotics are defined as live microorganisms that confer a health benefit on the host when administered in adequate amounts.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Green Hellebore is",
+      "options": {
+        "A": "Kurchi",
+        "B": "Ephedra",
+        "C": "Veratrum",
+        "D": "Ergot"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Veratrum viride is commonly known as American white hellebore or green hellebore.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 57,
+      "question_text": "The crude drug microscopy reveals sunken stomata for",
+      "options": {
+        "A": "Ephedra",
+        "B": "Datura",
+        "C": "Rauwolfia",
+        "D": "Cinchona"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ephedra species are xerophytic plants that characteristically possess sunken stomata.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Spirulina is a blue-green algae possessing immunostimulant activity.",
+      "options": {
+        "A": "Royal Jelly",
+        "B": "Spirulina",
+        "C": "Collagen",
+        "D": "Gelatin"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": true,
+      "explanation": "Spirulina is a cyanobacterium (blue-green alga) known for enhancing immune function.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 59,
+      "question_text": "The medicinal preparations processed by soaking the drugs in the powdered form in a solution of sugar or jaggery is called",
+      "options": {
+        "A": "Arka",
+        "B": "Kvatha",
+        "C": "Asava",
+        "D": "Dravaka"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Asava and Arishta are Ayurvedic preparations made by soaking drugs in sugar/jaggery solutions for fermentation.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 60,
+      "question_text": "Fine powder of drugs are called as ________ in Ayurveda.",
+      "options": {
+        "A": "Lehya",
+        "B": "Choorna",
+        "C": "Kshavas",
+        "D": "Lepa"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Choorna is the Ayurvedic term for fine medicinal powder.",
+      "category": "Pharmacognosy"
+    },
+    {
+      "question_number": 61,
+      "question_text": "The neurotransmitter released at Autonomic ganglia",
+      "options": {
+        "A": "Dopamine",
+        "B": "Noradrenaline",
+        "C": "Acetylcholine",
+        "D": "Adrenaline"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Acetylcholine is the primary neurotransmitter at all autonomic ganglia, acting on nicotinic receptors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Penalty imposed for falsely claiming to be a Registered Pharmacist on first conviction as per the Pharmacy Act",
+      "options": {
+        "A": "Imprisonment for 3 months",
+        "B": "Fine up to Rs. 1,000",
+        "C": "Imprisonment for 6 months",
+        "D": "Fine up to Rs. 500"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Indian Pharmacy Act, falsely claiming to be a registered pharmacist carries a penalty of imprisonment up to 3 months or fine, or both.",
+      "category": "General"
+    },
+    {
+      "question_number": 63,
+      "question_text": "Analysis and testing of samples of vaccines are carried out at",
+      "options": {
+        "A": "Indian Pharmacopoeia Laboratory, Ghaziabad",
+        "B": "Central Research Institute, Kasauli",
+        "C": "Pasteur Institute of India, Coonoor",
+        "D": "Indian Veterinary Research Institute, Izatnagar"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Central Research Institute in Kasauli is a primary national testing laboratory for vaccines and sera in India.",
+      "category": "General"
+    },
+    {
+      "question_number": 64,
+      "question_text": "The bacterium that is most commonly used in genetic engineering",
+      "options": {
+        "A": "Protius",
+        "B": "Escherichia Coli",
+        "C": "Klebsiella",
+        "D": "Shigella"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Escherichia coli (E. coli) is the most widely used host organism in recombinant DNA technology and genetic engineering.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 65,
+      "question_text": "Monoclonal antibodies are produced by",
+      "options": {
+        "A": "Fermentation technology",
+        "B": "Hybridoma technology",
+        "C": "Biotechnology",
+        "D": "Bioinformatics"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hybridoma technology fuses B-lymphocytes with myeloma cells to continuously produce monoclonal antibodies.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 66,
+      "question_text": "The immunoglobulin which is seen most abundant in breast milk",
+      "options": {
+        "A": "IgM",
+        "B": "IgG",
+        "C": "IgA",
+        "D": "IgD"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Secretory IgA is the predominant immunoglobulin found in human breast milk, providing mucosal immunity to the newborn.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Drug license for the retail sale of Schedule C and C1 drugs are issued in",
+      "options": {
+        "A": "Form 21",
+        "B": "Form 20A",
+        "C": "Form 20",
+        "D": "Form 21B"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Form 21 is used for issuing licenses to sell, stock, or exhibit for sale drugs specified in Schedules C and C1.",
+      "category": "General"
+    },
+    {
+      "question_number": 68,
+      "question_text": "Most prokaryotes do not possess",
+      "options": {
+        "A": "DNA",
+        "B": "Cell wall",
+        "C": "Cytoplasm",
+        "D": "Histones"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Prokaryotes generally lack true histones (with some exceptions in Archaea), unlike eukaryotes which wrap DNA around histone proteins.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Teichoic acid is present in the cell wall of",
+      "options": {
+        "A": "Gram positive bacteria",
+        "B": "Gram negative bacteria",
+        "C": "Both Gram positive and Gram negative bacteria",
+        "D": "Actinomycetes"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Teichoic acids are unique polymers found specifically within the thick peptidoglycan cell wall of Gram-positive bacteria.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 70,
+      "question_text": "The nitrogenous base which is absent in RNA",
+      "options": {
+        "A": "Guanine",
+        "B": "Thymine",
+        "C": "Adenine",
+        "D": "Uracil"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "RNA contains uracil instead of thymine, which is found in DNA.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Which among the following is not a bactericidal agent?",
+      "options": {
+        "A": "Cephalosporins",
+        "B": "Fluoroquinolones",
+        "C": "Vancomycin",
+        "D": "Tetracyclines"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Tetracyclines are bacteriostatic antibiotics that inhibit protein synthesis, whereas the others are bactericidal.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 72,
+      "question_text": "Which one of the following is not used for the evaluation of disinfectants?",
+      "options": {
+        "A": "Rideal - Walker Test",
+        "B": "Chick - Martin Test",
+        "C": "Ziehl - Neelsen Test",
+        "D": "Kelsey - Sykes Test"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Ziehl-Neelsen test is an acid-fast staining technique used for identifying bacteria like Mycobacterium tuberculosis, not for evaluating disinfectants.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 73,
+      "question_text": "The microscope which gives highest magnification",
+      "options": {
+        "A": "Optical Microscope",
+        "B": "Electron Microscope",
+        "C": "Fluorescence Microscope",
+        "D": "Stereo Microscope"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Electron microscopes utilize electron beams instead of light, providing significantly higher resolving power and magnification than optical microscopes.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 74,
+      "question_text": "The process by which very large protein molecules permeates into cells",
+      "options": {
+        "A": "Lipid diffusion",
+        "B": "Aqueous diffusion",
+        "C": "Endocytosis",
+        "D": "Carrier mediated transport"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Endocytosis is the cellular process by which large molecules and proteins are engulfed and brought into the cell.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Which of the following drugs has maximum chances of absorption from the gastric mucosa?",
+      "options": {
+        "A": "Morphine hydrochloride",
+        "B": "Quinine hydrochloride",
+        "C": "Phenobarbitone sodium",
+        "D": "Amphitamine sulphate"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Weak acids like phenobarbital are predominantly unionized in the acidic environment of the stomach, facilitating absorption across the gastric mucosa.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 76,
+      "question_text": "Which of the following statements regarding Bioavailability of a drug is not true?",
+      "options": {
+        "A": "It is a fraction of administered drug that reaches the systemic circulation in an unchanged form",
+        "B": "Bioavailability of an orally administered drug is always less than that of IV administration",
+        "C": "Bioavailability can be determined from plasma concentration or urinary excretion data",
+        "D": "Low oral availability always and necessarily means poor absorption"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Low oral bioavailability can be caused by extensive first-pass metabolism in the liver or gut wall, even if absorption itself is complete.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Manner of labeling of drugs are specified in the Drugs and Cosmetics Rules, 1945 as per",
+      "options": {
+        "A": "Rule 96",
+        "B": "Rule 90",
+        "C": "Rule 105",
+        "D": "Rule 106"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rule 96 of the Drugs and Cosmetics Rules specifies the general labeling requirements for drugs.",
+      "category": "General"
+    },
+    {
+      "question_number": 78,
+      "question_text": "Which one of the following drugs does not undergo hepatic first pass effect?",
+      "options": {
+        "A": "Lidocaine",
+        "B": "Theophylline",
+        "C": "Pethidine",
+        "D": "Insulin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Insulin is a peptide hormone that is degraded in the gastrointestinal tract and is traditionally administered parenterally, bypassing enteral first-pass metabolism entirely.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 79,
+      "question_text": "Time for peak plasma concentration ($T_{max}$) indicates",
+      "options": {
+        "A": "The rate of elimination",
+        "B": "The rate of absorption",
+        "C": "The duration of action",
+        "D": "The intensity of action"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Peak plasma concentration time ($T_{max}$) is primarily dependent on the rate of drug absorption.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 80,
+      "question_text": "All of the following except one cross the Blood Brain Barrier",
+      "options": {
+        "A": "Morphine",
+        "B": "Physostigmine",
+        "C": "Dopamine",
+        "D": "Atropine"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Dopamine does not readily cross the blood-brain barrier due to its polarity, which is why its precursor levodopa is used clinically instead.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 81,
+      "question_text": "Any preparation of coca containing more than the following amount of cocaine is considered as a dangerous drug",
+      "options": {
+        "A": "0.1%",
+        "B": "0.5%",
+        "C": "0.2%",
+        "D": "0.02%"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under narcotics regulations, coca derivatives containing more than 0.1% cocaine are classified strictly as dangerous drugs.",
+      "category": "General"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Which one of the following is not a prodrug?",
+      "options": {
+        "A": "Enalapril",
+        "B": "Acyclovir",
+        "C": "Clonidine",
+        "D": "Clopidogrel"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Clonidine is an active central alpha-2 agonist, whereas Enalapril, Acyclovir (valacyclovir/acyclovir derivatives), and Clopidogrel require metabolic activation.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 83,
+      "question_text": "The drug which is an inhibitor of Cytochrome P450 enzyme",
+      "options": {
+        "A": "Ketoconazole",
+        "B": "Phenytoin",
+        "C": "Griseofulvin",
+        "D": "Phenylbutazone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Ketoconazole is a potent inhibitor of several CYP450 enzymes (such as CYP3A4), whereas phenytoin, griseofulvin, and phenylbutazone are typically inducers.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 84,
+      "question_text": "Which one of the following drugs is not metabolized by acetylation?",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Dapsone",
+        "C": "Metoclopramide",
+        "D": "Procainamide"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Metoclopramide is primarily metabolized by conjugation and oxidation, whereas isoniazid, dapsone, and procainamide undergo N-acetylation.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 85,
+      "question_text": "The Prevention of Cruelty of Animals Act was enacted in the year",
+      "options": {
+        "A": "1960",
+        "B": "1970",
+        "C": "1965",
+        "D": "1971"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "The Prevention of Cruelty to Animals Act in India was enacted in 1960.",
+      "category": "General"
+    },
+    {
+      "question_number": 86,
+      "question_text": "The drug which is excreted in saliva",
+      "options": {
+        "A": "Lithium",
+        "B": "Doxycycline",
+        "C": "Penicillin",
+        "D": "Phenytoin"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Lithium ions are actively secreted and excreted into saliva, which can sometimes be used for monitoring levels.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 87,
+      "question_text": "Co-administration of the following drug can result in oral contraceptive failure",
+      "options": {
+        "A": "Isoniazid",
+        "B": "Ciprofloxacin",
+        "C": "Erythromycin",
+        "D": "Rifampicin"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Rifampicin is a strong CYP3A4 inducer that accelerates the metabolism of oral contraceptives, leading to contraceptive failure.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 88,
+      "question_text": "The clearance and volume of distribution of a drug are $1.5\\text{ L/hr}$ and $60\\text{ L}$ respectively. What is the predicted half-life of that drug?",
+      "options": {
+        "A": "40 hrs",
+        "B": "27.72 hrs",
+        "C": "17.32 hrs",
+        "D": "1.732 hrs"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Half-life $t_{1/2} = (0.693 \\times V_d) / Cl = (0.693 \\times 60) / 1.5 = 27.72\\text{ hours}$.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 89,
+      "question_text": "Percentage of drug remaining in the body after three half lives",
+      "options": {
+        "A": "12.5%",
+        "B": "75%",
+        "C": "90%",
+        "D": "87.5%"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "After three half-lives, the remaining fraction of a drug is $(1/2)^3 = 1/8$, which equals 12.5%.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 90,
+      "question_text": "Which of the following is not a Protease inhibitor?",
+      "options": {
+        "A": "Ritonavir",
+        "B": "Abacavir",
+        "C": "Atazanavir",
+        "D": "Nelfinavir"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Abacavir is a nucleoside reverse transcriptase inhibitor (NRTI), whereas ritonavir, atazanavir, and nelfinavir are protease inhibitors.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 91,
+      "question_text": "As per the Patents Act 1970, the term of every patent from the data of filing of application of patent shall be",
+      "options": {
+        "A": "10 years",
+        "B": "15 years",
+        "C": "7 years",
+        "D": "20 years"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Under the Patents Act 1970, the term of every patent is 20 years from the date of filing of the patent application.",
+      "category": "General"
+    },
+    {
+      "question_number": 92,
+      "question_text": "Long term administration of glucocorticoids can cause all of the following except",
+      "options": {
+        "A": "Hypertension",
+        "B": "Hyperkalemia",
+        "C": "Cataract",
+        "D": "Hyperglycaemia"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Glucocorticoids cause hypokalemia (potassium loss) and sodium retention, not hyperkalemia.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 93,
+      "question_text": "The most effective group of drugs for the healing of Non-Steroidal Anti Inflammatory Drug (NSAID) induced gastric ulcer",
+      "options": {
+        "A": "Proton pump inhibitors",
+        "B": "$H_2$-receptor antagonists",
+        "C": "Antacids",
+        "D": "Prostaglandin analogues"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Proton pump inhibitors (PPIs) are the most effective agents for both healing and preventing NSAID-induced gastric ulcers.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 94,
+      "question_text": "Which one of the following anti-asthma drug is not a bronchodilator?",
+      "options": {
+        "A": "Formoterol",
+        "B": "Theophylline",
+        "C": "Ipratropium bromide",
+        "D": "Nedocromil"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Nedocromil is a mast cell stabilizer with anti-inflammatory properties, not a direct bronchodilator.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 95,
+      "question_text": "An incorrect statement regarding histamine is",
+      "options": {
+        "A": "Bronchoconstriction",
+        "B": "Release of catecholamines from adrenal medulla",
+        "C": "Direct action on vascular smooth muscles causing vasodilatation",
+        "D": "Release of EDRF from vascular endothelium resulting in vasodilatation"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Histamine causes vasodilation primarily via endothelial nitric oxide (EDRF) release rather than a direct relaxant action on vascular smooth muscle.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 96,
+      "question_text": "Hemodialysis is useful in all of the following except",
+      "options": {
+        "A": "Digoxin poisoning",
+        "B": "Barbiturate poisoning",
+        "C": "Methanol poisoning",
+        "D": "Salicylate poisoning"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Digoxin has a very large volume of distribution and high tissue binding, making it ineffective to remove via hemodialysis.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 97,
+      "question_text": "Apparent Volume of Distribution ($V_d$) is more than total body fluid, if the drug is",
+      "options": {
+        "A": "Poorly soluble",
+        "B": "Slowly eliminated",
+        "C": "Poorly plasma protein bound",
+        "D": "Sequestered in tissues"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Extensive tissue binding or sequestration results in a low plasma concentration, yielding a high apparent volume of distribution exceeding total body water.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 98,
+      "question_text": "The anticonvulsant drug that produces weight loss on prolonged use",
+      "options": {
+        "A": "Valproate",
+        "B": "Topiramate",
+        "C": "Gabapentin",
+        "D": "Carbamazepine"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Topiramate is well known for causing weight loss as a side effect, unlike valproate and carbamazepine which typically cause weight gain.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 99,
+      "question_text": "The propellant generally used for topical pharmaceutical aerosols",
+      "options": {
+        "A": "Dichloro tetrafluoro methane",
+        "B": "Nitrogen",
+        "C": "Propane",
+        "D": "Dichloro difluoro methane"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Hydrocarbons such as propane and butane are commonly used as propellants for topical pharmaceutical aerosols.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 100,
+      "question_text": "Type I glass used in pharmaceutical packaging is also known as",
+      "options": {
+        "A": "Regular Soda-lime glass",
+        "B": "Borosilicate glass",
+        "C": "Treated Soda-lime glass",
+        "D": "Non-parenteral glass"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Type I glass is highly resistant borosilicate glass used for injectable preparations and sensitive products.",
+      "category": "Pharmaceutics"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "question_number": 37,
+    "question_text": "The majority of drugs that least binded to antivascular tissue is",
+    "options": {
+      "A": "Liver",
+      "B": "Muscle",
+      "C": "Lungs",
+      "D": "Kidneys"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Muscle tissue represents a large volume where many drugs show relatively low binding compared to highly perfused or lipid-rich organs like liver, lungs, and kidneys.",
+    "category": "Pharmacokinetics",
+    "source_exam": "gpat 2021"
+  },
+  {
+    "question_number": 38,
+    "question_text": "Distribution is perfusion rate limited in case of $\\dots\\dots\\dots$ drugs",
+    "options": {
+      "A": "Ionic",
+      "B": "Lipophilic",
+      "C": "Polar",
+      "D": "Water soluble"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Lipophilic drugs readily cross biological membranes, making their tissue uptake dependent primarily on blood flow (perfusion rate) rather than membrane permeability.",
+    "category": "Pharmacokinetics",
+    "source_exam": "gpat 2021"
+  },
+  {
+    "question_number": 38,
+    "question_text": "Distribution is perfusion rate limited in case of ......drugs",
+    "options": {
+      "A": "Ionic",
+      "B": "Lipophilic",
+      "C": "Polar",
+      "D": "Water soluble"
+    },
+    "correct_answer": "B",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Lipophilic (hydrophobic) drugs easily cross cell membranes, so their distribution rate is primarily limited by the blood flow (perfusion rate) to the tissue.",
+    "category": "Pharmacokinetics",
+    "source_exam": "gpat 2021_2"
+  },
+  {
+    "question_number": 22,
+    "question_text": "Match List I with List II:\nList I:\nA. When two dosage forms have equal tmax\nB. AUC values of the two analogs can be compared to measure relative bioavailability.\nC. Urinary data is valid to measure bioavailability.\nD. Cmax is proportional to the rate of absorption.\nList II:\nI. When their total body clearance is constant.\nII. Absorption rate constants are equal\nIII. When fraction absorbed and elimination rate is constant.\nIV. Excretion of drug and/or metabolite is related to the bioavailable dose.",
+    "options": {
+      "A": "A - II, B -I , C -IV , D - III",
+      "B": "A -I , B -II , C -III , D -IV",
+      "C": "A -I, B -IV, C -III, D -II",
+      "D": "A -III , B -I , C -II , D -IV"
+    },
+    "correct_answer": "A",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Matching pharmacokinetic parameter relationships correctly links tmax to absorption rate constants, AUC to clearance comparability, urinary data to excreted bioavailable dose, and Cmax to absorption rate.",
+    "category": "Pharmacokinetics",
+    "source_exam": "gpat 2022_2"
+  },
+  {
+    "question_number": 2,
+    "question_text": "In pharmacokinetic models, the term \"compartment\" means",
+    "options": {
+      "A": "Blood",
+      "B": "Individual organ",
+      "C": "Extracellular fluid",
+      "D": "Hypothetical pool of tissue"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A compartment in pharmacokinetics does not represent a specific anatomical region or organ, but rather a hypothetical pool of tissue or fluid kinetically similar to one another.",
+    "category": "Pharmacokinetics",
+    "source_exam": "gpat 2023_2"
+  },
+  {
+    "question_number": 22,
+    "question_text": "The biological half- life of drug",
+    "options": {
+      "A": "It is a constant physical property of the drug",
+      "B": "It is a constant chemical property of the drug",
+      "C": "It may be increased in patients with impaired renal failure",
+      "D": "It may be decreased in patients by giving the rapid IV injection"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "Renal impairment reduces the clearance of renally eliminated drugs, thereby increasing their half-life.",
+    "category": "Pharmacokinetics",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 38,
+    "question_text": "The area under the serum concentration time curve of the drug represents:",
+    "options": {
+      "A": "The biological half life of the drug",
+      "B": "The amount of drug in the original dosage from",
+      "C": "The amount of drug absorbed",
+      "D": "The amount of drug excreted in the urine"
+    },
+    "correct_answer": "C",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "AUC is proportional to the total amount of unchanged drug that reaches the systemic circulation (bioavailability/absorption).",
+    "category": "Pharmacokinetics",
+    "source_exam": "gpat-question-paper-1991"
+  },
+  {
+    "question_number": 6,
+    "question_text": "The area under the serum concentration time-curve represents the",
+    "options": {
+      "A": "Biologic half life of the drug",
+      "B": "Amount of drug is cleared by the kidneys",
+      "C": "Amount of drug absorbed",
+      "D": "Amount of drug excreted in the urine"
+    },
+    "correct_answer": "C",
+    "answer_source": "OFFICIAL_KEY",
+    "is_reconstructed": false,
+    "explanation": "AUC represents the total systemic exposure and extent of absorption of a drug.",
+    "category": "Pharmacokinetics",
+    "source_exam": "gpat-question-paper-1996"
+  },
+  {
+    "question_number": 51,
+    "question_text": "When Ke is constant and Ka is larger:-",
+    "options": {
+      "A": "Cmax is more and tmax is longer",
+      "B": "Cmax is lesser and tmax is longer",
+      "C": "Cmax is lesser and tmax is short",
+      "D": "Cmax more and tmax is short"
+    },
+    "correct_answer": "D",
+    "answer_source": "AI_DEDUCED",
+    "is_reconstructed": false,
+    "explanation": "A larger absorption rate constant (Ka) means faster absorption, resulting in a higher peak concentration (Cmax) achieved sooner (shorter tmax).",
+    "category": "Pharmacokinetics",
+    "source_exam": "gpat-question-paper-2018"
+  }
+]

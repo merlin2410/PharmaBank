@@ -1,0 +1,96 @@
+{
+  "exam_title": "gpat-question-paper-1993",
+  "total_questions": 6,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Triamcinolone is",
+      "options": {
+        "A": "$9\\alpha$-Fluoro-16 $\\alpha$-hydroxyprednisolone",
+        "B": "$9\\beta$-Fluoro-16 $\\alpha$-hydroxyprednisolone",
+        "C": "$9\\alpha$-Fluoro-16 $\\beta$-hydroxyprednisolone",
+        "D": "$9\\alpha$-Bromo-16 $\\alpha$-hydroxyprednisolone"
+      },
+      "correct_answer": "A",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Triamcinolone is a synthetic corticosteroid characterized by a $9\\alpha$-fluoro and $16\\alpha$-hydroxy substitution on the prednisolone skeleton.",
+      "category": "Medicinal Chemistry"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Surfactants are characterized by the presence of",
+      "options": {
+        "A": "Water solubilising groups alone",
+        "B": "Fat solubilising groups alone",
+        "C": "Water and fat solubilising groups in the same molecule",
+        "D": "Groups with positive charge"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Surfactants possess amphiphilic nature containing both hydrophilic (water-soluble) and lipophilic (fat-soluble) regions.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Gamma-globulin is separated from serum by",
+      "options": {
+        "A": "Agglutination",
+        "B": "Dialysis",
+        "C": "Centrifugation",
+        "D": "Salting out"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Salting out using salts like ammonium sulfate is a classic technique to fractionate and precipitate serum globulins.",
+      "category": "Biochemistry"
+    },
+    {
+      "question_number": 4,
+      "question_text": "The stationary phase in Thin-layer chromatograph is:",
+      "options": {
+        "A": "Liquid held between glass",
+        "B": "Silica gel",
+        "C": "Glass Plate",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Silica gel is the most commonly used solid stationary phase coated on a plate for thin-layer chromatography.",
+      "category": "Pharmaceutics"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Benzoyl perioxide is",
+      "options": {
+        "A": "An astringent",
+        "B": "An emollient",
+        "C": "A preservative",
+        "D": "A keratolytic"
+      },
+      "correct_answer": "D",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Benzoyl peroxide acts as a keratolytic agent and is widely used in acne treatment due to its peeling and antibacterial properties.",
+      "category": "Pharmacology"
+    },
+    {
+      "question_number": 1,
+      "question_text": "Molecular weights of Cimetidine, Ranitidine and Famotidine are 252, 314 and 273. Oral bioavailabilities and elimination half-life in man are almost similar. Which of these drugs could be more acceptable and why?",
+      "options": {
+        "A": "Cimetidine because of smaller molecular weight and potency",
+        "B": "Ranitidine because of furan ring",
+        "C": "Famotidine because of lower dose and potency",
+        "D": "All have equal acceptability"
+      },
+      "correct_answer": "C",
+      "answer_source": "AI_DEDUCED",
+      "is_reconstructed": false,
+      "explanation": "Famotidine has a significantly lower recommended clinical dose and higher potency compared to cimetidine and ranitidine.",
+      "category": "Pharmacology"
+    }
+  ]
+}
